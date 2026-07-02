@@ -1,28 +1,36 @@
 {
   "weekId": "2026-W27",
   "ordinal": 2948,
-  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "sealedAt": "2026-07-02T15:57:16.259Z",
   "puzzles": [
     {
-      "word": "awa",
+      "word": "wikiwiki",
       "glyphs": [
-        "a",
         "w",
-        "a"
+        "i",
+        "k",
+        "i",
+        "w",
+        "i",
+        "k",
+        "i"
       ],
-      "length": 3,
-      "bare": "awa",
+      "length": 8,
+      "bare": "wikiwiki",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "featuredSense": "channel, passage",
+      "featuredSense": "to be quick, to be speedy",
       "meanings": [
-        "channel, passage",
-        "port, harbor, cove",
-        "milkfish"
+        "to be quick, to be speedy"
       ],
-      "defHint": "channel, passage",
-      "piece": null,
+      "defHint": "to be quick, to be speedy",
+      "piece": {
+        "piece_word": "wiki",
+        "piece_def": "to be swift, to be speedy, to be quick",
+        "tier": 1,
+        "rationale": "wikiwiki is the reduplication of wiki; the meaning speedy/quick literally matches"
+      },
       "dayMeta": {
         "slot": 0,
         "hawaiian": "Pōʻakahi",
@@ -31,25 +39,26 @@
       }
     },
     {
-      "word": "pala",
+      "word": "kuapuʻu",
       "glyphs": [
-        "p",
+        "k",
+        "u",
         "a",
-        "l",
-        "a"
+        "p",
+        "u",
+        "ʻ",
+        "u"
       ],
-      "length": 4,
-      "bare": "pala",
+      "length": 7,
+      "bare": "kuapuu",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "featuredSense": "to smear, to smudge",
+      "featuredSense": "hump, fleshy mass on camels etc",
       "meanings": [
-        "to smear, to smudge",
-        "to daub, to blot",
-        "to coat"
+        "hump, fleshy mass on camels etc"
       ],
-      "defHint": "to smear, to smudge",
+      "defHint": "hump, fleshy mass on camels etc",
       "piece": null,
       "dayMeta": {
         "slot": 1,
@@ -59,25 +68,25 @@
       }
     },
     {
-      "word": "kōʻai",
+      "word": "lolo",
       "glyphs": [
-        "k",
-        "ō",
-        "ʻ",
-        "a",
-        "i"
+        "l",
+        "o",
+        "l",
+        "o"
       ],
-      "length": 5,
-      "bare": "koai",
+      "length": 4,
+      "bare": "lolo",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "featuredSense": "to stir with a circular motion",
+      "featuredSense": "brain",
       "meanings": [
-        "to stir with a circular motion",
-        "to wind around, to gird around"
+        "brain",
+        "bone marrow",
+        "coconut heart or coconut apple, i.e. spongy cotyledon from a sprouting coconut"
       ],
-      "defHint": "to stir with a circular motion",
+      "defHint": "brain",
       "piece": null,
       "dayMeta": {
         "slot": 2,
@@ -87,27 +96,31 @@
       }
     },
     {
-      "word": "ʻikepili",
+      "word": "pepeiao",
       "glyphs": [
-        "ʻ",
-        "i",
-        "k",
+        "p",
         "e",
         "p",
+        "e",
         "i",
-        "l",
-        "i"
+        "a",
+        "o"
       ],
-      "length": 8,
-      "bare": "ikepili",
+      "length": 7,
+      "bare": "pepeiao",
       "pos": [
         "noun"
       ],
-      "featuredSense": "data",
+      "featuredSense": "ear",
       "meanings": [
-        "data"
+        "ear",
+        "valve of the heart",
+        "cotyledon",
+        "stipule",
+        "fun guo (a type of Chinese dumpling resembling an ear)",
+        "scallop"
       ],
-      "defHint": "data",
+      "defHint": "ear",
       "piece": null,
       "dayMeta": {
         "slot": 3,
@@ -117,28 +130,29 @@
       }
     },
     {
-      "word": "wilipuaʻa",
+      "word": "ninaninau",
       "glyphs": [
-        "w",
+        "n",
         "i",
-        "l",
-        "i",
-        "p",
-        "u",
+        "n",
         "a",
-        "ʻ",
-        "a"
+        "n",
+        "i",
+        "n",
+        "a",
+        "u"
       ],
       "length": 9,
-      "bare": "wilipuaa",
+      "bare": "ninaninau",
       "pos": [
-        "noun"
+        "verb"
       ],
-      "featuredSense": "corkscrew, auger",
+      "featuredSense": "to interrogate, ask questions repeatedly",
       "meanings": [
-        "corkscrew, auger"
+        "to interrogate, ask questions repeatedly",
+        "for many people to ask questions"
       ],
-      "defHint": "corkscrew, auger",
+      "defHint": "to interrogate, ask questions repeatedly",
       "piece": null,
       "dayMeta": {
         "slot": 4,

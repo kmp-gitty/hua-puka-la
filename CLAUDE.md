@@ -57,8 +57,15 @@ Dev/testing: visit **`/?reset`** to wipe local state and replay (one puzzle per 
 - **Icons:** ship the three bundled SVG gestures (shaka/pinch/eyes) via `currentColor`; **never emoji**.
   Current art is hand-traced from a user screenshot (`src/components/Icon.jsx` + `src/assets/icons/`).
 
+## Reveal Piece pipeline (shipped)
+`scripts/extract-pieces.mjs` (embedded-word candidates) → `scripts/classify-pieces.mjs`
+(Opus 4.8 Batch API, structured output → `data/pieces.json` + `data/piece-verdicts.json`) →
+`seal-week.mjs` bakes pieces in. Day rules: Mon **requires** a piece (prefers Tier 1),
+Tue–Thu **null**, Fri **allows**. Featured sense follows the piece's `word_sense_index`.
+Regenerate: `node --env-file=.env scripts/classify-pieces.mjs` then `seal-week --reseal`.
+`ANTHROPIC_API_KEY` lives in gitignored `.env`. Rationales in `piece-verdicts.json` seed Learn v2.
+
 ## Deferred (see STATUS.md for detail)
-- **Reveal Piece** `piece` is `null` for now → hint shows "Not today". Real version = seal-time
-  **Anthropic API** classification pass (next task). Also improve featured-sense selection then.
+- **Monday human-gate** for pieces (spec §5) — verdicts auto-ship for now; add approval in ops.
 - **Ops pipeline** (n8n weekly-seal/notify, Google Chat, GitHub+Vercel deploy) — specified, not built.
 - **Learn mode / Share / streaks / archive** — parked; seams left in the shell.

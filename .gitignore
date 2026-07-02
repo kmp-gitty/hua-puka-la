@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local secrets & transient batch state
+.env
+.env.local
+data/.batch-id

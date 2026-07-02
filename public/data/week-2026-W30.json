@@ -1,27 +1,34 @@
 {
   "weekId": "2026-W30",
   "ordinal": 2951,
-  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "sealedAt": "2026-07-02T15:57:16.259Z",
   "puzzles": [
     {
-      "word": "ʻohi",
+      "word": "pāʻele",
       "glyphs": [
+        "p",
+        "ā",
         "ʻ",
-        "o",
-        "h",
-        "i"
+        "e",
+        "l",
+        "e"
       ],
-      "length": 4,
-      "bare": "ohi",
+      "length": 6,
+      "bare": "paele",
       "pos": [
         "verb"
       ],
-      "featuredSense": "to harvest, gather or pick",
+      "featuredSense": "to blacken, to blot, to paint black",
       "meanings": [
-        "to harvest, gather or pick"
+        "to blacken, to blot, to paint black"
       ],
-      "defHint": "to harvest, gather or pick",
-      "piece": null,
+      "defHint": "to blacken, to blot, to paint black",
+      "piece": {
+        "piece_word": "ʻele",
+        "piece_def": "dark, black",
+        "tier": 1,
+        "rationale": "ʻele means black, which literally appears in the definition 'to blacken, paint black'."
+      },
       "dayMeta": {
         "slot": 0,
         "hawaiian": "Pōʻakahi",
@@ -30,26 +37,26 @@
       }
     },
     {
-      "word": "kaena",
+      "word": "kepa",
       "glyphs": [
         "k",
-        "a",
         "e",
-        "n",
+        "p",
         "a"
       ],
-      "length": 5,
-      "bare": "kaena",
+      "length": 4,
+      "bare": "kepa",
       "pos": [
         "verb"
       ],
-      "featuredSense": "to boast, brag of",
+      "featuredSense": "to look sideways, to turn to the side",
       "meanings": [
-        "to boast, brag of",
-        "to be boastful",
-        "to glorify, praise"
+        "to look sideways, to turn to the side",
+        "to notch",
+        "to snap",
+        "to catch bonito"
       ],
-      "defHint": "to boast, brag of",
+      "defHint": "to look sideways, to turn to the side",
       "piece": null,
       "dayMeta": {
         "slot": 1,
@@ -59,26 +66,24 @@
       }
     },
     {
-      "word": "pauaho",
+      "word": "kūʻai",
       "glyphs": [
-        "p",
+        "k",
+        "ū",
+        "ʻ",
         "a",
-        "u",
-        "a",
-        "h",
-        "o"
+        "i"
       ],
-      "length": 6,
-      "bare": "pauaho",
+      "length": 5,
+      "bare": "kuai",
       "pos": [
         "verb"
       ],
-      "featuredSense": "out of breath, winded",
+      "featuredSense": "to barter",
       "meanings": [
-        "out of breath, winded",
-        "faint of heart, discouraged"
+        "to barter"
       ],
-      "defHint": "out of breath, winded",
+      "defHint": "to barter",
       "piece": null,
       "dayMeta": {
         "slot": 2,
@@ -88,25 +93,32 @@
       }
     },
     {
-      "word": "konā",
+      "word": "hoʻomaha",
       "glyphs": [
-        "k",
+        "h",
         "o",
-        "n",
-        "ā"
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "h",
+        "a"
       ],
-      "length": 4,
-      "bare": "kona",
+      "length": 8,
+      "bare": "hoomaha",
       "pos": [
+        "noun",
         "verb"
       ],
-      "featuredSense": "hard, unyielding",
+      "featuredSense": "to pause, to rest",
       "meanings": [
-        "hard, unyielding",
-        "unfriendly, brusque",
-        "contemptuous, haughty"
+        "to pause, to rest",
+        "to take a vacation",
+        "to retire",
+        "intermission, interval",
+        "rest"
       ],
-      "defHint": "hard, unyielding",
+      "defHint": "to pause, to rest",
       "piece": null,
       "dayMeta": {
         "slot": 3,
@@ -116,34 +128,35 @@
       }
     },
     {
-      "word": "hoʻokoʻokoʻo",
+      "word": "hoʻopōʻai",
       "glyphs": [
         "h",
         "o",
         "ʻ",
         "o",
-        "k",
-        "o",
+        "p",
+        "ō",
         "ʻ",
-        "o",
-        "k",
-        "o",
-        "ʻ",
-        "o"
+        "a",
+        "i"
       ],
-      "length": 12,
-      "bare": "hookookoo",
+      "length": 9,
+      "bare": "hoopoai",
       "pos": [
         "verb"
       ],
-      "featuredSense": "to push",
+      "featuredSense": "to encircle, to surround",
       "meanings": [
-        "to push",
-        "to resist",
-        "to brace, to lean back and brace oneself"
+        "to encircle, to surround",
+        "to besiege"
       ],
-      "defHint": "to push",
-      "piece": null,
+      "defHint": "to encircle, to surround",
+      "piece": {
+        "piece_word": "pōʻai",
+        "piece_def": "to encircle",
+        "tier": 1,
+        "rationale": "pōʻai means to encircle, matching the word's definition directly."
+      },
       "dayMeta": {
         "slot": 4,
         "hawaiian": "Pōʻalima",

@@ -1,35 +1,36 @@
 {
   "weekId": "2026-W28",
   "ordinal": 2949,
-  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "sealedAt": "2026-07-02T15:57:16.259Z",
   "puzzles": [
     {
-      "word": "kaukau",
+      "word": "nihoa",
       "glyphs": [
-        "k",
-        "a",
-        "u",
-        "k",
-        "a",
-        "u"
+        "n",
+        "i",
+        "h",
+        "o",
+        "a"
       ],
-      "length": 6,
-      "bare": "kaukau",
+      "length": 5,
+      "bare": "nihoa",
       "pos": [
-        "noun",
         "verb"
       ],
-      "featuredSense": "to set a snare",
+      "featuredSense": "toothed, serrated",
       "meanings": [
-        "to set a snare",
-        "snare",
-        "chant of lamentation addressed to the deceased",
-        "to admonish",
-        "to reason with",
-        "to deliberate"
+        "toothed, serrated",
+        "jagged, sharp",
+        "notched",
+        "firmly set (i.e. like teeth in the mouth)"
       ],
-      "defHint": "to set a snare",
-      "piece": null,
+      "defHint": "toothed, serrated",
+      "piece": {
+        "piece_word": "niho",
+        "piece_def": "tooth",
+        "tier": 1,
+        "rationale": "'niho' (tooth) literally underlies nihoa 'toothed, serrated'."
+      },
       "dayMeta": {
         "slot": 0,
         "hawaiian": "Pōʻakahi",
@@ -38,24 +39,24 @@
       }
     },
     {
-      "word": "ʻali",
+      "word": "ʻahi",
       "glyphs": [
         "ʻ",
         "a",
-        "l",
+        "h",
         "i"
       ],
       "length": 4,
-      "bare": "ali",
+      "bare": "ahi",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "featuredSense": "to scar",
+      "featuredSense": "yellowfin tuna (Thunnus albacares)",
       "meanings": [
-        "to scar",
-        "to dig"
+        "yellowfin tuna (Thunnus albacares)",
+        "bigeye tuna (Thunnus obesus)"
       ],
-      "defHint": "to scar",
+      "defHint": "yellowfin tuna (Thunnus albacares)",
       "piece": null,
       "dayMeta": {
         "slot": 1,
@@ -65,25 +66,37 @@
       }
     },
     {
-      "word": "neo",
+      "word": "ʻaʻa",
       "glyphs": [
-        "n",
-        "e",
-        "o"
+        "ʻ",
+        "a",
+        "ʻ",
+        "a"
       ],
-      "length": 3,
-      "bare": "neo",
+      "length": 4,
+      "bare": "aa",
       "pos": [
         "noun",
         "verb"
       ],
-      "featuredSense": "bare, desolate",
+      "featuredSense": "clothlike sheath on the bottom of a coconut leaf frond",
       "meanings": [
-        "bare, desolate",
-        "nothing",
-        "achieving nothing, failure"
+        "clothlike sheath on the bottom of a coconut leaf frond",
+        "fiber from a coconut husk",
+        "cloth",
+        "pocket, bag",
+        "caul",
+        "eyelid",
+        "chaff",
+        "to brave, challenge, defy",
+        "to venture",
+        "to accept a challenge",
+        "to act wickedly",
+        "to be bold, brave, adventurous",
+        "belt, waist",
+        "to tie on"
       ],
-      "defHint": "bare, desolate",
+      "defHint": "clothlike sheath on the bottom of a coconut leaf frond",
       "piece": null,
       "dayMeta": {
         "slot": 2,
@@ -93,25 +106,28 @@
       }
     },
     {
-      "word": "haʻina",
+      "word": "kinipōpō",
       "glyphs": [
-        "h",
-        "a",
-        "ʻ",
+        "k",
         "i",
         "n",
-        "a"
+        "i",
+        "p",
+        "ō",
+        "p",
+        "ō"
       ],
-      "length": 6,
-      "bare": "haina",
+      "length": 8,
+      "bare": "kinipopo",
       "pos": [
         "noun"
       ],
-      "featuredSense": "verb",
+      "featuredSense": "ball",
       "meanings": [
-        "verb"
+        "ball",
+        "ball game (any sport involving chasing after a ball)"
       ],
-      "defHint": "verb",
+      "defHint": "ball",
       "piece": null,
       "dayMeta": {
         "slot": 3,
@@ -121,28 +137,29 @@
       }
     },
     {
-      "word": "haikokene",
+      "word": "lepupalika",
       "glyphs": [
-        "h",
+        "l",
+        "e",
+        "p",
+        "u",
+        "p",
         "a",
+        "l",
         "i",
         "k",
-        "o",
-        "k",
-        "e",
-        "n",
-        "e"
+        "a"
       ],
-      "length": 9,
-      "bare": "haikokene",
+      "length": 10,
+      "bare": "lepupalika",
       "pos": [
         "noun"
       ],
-      "featuredSense": "hydrogen (chemical element)",
+      "featuredSense": "republic",
       "meanings": [
-        "hydrogen (chemical element)"
+        "republic"
       ],
-      "defHint": "hydrogen (chemical element)",
+      "defHint": "republic",
       "piece": null,
       "dayMeta": {
         "slot": 4,

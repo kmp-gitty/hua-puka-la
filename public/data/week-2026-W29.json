@@ -1,32 +1,36 @@
 {
   "weekId": "2026-W29",
   "ordinal": 2950,
-  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "sealedAt": "2026-07-02T15:57:16.259Z",
   "puzzles": [
     {
-      "word": "kinipōpō",
+      "word": "kākoʻo",
       "glyphs": [
         "k",
-        "i",
-        "n",
-        "i",
-        "p",
-        "ō",
-        "p",
-        "ō"
+        "ā",
+        "k",
+        "o",
+        "ʻ",
+        "o"
       ],
-      "length": 8,
-      "bare": "kinipopo",
+      "length": 6,
+      "bare": "kakoo",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "featuredSense": "ball",
+      "featuredSense": "support, aid",
       "meanings": [
-        "ball",
-        "ball game (any sport involving chasing after a ball)"
+        "to support, to uphold, to favor",
+        "support, aid"
       ],
-      "defHint": "ball",
-      "piece": null,
+      "defHint": "support, aid",
+      "piece": {
+        "piece_word": "koʻo",
+        "piece_def": "brace; support; prop",
+        "tier": 1,
+        "rationale": "koʻo literally means support/prop, directly appearing in the meaning of kākoʻo."
+      },
       "dayMeta": {
         "slot": 0,
         "hawaiian": "Pōʻakahi",
@@ -35,26 +39,27 @@
       }
     },
     {
-      "word": "naka",
+      "word": "ʻamaʻama",
       "glyphs": [
-        "n",
+        "ʻ",
         "a",
-        "k",
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "m",
         "a"
       ],
-      "length": 4,
-      "bare": "naka",
+      "length": 8,
+      "bare": "amaama",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "featuredSense": "Thaumatodon nesophila, a kind of land snail",
+      "featuredSense": "flathead mullet (Mugil cephalus)",
       "meanings": [
-        "Thaumatodon nesophila, a kind of land snail",
-        "to crack, peel",
-        "to quiver, shake"
+        "flathead mullet (Mugil cephalus)"
       ],
-      "defHint": "Thaumatodon nesophila, a kind of land snail",
+      "defHint": "flathead mullet (Mugil cephalus)",
       "piece": null,
       "dayMeta": {
         "slot": 1,
@@ -64,31 +69,25 @@
       }
     },
     {
-      "word": "kula",
+      "word": "hāʻuke",
       "glyphs": [
-        "k",
+        "h",
+        "ā",
+        "ʻ",
         "u",
-        "l",
-        "a"
+        "k",
+        "e"
       ],
-      "length": 4,
-      "bare": "kula",
+      "length": 6,
+      "bare": "hauke",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "featuredSense": "field, pasture",
+      "featuredSense": "helmet urchin (Colobocentrotus atratus)",
       "meanings": [
-        "field, pasture",
-        "plain, open country",
-        "basket-like fish trap",
-        "container",
-        "source",
-        "school",
-        "gold",
-        "golden"
+        "helmet urchin (Colobocentrotus atratus)"
       ],
-      "defHint": "field, pasture",
+      "defHint": "helmet urchin (Colobocentrotus atratus)",
       "piece": null,
       "dayMeta": {
         "slot": 2,
@@ -98,27 +97,23 @@
       }
     },
     {
-      "word": "pāleo",
+      "word": "manu",
       "glyphs": [
-        "p",
-        "ā",
-        "l",
-        "e",
-        "o"
+        "m",
+        "a",
+        "n",
+        "u"
       ],
-      "length": 5,
-      "bare": "paleo",
+      "length": 4,
+      "bare": "manu",
       "pos": [
-        "noun",
-        "verb"
+        "noun"
       ],
-      "featuredSense": "to converse, to chat",
+      "featuredSense": "bird (animal)",
       "meanings": [
-        "to converse, to chat",
-        "to rap, to speak lyrics rhythmically usual of hip-hop music.",
-        "phonograph record"
+        "bird (animal)"
       ],
-      "defHint": "to converse, to chat",
+      "defHint": "bird (animal)",
       "piece": null,
       "dayMeta": {
         "slot": 3,
@@ -128,32 +123,37 @@
       }
     },
     {
-      "word": "ʻōpikipiki",
+      "word": "hoʻohaʻalulu",
       "glyphs": [
+        "h",
+        "o",
         "ʻ",
-        "ō",
-        "p",
-        "i",
-        "k",
-        "i",
-        "p",
-        "i",
-        "k",
-        "i"
+        "o",
+        "h",
+        "a",
+        "ʻ",
+        "a",
+        "l",
+        "u",
+        "l",
+        "u"
       ],
-      "length": 10,
-      "bare": "opikipiki",
+      "length": 12,
+      "bare": "hoohaalulu",
       "pos": [
-        "noun",
         "verb"
       ],
-      "featuredSense": "anxiety",
+      "featuredSense": "to cause to shake",
       "meanings": [
-        "anxiety",
-        "anxious, agitated"
+        "to cause to shake"
       ],
-      "defHint": "anxiety",
-      "piece": null,
+      "defHint": "to cause to shake",
+      "piece": {
+        "piece_word": "haʻalulu",
+        "piece_def": "to cause to shake",
+        "tier": 1,
+        "rationale": "Root word with hoʻo- causative prefix; identical meaning."
+      },
       "dayMeta": {
         "slot": 4,
         "hawaiian": "Pōʻalima",

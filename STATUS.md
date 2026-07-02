@@ -35,11 +35,24 @@ node scripts/seal-week.mjs --weeks 4     # deterministic weekly seal -> public/d
 - Reveal now shows **Today's Definition** (featured sense) + **Other Definitions**.
 - Icons redrawn from the updated screenshot (shaka / arch+dot / single-eye) in `src/components/Icon.jsx` + `src/assets/icons/`.
 
+## Reveal Piece classification — DONE (shipped)
+Real pieces now ship. Pipeline: `extract-pieces.mjs` (greedy embedded-word candidates) →
+`classify-pieces.mjs` (**Opus 4.8**, Batch API, structured output) → `pieces.json` →
+`seal-week.mjs` bakes them in. First run: 1,456 words classified, **667 got a piece
+(402 Tier 1, 265 Tier 2)**; 789 all-reject (particles/coincidental). Friday coverage 75%.
+- `data/pieces.json` = selected best piece per word (Tier 1 > Tier 2, tie-break shortest→rightmost).
+- `data/piece-verdicts.json` = all raw verdicts + rationales (audit + Learn v2 seed — persist).
+- Day rules enforced at seal: **Mon requires** a vetted piece (prefers T1), **Tue–Thu null**, **Fri allows**.
+- **Featured sense is now piece-aware** (follows the piece's `word_sense_index`, else `meanings[0]`).
+- To regenerate: `node --env-file=.env scripts/classify-pieces.mjs` then `seal-week --reseal`.
+- Still TODO on this: the **operator human-gate for Monday** (spec §5) is not yet a workflow —
+  verdicts are auto-selected and shipped; add an approval step when the ops pipeline is built.
+
 ## What's DEFERRED / next session
-1. **Reveal Piece classification pass** (the real one). Currently every day's `piece` is `null` → hint shows "Not today". User wants to **ship the real thing** — needs the seal-time **Anthropic API** pass (Tier 1/2/reject, human gate for Monday). This is the agreed next task. Design the pass + wire `piece` into sealed weeks.
-   - When we do this, also make **featured-sense selection** smarter (currently `meanings[0]`).
-2. **Ops pipeline** — specified, not built: n8n `weekly-seal`/`weekly-notify`, Google Chat `ops-alerts` cards, GitHub commit + Vercel deploy, reserve/ledger automation. (`seal-week.mjs` already owns the selection logic per spec.)
-3. **Deploy** (GitHub + Vercel) — not set up yet; local dev only so far.
+1. **Ops pipeline** — specified, not built: n8n `weekly-seal`/`weekly-notify` (runs `seal-week` +
+   `classify-pieces`), Google Chat `ops-alerts` review cards (incl. Monday piece approval),
+   GitHub commit + Vercel deploy, reserve/ledger automation. `seal-week.mjs` already owns selection.
+2. **Deploy** (GitHub + Vercel) — repo is on GitHub (kmp-gitty/hua-puka-la); Vercel not connected yet.
 
 ## Open design notes
 - Guess validation is **exact-spelling** (spec: "must be in this list") — ʻokina/kahakō must be correct to be accepted; wrong-mark fires when a correctly-spelled real word collides on a base vowel.
