@@ -76,11 +76,12 @@ and paste your Chat webhook URL + the two n8n webhook URLs. Node-by-node:
    `GET https://api.github.com/repos/kmp-gitty/hua-puka-la/contents/data/reserve/pending.json?ref=main`
    headers: `Authorization: Bearer <PAT>`, `Accept: application/vnd.github.raw+json`
    (the `raw` accept returns the file body directly — no base64 to decode).
-5. **Set/Code — build card fields** from the JSON: `reserveId`, `words` (join ", "),
-   `puzzles[0].piece.piece_word` / `.tier` / `.rationale`, and the reserve count.
+5. **Code — build card** ("Build card fields"): parses `pending.json` and returns the
+   full Google Chat `cardsV2` payload on `json.chat`. Shows all 5 words + definitions
+   and the Monday **and** Friday pieces (word · tier · def · rationale). Paste your two
+   n8n webhook Production URLs into the `APPROVE_URL` / `SWAP_URL` constants at the top.
 6. **HTTP Request — post Chat card**
-   `POST <google-chat-webhook-url>` with the body from `ops/google-chat-card.json`
-   (placeholders filled from step 5). Buttons link to the two webhooks below.
+   `POST <google-chat-webhook-url>`, Body = JSON, value `={{ JSON.stringify($json.chat) }}`.
 
 **B. Approve webhook** (separate trigger):
 1. **Webhook** (GET) — note its Production URL; put it in the card's **Approve** button.

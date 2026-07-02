@@ -1,5 +1,5 @@
 {
-  "_comment": "Google Chat review card for a reserve candidate. POST this (with placeholders filled from pending.json) to your ops-alerts incoming webhook. Buttons link to your n8n Approve/Swap webhook URLs.",
+  "_comment": "Illustrative snapshot only. The LIVE review card is built by the n8n 'Build card fields' Code node (ops/n8n-reserve-seeding.json), which renders all 5 words + definitions and the Monday AND Friday pieces. This file shows the older single-piece shape for reference.",
   "cardsV2": [
     {
       "cardId": "reserve-review",
