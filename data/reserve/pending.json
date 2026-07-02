@@ -1,0 +1,182 @@
+{
+  "reserveId": "reserve-01",
+  "slot": 1,
+  "status": "pending",
+  "createdAt": "2026-07-02T20:50:11.767Z",
+  "puzzles": [
+    {
+      "word": "hoʻohui",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "u",
+        "i"
+      ],
+      "length": 7,
+      "bare": "hoohui",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to join, to connect",
+      "meanings": [
+        "to join, to connect",
+        "to append, to annex",
+        "to unite, to ally, to federate",
+        "to introduce (one person to another)",
+        "to form a society",
+        "to compound; to affix",
+        "to add"
+      ],
+      "defHint": "to join, to connect",
+      "piece": {
+        "piece_word": "hui",
+        "piece_def": "club, organization; combination; to join, to unite",
+        "tier": 1,
+        "rationale": "hoʻohui is the causative of hui; means to join/unite/combine."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kahakai",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "a",
+        "k",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kahakai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "seashore, seaside, coast",
+      "meanings": [
+        "seashore, seaside, coast",
+        "sandy shore, beach"
+      ],
+      "defHint": "seashore, seaside, coast",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kanaluna",
+      "glyphs": [
+        "k",
+        "a",
+        "n",
+        "a",
+        "l",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kanaluna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Chinese lantern, paper lantern",
+      "meanings": [
+        "Chinese lantern, paper lantern"
+      ],
+      "defHint": "Chinese lantern, paper lantern",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hālau",
+      "glyphs": [
+        "h",
+        "ā",
+        "l",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "halau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "longhouse, meeting house",
+      "meanings": [
+        "longhouse, meeting house"
+      ],
+      "defHint": "longhouse, meeting house",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokahua",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "a",
+        "h",
+        "u",
+        "a"
+      ],
+      "length": 9,
+      "bare": "hookahua",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lay a foundation",
+      "meanings": [
+        "to lay a foundation",
+        "to found, to establish",
+        "to homestead, to settle",
+        "to camp (of soldiers, etc.)"
+      ],
+      "defHint": "to lay a foundation",
+      "piece": {
+        "piece_word": "kahua",
+        "piece_def": "foundation; base; site",
+        "tier": 1,
+        "rationale": "hoʻokahua is causative of kahua (foundation); to lay a foundation literally"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "words": [
+    "hoʻohui",
+    "kahakai",
+    "kanaluna",
+    "hālau",
+    "hoʻokahua"
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}
