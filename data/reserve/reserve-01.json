@@ -1,8 +1,6 @@
 {
   "reserveId": "reserve-01",
-  "slot": 1,
-  "status": "pending",
-  "createdAt": "2026-07-02T20:50:11.767Z",
+  "sealedAt": "2026-07-02T20:50:35.010Z",
   "puzzles": [
     {
       "word": "hoʻohui",
@@ -170,13 +168,6 @@
         "difficulty": 5
       }
     }
-  ],
-  "words": [
-    "hoʻohui",
-    "kahakai",
-    "kanaluna",
-    "hālau",
-    "hoʻokahua"
   ],
   "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
 }

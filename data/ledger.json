@@ -43,6 +43,18 @@
         "hoʻomaha",
         "hoʻopōʻai"
       ]
+    },
+    {
+      "id": "reserve-01",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "hoʻohui",
+        "kahakai",
+        "kanaluna",
+        "hālau",
+        "hoʻokahua"
+      ]
     }
   ]
 }
