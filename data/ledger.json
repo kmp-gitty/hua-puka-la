@@ -55,6 +55,18 @@
         "hālau",
         "hoʻokahua"
       ]
+    },
+    {
+      "id": "reserve-02",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "mākonā",
+        "ulepuaʻa",
+        "huki",
+        "haʻupoho",
+        "naʻauʻauā"
+      ]
     }
   ]
 }

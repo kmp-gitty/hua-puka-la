@@ -1,8 +1,6 @@
 {
   "reserveId": "reserve-02",
-  "slot": 2,
-  "status": "pending",
-  "createdAt": "2026-07-02T22:18:16.232Z",
+  "sealedAt": "2026-07-02T22:22:20.756Z",
   "puzzles": [
     {
       "word": "mākonā",
@@ -167,13 +165,6 @@
         "difficulty": 5
       }
     }
-  ],
-  "words": [
-    "mākonā",
-    "ulepuaʻa",
-    "huki",
-    "haʻupoho",
-    "naʻauʻauā"
   ],
   "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
 }
