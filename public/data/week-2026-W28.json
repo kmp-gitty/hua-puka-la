@@ -1,0 +1,156 @@
+{
+  "weekId": "2026-W28",
+  "ordinal": 2949,
+  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "puzzles": [
+    {
+      "word": "kaukau",
+      "glyphs": [
+        "k",
+        "a",
+        "u",
+        "k",
+        "a",
+        "u"
+      ],
+      "length": 6,
+      "bare": "kaukau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to set a snare",
+      "meanings": [
+        "to set a snare",
+        "snare",
+        "chant of lamentation addressed to the deceased",
+        "to admonish",
+        "to reason with",
+        "to deliberate"
+      ],
+      "defHint": "to set a snare",
+      "piece": null,
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻali",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "ali",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to scar",
+      "meanings": [
+        "to scar",
+        "to dig"
+      ],
+      "defHint": "to scar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "neo",
+      "glyphs": [
+        "n",
+        "e",
+        "o"
+      ],
+      "length": 3,
+      "bare": "neo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "bare, desolate",
+      "meanings": [
+        "bare, desolate",
+        "nothing",
+        "achieving nothing, failure"
+      ],
+      "defHint": "bare, desolate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "haʻina",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "haina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "verb",
+      "meanings": [
+        "verb"
+      ],
+      "defHint": "verb",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "haikokene",
+      "glyphs": [
+        "h",
+        "a",
+        "i",
+        "k",
+        "o",
+        "k",
+        "e",
+        "n",
+        "e"
+      ],
+      "length": 9,
+      "bare": "haikokene",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "hydrogen (chemical element)",
+      "meanings": [
+        "hydrogen (chemical element)"
+      ],
+      "defHint": "hydrogen (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

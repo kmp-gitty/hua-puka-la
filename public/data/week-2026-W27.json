@@ -1,0 +1,152 @@
+{
+  "weekId": "2026-W27",
+  "ordinal": 2948,
+  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "puzzles": [
+    {
+      "word": "awa",
+      "glyphs": [
+        "a",
+        "w",
+        "a"
+      ],
+      "length": 3,
+      "bare": "awa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "channel, passage",
+      "meanings": [
+        "channel, passage",
+        "port, harbor, cove",
+        "milkfish"
+      ],
+      "defHint": "channel, passage",
+      "piece": null,
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pala",
+      "glyphs": [
+        "p",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 4,
+      "bare": "pala",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to smear, to smudge",
+      "meanings": [
+        "to smear, to smudge",
+        "to daub, to blot",
+        "to coat"
+      ],
+      "defHint": "to smear, to smudge",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kōʻai",
+      "glyphs": [
+        "k",
+        "ō",
+        "ʻ",
+        "a",
+        "i"
+      ],
+      "length": 5,
+      "bare": "koai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to stir with a circular motion",
+      "meanings": [
+        "to stir with a circular motion",
+        "to wind around, to gird around"
+      ],
+      "defHint": "to stir with a circular motion",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻikepili",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "k",
+        "e",
+        "p",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 8,
+      "bare": "ikepili",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "data",
+      "meanings": [
+        "data"
+      ],
+      "defHint": "data",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "wilipuaʻa",
+      "glyphs": [
+        "w",
+        "i",
+        "l",
+        "i",
+        "p",
+        "u",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 9,
+      "bare": "wilipuaa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "corkscrew, auger",
+      "meanings": [
+        "corkscrew, auger"
+      ],
+      "defHint": "corkscrew, auger",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Land & Lava palette ──────────────────────────────────────────────
+   State hues (correct/present/wrong-mark/absent) and accent/sun are
+   IDENTICAL across modes; only neutrals flip, so the four states stay
+   learnable. Values from the design bundle README. */
+:root {
+  --bg: #faf2ea;
+  --surface: #fffdf8;
+  --panel: #f5ebe2;
+  --ink: #2f231e;
+  --ink-soft: #655851;
+  --faint: #8f847c;
+  --line: #ded2c7;
+  --tile-empty: #fffdf8;
+  --tile-line: #d5c8bc;
+  --key-bg: #e9ddd2;
+  --key-line: #dbcec4;
+
+  /* brand + state (same in both modes) */
+  --accent: #ba4f1f;
+  --accent-ink: #fffaf5;
+  --sun: #ea8a18;
+  --correct: #4e965a;
+  --correct-ink: #f3fff5;
+  --present: #e2a94f;
+  --present-ink: #3e290f;
+  --wrong: #ec8c44;
+  --wrong-ink: #462312;
+  --absent: #98918b;
+  --absent-ink: #fffbf8;
+}
+
+.dark {
+  --bg: #18130e;
+  --surface: #241d18;
+  --panel: #302822;
+  --ink: #ebe7e2;
+  --ink-soft: #a9a49c;
+  --faint: #857f79;
+  --line: #433c36;
+  --tile-empty: #241d18;
+  --tile-line: #544b44;
+  --key-bg: #3e3630;
+  --key-line: #4e463f;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Hanken Grotesk", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+/* Tabular figures for the countdown. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}

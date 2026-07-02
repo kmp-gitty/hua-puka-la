@@ -1,0 +1,156 @@
+{
+  "weekId": "2026-W30",
+  "ordinal": 2951,
+  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "puzzles": [
+    {
+      "word": "ʻohi",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "ohi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to harvest, gather or pick",
+      "meanings": [
+        "to harvest, gather or pick"
+      ],
+      "defHint": "to harvest, gather or pick",
+      "piece": null,
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kaena",
+      "glyphs": [
+        "k",
+        "a",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "kaena",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to boast, brag of",
+      "meanings": [
+        "to boast, brag of",
+        "to be boastful",
+        "to glorify, praise"
+      ],
+      "defHint": "to boast, brag of",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pauaho",
+      "glyphs": [
+        "p",
+        "a",
+        "u",
+        "a",
+        "h",
+        "o"
+      ],
+      "length": 6,
+      "bare": "pauaho",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "out of breath, winded",
+      "meanings": [
+        "out of breath, winded",
+        "faint of heart, discouraged"
+      ],
+      "defHint": "out of breath, winded",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "konā",
+      "glyphs": [
+        "k",
+        "o",
+        "n",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "kona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "hard, unyielding",
+      "meanings": [
+        "hard, unyielding",
+        "unfriendly, brusque",
+        "contemptuous, haughty"
+      ],
+      "defHint": "hard, unyielding",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokoʻokoʻo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "ʻ",
+        "o"
+      ],
+      "length": 12,
+      "bare": "hookookoo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to push",
+      "meanings": [
+        "to push",
+        "to resist",
+        "to brace, to lean back and brace oneself"
+      ],
+      "defHint": "to push",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,166 @@
+{
+  "weekId": "2026-W29",
+  "ordinal": 2950,
+  "sealedAt": "2026-07-02T04:04:43.611Z",
+  "puzzles": [
+    {
+      "word": "kinipōpō",
+      "glyphs": [
+        "k",
+        "i",
+        "n",
+        "i",
+        "p",
+        "ō",
+        "p",
+        "ō"
+      ],
+      "length": 8,
+      "bare": "kinipopo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ball",
+      "meanings": [
+        "ball",
+        "ball game (any sport involving chasing after a ball)"
+      ],
+      "defHint": "ball",
+      "piece": null,
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "naka",
+      "glyphs": [
+        "n",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "naka",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "Thaumatodon nesophila, a kind of land snail",
+      "meanings": [
+        "Thaumatodon nesophila, a kind of land snail",
+        "to crack, peel",
+        "to quiver, shake"
+      ],
+      "defHint": "Thaumatodon nesophila, a kind of land snail",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kula",
+      "glyphs": [
+        "k",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 4,
+      "bare": "kula",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "field, pasture",
+      "meanings": [
+        "field, pasture",
+        "plain, open country",
+        "basket-like fish trap",
+        "container",
+        "source",
+        "school",
+        "gold",
+        "golden"
+      ],
+      "defHint": "field, pasture",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pāleo",
+      "glyphs": [
+        "p",
+        "ā",
+        "l",
+        "e",
+        "o"
+      ],
+      "length": 5,
+      "bare": "paleo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to converse, to chat",
+      "meanings": [
+        "to converse, to chat",
+        "to rap, to speak lyrics rhythmically usual of hip-hop music.",
+        "phonograph record"
+      ],
+      "defHint": "to converse, to chat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōpikipiki",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "i",
+        "k",
+        "i",
+        "p",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 10,
+      "bare": "opikipiki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "anxiety",
+      "meanings": [
+        "anxiety",
+        "anxious, agitated"
+      ],
+      "defHint": "anxiety",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}
