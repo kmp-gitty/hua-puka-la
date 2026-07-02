@@ -51,7 +51,12 @@ export default function Onboarding({ onStart }) {
         </Section>
 
         <Section title="ʻŌlelo hoʻohani" en="Hints">
-          <p>ʻEkolu kōkua: <b>Wehewehe</b> (reveal definition — you can use this only once), <b>ʻĀpana</b> (reveal a piece, you'll get a part of the larger word that directly relates or hints to the definition — this won't be available every day), <b>Hua</b> (reveal a letter — you cannot use this for the last letter of the word). Each hint spends one of your 8 guesses — and you can't use a hint on your final guess.</p>
+          <p className="mb-1.5">Using a hint costs 1 guess — cannot use a hint on the last guess.</p>
+          <ul className="list-disc pl-5 space-y-1">
+            <li><b>Wehewehe</b> (reveal definition — you can use this only once)</li>
+            <li><b>ʻĀpana</b> (reveal a piece, you'll get a part of the larger word that directly relates or hints to the definition — this won't be available every day)</li>
+            <li><b>Hua</b> (reveal a letter — you cannot use this for the last letter of the word)</li>
+          </ul>
         </Section>
 
         <Section title="Hoʻomanaʻo" en="Remember">
