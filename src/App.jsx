@@ -4,6 +4,7 @@ import WeekendPicker from "./screens/WeekendPicker.jsx";
 import Onboarding from "./screens/Onboarding.jsx";
 import Countdown from "./screens/Countdown.jsx";
 import Stats from "./screens/Stats.jsx";
+import Admin from "./screens/Admin.jsx";
 import { loadCurrentWeek, loadAcceptSet } from "./game/weekData.js";
 import { weekdaySlot, dateKeyForSlot } from "./game/hstTime.js";
 import { hasSeenRules, markRulesSeen, loadTheme, saveTheme, loadResult, clearAll } from "./game/persistence.js";
@@ -35,6 +36,7 @@ export default function App() {
   const [prevView, setPrevView] = useState("play");
   const [selectedSlot, setSelectedSlot] = useState(0);
   const [fromWeekend, setFromWeekend] = useState(false);
+  const [returnTo, setReturnTo] = useState(null); // where a previewed day returns to
 
   useEffect(() => applyTheme(theme), [theme]);
 
@@ -45,8 +47,17 @@ export default function App() {
         if (!alive) return;
         setData(weekResult);
         setAcceptSet(accept);
+        // Admin/preview overrides (dev): ?admin panel, or ?slot=0..4 direct.
+        const params = new URLSearchParams(window.location.search);
         const todaySlot = weekdaySlot();
-        if (!hasSeenRules()) {
+        if (params.has("admin")) {
+          setView("admin");
+        } else if (params.has("slot")) {
+          const s = Math.max(0, Math.min(4, Number(params.get("slot")) || 0));
+          setSelectedSlot(s);
+          setReturnTo("admin");
+          setView("play");
+        } else if (!hasSeenRules()) {
           setView("onboarding");
         } else if (todaySlot === -1) {
           setView("weekend");
@@ -106,8 +117,26 @@ export default function App() {
     );
   }
 
+  if (view === "admin") {
+    return (
+      <Admin
+        week={week}
+        onPlaySlot={(slot) => {
+          setSelectedSlot(slot);
+          setReturnTo("admin");
+          setView("play");
+        }}
+        onScreen={(v) => {
+          setReturnTo("admin");
+          if (v === "onboarding") setPrevView("admin");
+          setView(v);
+        }}
+      />
+    );
+  }
+
   if (view === "stats") {
-    return <Stats onBack={() => setView(prevView || (todaySlot === -1 ? "weekend" : "play"))} />;
+    return <Stats onBack={() => setView(returnTo || prevView || (todaySlot === -1 ? "weekend" : "play"))} />;
   }
 
   if (view === "countdown") {
@@ -150,7 +179,10 @@ export default function App() {
       onRules={goRules}
       onStats={goStats}
       onDone={() => {
-        if (fromWeekend) {
+        if (returnTo === "admin") {
+          setReturnTo(null);
+          setView("admin");
+        } else if (fromWeekend) {
           setFromWeekend(false);
           setView("weekend");
         } else {
