@@ -20,11 +20,13 @@ export default function AppBar({ title, onRules, onStats, onToggleTheme, theme }
       <div className="flex items-center gap-1.5">
         <button
           onClick={onToggleTheme}
-          aria-label="Toggle theme"
+          aria-label={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+          title={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
           className="w-9 h-9 grid place-items-center rounded-full"
           style={{ background: "var(--panel)", color: "var(--ink)", border: "1px solid var(--line)" }}
         >
-          {theme === "dark" ? "☾" : "☀"}
+          {/* show the mode you'll switch TO */}
+          {theme === "dark" ? "☀" : "☾"}
         </button>
         <button
           onClick={onStats}

@@ -88,6 +88,14 @@ export function weekdaySlot(date = new Date()) {
   return wd - 1; // Mon(1)->0 … Fri(5)->4
 }
 
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+// Format a YYYY-MM-DD key as "Jul 3, 2026". Parses parts directly (no Date, no TZ drift).
+export function formatShortDate(dateKey) {
+  const [y, m, d] = dateKey.split("-").map(Number);
+  return `${MONTHS[m - 1]} ${d}, ${y}`;
+}
+
 // The YYYY-MM-DD date key for a given Mon–Fri slot within `date`'s HST week.
 // Used to persist/read per-day state (today's puzzle and weekend replays).
 export function dateKeyForSlot(date, slot) {

@@ -6,7 +6,7 @@ import Countdown from "./screens/Countdown.jsx";
 import Stats from "./screens/Stats.jsx";
 import Admin from "./screens/Admin.jsx";
 import { loadCurrentWeek, loadAcceptSet } from "./game/weekData.js";
-import { weekdaySlot, dateKeyForSlot } from "./game/hstTime.js";
+import { weekdaySlot, dateKeyForSlot, formatShortDate } from "./game/hstTime.js";
 import { hasSeenRules, markRulesSeen, loadTheme, saveTheme, loadResult, clearAll } from "./game/persistence.js";
 
 // Testing helper: visiting /?reset wipes local state (game, results, rules seen).
@@ -98,6 +98,7 @@ export default function App() {
 
   const { week } = data;
   const todaySlot = weekdaySlot();
+  const mode = isDark(theme) ? "dark" : "light"; // effective mode for the toggle icon
 
   if (view === "onboarding") {
     return (
@@ -149,7 +150,7 @@ export default function App() {
       <WeekendPicker
         puzzles={week.puzzles}
         results={results}
-        theme={theme}
+        theme={mode}
         onToggleTheme={toggleTheme}
         onRules={goRules}
         onStats={goStats}
@@ -165,7 +166,7 @@ export default function App() {
   // view === "play"
   const puzzle = week.puzzles[selectedSlot];
   const dateKey = dateKeyForSlot(new Date(), selectedSlot);
-  const dayTitle = `${puzzle.dayMeta.hawaiian} · ${puzzle.dayMeta.english}`;
+  const dayTitle = `${puzzle.dayMeta.hawaiian} · ${puzzle.dayMeta.english} · ${formatShortDate(dateKey)}`;
 
   return (
     <DailyPuzzle
@@ -174,7 +175,7 @@ export default function App() {
       acceptSet={acceptSet}
       dateKey={dateKey}
       dayTitle={dayTitle}
-      theme={theme}
+      theme={mode}
       onToggleTheme={toggleTheme}
       onRules={goRules}
       onStats={goStats}
