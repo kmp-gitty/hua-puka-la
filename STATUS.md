@@ -48,11 +48,21 @@ Real pieces now ship. Pipeline: `extract-pieces.mjs` (greedy embedded-word candi
 - Still TODO on this: the **operator human-gate for Monday** (spec §5) is not yet a workflow —
   verdicts are auto-selected and shipped; add an approval step when the ops pipeline is built.
 
+## Deploy — DONE (live)
+Git-connected Vercel project (Pro account) on `kmp-gitty/hua-puka-la`, Vite preset, no env vars
+(app is fully static; ANTHROPIC_API_KEY stays local-only). **Every `git push` to main auto-deploys.**
+`?admin` works on the live site too. This push→deploy is the mechanism n8n will use.
+
+## Admin/preview (dev)
+`?admin` panel (src/screens/Admin.jsx) — play any weekday of the current week, jump to any screen,
+reset local state. `?slot=0..4` jumps straight to a day. Bypasses the HST day-lock + Monday-only ʻĀpana.
+
 ## What's DEFERRED / next session
-1. **Ops pipeline** — specified, not built: n8n `weekly-seal`/`weekly-notify` (runs `seal-week` +
-   `classify-pieces`), Google Chat `ops-alerts` review cards (incl. Monday piece approval),
-   GitHub commit + Vercel deploy, reserve/ledger automation. `seal-week.mjs` already owns selection.
-2. **Deploy** (GitHub + Vercel) — repo is on GitHub (kmp-gitty/hua-puka-la); Vercel not connected yet.
+1. **12-week reserve backlog** — seed `data/reserve/` with 12 pre-approved weeks (FIFO). Pure local
+   script work (seal-week owns selection; pieces are ready). Not started.
+2. **Ops pipeline** — n8n `weekly-seal`/`weekly-notify` (runs `seal-week` + `classify-pieces`),
+   Google Chat `ops-alerts` review cards (incl. Monday piece human-gate), commit → Vercel auto-deploys,
+   reserve/ledger automation. Needs: n8n instance, Google Chat space + webhook, GitHub token, Anthropic key.
 
 ## Open design notes
 - Guess validation is **exact-spelling** (spec: "must be in this list") — ʻokina/kahakō must be correct to be accepted; wrong-mark fires when a correctly-spelled real word collides on a base vowel.
