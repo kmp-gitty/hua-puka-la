@@ -19,7 +19,8 @@
               {
                 "decoratedText": {
                   "topLabel": "{{piece_word}} · Tier {{tier}}",
-                  "text": "{{rationale}}",
+                  "text": "{{piece_def}}",
+                  "bottomLabel": "{{rationale}}",
                   "wrapText": true
                 }
               }

@@ -95,7 +95,7 @@
     },
     {
       "parameters": {
-        "jsCode": "// pending.json comes back as the raw file body (Accept: raw). Parse robustly.\nconst raw = $input.first().json;\nconst pending = raw && raw.reserveId ? raw : JSON.parse(raw.body ?? raw.data ?? (typeof raw === 'string' ? raw : JSON.stringify(raw)));\nconst p = (pending.puzzles[0] && pending.puzzles[0].piece) || {};\nreturn [{ json: {\n  reserveId: pending.reserveId,\n  count: pending.slot,\n  words: pending.words.join(', '),\n  piece_word: p.piece_word || '—',\n  tier: p.tier || '',\n  rationale: p.rationale || 'no piece today',\n  piece_source_word: pending.puzzles[0].word,\n} }];"
+        "jsCode": "// pending.json comes back as the raw file body (Accept: raw). Parse robustly.\nconst raw = $input.first().json;\nconst pending = raw && raw.reserveId ? raw : JSON.parse(raw.body ?? raw.data ?? (typeof raw === 'string' ? raw : JSON.stringify(raw)));\nconst p = (pending.puzzles[0] && pending.puzzles[0].piece) || {};\nreturn [{ json: {\n  reserveId: pending.reserveId,\n  count: pending.slot,\n  words: pending.words.join(', '),\n  piece_word: p.piece_word || '—',\n  piece_def: p.piece_def || '',\n  tier: p.tier || '',\n  rationale: p.rationale || 'no piece today',\n  piece_source_word: pending.puzzles[0].word,\n} }];"
       },
       "id": "build-card-fields",
       "name": "Build card fields",
@@ -112,7 +112,7 @@
         "url": "REPLACE_WITH_GOOGLE_CHAT_WEBHOOK_URL",
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={{ JSON.stringify({ cardsV2: [ { cardId: 'reserve-review', card: { header: { title: 'Reserve candidate ' + $json.reserveId, subtitle: 'Review · reserve ' + $json.count + '/12' }, sections: [ { header: 'Nā huaʻōlelo · Words (Mon→Fri)', widgets: [ { textParagraph: { text: $json.words } } ] }, { header: 'Pōʻakahi ʻĀpana · Monday piece', widgets: [ { decoratedText: { topLabel: $json.piece_word + ' · Tier ' + $json.tier, text: $json.rationale, wrapText: true } } ] }, { widgets: [ { buttonList: { buttons: [ { text: '✅ Approve', onClick: { openLink: { url: 'REPLACE_APPROVE_WEBHOOK_URL' } } }, { text: '🔁 Swap Monday', onClick: { openLink: { url: 'REPLACE_SWAP_WEBHOOK_URL?word=' + $json.piece_source_word } } } ] } } ] } ] } } ] }) }}",
+        "jsonBody": "={{ JSON.stringify({ cardsV2: [ { cardId: 'reserve-review', card: { header: { title: 'Reserve candidate ' + $json.reserveId, subtitle: 'Review · reserve ' + $json.count + '/12' }, sections: [ { header: 'Nā huaʻōlelo · Words (Mon→Fri)', widgets: [ { textParagraph: { text: $json.words } } ] }, { header: 'Pōʻakahi ʻĀpana · Monday piece', widgets: [ { decoratedText: { topLabel: $json.piece_word + ' · Tier ' + $json.tier, text: $json.piece_def, bottomLabel: $json.rationale, wrapText: true } } ] }, { widgets: [ { buttonList: { buttons: [ { text: '✅ Approve', onClick: { openLink: { url: 'REPLACE_APPROVE_WEBHOOK_URL' } } }, { text: '🔁 Swap Monday', onClick: { openLink: { url: 'REPLACE_SWAP_WEBHOOK_URL?word=' + $json.piece_source_word } } } ] } } ] } ] } } ] }) }}",
         "options": {}
       },
       "id": "post-chat-card",
