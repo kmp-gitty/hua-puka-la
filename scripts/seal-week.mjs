@@ -10,7 +10,7 @@
 // is deferred — the game reads null as "Reveal Piece unavailable"), writes
 // public/data/week-YYYY-Www.json, updates the ledger + manifest.
 
-import { readFileSync, writeFileSync, existsSync, readdirSync } from "node:fs";
+import { readFileSync, writeFileSync, existsSync, readdirSync, rmSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { computeDefHint } from "../src/game/defHint.js";
@@ -189,6 +189,121 @@ function writeManifest() {
   return weeks;
 }
 
+// ── Reserve (backlog) — a FIFO of 12 pre-approved weeks in data/reserve/ ──
+// The n8n pipeline drives this via GitHub Actions:
+//   --candidate  → seal the next reserve slot into reserve/pending.json (for review)
+//   --swap WORD  → regenerate just the day whose word is WORD (operator swap)
+//   --approve    → promote pending.json → reserve-NN.json + record in the ledger
+const RESERVE_DIR = join(ROOT, "data/reserve");
+const PENDING = join(RESERVE_DIR, "pending.json");
+const RESERVE_TARGET = 12;
+
+function reserveFiles() {
+  if (!existsSync(RESERVE_DIR)) return [];
+  return readdirSync(RESERVE_DIR)
+    .filter((f) => /^reserve-\d{2}\.json$/.test(f))
+    .sort();
+}
+
+// Every word already spoken-for: live/aired weeks (ledger) + approved reserve weeks.
+function allSpokenWords(ledger) {
+  const set = new Set();
+  for (const wk of ledger.weeks) for (const w of wk.words) set.add(w);
+  for (const f of reserveFiles()) {
+    const r = JSON.parse(readFileSync(join(RESERVE_DIR, f), "utf8"));
+    for (const p of r.puzzles) set.add(p.word);
+  }
+  return set;
+}
+
+function pendingSummary(pending) {
+  const mp = pending.puzzles[0].piece;
+  return (
+    `${pending.reserveId} (${pending.words.join(", ")})` +
+    (mp ? ` [Mon: ${mp.piece_word} T${mp.tier} — ${mp.rationale}]` : "")
+  );
+}
+
+function sealCandidate(dict, pieces, ledger, extraExclude = new Set()) {
+  mkdirSync(RESERVE_DIR, { recursive: true });
+  const nextIndex = reserveFiles().length + 1;
+  if (nextIndex > RESERVE_TARGET) throw new Error(`Reserve already full (${RESERVE_TARGET}).`);
+  const reserveId = `reserve-${String(nextIndex).padStart(2, "0")}`;
+  const blocked = new Set([...allSpokenWords(ledger), ...extraExclude]);
+  const rng = mulberry32(seedFromString(reserveId));
+  const usedThisWeek = new Set();
+  const puzzles = [];
+  for (const day of DAYS) {
+    const word = pickWord(dict, day, rng, blocked, usedThisWeek, pieces);
+    usedThisWeek.add(word.word);
+    puzzles.push(sealPuzzle(word, day, pieces));
+  }
+  const pending = {
+    reserveId,
+    slot: nextIndex,
+    status: "pending",
+    createdAt: new Date().toISOString(),
+    puzzles,
+    words: [...usedThisWeek],
+    attribution: "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA.",
+  };
+  writeFileSync(PENDING, JSON.stringify(pending, null, 2));
+  return pending;
+}
+
+function swapCandidate(dict, pieces, ledger, swapWord) {
+  if (!existsSync(PENDING)) throw new Error("No pending candidate to swap; run --candidate first.");
+  const pending = JSON.parse(readFileSync(PENDING, "utf8"));
+  const slotIdx = pending.puzzles.findIndex((p) => p.word === swapWord);
+  if (slotIdx === -1) throw new Error(`"${swapWord}" is not in the pending candidate.`);
+  const day = DAYS[slotIdx];
+  const others = new Set(pending.puzzles.filter((_, i) => i !== slotIdx).map((p) => p.word));
+  const blocked = new Set([...allSpokenWords(ledger), ...others, swapWord]);
+  const rng = mulberry32(seedFromString(`${pending.reserveId}|swap|${swapWord}`));
+  const word = pickWord(dict, day, rng, blocked, new Set(), pieces);
+  pending.puzzles[slotIdx] = sealPuzzle(word, day, pieces);
+  pending.words = pending.puzzles.map((p) => p.word);
+  writeFileSync(PENDING, JSON.stringify(pending, null, 2));
+  return pending;
+}
+
+function approveCandidate(ledger) {
+  if (!existsSync(PENDING)) throw new Error("No pending candidate to approve.");
+  const pending = JSON.parse(readFileSync(PENDING, "utf8"));
+  const reserveWeek = {
+    reserveId: pending.reserveId,
+    sealedAt: new Date().toISOString(),
+    puzzles: pending.puzzles,
+    attribution: pending.attribution,
+  };
+  const outFile = join(RESERVE_DIR, `${pending.reserveId}.json`);
+  writeFileSync(outFile, JSON.stringify(reserveWeek, null, 2));
+  // Record in the ledger so subsequent reserve/live seals won't repeat these.
+  ledger.weeks.push({ id: pending.reserveId, ordinal: null, type: "reserve", words: pending.words });
+  writeFileSync(LEDGER, JSON.stringify(ledger, null, 2));
+  rmSync(PENDING);
+  return { reserveWeek, count: reserveFiles().length };
+}
+
+function runReserve(args, dict, ledger, pieces) {
+  if (args.includes("--approve")) {
+    const { count } = approveCandidate(ledger);
+    console.log(`approved → reserve now ${count}/${RESERVE_TARGET}`);
+    return;
+  }
+  const swapIdx = args.indexOf("--swap");
+  if (swapIdx >= 0) {
+    const p = swapCandidate(dict, pieces, ledger, args[swapIdx + 1]);
+    console.log(`swapped → ${pendingSummary(p)}`);
+    return;
+  }
+  // --candidate (optional trailing --exclude WORD[,WORD])
+  const exIdx = args.indexOf("--exclude");
+  const exclude = new Set(exIdx >= 0 ? (args[exIdx + 1] ?? "").split(",").filter(Boolean) : []);
+  const p = sealCandidate(dict, pieces, ledger, exclude);
+  console.log(`candidate ${reserveFiles().length + 1}/${RESERVE_TARGET} → ${pendingSummary(p)}`);
+}
+
 // --- main ---
 const args = process.argv.slice(2);
 const weeksFlagIdx = args.indexOf("--weeks");
@@ -201,6 +316,13 @@ const ledger = loadLedger();
 const pieces = existsSync(PIECES) ? JSON.parse(readFileSync(PIECES, "utf8")) : {};
 if (Object.keys(pieces).length === 0) {
   console.log("  (no data/pieces.json — sealing with piece:null; run classify-pieces first for real pieces)");
+}
+
+// Reserve subcommands (driven by n8n via GitHub Actions) run and exit here,
+// before the normal calendar-week sealing below.
+if (args.includes("--candidate") || args.includes("--swap") || args.includes("--approve")) {
+  runReserve(args, dict, ledger, pieces);
+  process.exit(0);
 }
 
 // On --reseal, drop the whole requested range up front so it rebuilds fresh in

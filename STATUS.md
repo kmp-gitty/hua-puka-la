@@ -57,12 +57,26 @@ Git-connected Vercel project (Pro account) on `kmp-gitty/hua-puka-la`, Vite pres
 `?admin` panel (src/screens/Admin.jsx) — play any weekday of the current week, jump to any screen,
 reset local state. `?slot=0..4` jumps straight to a day. Bypasses the HST day-lock + Monday-only ʻĀpana.
 
-## What's DEFERRED / next session
-1. **12-week reserve backlog** — seed `data/reserve/` with 12 pre-approved weeks (FIFO). Pure local
-   script work (seal-week owns selection; pieces are ready). Not started.
-2. **Ops pipeline** — n8n `weekly-seal`/`weekly-notify` (runs `seal-week` + `classify-pieces`),
-   Google Chat `ops-alerts` review cards (incl. Monday piece human-gate), commit → Vercel auto-deploys,
-   reserve/ledger automation. Needs: n8n instance, Google Chat space + webhook, GitHub token, Anthropic key.
+## Ops pipeline — Layer 1 built (reserve engine + GitHub Actions)
+Reserve backlog seeded through the automation (n8n Cloud + Google Chat), which also tests the pipeline.
+Full guide: **docs/OPS.md**.
+- `seal-week.mjs` reserve modes: `--candidate` (→ data/reserve/pending.json), `--swap "<word>"`
+  (regenerate one day), `--approve` (→ reserve-NN.json + ledger). Blocks all spoken-for words.
+  Tested locally end-to-end; no calendar-week regression.
+- GitHub Actions `.github/workflows/reserve-seal.yml` + `reserve-finalize.yml` (workflow_dispatch,
+  concurrency-guarded) wrap those and commit. **Classification is NOT in this loop** (pool already
+  classified) — each cycle is fast/free.
+- `ops/n8n-reserve-seeding.json` = importable n8n scaffold (12 nodes). `ops/google-chat-card.json` = card.
+- Reserve weeks live in `data/reserve/` (NOT public/) — not served until promoted to a live Monday.
+
+### Layer 1 wiring TODO (user, external):
+GitHub fine-grained PAT (Actions RW + Contents RW) · Google Chat `ops-alerts` space + incoming webhook ·
+import n8n scaffold + attach creds + paste webhook URLs · then click "Start / Next cycle" 12× to seed.
+
+## What's DEFERRED / next
+1. **Weekly production cycle** — `weekly-seal` (scheduled) + `weekly-notify`, promote reserve→live on
+   Monday, low-reserve alarm, missed-approval fallback (spec §3.3–3.4). Same spine as reserve seeding.
+2. **Monday human-gate in production** (spec §5) — reserve seeding already gates via Approve; formalize.
 
 ## Open design notes
 - Guess validation is **exact-spelling** (spec: "must be in this list") — ʻokina/kahakō must be correct to be accepted; wrong-mark fires when a correctly-spelled real word collides on a base vowel.

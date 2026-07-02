@@ -1,0 +1,42 @@
+name: reserve-seal
+# Seals the next reserve candidate (or swaps one word) and commits pending.json
+# for review. Triggered by n8n via the workflow_dispatch API.
+on:
+  workflow_dispatch:
+    inputs:
+      swap_word:
+        description: "Word to swap out of the current pending candidate (leave blank to seal a fresh candidate)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reserve-ops # serialize with reserve-finalize so the ledger never races
+  cancel-in-progress: false
+
+jobs:
+  seal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Seal candidate (or swap)
+        env:
+          SWAP_WORD: ${{ inputs.swap_word }}
+        run: |
+          if [ -n "$SWAP_WORD" ]; then
+            node scripts/seal-week.mjs --swap "$SWAP_WORD"
+          else
+            node scripts/seal-week.mjs --candidate
+          fi
+      - name: Commit pending candidate
+        run: |
+          git config user.name "hpl-ops[bot]"
+          git config user.email "ops@huapukala.local"
+          git add data/reserve/pending.json
+          git commit -m "reserve: candidate for review (run ${{ github.run_number }})" || { echo "no changes"; exit 0; }
+          git push

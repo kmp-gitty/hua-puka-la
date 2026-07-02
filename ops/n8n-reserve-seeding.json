@@ -1,0 +1,362 @@
+{
+  "name": "HPL Reserve Seeding",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "start-next-cycle",
+      "name": "Start / Next cycle",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -600,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.github.com/repos/kmp-gitty/hua-puka-la/actions/workflows/reserve-seal.yml/dispatches",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer REPLACE_WITH_GITHUB_PAT"
+            },
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{ \"ref\": \"main\" }",
+        "options": {}
+      },
+      "id": "dispatch-reserve-seal",
+      "name": "Dispatch reserve-seal",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -380,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "amount": 45,
+        "unit": "seconds"
+      },
+      "id": "wait-45s",
+      "name": "Wait 45s",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1,
+      "position": [
+        -160,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://api.github.com/repos/kmp-gitty/hua-puka-la/contents/data/reserve/pending.json?ref=main",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer REPLACE_WITH_GITHUB_PAT"
+            },
+            {
+              "name": "Accept",
+              "value": "application/vnd.github.raw+json"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "get-pending-json",
+      "name": "Get pending.json",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        60,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// pending.json comes back as the raw file body (Accept: raw). Parse robustly.\nconst raw = $input.first().json;\nconst pending = raw && raw.reserveId ? raw : JSON.parse(raw.body ?? raw.data ?? (typeof raw === 'string' ? raw : JSON.stringify(raw)));\nconst p = (pending.puzzles[0] && pending.puzzles[0].piece) || {};\nreturn [{ json: {\n  reserveId: pending.reserveId,\n  count: pending.slot,\n  words: pending.words.join(', '),\n  piece_word: p.piece_word || '—',\n  tier: p.tier || '',\n  rationale: p.rationale || 'no piece today',\n  piece_source_word: pending.puzzles[0].word,\n} }];"
+      },
+      "id": "build-card-fields",
+      "name": "Build card fields",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        280,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "REPLACE_WITH_GOOGLE_CHAT_WEBHOOK_URL",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ cardsV2: [ { cardId: 'reserve-review', card: { header: { title: 'Reserve candidate ' + $json.reserveId, subtitle: 'Review · reserve ' + $json.count + '/12' }, sections: [ { header: 'Nā huaʻōlelo · Words (Mon→Fri)', widgets: [ { textParagraph: { text: $json.words } } ] }, { header: 'Pōʻakahi ʻĀpana · Monday piece', widgets: [ { decoratedText: { topLabel: $json.piece_word + ' · Tier ' + $json.tier, text: $json.rationale, wrapText: true } } ] }, { widgets: [ { buttonList: { buttons: [ { text: '✅ Approve', onClick: { openLink: { url: 'REPLACE_APPROVE_WEBHOOK_URL' } } }, { text: '🔁 Swap Monday', onClick: { openLink: { url: 'REPLACE_SWAP_WEBHOOK_URL?word=' + $json.piece_source_word } } } ] } } ] } ] } } ] }) }}",
+        "options": {}
+      },
+      "id": "post-chat-card",
+      "name": "Post Chat card",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        500,
+        0
+      ]
+    },
+    {
+      "parameters": {
+        "httpMethod": "GET",
+        "path": "hpl-reserve-approve",
+        "responseMode": "responseNode"
+      },
+      "id": "approve-webhook-",
+      "name": "Approve (webhook)",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -380,
+        220
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.github.com/repos/kmp-gitty/hua-puka-la/actions/workflows/reserve-finalize.yml/dispatches",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer REPLACE_WITH_GITHUB_PAT"
+            },
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{ \"ref\": \"main\" }",
+        "options": {}
+      },
+      "id": "dispatch-reserve-finalize",
+      "name": "Dispatch reserve-finalize",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -160,
+        220
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "✅ Approved — reserve advancing. You can close this tab."
+      },
+      "id": "respond-approved",
+      "name": "Respond approved",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [
+        60,
+        220
+      ]
+    },
+    {
+      "parameters": {
+        "httpMethod": "GET",
+        "path": "hpl-reserve-swap",
+        "responseMode": "responseNode"
+      },
+      "id": "swap-webhook-",
+      "name": "Swap (webhook)",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -380,
+        420
+      ]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.github.com/repos/kmp-gitty/hua-puka-la/actions/workflows/reserve-seal.yml/dispatches",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer REPLACE_WITH_GITHUB_PAT"
+            },
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ ref: \"main\", inputs: { swap_word: $json.query.word } }) }}",
+        "options": {}
+      },
+      "id": "dispatch-reserve-seal-swap-",
+      "name": "Dispatch reserve-seal (swap)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        -160,
+        420
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "text",
+        "responseBody": "🔁 Swapped — re-run 'Start / Next cycle' to re-post the card."
+      },
+      "id": "respond-swapped",
+      "name": "Respond swapped",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [
+        60,
+        420
+      ]
+    }
+  ],
+  "connections": {
+    "Start / Next cycle": {
+      "main": [
+        [
+          {
+            "node": "Dispatch reserve-seal",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dispatch reserve-seal": {
+      "main": [
+        [
+          {
+            "node": "Wait 45s",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait 45s": {
+      "main": [
+        [
+          {
+            "node": "Get pending.json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get pending.json": {
+      "main": [
+        [
+          {
+            "node": "Build card fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build card fields": {
+      "main": [
+        [
+          {
+            "node": "Post Chat card",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Approve (webhook)": {
+      "main": [
+        [
+          {
+            "node": "Dispatch reserve-finalize",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dispatch reserve-finalize": {
+      "main": [
+        [
+          {
+            "node": "Respond approved",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Swap (webhook)": {
+      "main": [
+        [
+          {
+            "node": "Dispatch reserve-seal (swap)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Dispatch reserve-seal (swap)": {
+      "main": [
+        [
+          {
+            "node": "Respond swapped",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "pinData": {}
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "Google Chat review card for a reserve candidate. POST this (with placeholders filled from pending.json) to your ops-alerts incoming webhook. Buttons link to your n8n Approve/Swap webhook URLs.",
+  "cardsV2": [
+    {
+      "cardId": "reserve-review",
+      "card": {
+        "header": {
+          "title": "Reserve candidate {{reserveId}}",
+          "subtitle": "Review · reserve {{count}}/12"
+        },
+        "sections": [
+          {
+            "header": "Nā huaʻōlelo · Words (Mon → Fri)",
+            "widgets": [{ "textParagraph": { "text": "{{words}}" } }]
+          },
+          {
+            "header": "Pōʻakahi ʻĀpana · Monday piece",
+            "widgets": [
+              {
+                "decoratedText": {
+                  "topLabel": "{{piece_word}} · Tier {{tier}}",
+                  "text": "{{rationale}}",
+                  "wrapText": true
+                }
+              }
+            ]
+          },
+          {
+            "widgets": [
+              {
+                "buttonList": {
+                  "buttons": [
+                    {
+                      "text": "✅ Approve",
+                      "onClick": { "openLink": { "url": "{{approveUrl}}" } }
+                    },
+                    {
+                      "text": "🔁 Swap Monday",
+                      "onClick": { "openLink": { "url": "{{swapUrl}}&word={{piece_source_word}}" } }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+name: reserve-finalize
+# Approves the current pending candidate: promotes pending.json to reserve-NN.json
+# and records it in the ledger. Triggered by n8n when the operator clicks Approve.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reserve-ops # serialize with reserve-seal so the ledger never races
+  cancel-in-progress: false
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Approve pending candidate
+        run: node scripts/seal-week.mjs --approve
+      - name: Commit reserve week + ledger
+        run: |
+          git config user.name "hpl-ops[bot]"
+          git config user.email "ops@huapukala.local"
+          git add -A data/reserve data/ledger.json
+          git commit -m "reserve: approve candidate (run ${{ github.run_number }})" || { echo "no changes"; exit 0; }
+          git push
