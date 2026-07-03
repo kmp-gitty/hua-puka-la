@@ -34,6 +34,15 @@ export function loadGame(dateKey) {
 export function saveGame(dateKey, state) {
   write(KEYS.gameForDate(dateKey), state);
 }
+// Clear a day's saved game + result (used by "replay today's word").
+export function clearDay(dateKey) {
+  try {
+    localStorage.removeItem(KEYS.gameForDate(dateKey));
+    localStorage.removeItem(KEYS.resultForDate(dateKey));
+  } catch {
+    /* ignore */
+  }
+}
 
 // ── per-day results (weekend picker + stats) ──
 // { [dateKey]: { won, guessesUsed, hintsUsed, word, slot } }

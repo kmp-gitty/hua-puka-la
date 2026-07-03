@@ -125,9 +125,23 @@ function reducer(state, action) {
     }
     case "CANCEL_HINT":
       return { ...state, pendingHint: null };
+    case "GIVE_UP": {
+      if (state.gameOver) return state;
+      return { ...state, gameOver: true, won: false, openPanel: null, pendingHint: null };
+    }
     case "APPLY_HINT": {
+      // Reopening an already-viewed Definition/Piece is ALWAYS free — allowed
+      // even on the final guess. Check this before the guess-consuming guard.
+      if (
+        (action.hint === HINTS.DEFINITION || action.hint === HINTS.PIECE) &&
+        state.usedHints[action.hint]
+      ) {
+        track(action.hint === HINTS.DEFINITION ? EVENTS.DEFINITION_VIEWED : EVENTS.PIECE_VIEWED, { reopen: true });
+        return { ...state, openPanel: action.hint };
+      }
+
       const guessesLeft = TOTAL_GUESSES - state.guesses.length - state.hintsUsed;
-      if (guessesLeft <= 1) return state; // no hint on final guess
+      if (guessesLeft <= 1) return state; // no NEW hint on the final guess
 
       if (action.hint === HINTS.LETTER) {
         const known = knownPositions(state, answer);
@@ -145,14 +159,7 @@ function reducer(state, action) {
         return { ...state, locked, currentRow: row, hintsUsed, gameOver: left <= 0 ? state.gameOver : state.gameOver };
       }
 
-      // Definition / Piece: usable once (spends a guess on first use), then
-      // reopenable free.
-      const already = state.usedHints[action.hint];
-      if (already) {
-        // reopen, no cost
-        track(action.hint === HINTS.DEFINITION ? EVENTS.DEFINITION_VIEWED : EVENTS.PIECE_VIEWED, { reopen: true });
-        return { ...state, openPanel: action.hint };
-      }
+      // Definition / Piece: first use spends a guess (reopen handled above).
       const usedHints = { ...state.usedHints, [action.hint]: true };
       const hintsUsed = state.hintsUsed + 1;
       track(EVENTS.HINT_USED, { hint: action.hint });

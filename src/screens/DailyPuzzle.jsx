@@ -1,9 +1,9 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import Board from "../components/Board.jsx";
 import Keyboard from "../components/Keyboard.jsx";
 import HintBand from "../components/HintBand.jsx";
 import RevealPanel from "../components/RevealPanel.jsx";
-import { ConfirmSheet } from "../components/Sheet.jsx";
+import { ConfirmSheet, Sheet } from "../components/Sheet.jsx";
 import AppBar from "../components/AppBar.jsx";
 import WinReveal from "./WinReveal.jsx";
 import LossReveal from "./LossReveal.jsx";
@@ -17,6 +17,7 @@ const DIFFICULTY = ["Māʻalahi (Easy)", "Waena (Intermediate)", "Waena (Interme
 
 export default function DailyPuzzle({ puzzle, acceptSet, dateKey, dayTitle, onRules, onStats, onToggleTheme, theme, onDone }) {
   const { state, dispatch, derived } = useGame(puzzle, acceptSet, dateKey);
+  const [giveUp, setGiveUp] = useState(false);
 
   // physical keyboard support
   useEffect(() => {
@@ -45,8 +46,8 @@ export default function DailyPuzzle({ puzzle, acceptSet, dateKey, dayTitle, onRu
           <Board puzzle={puzzle} state={state} derived={derived} />
         </div>
       </div>
-      <HintBand state={state} derived={derived} slot={puzzle.dayMeta.slot} onHint={(h) => dispatch({ type: "REQUEST_HINT", hint: h })} />
-      <div className="pb-4">
+      <HintBand state={state} derived={derived} onHint={(h) => dispatch({ type: "REQUEST_HINT", hint: h })} />
+      <div className="pb-1.5">
         <Keyboard
           keyStatus={state.keyStatus}
           onKey={(g) => dispatch({ type: "TYPE", glyph: g })}
@@ -54,6 +55,11 @@ export default function DailyPuzzle({ puzzle, acceptSet, dateKey, dayTitle, onRu
           onDelete={() => dispatch({ type: "DELETE" })}
           disabled={state.gameOver}
         />
+      </div>
+      <div className="pb-3 text-center">
+        <button onClick={() => setGiveUp(true)} className="text-[11px] text-faint hover:text-ink-soft underline underline-offset-2">
+          Hāʻawi pio (Give up)
+        </button>
       </div>
 
       {state.invalidMsg && (
@@ -71,6 +77,28 @@ export default function DailyPuzzle({ puzzle, acceptSet, dateKey, dayTitle, onRu
           onConfirm={() => dispatch({ type: "CONFIRM_HINT" })}
           onCancel={() => dispatch({ type: "CANCEL_HINT" })}
         />
+      )}
+      {giveUp && (
+        <Sheet onClose={() => setGiveUp(false)}>
+          <h3 className="text-lg font-extrabold text-ink mb-1">E hāʻawi pio? (Give up?)</h3>
+          <p className="text-sm text-ink-soft mb-4">The word and its meanings will be revealed.</p>
+          <div className="flex gap-2">
+            <button
+              onClick={() => setGiveUp(false)}
+              className="flex-1 rounded-btn py-2.5 font-semibold"
+              style={{ background: "var(--panel)", color: "var(--ink)", border: "1px solid var(--line)" }}
+            >
+              ʻAʻole (Cancel)
+            </button>
+            <button
+              onClick={() => { setGiveUp(false); dispatch({ type: "GIVE_UP" }); }}
+              className="flex-1 rounded-btn py-2.5 font-semibold"
+              style={{ background: "var(--wrong)", color: "var(--wrong-ink)" }}
+            >
+              Hāʻawi pio (Give up)
+            </button>
+          </div>
+        </Sheet>
       )}
     </div>
   );

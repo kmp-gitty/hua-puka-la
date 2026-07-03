@@ -7,7 +7,7 @@ import Stats from "./screens/Stats.jsx";
 import Admin from "./screens/Admin.jsx";
 import { loadCurrentWeek, loadAcceptSet } from "./game/weekData.js";
 import { weekdaySlot, dateKeyForSlot, formatShortDate } from "./game/hstTime.js";
-import { hasSeenRules, markRulesSeen, loadTheme, saveTheme, loadResult, clearAll } from "./game/persistence.js";
+import { hasSeenRules, markRulesSeen, loadTheme, saveTheme, loadResult, clearAll, clearDay } from "./game/persistence.js";
 
 // Testing helper: visiting /?reset wipes local state (game, results, rules seen).
 if (typeof window !== "undefined" && new URLSearchParams(window.location.search).has("reset")) {
@@ -141,7 +141,22 @@ export default function App() {
   }
 
   if (view === "countdown") {
-    return <Countdown onStats={goStats} />;
+    return (
+      <Countdown
+        onStats={goStats}
+        onReplay={
+          todaySlot === -1
+            ? undefined // weekend: no "today's word" to replay
+            : () => {
+                const dk = dateKeyForSlot(new Date(), todaySlot);
+                clearDay(dk); // wipe today's saved game + result so it starts fresh
+                setSelectedSlot(todaySlot);
+                setReturnTo(null);
+                setView("play");
+              }
+        }
+      />
+    );
   }
 
   if (view === "weekend") {
