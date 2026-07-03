@@ -38,9 +38,19 @@ function HintButton({ meta, sublabel, onClick, disabled }) {
   );
 }
 
-export default function HintBand({ state, derived, onHint }) {
+// Difficulty by weekday slot (Mon=0 … Fri=4). Mon easy, Tue–Thu intermediate, Fri hard.
+const DIFFICULTY = [
+  "Māʻalahi (Easy)",
+  "Waena (Intermediate)",
+  "Waena (Intermediate)",
+  "Waena (Intermediate)",
+  "Paʻakikī (Difficult)",
+];
+
+export default function HintBand({ state, derived, onHint, slot }) {
   const { guessesLeft, canHint, canRevealLetter, pieceAvailable, defAvailable } = derived;
   const finalGuess = guessesLeft <= 1;
+  const difficulty = DIFFICULTY[slot] ?? "";
 
   const defUsed = state.usedHints[HINTS.DEFINITION];
   const pieceUsed = state.usedHints[HINTS.PIECE];
@@ -59,6 +69,11 @@ export default function HintBand({ state, derived, onHint }) {
 
   return (
     <div className="w-full max-w-[520px] mx-auto px-2 py-3">
+      {difficulty && (
+        <div className="text-center text-[11px] font-semibold tracking-wide mb-1.5" style={{ color: "var(--accent)" }}>
+          {difficulty}
+        </div>
+      )}
       <div className="flex items-center justify-between mb-2">
         <span className="text-[11px] uppercase tracking-wide text-faint">
           Koe · Left: <span className="text-ink font-bold">{Math.max(0, guessesLeft)}</span>

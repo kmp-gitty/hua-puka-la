@@ -42,7 +42,7 @@ export default function DailyPuzzle({ puzzle, acceptSet, dateKey, dayTitle, onRu
           <Board puzzle={puzzle} state={state} derived={derived} />
         </div>
       </div>
-      <HintBand state={state} derived={derived} onHint={(h) => dispatch({ type: "REQUEST_HINT", hint: h })} />
+      <HintBand state={state} derived={derived} slot={puzzle.dayMeta.slot} onHint={(h) => dispatch({ type: "REQUEST_HINT", hint: h })} />
       <div className="pb-4">
         <Keyboard
           keyStatus={state.keyStatus}
