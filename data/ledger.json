@@ -67,6 +67,18 @@
         "haʻupoho",
         "naʻauʻauā"
       ]
+    },
+    {
+      "id": "reserve-03",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "ʻulaʻula",
+        "hāwāwā",
+        "polopeka",
+        "lepelepe",
+        "hoʻokoʻokoʻo"
+      ]
     }
   ]
 }
