@@ -1,6 +1,6 @@
 // Top app bar: ? (rules) left · centered title + day · stats right.
 
-export default function AppBar({ title, onRules, onStats, onToggleTheme, theme }) {
+export default function AppBar({ title, subtitle, onRules, onStats, onToggleTheme, theme }) {
   return (
     <header className="w-full max-w-[600px] mx-auto flex items-center justify-between px-4 py-3">
       <button
@@ -16,6 +16,7 @@ export default function AppBar({ title, onRules, onStats, onToggleTheme, theme }
           Hua Puka Lā
         </div>
         {title && <div className="text-[12px] text-ink-soft">{title}</div>}
+        {subtitle && <div className="text-[11px] font-semibold" style={{ color: "var(--accent)" }}>{subtitle}</div>}
       </div>
       <div className="flex items-center gap-1.5">
         <button

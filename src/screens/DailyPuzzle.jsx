@@ -12,6 +12,9 @@ import { KEY_ROWS } from "../game/constants.js";
 
 const TYPEABLE = new Set([...KEY_ROWS.consonants, ...KEY_ROWS.plainVowels, ...KEY_ROWS.macronVowels]);
 
+// Difficulty by weekday slot (Mon=0 … Fri=4).
+const DIFFICULTY = ["Māʻalahi (Easy)", "Waena (Intermediate)", "Waena (Intermediate)", "Waena (Intermediate)", "Paʻakikī (Difficult)"];
+
 export default function DailyPuzzle({ puzzle, acceptSet, dateKey, dayTitle, onRules, onStats, onToggleTheme, theme, onDone }) {
   const { state, dispatch, derived } = useGame(puzzle, acceptSet, dateKey);
 
@@ -36,7 +39,7 @@ export default function DailyPuzzle({ puzzle, acceptSet, dateKey, dayTitle, onRu
 
   return (
     <div className="h-[100dvh] flex flex-col overflow-hidden">
-      <AppBar title={dayTitle} onRules={onRules} onStats={onStats} onToggleTheme={onToggleTheme} theme={theme} />
+      <AppBar title={dayTitle} subtitle={DIFFICULTY[puzzle.dayMeta.slot] ?? ""} onRules={onRules} onStats={onStats} onToggleTheme={onToggleTheme} theme={theme} />
       <div className="flex-1 flex justify-center px-2 py-2 min-h-0">
         <div className="w-full max-w-[600px] h-full">
           <Board puzzle={puzzle} state={state} derived={derived} />
