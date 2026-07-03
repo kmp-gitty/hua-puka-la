@@ -297,7 +297,14 @@ function runReserve(args, dict, ledger, pieces) {
     console.log(`swapped → ${pendingSummary(p)}`);
     return;
   }
-  // --candidate (optional trailing --exclude WORD[,WORD])
+  // --candidate (optional trailing --exclude WORD[,WORD]). Idempotent: if a
+  // candidate is already pending, don't re-seal (avoids duplicate cards on
+  // repeated "Start / Next cycle" clicks). Approve or swap to advance; --force reseals.
+  if (existsSync(PENDING) && !args.includes("--force")) {
+    const p = JSON.parse(readFileSync(PENDING, "utf8"));
+    console.log(`ALREADY_PENDING ${pendingSummary(p)} — approve or swap to advance (--force to reseal)`);
+    return;
+  }
   const exIdx = args.indexOf("--exclude");
   const exclude = new Set(exIdx >= 0 ? (args[exIdx + 1] ?? "").split(",").filter(Boolean) : []);
   const p = sealCandidate(dict, pieces, ledger, exclude);
