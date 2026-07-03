@@ -65,7 +65,17 @@ Tue–Thu **null**, Fri **allows**. Featured sense follows the piece's `word_sen
 Regenerate: `node --env-file=.env scripts/classify-pieces.mjs` then `seal-week --reseal`.
 `ANTHROPIC_API_KEY` lives in gitignored `.env`. Rationales in `piece-verdicts.json` seed Learn v2.
 
+## Ops pipeline (reserve seeding — WIRED & RUNNING; see docs/OPS.md)
+n8n Cloud → GitHub Actions run `seal-week.mjs` → Google Chat review card → Approve gates the commit.
+Reserve modes: `--candidate` → `data/reserve/pending.json`, `--swap "<word>"`, `--approve` →
+`reserve-NN.json` + ledger. Actions: `.github/workflows/reserve-seal.yml` + `reserve-finalize.yml`.
+n8n scaffold + card live in `ops/`. Reserve weeks in `data/reserve/` are NOT served (not public/) until
+promoted to a live Monday. Classification is NOT in this loop (pool pre-classified). Repo uses
+`pull.rebase=true` so ops-Action commits to main don't collide with local pushes.
+**Status: reserve 2/12 seeded; 10 more cycles to go.** Next: automatic Wednesday cadence (weekly
+production cycle) — scheduled seal, promote reserve→live Monday, low-reserve alarm.
+
 ## Deferred (see STATUS.md for detail)
-- **Monday human-gate** for pieces (spec §5) — verdicts auto-ship for now; add approval in ops.
-- **Ops pipeline** (n8n weekly-seal/notify, Google Chat, GitHub+Vercel deploy) — specified, not built.
+- **Automatic Wednesday cadence** (weekly-seal schedule + promote reserve→live Monday) — design decision
+  pending: generate fresh weekly vs drain the reserve buffer.
 - **Learn mode / Share / streaks / archive** — parked; seams left in the shell.
