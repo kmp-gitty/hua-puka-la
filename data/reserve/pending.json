@@ -1,0 +1,181 @@
+{
+  "reserveId": "reserve-04",
+  "slot": 4,
+  "status": "pending",
+  "createdAt": "2026-07-03T02:48:38.387Z",
+  "puzzles": [
+    {
+      "word": "mahana",
+      "glyphs": [
+        "m",
+        "a",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "mahana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "rest, repose, vacation",
+      "meanings": [
+        "warm",
+        "warmth, heat",
+        "rest, repose, vacation",
+        "farm, plantation, patch",
+        "a class of chiefs"
+      ],
+      "defHint": "rest, repose, vacation",
+      "piece": {
+        "piece_word": "maha",
+        "piece_def": "rest, repose",
+        "tier": 1,
+        "rationale": "maha means rest/repose, literally matching mahana's rest sense."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻūpā",
+      "glyphs": [
+        "ʻ",
+        "ū",
+        "p",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "upa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to open and close the mouth in eating, speaking etc",
+      "meanings": [
+        "to open and close the mouth in eating, speaking etc",
+        "to chew food",
+        "to throb, to inflate and deflate",
+        "to beat, to throb",
+        "to slam",
+        "any tool or instrument with a pair of blades or slats that opens and closes",
+        "scissors, shears, clippers",
+        "pliers",
+        "tongs",
+        "pair of compasses, technical hinged drawing instrument with a sharp metal point for anchoring and the other with a holder for a pencil or pen to inscribe circles or arcs of an adjustable radius.",
+        "any tool that inflates and deflates",
+        "bellows"
+      ],
+      "defHint": "to open and close the mouth in eating, speaking etc",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lena",
+      "glyphs": [
+        "l",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "lena",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "turmeric",
+      "meanings": [
+        "turmeric"
+      ],
+      "defHint": "turmeric",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hue",
+      "glyphs": [
+        "h",
+        "u",
+        "e"
+      ],
+      "length": 3,
+      "bare": "hue",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bottle gourd, Lagenaria siceraria",
+      "meanings": [
+        "bottle gourd, Lagenaria siceraria",
+        "Any container using the dried shell of this plant, calabash.",
+        "bottle, flask"
+      ],
+      "defHint": "bottle gourd, Lagenaria siceraria",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "wilipuaʻa",
+      "glyphs": [
+        "w",
+        "i",
+        "l",
+        "i",
+        "p",
+        "u",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 9,
+      "bare": "wilipuaa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "corkscrew, auger",
+      "meanings": [
+        "corkscrew, auger"
+      ],
+      "defHint": "corkscrew, auger",
+      "piece": {
+        "piece_word": "wili",
+        "piece_def": "to bore, to drill, to screw; to twist",
+        "tier": 1,
+        "rationale": "A corkscrew/auger literally bores and twists; wili is the core morpheme."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "words": [
+    "mahana",
+    "ʻūpā",
+    "lena",
+    "hue",
+    "wilipuaʻa"
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}
