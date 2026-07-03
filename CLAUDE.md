@@ -15,16 +15,19 @@ node scripts/prep-data.mjs            # raw dataset → data/dictionary.json + p
 node scripts/seal-week.mjs --weeks N  # deterministically seal N weeks → public/data/week-*.json + ledger
 node scripts/test-logic.mjs           # pure-logic unit checks (scoring, def-hint)
 ```
-Dev/testing: visit **`/?reset`** to wipe local state and replay (one puzzle per HST day by design).
+Dev/testing URLs: **`/?reset`** wipes local state; **`/?admin`** opens the Admin/preview panel
+(play any weekday, ‹ › to browse other sealed weeks, jump to any screen, reset state);
+**`/?slot=0..4`** jumps straight to a day. All bypass the HST day-lock + Monday-only ʻĀpana.
 
 ## Architecture ("Option A" — static, no backend)
 - **Static React app**; all game logic is client-side. Word data ships as static
   JSON in `public/data/` and is fetched at runtime. No DB, no serverless, no accounts.
 - **State is local-only** (browser storage), keyed by HST date. See `src/game/persistence.js`.
 - **Generation pipeline is in versioned repo scripts, not buried in tooling:**
-  `scripts/prep-data.mjs` (clean/tokenize) and `scripts/seal-week.mjs` (the canonical
-  `seal-week` logic: day-lists, difficulty Mon→Fri, 12-week repeat ledger). n8n will
-  only *orchestrate* these later (not built yet).
+  `scripts/prep-data.mjs` (clean/tokenize), `scripts/classify-pieces.mjs` (Reveal Piece pass),
+  and `scripts/seal-week.mjs` (the canonical `seal-week` logic: day-lists, difficulty Mon→Fri,
+  repeat ledger, + reserve modes `--candidate`/`--swap`/`--approve`). n8n orchestrates via GitHub
+  Actions; it does not contain selection logic (see the Ops pipeline section below).
 
 ## Layout
 - `src/game/` — framework-free logic, shared by scripts (Node) and client (browser):
@@ -32,7 +35,8 @@ Dev/testing: visit **`/?reset`** to wipe local state and replay (one puzzle per 
   scoring), `defHint.js` (headword strip), `hstTime.js` (HST day/week/countdown),
   `constants.js`, `persistence.js`, `analytics.js`, `weekData.js`, `useGame.js` (reducer hook).
 - `src/components/` — Board, Tile, Keyboard, HintBand, RevealPanel, Sheet, AppBar, Icon, MeaningsReveal, Attribution.
-- `src/screens/` — Onboarding, DailyPuzzle (owns the game + renders win/loss), WinReveal, LossReveal, WeekendPicker, Countdown, Stats.
+- `src/screens/` — Onboarding, DailyPuzzle (owns the game + renders win/loss; has Give-up + hint band + keyboard),
+  WinReveal, LossReveal, WeekendPicker, Countdown (Replay-today + Stats buttons), Stats, Admin (dev preview + week nav).
 - `src/App.jsx` — HST-based routing, theme, onboarding gate, Solve/Learn mode seam.
 - `data/` — `source/` (raw JSONL/CSV), `dictionary.json` (prep output, feeds seal), `ledger.json`, `reserve/`.
 - `public/data/` — client-served: `accept.json`, `manifest.json`, `week-YYYY-Www.json`.

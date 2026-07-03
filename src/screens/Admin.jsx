@@ -18,7 +18,20 @@ function Card({ children, onClick }) {
   );
 }
 
-export default function Admin({ week, onPlaySlot, onScreen }) {
+function NavBtn({ label, onClick, disabled }) {
+  return (
+    <button
+      onClick={onClick}
+      disabled={disabled}
+      className="w-8 h-8 grid place-items-center rounded-full text-lg font-bold disabled:opacity-30"
+      style={{ background: "var(--panel)", color: "var(--ink)", border: "1px solid var(--line)" }}
+    >
+      {label}
+    </button>
+  );
+}
+
+export default function Admin({ week, weekId, hasPrev, hasNext, onPrevWeek, onNextWeek, onPlaySlot, onScreen }) {
   return (
     <div className="min-h-full overflow-y-auto">
       <div className="max-w-[560px] mx-auto px-5 py-6">
@@ -26,9 +39,16 @@ export default function Admin({ week, onPlaySlot, onScreen }) {
           <h1 className="text-[24px] font-extrabold tracking-[-0.02em] text-ink">Admin · Preview</h1>
           <span className="text-[11px] px-2 py-0.5 rounded-full" style={{ background: "var(--panel)", color: "var(--faint)" }}>dev only</span>
         </div>
-        <p className="text-faint text-[13px] mb-5">
-          Week <b className="text-ink-soft">{week.weekId}</b> — play any day (bypasses the HST day-lock).
-        </p>
+        <p className="text-faint text-[13px] mb-3">Play any day (bypasses the HST day-lock). Use ‹ › to browse other sealed weeks.</p>
+
+        <div className="flex items-center justify-between mb-4 rounded-panel px-3 py-2" style={{ background: "var(--surface)", border: "1px solid var(--line)" }}>
+          <NavBtn label="‹" onClick={onPrevWeek} disabled={!hasPrev} />
+          <div className="text-center">
+            <div className="font-extrabold text-ink">{weekId ?? week.weekId}</div>
+            <div className="text-[11px] text-faint">sealed week</div>
+          </div>
+          <NavBtn label="›" onClick={onNextWeek} disabled={!hasNext} />
+        </div>
 
         <div className="text-[11px] uppercase tracking-wide text-faint mb-2">Nā lā · Days</div>
         <div className="space-y-2.5 mb-6">

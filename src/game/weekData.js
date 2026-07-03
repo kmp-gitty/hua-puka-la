@@ -16,12 +16,12 @@ export async function loadAcceptSet() {
   return acceptCache;
 }
 
-async function loadManifest() {
+export async function loadManifest() {
   const res = await fetch(`${BASE}/manifest.json`);
   return res.json();
 }
 
-async function loadWeekFile(weekId) {
+export async function loadWeekFile(weekId) {
   const res = await fetch(`${BASE}/week-${weekId}.json`);
   if (!res.ok) throw new Error(`week ${weekId} not found`);
   return res.json();

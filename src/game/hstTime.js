@@ -102,6 +102,22 @@ export function formatMonthDay(dateKey) {
   return `${MONTHS[m - 1]} ${d}`;
 }
 
+// Monday (UTC ms) that begins the given ISO week id "YYYY-Www".
+function isoWeekMonday(weekId) {
+  const [y, w] = weekId.split("-W").map(Number);
+  const jan4 = Date.UTC(y, 0, 4);
+  const jan4Dow = (new Date(jan4).getUTCDay() + 6) % 7; // 0 = Monday
+  return jan4 - jan4Dow * 86400000 + (w - 1) * 7 * 86400000;
+}
+
+// YYYY-MM-DD for a given ISO week id + Mon–Fri slot (0–4). Used by admin week nav.
+export function dateKeyForWeekSlot(weekId, slot) {
+  const d = new Date(isoWeekMonday(weekId) + slot * 86400000);
+  const mm = String(d.getUTCMonth() + 1).padStart(2, "0");
+  const dd = String(d.getUTCDate()).padStart(2, "0");
+  return `${d.getUTCFullYear()}-${mm}-${dd}`;
+}
+
 // The YYYY-MM-DD date key for a given Mon–Fri slot within `date`'s HST week.
 // Used to persist/read per-day state (today's puzzle and weekend replays).
 export function dateKeyForSlot(date, slot) {

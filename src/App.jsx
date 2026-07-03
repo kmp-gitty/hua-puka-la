@@ -5,8 +5,8 @@ import Onboarding from "./screens/Onboarding.jsx";
 import Countdown from "./screens/Countdown.jsx";
 import Stats from "./screens/Stats.jsx";
 import Admin from "./screens/Admin.jsx";
-import { loadCurrentWeek, loadAcceptSet } from "./game/weekData.js";
-import { weekdaySlot, dateKeyForSlot, formatShortDate } from "./game/hstTime.js";
+import { loadCurrentWeek, loadAcceptSet, loadManifest, loadWeekFile } from "./game/weekData.js";
+import { weekdaySlot, dateKeyForSlot, dateKeyForWeekSlot, formatShortDate } from "./game/hstTime.js";
 import { hasSeenRules, markRulesSeen, loadTheme, saveTheme, loadResult, clearAll, clearDay } from "./game/persistence.js";
 
 // Testing helper: visiting /?reset wipes local state (game, results, rules seen).
@@ -37,16 +37,24 @@ export default function App() {
   const [selectedSlot, setSelectedSlot] = useState(0);
   const [fromWeekend, setFromWeekend] = useState(false);
   const [returnTo, setReturnTo] = useState(null); // where a previewed day returns to
+  // Admin week navigation (dev): browse other sealed weeks.
+  const [manifestWeeks, setManifestWeeks] = useState([]);
+  const [adminWeek, setAdminWeek] = useState(null); // week object shown in the admin panel
+  const [adminWeekId, setAdminWeekId] = useState(null);
+  const [playOverride, setPlayOverride] = useState(null); // { puzzle, dateKey } when playing an admin-navigated day
 
   useEffect(() => applyTheme(theme), [theme]);
 
   useEffect(() => {
     let alive = true;
-    Promise.all([loadCurrentWeek(), loadAcceptSet()])
-      .then(([weekResult, accept]) => {
+    Promise.all([loadCurrentWeek(), loadAcceptSet(), loadManifest()])
+      .then(([weekResult, accept, manifest]) => {
         if (!alive) return;
         setData(weekResult);
         setAcceptSet(accept);
+        setManifestWeeks(manifest.weeks ?? []);
+        setAdminWeek(weekResult.week);
+        setAdminWeekId(weekResult.servedId);
         // Admin/preview overrides (dev): ?admin panel, or ?slot=0..4 direct.
         const params = new URLSearchParams(window.location.search);
         const todaySlot = weekdaySlot();
@@ -79,6 +87,22 @@ export default function App() {
       return next;
     });
   }, []);
+
+  const navigateWeek = useCallback(
+    async (delta) => {
+      const idx = manifestWeeks.indexOf(adminWeekId);
+      const next = manifestWeeks[idx + delta];
+      if (!next) return;
+      try {
+        const wk = await loadWeekFile(next);
+        setAdminWeek(wk);
+        setAdminWeekId(next);
+      } catch {
+        /* ignore — week file missing */
+      }
+    },
+    [manifestWeeks, adminWeekId],
+  );
 
   const goStats = useCallback(() => {
     setPrevView((v) => (v === "stats" || view === "stats" ? v : view));
@@ -119,11 +143,22 @@ export default function App() {
   }
 
   if (view === "admin") {
+    const shownWeek = adminWeek ?? week;
+    const shownWeekId = adminWeekId ?? data.servedId;
+    const idx = manifestWeeks.indexOf(shownWeekId);
     return (
       <Admin
-        week={week}
+        week={shownWeek}
+        weekId={shownWeekId}
+        hasPrev={idx > 0}
+        hasNext={idx >= 0 && idx < manifestWeeks.length - 1}
+        onPrevWeek={() => navigateWeek(-1)}
+        onNextWeek={() => navigateWeek(1)}
         onPlaySlot={(slot) => {
-          setSelectedSlot(slot);
+          setPlayOverride({
+            puzzle: shownWeek.puzzles[slot],
+            dateKey: dateKeyForWeekSlot(shownWeekId, slot),
+          });
           setReturnTo("admin");
           setView("play");
         }}
@@ -170,6 +205,7 @@ export default function App() {
         onRules={goRules}
         onStats={goStats}
         onPick={(slot) => {
+          setPlayOverride(null);
           setSelectedSlot(slot);
           setFromWeekend(true);
           setView("play");
@@ -178,9 +214,9 @@ export default function App() {
     );
   }
 
-  // view === "play"
-  const puzzle = week.puzzles[selectedSlot];
-  const dateKey = dateKeyForSlot(new Date(), selectedSlot);
+  // view === "play" — playOverride is set when an admin-navigated (other-week) day is chosen.
+  const puzzle = playOverride ? playOverride.puzzle : week.puzzles[selectedSlot];
+  const dateKey = playOverride ? playOverride.dateKey : dateKeyForSlot(new Date(), selectedSlot);
   const dayTitle = `${puzzle.dayMeta.hawaiian} · ${puzzle.dayMeta.english} · ${formatShortDate(dateKey)}`;
 
   return (
@@ -195,6 +231,7 @@ export default function App() {
       onRules={goRules}
       onStats={goStats}
       onDone={() => {
+        setPlayOverride(null);
         if (returnTo === "admin") {
           setReturnTo(null);
           setView("admin");
