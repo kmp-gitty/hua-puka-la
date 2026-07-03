@@ -96,6 +96,12 @@ export function formatShortDate(dateKey) {
   return `${MONTHS[m - 1]} ${d}, ${y}`;
 }
 
+// Compact "Jul 3" (no year) — for day cards and the weekend header.
+export function formatMonthDay(dateKey) {
+  const [, m, d] = dateKey.split("-").map(Number);
+  return `${MONTHS[m - 1]} ${d}`;
+}
+
 // The YYYY-MM-DD date key for a given Mon–Fri slot within `date`'s HST week.
 // Used to persist/read per-day state (today's puzzle and weekend replays).
 export function dateKeyForSlot(date, slot) {
