@@ -79,6 +79,114 @@
         "lepelepe",
         "hoʻokoʻokoʻo"
       ]
+    },
+    {
+      "id": "reserve-04",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "mahana",
+        "ʻūpā",
+        "lena",
+        "hue",
+        "wilipuaʻa"
+      ]
+    },
+    {
+      "id": "reserve-05",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "lumaʻi",
+        "mama",
+        "leo",
+        "kolepa",
+        "ʻāpikipiki"
+      ]
+    },
+    {
+      "id": "reserve-06",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "ʻāhui",
+        "poloka",
+        "punihei",
+        "hōʻona",
+        "hoʻopumehana"
+      ]
+    },
+    {
+      "id": "reserve-07",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "puʻukani",
+        "holoāiʻa",
+        "kūkā",
+        "pūhihio",
+        "ʻōhuluhulu"
+      ]
+    },
+    {
+      "id": "reserve-08",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "hoʻonani",
+        "kāʻahi",
+        "hula",
+        "hohoki",
+        "hoʻokamaliʻi"
+      ]
+    },
+    {
+      "id": "reserve-09",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "kīpuka",
+        "hopohopo",
+        "pihaʻā",
+        "kahiko",
+        "haukalima"
+      ]
+    },
+    {
+      "id": "reserve-10",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "ʻokina",
+        "naio",
+        "ono",
+        "moa",
+        "kakahiaka"
+      ]
+    },
+    {
+      "id": "reserve-11",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "ʻinoʻino",
+        "pilikana",
+        "mokulele",
+        "kolili",
+        "haukapila"
+      ]
+    },
+    {
+      "id": "reserve-12",
+      "ordinal": null,
+      "type": "reserve",
+      "words": [
+        "pōhina",
+        "hālāwai",
+        "kea",
+        "hīkiʻi",
+        "hoʻomālie"
+      ]
     }
   ]
 }

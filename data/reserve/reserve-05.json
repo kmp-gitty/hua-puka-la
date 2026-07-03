@@ -1,0 +1,164 @@
+{
+  "reserveId": "reserve-05",
+  "sealedAt": "2026-07-03T03:18:11.956Z",
+  "puzzles": [
+    {
+      "word": "lumaʻi",
+      "glyphs": [
+        "l",
+        "u",
+        "m",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "lumai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to drown (someone)",
+      "meanings": [
+        "to drown (someone)"
+      ],
+      "defHint": "to drown (someone)",
+      "piece": {
+        "piece_word": "luma",
+        "piece_def": "to drown",
+        "tier": 1,
+        "rationale": "The piece means 'to drown', which literally matches the word's meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mama",
+      "glyphs": [
+        "m",
+        "a",
+        "m",
+        "a"
+      ],
+      "length": 4,
+      "bare": "mama",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to chew, masticate (but not swallow)",
+      "meanings": [
+        "to chew, masticate (but not swallow)"
+      ],
+      "defHint": "to chew, masticate (but not swallow)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "leo",
+      "glyphs": [
+        "l",
+        "e",
+        "o"
+      ],
+      "length": 3,
+      "bare": "leo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "voice; sound",
+      "meanings": [
+        "voice; sound",
+        "command",
+        "verbal message",
+        "to speak",
+        "to make a sound"
+      ],
+      "defHint": "voice; sound",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kolepa",
+      "glyphs": [
+        "k",
+        "o",
+        "l",
+        "e",
+        "p",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kolepa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "golf (sport)",
+      "meanings": [
+        "golf (sport)"
+      ],
+      "defHint": "golf (sport)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻāpikipiki",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "p",
+        "i",
+        "k",
+        "i",
+        "p",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 10,
+      "bare": "apikipiki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "troubled, agitated",
+      "meanings": [
+        "troubled, agitated",
+        "to fold, to pleat",
+        "fold, pleat"
+      ],
+      "defHint": "troubled, agitated",
+      "piece": {
+        "piece_word": "kipi",
+        "piece_def": "to plot or conspire against; to revolt, to rebel",
+        "tier": 2,
+        "rationale": "Rebellion/conspiring relates to being troubled and agitated."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

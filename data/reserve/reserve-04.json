@@ -1,8 +1,6 @@
 {
   "reserveId": "reserve-04",
-  "slot": 4,
-  "status": "pending",
-  "createdAt": "2026-07-03T02:48:38.387Z",
+  "sealedAt": "2026-07-03T03:18:11.844Z",
   "puzzles": [
     {
       "word": "mahana",
@@ -169,13 +167,6 @@
         "difficulty": 5
       }
     }
-  ],
-  "words": [
-    "mahana",
-    "ʻūpā",
-    "lena",
-    "hue",
-    "wilipuaʻa"
   ],
   "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
 }

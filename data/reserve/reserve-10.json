@@ -1,0 +1,157 @@
+{
+  "reserveId": "reserve-10",
+  "sealedAt": "2026-07-03T03:18:12.288Z",
+  "puzzles": [
+    {
+      "word": "ʻokina",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "k",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "okina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cutting off, separation",
+      "meanings": [
+        "cutting off, separation",
+        "okina"
+      ],
+      "defHint": "cutting off, separation",
+      "piece": {
+        "piece_word": "oki",
+        "piece_def": "to finish; to stop",
+        "tier": 1,
+        "rationale": "'oki relates to cutting off/stopping, which literally appears in the meaning cutting off, separation."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "naio",
+      "glyphs": [
+        "n",
+        "a",
+        "i",
+        "o"
+      ],
+      "length": 4,
+      "bare": "naio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pinworm",
+      "meanings": [
+        "pinworm",
+        "white specks in faeces",
+        "larva",
+        "inferior taro, discarded in the field after harvest",
+        "type of seaweed",
+        "false sandalwood (Myoporum sandwicense), a flowering plant in the figwort family",
+        "Myoporum trees"
+      ],
+      "defHint": "pinworm",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ono",
+      "glyphs": [
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 3,
+      "bare": "ono",
+      "pos": [
+        "noun",
+        "num"
+      ],
+      "featuredSense": "six",
+      "meanings": [
+        "six",
+        "sixth",
+        "wahoo (Acanthocybium solandri)"
+      ],
+      "defHint": "six",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "moa",
+      "glyphs": [
+        "m",
+        "o",
+        "a"
+      ],
+      "length": 3,
+      "bare": "moa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "chicken or similar fowl",
+      "meanings": [
+        "chicken or similar fowl"
+      ],
+      "defHint": "chicken or similar fowl",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kakahiaka",
+      "glyphs": [
+        "k",
+        "a",
+        "k",
+        "a",
+        "h",
+        "i",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kakahiaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "morning (time of day around dawn)",
+      "meanings": [
+        "morning (time of day around dawn)"
+      ],
+      "defHint": "morning (time of day around dawn)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

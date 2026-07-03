@@ -1,0 +1,164 @@
+{
+  "reserveId": "reserve-11",
+  "sealedAt": "2026-07-03T03:18:12.358Z",
+  "puzzles": [
+    {
+      "word": "ʻinoʻino",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "n",
+        "o",
+        "ʻ",
+        "i",
+        "n",
+        "o"
+      ],
+      "length": 8,
+      "bare": "inoino",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "spoiled, contaminated, rotten",
+      "meanings": [
+        "spoiled, contaminated, rotten",
+        "broken, damaged",
+        "wretched"
+      ],
+      "defHint": "spoiled, contaminated, rotten",
+      "piece": {
+        "piece_word": "ʻino",
+        "piece_def": "bad, wicked; foul, rotten, smelly, ugly, of poor quality",
+        "tier": 1,
+        "rationale": "ʻinoʻino is reduplication of ʻino; rotten/spoiled meaning appears directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pilikana",
+      "glyphs": [
+        "p",
+        "i",
+        "l",
+        "i",
+        "k",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "pilikana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "relationship",
+      "meanings": [
+        "relationship",
+        "relative, kin"
+      ],
+      "defHint": "relationship",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mokulele",
+      "glyphs": [
+        "m",
+        "o",
+        "k",
+        "u",
+        "l",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "mokulele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "airplane",
+      "meanings": [
+        "airplane"
+      ],
+      "defHint": "airplane",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kolili",
+      "glyphs": [
+        "k",
+        "o",
+        "l",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kolili",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to flutter",
+      "meanings": [
+        "to flutter"
+      ],
+      "defHint": "to flutter",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "haukapila",
+      "glyphs": [
+        "h",
+        "a",
+        "u",
+        "k",
+        "a",
+        "p",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 9,
+      "bare": "haukapila",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "hospital",
+      "meanings": [
+        "hospital"
+      ],
+      "defHint": "hospital",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}
