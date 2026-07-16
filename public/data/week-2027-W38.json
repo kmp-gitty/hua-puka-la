@@ -1,0 +1,167 @@
+{
+  "weekId": "2027-W38",
+  "ordinal": 3012,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kūkae",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "a",
+        "e"
+      ],
+      "length": 5,
+      "bare": "kukae",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "excrement, dung, feces",
+      "meanings": [
+        "excrement, dung, feces",
+        "filth, residue in general"
+      ],
+      "defHint": "excrement, dung, feces",
+      "piece": {
+        "piece_word": "kae",
+        "piece_def": "excrement; rubbish, refuse, waste",
+        "tier": 1,
+        "rationale": "kae means excrement/waste, directly matching kūkae's definition of excrement and filth"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hae",
+      "glyphs": [
+        "h",
+        "a",
+        "e"
+      ],
+      "length": 3,
+      "bare": "hae",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to tear",
+      "meanings": [
+        "to tear",
+        "tear",
+        "flag",
+        "rage, fury",
+        "wild, fierce, savage"
+      ],
+      "defHint": "to tear",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ane",
+      "glyphs": [
+        "a",
+        "n",
+        "e"
+      ],
+      "length": 3,
+      "bare": "ane",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "mite (insect)",
+      "meanings": [
+        "mite (insect)",
+        "ringworm",
+        "insect-eaten",
+        "gnawed"
+      ],
+      "defHint": "mite (insect)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "panepane",
+      "glyphs": [
+        "p",
+        "a",
+        "n",
+        "e",
+        "p",
+        "a",
+        "n",
+        "e"
+      ],
+      "length": 8,
+      "bare": "panepane",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to talk back",
+      "meanings": [
+        "to talk back"
+      ],
+      "defHint": "to talk back",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomākonā",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "ā",
+        "k",
+        "o",
+        "n",
+        "ā"
+      ],
+      "length": 10,
+      "bare": "hoomakona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act mean",
+      "meanings": [
+        "to act mean"
+      ],
+      "defHint": "to act mean",
+      "piece": {
+        "piece_word": "mākonā",
+        "piece_def": "hard, unyielding; mean, nasty; malevolent, evil",
+        "tier": 1,
+        "rationale": "Base word meaning mean/nasty; hoʻo- causative form means to act mean."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

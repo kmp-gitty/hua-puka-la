@@ -1,0 +1,164 @@
+{
+  "weekId": "2030-W16",
+  "ordinal": 3146,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻikena",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "k",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "ikena",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "observation, knowledge",
+      "meanings": [
+        "sight, scenery",
+        "observation, knowledge"
+      ],
+      "defHint": "observation, knowledge",
+      "piece": {
+        "piece_word": "ʻike",
+        "piece_def": "sight; knowledge; to see; to know",
+        "tier": 1,
+        "rationale": "ʻike is the root; sight and knowledge literally appear in both senses."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "māiʻuʻu",
+      "glyphs": [
+        "m",
+        "ā",
+        "i",
+        "ʻ",
+        "u",
+        "ʻ",
+        "u"
+      ],
+      "length": 7,
+      "bare": "maiuu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "nail; keratin end of the toes and fingers",
+      "meanings": [
+        "nail; keratin end of the toes and fingers",
+        "claw",
+        "hoof"
+      ],
+      "defHint": "nail; keratin end of the toes and fingers",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hipa",
+      "glyphs": [
+        "h",
+        "i",
+        "p",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hipa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sheep",
+      "meanings": [
+        "sheep"
+      ],
+      "defHint": "sheep",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kanu",
+      "glyphs": [
+        "k",
+        "a",
+        "n",
+        "u"
+      ],
+      "length": 4,
+      "bare": "kanu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to plant",
+      "meanings": [
+        "to plant",
+        "to bury"
+      ],
+      "defHint": "to plant",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "holoholona",
+      "glyphs": [
+        "h",
+        "o",
+        "l",
+        "o",
+        "h",
+        "o",
+        "l",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "holoholona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "trip, excursion",
+      "meanings": [
+        "animal",
+        "trip, excursion"
+      ],
+      "defHint": "trip, excursion",
+      "piece": {
+        "piece_word": "holo",
+        "piece_def": "to go, run, slide, progress; to sail, ride, gallop",
+        "tier": 1,
+        "rationale": "holoholona derives from holo; the trip/excursion sense directly reflects going/running."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

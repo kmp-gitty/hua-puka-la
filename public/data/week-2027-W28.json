@@ -1,0 +1,162 @@
+{
+  "weekId": "2027-W28",
+  "ordinal": 3002,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hōʻona",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "hoona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "intoxicating",
+      "meanings": [
+        "intoxicating"
+      ],
+      "defHint": "intoxicating",
+      "piece": {
+        "piece_word": "ʻona",
+        "piece_def": "drunk; intoxicating; intoxication",
+        "tier": 1,
+        "rationale": "'ʻona' means intoxicating, matching the word's meaning literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻakele",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "akele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "acre",
+      "meanings": [
+        "acre"
+      ],
+      "defHint": "acre",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "huhū",
+      "glyphs": [
+        "h",
+        "u",
+        "h",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "huhu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "anger",
+      "meanings": [
+        "anger",
+        "to be offended, angry"
+      ],
+      "defHint": "anger",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "noʻeau",
+      "glyphs": [
+        "n",
+        "o",
+        "ʻ",
+        "e",
+        "a",
+        "u"
+      ],
+      "length": 6,
+      "bare": "noeau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "clever; wise",
+      "meanings": [
+        "clever; wise",
+        "skilled, talented"
+      ],
+      "defHint": "clever; wise",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pōʻailani",
+      "glyphs": [
+        "p",
+        "ō",
+        "ʻ",
+        "a",
+        "i",
+        "l",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 9,
+      "bare": "poailani",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "horizon",
+      "meanings": [
+        "horizon"
+      ],
+      "defHint": "horizon",
+      "piece": {
+        "piece_word": "lani",
+        "piece_def": "sky, heavens, firmament",
+        "tier": 2,
+        "rationale": "Horizon is where sky/heavens meet earth; lani (sky) meaningfully relates."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

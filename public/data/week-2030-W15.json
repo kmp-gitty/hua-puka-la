@@ -1,0 +1,159 @@
+{
+  "weekId": "2030-W15",
+  "ordinal": 3145,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "alanui",
+      "glyphs": [
+        "a",
+        "l",
+        "a",
+        "n",
+        "u",
+        "i"
+      ],
+      "length": 6,
+      "bare": "alanui",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "road, street, large path",
+      "meanings": [
+        "road, street, large path"
+      ],
+      "defHint": "road, street, large path",
+      "piece": {
+        "piece_word": "nui",
+        "piece_def": "big, great, large",
+        "tier": 1,
+        "rationale": "alanui = 'large path/road'; nui contributes the 'large' meaning literally in the definition"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kōkē",
+      "glyphs": [
+        "k",
+        "ō",
+        "k",
+        "ē"
+      ],
+      "length": 4,
+      "bare": "koke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "to strike, to hit",
+      "meanings": [
+        "to strike, to hit"
+      ],
+      "defHint": "to strike, to hit",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lolo",
+      "glyphs": [
+        "l",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 4,
+      "bare": "lolo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "brain",
+      "meanings": [
+        "brain",
+        "bone marrow",
+        "coconut heart or coconut apple, i.e. spongy cotyledon from a sprouting coconut"
+      ],
+      "defHint": "brain",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ola",
+      "glyphs": [
+        "o",
+        "l",
+        "a"
+      ],
+      "length": 3,
+      "bare": "ola",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "existence",
+      "meanings": [
+        "existence",
+        "life",
+        "health",
+        "livelihood",
+        "exist",
+        "alive",
+        "healthy, cured"
+      ],
+      "defHint": "existence",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomaʻau",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 9,
+      "bare": "hoomaau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to persecute",
+      "meanings": [
+        "to persecute",
+        "to bully"
+      ],
+      "defHint": "to persecute",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

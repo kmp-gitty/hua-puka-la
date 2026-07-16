@@ -1,0 +1,159 @@
+{
+  "weekId": "2027-W25",
+  "ordinal": 2999,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hakuhaku",
+      "glyphs": [
+        "h",
+        "a",
+        "k",
+        "u",
+        "h",
+        "a",
+        "k",
+        "u"
+      ],
+      "length": 8,
+      "bare": "hakuhaku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "lumpy",
+      "meanings": [
+        "lumpy",
+        "to fold"
+      ],
+      "defHint": "lumpy",
+      "piece": {
+        "piece_word": "haku",
+        "piece_def": "core, lump, stone, coconut sponge",
+        "tier": 1,
+        "rationale": "hakuhaku (lumpy) reduplicates haku, whose sense 'lump' literally appears in the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kalaiwa",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "a",
+        "i",
+        "w",
+        "a"
+      ],
+      "length": 7,
+      "bare": "kalaiwa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to drive (a vehicle)",
+      "meanings": [
+        "to drive (a vehicle)"
+      ],
+      "defHint": "to drive (a vehicle)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "oli",
+      "glyphs": [
+        "o",
+        "l",
+        "i"
+      ],
+      "length": 3,
+      "bare": "oli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "A chant",
+      "meanings": [
+        "A chant"
+      ],
+      "defHint": "A chant",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻōwehe",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "w",
+        "e",
+        "h",
+        "e"
+      ],
+      "length": 6,
+      "bare": "owehe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "description",
+      "meanings": [
+        "description"
+      ],
+      "defHint": "description",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻākulikuli",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "k",
+        "u",
+        "l",
+        "i",
+        "k",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 10,
+      "bare": "akulikuli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "shoreline purslane (Sesuvium portulacastrum)",
+      "meanings": [
+        "shoreline purslane (Sesuvium portulacastrum)",
+        "any of various similar succulent plants"
+      ],
+      "defHint": "shoreline purslane (Sesuvium portulacastrum)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,157 @@
+{
+  "weekId": "2028-W40",
+  "ordinal": 3066,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻoluʻu",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "u",
+        "ʻ",
+        "u"
+      ],
+      "length": 8,
+      "bare": "hooluu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to plunge or dip something in liquids, dyes, solutions etc",
+      "meanings": [
+        "to plunge or dip something in liquids, dyes, solutions etc"
+      ],
+      "defHint": "to plunge or dip something in liquids, dyes, solutions etc",
+      "piece": {
+        "piece_word": "luʻu",
+        "piece_def": "to dive, plunge or dip oneself, to immerse",
+        "tier": 1,
+        "rationale": "hoʻoluʻu is the causative of luʻu (plunge/dip); plunge/dip literally in definition"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hiwa",
+      "glyphs": [
+        "h",
+        "i",
+        "w",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hiwa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "entirely black",
+      "meanings": [
+        "entirely black"
+      ],
+      "defHint": "entirely black",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kekele",
+      "glyphs": [
+        "k",
+        "e",
+        "k",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "kekele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "degree",
+      "meanings": [
+        "degree"
+      ],
+      "defHint": "degree",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "eʻe",
+      "glyphs": [
+        "e",
+        "ʻ",
+        "e"
+      ],
+      "length": 3,
+      "bare": "ee",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to get on, to board",
+      "meanings": [
+        "to get on, to board",
+        "to climb on, to mount",
+        "to log on",
+        "step"
+      ],
+      "defHint": "to get on, to board",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōnaehana",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "n",
+        "a",
+        "e",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "onaehana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "system",
+      "meanings": [
+        "system"
+      ],
+      "defHint": "system",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

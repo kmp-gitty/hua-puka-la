@@ -1,0 +1,168 @@
+{
+  "weekId": "2028-W28",
+  "ordinal": 3054,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻahamele",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "h",
+        "a",
+        "m",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "ahamele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "concert",
+      "meanings": [
+        "concert",
+        "yellow-spotted needlefish"
+      ],
+      "defHint": "concert",
+      "piece": {
+        "piece_word": "mele",
+        "piece_def": "chant, song, poem; to sing",
+        "tier": 1,
+        "rationale": "'ahamele is a concert; mele (song/singing) literally central to the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lulu",
+      "glyphs": [
+        "l",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 4,
+      "bare": "lulu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "calm, peace",
+      "meanings": [
+        "calm, peace",
+        "shelter; safe place",
+        "shield"
+      ],
+      "defHint": "calm, peace",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hao",
+      "glyphs": [
+        "h",
+        "a",
+        "o"
+      ],
+      "length": 3,
+      "bare": "hao",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "iron; general name for metal tools; a bit",
+      "meanings": [
+        "iron; general name for metal tools; a bit",
+        "brand (as on a horse)",
+        "horn (as of a goat)",
+        "robber",
+        "to scoop, pick up",
+        "to grasp, pillage, plunder",
+        "any plant of the genus Rauvolfia"
+      ],
+      "defHint": "iron; general name for metal tools; a bit",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lunu",
+      "glyphs": [
+        "l",
+        "u",
+        "n",
+        "u"
+      ],
+      "length": 4,
+      "bare": "lunu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "greed",
+      "meanings": [
+        "greed"
+      ],
+      "defHint": "greed",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kumukānāwai",
+      "glyphs": [
+        "k",
+        "u",
+        "m",
+        "u",
+        "k",
+        "ā",
+        "n",
+        "ā",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 11,
+      "bare": "kumukanawai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "constitution",
+      "meanings": [
+        "constitution"
+      ],
+      "defHint": "constitution",
+      "piece": {
+        "piece_word": "kumu",
+        "piece_def": "basis, foundation; source",
+        "tier": 2,
+        "rationale": "A constitution is the foundational basis of law; kumu means foundation/source"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

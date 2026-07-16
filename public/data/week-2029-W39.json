@@ -1,0 +1,153 @@
+{
+  "weekId": "2029-W39",
+  "ordinal": 3117,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lepelepe",
+      "glyphs": [
+        "l",
+        "e",
+        "p",
+        "e",
+        "l",
+        "e",
+        "p",
+        "e"
+      ],
+      "length": 8,
+      "bare": "lepelepe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "fringed",
+      "meanings": [
+        "fringed"
+      ],
+      "defHint": "fringed",
+      "piece": {
+        "piece_word": "lepe",
+        "piece_def": "hem, fringe",
+        "tier": 1,
+        "rationale": "lepelepe is reduplication of lepe (fringe); 'fringe' literally matches the definition 'fringed'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "oki",
+      "glyphs": [
+        "o",
+        "k",
+        "i"
+      ],
+      "length": 3,
+      "bare": "oki",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to finish",
+      "meanings": [
+        "to finish",
+        "to stop"
+      ],
+      "defHint": "to finish",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hilo",
+      "glyphs": [
+        "h",
+        "i",
+        "l",
+        "o"
+      ],
+      "length": 4,
+      "bare": "hilo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to twist",
+      "meanings": [
+        "to twist"
+      ],
+      "defHint": "to twist",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hoku",
+      "glyphs": [
+        "h",
+        "o",
+        "k",
+        "u"
+      ],
+      "length": 4,
+      "bare": "hoku",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Night of the full moon",
+      "meanings": [
+        "Night of the full moon"
+      ],
+      "defHint": "Night of the full moon",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pelekikena",
+      "glyphs": [
+        "p",
+        "e",
+        "l",
+        "e",
+        "k",
+        "i",
+        "k",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "pelekikena",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "president",
+      "meanings": [
+        "president"
+      ],
+      "defHint": "president",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

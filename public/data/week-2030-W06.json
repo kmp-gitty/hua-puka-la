@@ -1,0 +1,179 @@
+{
+  "weekId": "2030-W06",
+  "ordinal": 3136,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "heleāiʻa",
+      "glyphs": [
+        "h",
+        "e",
+        "l",
+        "e",
+        "ā",
+        "i",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "heleaia",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to swim like a fish",
+      "meanings": [
+        "to swim like a fish"
+      ],
+      "defHint": "to swim like a fish",
+      "piece": {
+        "piece_word": "iʻa",
+        "piece_def": "fish (vertebrate animal)",
+        "tier": 1,
+        "rationale": "'fish' literally appears in 'to swim like a fish'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻāpono",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "p",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 6,
+      "bare": "apono",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to confirm, to affirm, to certify",
+      "meanings": [
+        "to confirm, to affirm, to certify"
+      ],
+      "defHint": "to confirm, to affirm, to certify",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ono",
+      "glyphs": [
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 3,
+      "bare": "ono",
+      "pos": [
+        "noun",
+        "num"
+      ],
+      "featuredSense": "six",
+      "meanings": [
+        "six",
+        "sixth",
+        "wahoo (Acanthocybium solandri)"
+      ],
+      "defHint": "six",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kuʻi",
+      "glyphs": [
+        "k",
+        "u",
+        "ʻ",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kui",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to pound, to strike",
+      "meanings": [
+        "to pound, to strike",
+        "to jam in",
+        "to churn (of butter)",
+        "to forge (of steel)",
+        "to punch, to box",
+        "to clash, to boom",
+        "pestle",
+        "boxing",
+        "to join, to unite",
+        "to stitch",
+        "to splice",
+        "conjoined, convergent",
+        "seam",
+        "artificial"
+      ],
+      "defHint": "to pound, to strike",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomalihini",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "l",
+        "i",
+        "h",
+        "i",
+        "n",
+        "i"
+      ],
+      "length": 12,
+      "bare": "hoomalihini",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act as a guest or visitor",
+      "meanings": [
+        "to act as a guest or visitor",
+        "to reveal that guests are coming (by omens, etc.)"
+      ],
+      "defHint": "to act as a guest or visitor",
+      "piece": {
+        "piece_word": "malihini",
+        "piece_def": "stranger; newcomer; visitor",
+        "tier": 1,
+        "rationale": "Root of the word; hoʻomalihini means to act as a guest/visitor, directly from malihini."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

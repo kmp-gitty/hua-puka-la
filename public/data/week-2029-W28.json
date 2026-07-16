@@ -1,0 +1,170 @@
+{
+  "weekId": "2029-W28",
+  "ordinal": 3106,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pāpale",
+      "glyphs": [
+        "p",
+        "ā",
+        "p",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "papale",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "hat, cap",
+      "meanings": [
+        "hat, cap",
+        "crest",
+        "to wear a hat",
+        "to overshadow"
+      ],
+      "defHint": "hat, cap",
+      "piece": {
+        "piece_word": "pale",
+        "piece_def": "headdress; cover",
+        "tier": 1,
+        "rationale": "pale means headdress/cover, directly relating to hat/cap and the crest sense of pāpale."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mālua",
+      "glyphs": [
+        "m",
+        "ā",
+        "l",
+        "u",
+        "a"
+      ],
+      "length": 5,
+      "bare": "malua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "planting hole",
+      "meanings": [
+        "planting hole"
+      ],
+      "defHint": "planting hole",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "haku",
+      "glyphs": [
+        "h",
+        "a",
+        "k",
+        "u"
+      ],
+      "length": 4,
+      "bare": "haku",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "lord, master, overseer, employer, owner, possessor, proprietor, luna",
+      "meanings": [
+        "lord, master, overseer, employer, owner, possessor, proprietor, luna",
+        "core, lump, stone, coconut sponge",
+        "stone (of a fruit), seeds and pulp (of a melon)",
+        "to compose, to invent, to put in order, to arrange",
+        "to braid, to plait",
+        "to program"
+      ],
+      "defHint": "lord, master, overseer, employer, owner, possessor, proprietor, luna",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hōkeo",
+      "glyphs": [
+        "h",
+        "ō",
+        "k",
+        "e",
+        "o"
+      ],
+      "length": 5,
+      "bare": "hokeo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bottle gourd (used to hold clothing, gear, etc.)",
+      "meanings": [
+        "bottle gourd (used to hold clothing, gear, etc.)",
+        "gear, kit"
+      ],
+      "defHint": "bottle gourd (used to hold clothing, gear, etc.)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pūkonakona",
+      "glyphs": [
+        "p",
+        "ū",
+        "k",
+        "o",
+        "n",
+        "a",
+        "k",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "pukonakona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "muscular, husky",
+      "meanings": [
+        "muscular, husky",
+        "strong, mighty, tough"
+      ],
+      "defHint": "muscular, husky",
+      "piece": {
+        "piece_word": "konakona",
+        "piece_def": "muscled, muscular",
+        "tier": 1,
+        "rationale": "Meaning 'muscular' literally matches the larger word's definition."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

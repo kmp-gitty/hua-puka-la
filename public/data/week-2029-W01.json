@@ -1,0 +1,177 @@
+{
+  "weekId": "2029-W01",
+  "ordinal": 3079,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pumehana",
+      "glyphs": [
+        "p",
+        "u",
+        "m",
+        "e",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "pumehana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "warm",
+      "meanings": [
+        "warm",
+        "warm-hearted",
+        "warmth",
+        "affection"
+      ],
+      "defHint": "warm",
+      "piece": {
+        "piece_word": "hana",
+        "piece_def": "warm",
+        "tier": 1,
+        "rationale": "hana carries the sense 'warm', literally matching pumehana's meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hai",
+      "glyphs": [
+        "h",
+        "a",
+        "i"
+      ],
+      "length": 3,
+      "bare": "hai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to offer, to sacrifice",
+      "meanings": [
+        "to offer, to sacrifice",
+        "offering, sacrifice",
+        "to hire"
+      ],
+      "defHint": "to offer, to sacrifice",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kolohe",
+      "glyphs": [
+        "k",
+        "o",
+        "l",
+        "o",
+        "h",
+        "e"
+      ],
+      "length": 6,
+      "bare": "kolohe",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "mischievous, naughty",
+      "meanings": [
+        "mischievous, naughty",
+        "illegal, fraudulent",
+        "destructive",
+        "to misbehave",
+        "rascal, scamp, prankster",
+        "vandal"
+      ],
+      "defHint": "mischievous, naughty",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "une",
+      "glyphs": [
+        "u",
+        "n",
+        "e"
+      ],
+      "length": 3,
+      "bare": "une",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "lever",
+      "meanings": [
+        "lever",
+        "to pry",
+        "to disturb, to harass"
+      ],
+      "defHint": "lever",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻahaʻōlelo",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "h",
+        "a",
+        "ʻ",
+        "ō",
+        "l",
+        "e",
+        "l",
+        "o"
+      ],
+      "length": 10,
+      "bare": "ahaolelo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "legislature, assembly, council",
+      "meanings": [
+        "legislature, assembly, council",
+        "to convene",
+        "to serve in a deliberative body"
+      ],
+      "defHint": "legislature, assembly, council",
+      "piece": {
+        "piece_word": "ʻaha",
+        "piece_def": "meeting, gathering, assembly",
+        "tier": 1,
+        "rationale": "'assembly' literally appears in the definition; ʻaha is the assembly component."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

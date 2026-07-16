@@ -1,0 +1,162 @@
+{
+  "weekId": "2026-W44",
+  "ordinal": 2965,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mokupuni",
+      "glyphs": [
+        "m",
+        "o",
+        "k",
+        "u",
+        "p",
+        "u",
+        "n",
+        "i"
+      ],
+      "length": 8,
+      "bare": "mokupuni",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "island",
+      "meanings": [
+        "island"
+      ],
+      "defHint": "island",
+      "piece": {
+        "piece_word": "moku",
+        "piece_def": "an island, district, forest, section",
+        "tier": 1,
+        "rationale": "Moku itself means island; mokupuni means island (surrounded land)."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kopa",
+      "glyphs": [
+        "k",
+        "o",
+        "p",
+        "a"
+      ],
+      "length": 4,
+      "bare": "kopa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "soap",
+      "meanings": [
+        "soap"
+      ],
+      "defHint": "soap",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "woela",
+      "glyphs": [
+        "w",
+        "o",
+        "e",
+        "l",
+        "a"
+      ],
+      "length": 5,
+      "bare": "woela",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "vowel",
+      "meanings": [
+        "vowel"
+      ],
+      "defHint": "vowel",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kōkō",
+      "glyphs": [
+        "k",
+        "ō",
+        "k",
+        "ō"
+      ],
+      "length": 4,
+      "bare": "koko",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to fulfill",
+      "meanings": [
+        "to fulfill",
+        "to be pregnant",
+        "pregnancy"
+      ],
+      "defHint": "to fulfill",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōhuluhulu",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "h",
+        "u",
+        "l",
+        "u",
+        "h",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 10,
+      "bare": "ohuluhulu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "hairy, shaggy",
+      "meanings": [
+        "hairy, shaggy"
+      ],
+      "defHint": "hairy, shaggy",
+      "piece": {
+        "piece_word": "hulu",
+        "piece_def": "hair (the collection or mass of filaments growing from the skin); fur, wool",
+        "tier": 1,
+        "rationale": "Hair/fur is the root of the reduplicated word meaning hairy/shaggy."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

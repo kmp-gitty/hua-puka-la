@@ -1,0 +1,178 @@
+{
+  "weekId": "2029-W04",
+  "ordinal": 3082,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻoihana",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "i",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 7,
+      "bare": "oihana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "occupation, trade, job",
+      "meanings": [
+        "occupation, trade, job",
+        "employment, career, service",
+        "industry, business",
+        "activities, customs",
+        "department, agency. office, bureau",
+        "tools, utensils",
+        "order",
+        "professional"
+      ],
+      "defHint": "occupation, trade, job",
+      "piece": {
+        "piece_word": "hana",
+        "piece_def": "work, labor, job, employment, occupation",
+        "tier": 1,
+        "rationale": "ʻoihana derives from hana (work); occupation/job literally matches."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hahai",
+      "glyphs": [
+        "h",
+        "a",
+        "h",
+        "a",
+        "i"
+      ],
+      "length": 5,
+      "bare": "hahai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "pursuit",
+      "meanings": [
+        "pursuit",
+        "to pursue, to follow, to chase",
+        "to hunt",
+        "to accompany"
+      ],
+      "defHint": "pursuit",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "meli",
+      "glyphs": [
+        "m",
+        "e",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "meli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "honey",
+      "meanings": [
+        "honey",
+        "bee"
+      ],
+      "defHint": "honey",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "moʻopuna",
+      "glyphs": [
+        "m",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "moopuna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "grandchild, grandniece, grandnephew",
+      "meanings": [
+        "grandchild, grandniece, grandnephew"
+      ],
+      "defHint": "grandchild, grandniece, grandnephew",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hōʻelemakule",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "e",
+        "l",
+        "e",
+        "m",
+        "a",
+        "k",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 12,
+      "bare": "hoelemakule",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to behave like an old man",
+      "meanings": [
+        "to behave like an old man",
+        "to pretend to be an old man"
+      ],
+      "defHint": "to behave like an old man",
+      "piece": {
+        "piece_word": "makule",
+        "piece_def": "aged, elderly",
+        "tier": 1,
+        "rationale": "Core morpheme meaning old/elderly, literally central to 'old man'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

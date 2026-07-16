@@ -1,0 +1,160 @@
+{
+  "weekId": "2027-W21",
+  "ordinal": 2995,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nou",
+      "glyphs": [
+        "n",
+        "o",
+        "u"
+      ],
+      "length": 3,
+      "bare": "nou",
+      "pos": [
+        "pron",
+        "verb"
+      ],
+      "featuredSense": "yours, for you (second person singular)",
+      "meanings": [
+        "yours, for you (second person singular)",
+        "to throw, pitch"
+      ],
+      "defHint": "yours, for you (second person singular)",
+      "piece": {
+        "piece_word": "ou",
+        "piece_def": "yours, your (second person singular possessive)",
+        "tier": 1,
+        "rationale": "'ou' means yours/your, matching the possessive sense 'yours, for you'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "poloka",
+      "glyphs": [
+        "p",
+        "o",
+        "l",
+        "o",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "poloka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "frog",
+      "meanings": [
+        "frog"
+      ],
+      "defHint": "frog",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "waʻu",
+      "glyphs": [
+        "w",
+        "a",
+        "ʻ",
+        "u"
+      ],
+      "length": 4,
+      "bare": "wau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to scrape, to grate",
+      "meanings": [
+        "to scrape, to grate",
+        "to scratch",
+        "scraper or any shell used for this purpose"
+      ],
+      "defHint": "to scrape, to grate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "paniolo",
+      "glyphs": [
+        "p",
+        "a",
+        "n",
+        "i",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 7,
+      "bare": "paniolo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cowboy",
+      "meanings": [
+        "cowboy"
+      ],
+      "defHint": "cowboy",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kālaikūlohea",
+      "glyphs": [
+        "k",
+        "ā",
+        "l",
+        "a",
+        "i",
+        "k",
+        "ū",
+        "l",
+        "o",
+        "h",
+        "e",
+        "a"
+      ],
+      "length": 12,
+      "bare": "kalaikulohea",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "physics",
+      "meanings": [
+        "physics"
+      ],
+      "defHint": "physics",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

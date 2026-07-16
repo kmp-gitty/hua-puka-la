@@ -1,0 +1,180 @@
+{
+  "weekId": "2026-W32",
+  "ordinal": 2953,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mākia",
+      "glyphs": [
+        "m",
+        "ā",
+        "k",
+        "i",
+        "a"
+      ],
+      "length": 5,
+      "bare": "makia",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "spike, stake, nail, pin",
+      "meanings": [
+        "spike, stake, nail, pin",
+        "to drive stakes into",
+        "to fasten",
+        "to crucify",
+        "to establish (a kingdom, etc.)",
+        "to destroy by sorcery",
+        "aim, purpose",
+        "motto"
+      ],
+      "defHint": "spike, stake, nail, pin",
+      "piece": {
+        "piece_word": "kia",
+        "piece_def": "nail, spike; pillar, post",
+        "tier": 1,
+        "rationale": "kia means nail/spike, which literally matches mākia's meaning of spike/stake/nail/pin."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pūʻulu",
+      "glyphs": [
+        "p",
+        "ū",
+        "ʻ",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 6,
+      "bare": "puulu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "group, crowd",
+      "meanings": [
+        "group, crowd",
+        "to form a group/crowd"
+      ],
+      "defHint": "group, crowd",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "waimaka",
+      "glyphs": [
+        "w",
+        "a",
+        "i",
+        "m",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 7,
+      "bare": "waimaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "tears (water that flows from the eyes)",
+      "meanings": [
+        "tears (water that flows from the eyes)"
+      ],
+      "defHint": "tears (water that flows from the eyes)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pio",
+      "glyphs": [
+        "p",
+        "i",
+        "o"
+      ],
+      "length": 3,
+      "bare": "pio",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "extinguished",
+      "meanings": [
+        "extinguished",
+        "gone from sight, disappeared (as of a ship at sea)",
+        "conquered, captured",
+        "to play tag",
+        "captive, prisoner",
+        "tag",
+        "peep, peeping",
+        "to peep, to chirp",
+        "to whistle with the fingers in the mouth",
+        "to pipe (play a flute-like instrument)"
+      ],
+      "defHint": "extinguished",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "māluhiluhi",
+      "glyphs": [
+        "m",
+        "ā",
+        "l",
+        "u",
+        "h",
+        "i",
+        "l",
+        "u",
+        "h",
+        "i"
+      ],
+      "length": 10,
+      "bare": "maluhiluhi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "tired, worn out",
+      "meanings": [
+        "tired, worn out",
+        "tiresome, wearying"
+      ],
+      "defHint": "tired, worn out",
+      "piece": {
+        "piece_word": "luhi",
+        "piece_def": "tired; tiring, laborious; wearisome task",
+        "tier": 1,
+        "rationale": "Reduplication base meaning tired/wearisome directly matches the word's meaning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

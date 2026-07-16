@@ -1,0 +1,174 @@
+{
+  "weekId": "2029-W51",
+  "ordinal": 3129,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻokae",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "a",
+        "e"
+      ],
+      "length": 7,
+      "bare": "hookae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to despise, detest, treat with contempt or scorn",
+      "meanings": [
+        "to despise, detest, treat with contempt or scorn",
+        "to destroy, devastate",
+        "to refrain from doing, as due to horror"
+      ],
+      "defHint": "to despise, detest, treat with contempt or scorn",
+      "piece": {
+        "piece_word": "kae",
+        "piece_def": "scorn; scorned, treated with contempt",
+        "tier": 1,
+        "rationale": "'kae' means scorn/contempt, literally matching to treat with contempt or scorn."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "piko",
+      "glyphs": [
+        "p",
+        "i",
+        "k",
+        "o"
+      ],
+      "length": 4,
+      "bare": "piko",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "navel",
+      "meanings": [
+        "navel",
+        "umbilical cord",
+        "relation",
+        "genitals",
+        "joint of a leaf vein to its petiole",
+        "end of a rope",
+        "summit or peak of hill or mountain, crest or crown of the head, thatch of door"
+      ],
+      "defHint": "navel",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pōhili",
+      "glyphs": [
+        "p",
+        "ō",
+        "h",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "pohili",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "baseball (sport)",
+      "meanings": [
+        "baseball (sport)"
+      ],
+      "defHint": "baseball (sport)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻaiā",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "i",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "aia",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "ungodly, godless",
+      "meanings": [
+        "ungodly, godless",
+        "irreligious, inobservant, heedless of taboos",
+        "wicked",
+        "wickedness"
+      ],
+      "defHint": "ungodly, godless",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kūlanakauhale",
+      "glyphs": [
+        "k",
+        "ū",
+        "l",
+        "a",
+        "n",
+        "a",
+        "k",
+        "a",
+        "u",
+        "h",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 13,
+      "bare": "kulanakauhale",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "city, town, village (a general term)",
+      "meanings": [
+        "city, town, village (a general term)"
+      ],
+      "defHint": "city, town, village (a general term)",
+      "piece": {
+        "piece_word": "kū",
+        "piece_def": "to stand, to establish",
+        "tier": 2,
+        "rationale": "kūlanakauhale derives from kūlana; kū (stand/establish) relates to a settled place."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

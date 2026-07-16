@@ -1,0 +1,161 @@
+{
+  "weekId": "2027-W31",
+  "ordinal": 3005,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nohona",
+      "glyphs": [
+        "n",
+        "o",
+        "h",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "nohona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "seat",
+      "meanings": [
+        "seat",
+        "residence, dwelling",
+        "lifestyle, way of life, existence"
+      ],
+      "defHint": "seat",
+      "piece": {
+        "piece_word": "noho",
+        "piece_def": "seat; chair, stool",
+        "tier": 1,
+        "rationale": "noho means seat/to dwell; nohona derives from it, meaning seat/dwelling/way of life."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "honua",
+      "glyphs": [
+        "h",
+        "o",
+        "n",
+        "u",
+        "a"
+      ],
+      "length": 5,
+      "bare": "honua",
+      "pos": [
+        "adv",
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "land",
+      "meanings": [
+        "land",
+        "earth",
+        "world",
+        "basic, fundamental",
+        "suddenly, abruptly and without reason"
+      ],
+      "defHint": "land",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "koa",
+      "glyphs": [
+        "k",
+        "o",
+        "a"
+      ],
+      "length": 3,
+      "bare": "koa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "warrior",
+      "meanings": [
+        "warrior",
+        "koa (tree)",
+        "to be brave, military"
+      ],
+      "defHint": "warrior",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hālō",
+      "glyphs": [
+        "h",
+        "ā",
+        "l",
+        "ō"
+      ],
+      "length": 4,
+      "bare": "halo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to peer, to peep",
+      "meanings": [
+        "to peer, to peep"
+      ],
+      "defHint": "to peer, to peep",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kamakuaka",
+      "glyphs": [
+        "k",
+        "a",
+        "m",
+        "a",
+        "k",
+        "u",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kamakuaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "kumquat",
+      "meanings": [
+        "kumquat"
+      ],
+      "defHint": "kumquat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

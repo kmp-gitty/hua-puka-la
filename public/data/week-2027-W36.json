@@ -1,0 +1,174 @@
+{
+  "weekId": "2027-W36",
+  "ordinal": 3010,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hōʻaumoe",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "u",
+        "m",
+        "o",
+        "e"
+      ],
+      "length": 8,
+      "bare": "hoaumoe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to pass the night",
+      "meanings": [
+        "to pass the night"
+      ],
+      "defHint": "to pass the night",
+      "piece": {
+        "piece_word": "moe",
+        "piece_def": "to sleep; to lie down",
+        "tier": 1,
+        "rationale": "passing the night involves sleeping/lying down"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoʻolei",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "e",
+        "i"
+      ],
+      "length": 7,
+      "bare": "hoolei",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to throw, cast, send",
+      "meanings": [
+        "to throw, cast, send"
+      ],
+      "defHint": "to throw, cast, send",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "naʻanaʻa",
+      "glyphs": [
+        "n",
+        "a",
+        "ʻ",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "naanaa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "potbellied",
+      "meanings": [
+        "potbellied",
+        "protruding"
+      ],
+      "defHint": "potbellied",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lēpela",
+      "glyphs": [
+        "l",
+        "ē",
+        "p",
+        "e",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "lepela",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "leprosy (disease)",
+      "meanings": [
+        "leprosy (disease)",
+        "leper (sufferer of leprosy)",
+        "leprous"
+      ],
+      "defHint": "leprosy (disease)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokolohua",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "l",
+        "o",
+        "h",
+        "u",
+        "a"
+      ],
+      "length": 11,
+      "bare": "hookolohua",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "experiment",
+      "meanings": [
+        "experiment",
+        "to experiment"
+      ],
+      "defHint": "experiment",
+      "piece": {
+        "piece_word": "hua",
+        "piece_def": "result, effect",
+        "tier": 2,
+        "rationale": "An experiment produces a result/effect, meaningful hint"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

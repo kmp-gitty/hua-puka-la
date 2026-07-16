@@ -1,0 +1,167 @@
+{
+  "weekId": "2027-W45",
+  "ordinal": 3019,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hōʻalo",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "l",
+        "o"
+      ],
+      "length": 6,
+      "bare": "hoalo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to shun, to avoid, to escape",
+      "meanings": [
+        "to shun, to avoid, to escape",
+        "to omit, to skip",
+        "to alternate",
+        "omission"
+      ],
+      "defHint": "to shun, to avoid, to escape",
+      "piece": {
+        "piece_word": "ʻalo",
+        "piece_def": "to dodge, to evade; to resist, to endure",
+        "tier": 1,
+        "rationale": "hōʻalo means to shun/avoid, matching 'alo' (to dodge, evade)"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mama",
+      "glyphs": [
+        "m",
+        "a",
+        "m",
+        "a"
+      ],
+      "length": 4,
+      "bare": "mama",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to chew, masticate (but not swallow)",
+      "meanings": [
+        "to chew, masticate (but not swallow)"
+      ],
+      "defHint": "to chew, masticate (but not swallow)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kuki",
+      "glyphs": [
+        "k",
+        "u",
+        "k",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kuki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cookie",
+      "meanings": [
+        "cookie"
+      ],
+      "defHint": "cookie",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kahe",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "e"
+      ],
+      "length": 4,
+      "bare": "kahe",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to flow, to trickle",
+      "meanings": [
+        "to flow, to trickle",
+        "to drop (of a liquid)",
+        "to melt",
+        "to menstruate",
+        "in heat (of an animal)",
+        "school of fish"
+      ],
+      "defHint": "to flow, to trickle",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopūhili",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "ū",
+        "h",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 10,
+      "bare": "hoopuhili",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to confuse, to frustrate",
+      "meanings": [
+        "to blow in gusts from varying directions",
+        "to confuse, to frustrate"
+      ],
+      "defHint": "to confuse, to frustrate",
+      "piece": {
+        "piece_word": "pūhili",
+        "piece_def": "to veer; confused, frustrated",
+        "tier": 1,
+        "rationale": "pūhili means to veer/confused, directly matching both senses of the causative form."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,172 @@
+{
+  "weekId": "2029-W37",
+  "ordinal": 3115,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "waiūpaʻa",
+      "glyphs": [
+        "w",
+        "a",
+        "i",
+        "ū",
+        "p",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "waiupaa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cheese",
+      "meanings": [
+        "cheese"
+      ],
+      "defHint": "cheese",
+      "piece": {
+        "piece_word": "waiū",
+        "piece_def": "milk",
+        "tier": 1,
+        "rationale": "Cheese is made from milk (waiū paʻa = solid milk)."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻīlio",
+      "glyphs": [
+        "ʻ",
+        "ī",
+        "l",
+        "i",
+        "o"
+      ],
+      "length": 5,
+      "bare": "ilio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "dog",
+      "meanings": [
+        "dog",
+        "any quadruped"
+      ],
+      "defHint": "dog",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hiliuma",
+      "glyphs": [
+        "h",
+        "i",
+        "l",
+        "i",
+        "u",
+        "m",
+        "a"
+      ],
+      "length": 7,
+      "bare": "hiliuma",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "helium (chemical element)",
+      "meanings": [
+        "helium (chemical element)"
+      ],
+      "defHint": "helium (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hoʻokuʻu",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "u",
+        "ʻ",
+        "u"
+      ],
+      "length": 8,
+      "bare": "hookuu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to release, to let go",
+      "meanings": [
+        "to release, to let go",
+        "to expel, to send away",
+        "to fire, to discharge",
+        "to flush",
+        "to secrete"
+      ],
+      "defHint": "to release, to let go",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kukuluaeʻo",
+      "glyphs": [
+        "k",
+        "u",
+        "k",
+        "u",
+        "l",
+        "u",
+        "a",
+        "e",
+        "ʻ",
+        "o"
+      ],
+      "length": 10,
+      "bare": "kukuluaeo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "A species of stilt (bird) native to Hawaii (Himantopus knudseni)",
+      "meanings": [
+        "A species of stilt (bird) native to Hawaii (Himantopus knudseni)",
+        "A stilt (walking pole)"
+      ],
+      "defHint": "A species of stilt (bird) native to Hawaii (Himantopus knudseni)",
+      "piece": {
+        "piece_word": "aeʻo",
+        "piece_def": "A species of stilt (bird) native to Hawaii; a stilt (walking pole)",
+        "tier": 1,
+        "rationale": "Same meaning as the larger word; kukuluaeʻo means the stilt."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

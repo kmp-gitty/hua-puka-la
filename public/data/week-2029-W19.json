@@ -1,0 +1,164 @@
+{
+  "weekId": "2029-W19",
+  "ordinal": 3097,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hōʻauʻau",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "u",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 8,
+      "bare": "hoauau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to bath (give a bath to)",
+      "meanings": [
+        "to bath (give a bath to)"
+      ],
+      "defHint": "to bath (give a bath to)",
+      "piece": {
+        "piece_word": "ʻauʻau",
+        "piece_def": "to bathe",
+        "tier": 1,
+        "rationale": "The root means 'to bathe', literally present in 'to give a bath to'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hīnano",
+      "glyphs": [
+        "h",
+        "ī",
+        "n",
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 6,
+      "bare": "hinano",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "The fragrant male flower of the pandanus",
+      "meanings": [
+        "The fragrant male flower of the pandanus"
+      ],
+      "defHint": "The fragrant male flower of the pandanus",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "manaʻo",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 6,
+      "bare": "manao",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "thought, idea",
+      "meanings": [
+        "thought, idea",
+        "meaning",
+        "concept",
+        "to think, to consider"
+      ],
+      "defHint": "thought, idea",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kulanui",
+      "glyphs": [
+        "k",
+        "u",
+        "l",
+        "a",
+        "n",
+        "u",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kulanui",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "university; college",
+      "meanings": [
+        "university; college"
+      ],
+      "defHint": "university; college",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "manakanika",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "a",
+        "k",
+        "a",
+        "n",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "manakanika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "manganese (chemical element)",
+      "meanings": [
+        "manganese (chemical element)"
+      ],
+      "defHint": "manganese (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

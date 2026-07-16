@@ -1,0 +1,168 @@
+{
+  "weekId": "2029-W27",
+  "ordinal": 3105,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻaʻalu",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "ʻ",
+        "a",
+        "l",
+        "u"
+      ],
+      "length": 6,
+      "bare": "aalu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ravine, valley, depression",
+      "meanings": [
+        "ravine, valley, depression"
+      ],
+      "defHint": "ravine, valley, depression",
+      "piece": {
+        "piece_word": "ʻalu",
+        "piece_def": "ravine, cavity, dent",
+        "tier": 1,
+        "rationale": "ʻalu means ravine/cavity, directly matching the definition of ʻaʻalu."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "malihini",
+      "glyphs": [
+        "m",
+        "a",
+        "l",
+        "i",
+        "h",
+        "i",
+        "n",
+        "i"
+      ],
+      "length": 8,
+      "bare": "malihini",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "foreigner; stranger; tourist; newcomer",
+      "meanings": [
+        "foreigner; stranger; tourist; newcomer",
+        "new; introduced (of foreign origin)"
+      ],
+      "defHint": "foreigner; stranger; tourist; newcomer",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "tita",
+      "glyphs": [
+        "t",
+        "i",
+        "t",
+        "a"
+      ],
+      "length": 4,
+      "bare": "tita",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sister",
+      "meanings": [
+        "sister"
+      ],
+      "defHint": "sister",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "poʻohiwi",
+      "glyphs": [
+        "p",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "i",
+        "w",
+        "i"
+      ],
+      "length": 8,
+      "bare": "poohiwi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "shoulder",
+      "meanings": [
+        "shoulder"
+      ],
+      "defHint": "shoulder",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻoʻulaʻula",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "ʻ",
+        "u",
+        "l",
+        "a",
+        "ʻ",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hooulaula",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to redden",
+      "meanings": [
+        "to redden"
+      ],
+      "defHint": "to redden",
+      "piece": {
+        "piece_word": "ʻula",
+        "piece_def": "red (color)",
+        "tier": 1,
+        "rationale": "ʻula means red; to redden literally involves red."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

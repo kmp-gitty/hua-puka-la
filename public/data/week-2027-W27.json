@@ -1,0 +1,174 @@
+{
+  "weekId": "2027-W27",
+  "ordinal": 3001,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻaʻā",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "a",
+        "ʻ",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "hoaa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to kindle, to light",
+      "meanings": [
+        "to kindle, to light"
+      ],
+      "defHint": "to kindle, to light",
+      "piece": {
+        "piece_word": "ʻā",
+        "piece_def": "fire, burning; to burn",
+        "tier": 1,
+        "rationale": "To kindle/light relates directly to fire and burning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mōhai",
+      "glyphs": [
+        "m",
+        "ō",
+        "h",
+        "a",
+        "i"
+      ],
+      "length": 5,
+      "bare": "mohai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "sacrifice, offering",
+      "meanings": [
+        "sacrifice, offering",
+        "to offer as a sacrifice"
+      ],
+      "defHint": "sacrifice, offering",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "aʻe",
+      "glyphs": [
+        "a",
+        "ʻ",
+        "e"
+      ],
+      "length": 3,
+      "bare": "ae",
+      "pos": [
+        "noun",
+        "particle",
+        "prep"
+      ],
+      "featuredSense": "any of several native Hawaiian trees (Sapindus spp., Zanthoxylum spp.)",
+      "meanings": [
+        "any of several native Hawaiian trees (Sapindus spp., Zanthoxylum spp.)",
+        "up, upward, sideways",
+        "next, approaching",
+        "to; by alternative form of e"
+      ],
+      "defHint": "any of several native Hawaiian trees (Sapindus spp., Zanthoxylum spp.)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kelepona",
+      "glyphs": [
+        "k",
+        "e",
+        "l",
+        "e",
+        "p",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kelepona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "telephone",
+      "meanings": [
+        "telephone"
+      ],
+      "defHint": "telephone",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomaikaʻi",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "i",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 11,
+      "bare": "hoomaikai",
+      "pos": [
+        "intj",
+        "verb"
+      ],
+      "featuredSense": "to improve, to make something better",
+      "meanings": [
+        "congratulations",
+        "to improve, to make something better",
+        "to thank",
+        "to praise",
+        "to bless",
+        "to congratulate"
+      ],
+      "defHint": "to improve, to make something better",
+      "piece": {
+        "piece_word": "maikaʻi",
+        "piece_def": "goodness, wellness; to be well, fine, in a state of goodness",
+        "tier": 1,
+        "rationale": "Root maikaʻi (good/well) is the base; hoʻomaikaʻi means to make good/better."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

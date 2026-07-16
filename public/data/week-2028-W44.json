@@ -1,0 +1,163 @@
+{
+  "weekId": "2028-W44",
+  "ordinal": 3070,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻouahi",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "u",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 8,
+      "bare": "hoouahi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to smoke or fumigate something",
+      "meanings": [
+        "to smoke or fumigate something"
+      ],
+      "defHint": "to smoke or fumigate something",
+      "piece": {
+        "piece_word": "uahi",
+        "piece_def": "smoke",
+        "tier": 1,
+        "rationale": "'Smoke' literally appears in the definition 'to smoke or fumigate'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "nahau",
+      "glyphs": [
+        "n",
+        "a",
+        "h",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "nahau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "arrow",
+      "meanings": [
+        "arrow"
+      ],
+      "defHint": "arrow",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "uniona",
+      "glyphs": [
+        "u",
+        "n",
+        "i",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "uniona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "union",
+      "meanings": [
+        "union",
+        "trade union"
+      ],
+      "defHint": "union",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "halehale",
+      "glyphs": [
+        "h",
+        "a",
+        "l",
+        "e",
+        "h",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "halehale",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "towering",
+      "meanings": [
+        "towering",
+        "cavernous",
+        "emptiness, hunger"
+      ],
+      "defHint": "towering",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻekalekia",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "k",
+        "a",
+        "l",
+        "e",
+        "k",
+        "i",
+        "a"
+      ],
+      "length": 9,
+      "bare": "ekalekia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "church (organization)",
+      "meanings": [
+        "church (organization)"
+      ],
+      "defHint": "church (organization)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,169 @@
+{
+  "weekId": "2029-W10",
+  "ordinal": 3088,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻikepili",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "k",
+        "e",
+        "p",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 8,
+      "bare": "ikepili",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "data",
+      "meanings": [
+        "data"
+      ],
+      "defHint": "data",
+      "piece": {
+        "piece_word": "ʻike",
+        "piece_def": "knowledge; to know",
+        "tier": 1,
+        "rationale": "Data is knowledge/information; ʻike (knowledge) is the root of ʻikepili."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoʻokala",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hookala",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to sharpen",
+      "meanings": [
+        "to sharpen"
+      ],
+      "defHint": "to sharpen",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "piʻipiʻi",
+      "glyphs": [
+        "p",
+        "i",
+        "ʻ",
+        "i",
+        "p",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "piipii",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "curly",
+      "meanings": [
+        "curly",
+        "to bubble forth, to effervesce",
+        "effervescent, sparkling"
+      ],
+      "defHint": "curly",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "iwi",
+      "glyphs": [
+        "i",
+        "w",
+        "i"
+      ],
+      "length": 3,
+      "bare": "iwi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bone",
+      "meanings": [
+        "bone"
+      ],
+      "defHint": "bone",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "lepelepeamoa",
+      "glyphs": [
+        "l",
+        "e",
+        "p",
+        "e",
+        "l",
+        "e",
+        "p",
+        "e",
+        "a",
+        "m",
+        "o",
+        "a"
+      ],
+      "length": 12,
+      "bare": "lepelepeamoa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Selaginella arbusculla (variety of spike moss used in leis)",
+      "meanings": [
+        "Selaginella arbusculla (variety of spike moss used in leis)"
+      ],
+      "defHint": "Selaginella arbusculla (variety of spike moss used in leis)",
+      "piece": {
+        "piece_word": "moa",
+        "piece_def": "chicken or similar fowl",
+        "tier": 2,
+        "rationale": "The name lepe...amoa references the fowl (cockscomb-like shape), so moa relates as a hint."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

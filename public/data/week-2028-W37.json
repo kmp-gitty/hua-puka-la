@@ -1,0 +1,165 @@
+{
+  "weekId": "2028-W37",
+  "ordinal": 3063,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pāʻele",
+      "glyphs": [
+        "p",
+        "ā",
+        "ʻ",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "paele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to blacken, to blot, to paint black",
+      "meanings": [
+        "to blacken, to blot, to paint black"
+      ],
+      "defHint": "to blacken, to blot, to paint black",
+      "piece": {
+        "piece_word": "ʻele",
+        "piece_def": "dark, black",
+        "tier": 1,
+        "rationale": "ʻele means black, which literally appears in the definition 'to blacken, paint black'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoai",
+      "glyphs": [
+        "h",
+        "o",
+        "a",
+        "i"
+      ],
+      "length": 4,
+      "bare": "hoai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "joint",
+      "meanings": [
+        "joint",
+        "suture"
+      ],
+      "defHint": "joint",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hono",
+      "glyphs": [
+        "h",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 4,
+      "bare": "hono",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "harbor",
+      "meanings": [
+        "harbor",
+        "bay"
+      ],
+      "defHint": "harbor",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ākea",
+      "glyphs": [
+        "ā",
+        "k",
+        "e",
+        "a"
+      ],
+      "length": 4,
+      "bare": "akea",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "wide, broad",
+      "meanings": [
+        "wide, broad",
+        "spacious",
+        "public",
+        "liberal",
+        "width, breadth"
+      ],
+      "defHint": "wide, broad",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hiʻohiʻona",
+      "glyphs": [
+        "h",
+        "i",
+        "ʻ",
+        "o",
+        "h",
+        "i",
+        "ʻ",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hiohiona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "features",
+      "meanings": [
+        "features",
+        "aspect",
+        "effects"
+      ],
+      "defHint": "features",
+      "piece": {
+        "piece_word": "hiʻona",
+        "piece_def": "general appearance; feature",
+        "tier": 1,
+        "rationale": "hiʻona means feature/appearance, literally matching hiʻohiʻona's meaning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

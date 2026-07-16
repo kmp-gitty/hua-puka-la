@@ -1,0 +1,166 @@
+{
+  "weekId": "2029-W29",
+  "ordinal": 3107,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "alakaʻi",
+      "glyphs": [
+        "a",
+        "l",
+        "a",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 7,
+      "bare": "alakai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to lead, to guide, to direct",
+      "meanings": [
+        "to lead, to guide, to direct",
+        "guide, conductor",
+        "leader, director"
+      ],
+      "defHint": "to lead, to guide, to direct",
+      "piece": {
+        "piece_word": "kaʻi",
+        "piece_def": "to lead; to train, to coach",
+        "tier": 1,
+        "rationale": "Kaʻi means to lead, which literally matches the meaning of alakaʻi."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hiku",
+      "glyphs": [
+        "h",
+        "i",
+        "k",
+        "u"
+      ],
+      "length": 4,
+      "bare": "hiku",
+      "pos": [
+        "num",
+        "verb"
+      ],
+      "featuredSense": "seven, seventh",
+      "meanings": [
+        "seven, seventh",
+        "to pick (as a ukulele or guitar)"
+      ],
+      "defHint": "seven, seventh",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ahiahi",
+      "glyphs": [
+        "a",
+        "h",
+        "i",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 6,
+      "bare": "ahiahi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "evening (time of day)",
+      "meanings": [
+        "evening (time of day)",
+        "to become evening"
+      ],
+      "defHint": "evening (time of day)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "wehe",
+      "glyphs": [
+        "w",
+        "e",
+        "h",
+        "e"
+      ],
+      "length": 4,
+      "bare": "wehe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to open; undo; take off; pull apart",
+      "meanings": [
+        "to open; undo; take off; pull apart"
+      ],
+      "defHint": "to open; undo; take off; pull apart",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻowahine",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "w",
+        "a",
+        "h",
+        "i",
+        "n",
+        "e"
+      ],
+      "length": 10,
+      "bare": "hoowahine",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act like a woman",
+      "meanings": [
+        "to act like a woman"
+      ],
+      "defHint": "to act like a woman",
+      "piece": {
+        "piece_word": "wahine",
+        "piece_def": "woman, female",
+        "tier": 1,
+        "rationale": "Woman appears literally in 'to act like a woman'"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,164 @@
+{
+  "weekId": "2029-W09",
+  "ordinal": 3087,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kilohana",
+      "glyphs": [
+        "k",
+        "i",
+        "l",
+        "o",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kilohana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "lookout post",
+      "meanings": [
+        "lookout post"
+      ],
+      "defHint": "lookout post",
+      "piece": {
+        "piece_word": "kilo",
+        "piece_def": "to watch, gaze; observer, someone who watches",
+        "tier": 1,
+        "rationale": "A lookout post is where one watches/observes, matching kilo."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pineki",
+      "glyphs": [
+        "p",
+        "i",
+        "n",
+        "e",
+        "k",
+        "i"
+      ],
+      "length": 6,
+      "bare": "pineki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "peanut",
+      "meanings": [
+        "peanut"
+      ],
+      "defHint": "peanut",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "māpala",
+      "glyphs": [
+        "m",
+        "ā",
+        "p",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "mapala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "marble (material)",
+      "meanings": [
+        "marble (material)",
+        "granite",
+        "marble (toy)"
+      ],
+      "defHint": "marble (material)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "māhea",
+      "glyphs": [
+        "m",
+        "ā",
+        "h",
+        "e",
+        "a"
+      ],
+      "length": 5,
+      "bare": "mahea",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be hazy",
+      "meanings": [
+        "to be hazy"
+      ],
+      "defHint": "to be hazy",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "mokuhonua",
+      "glyphs": [
+        "m",
+        "o",
+        "k",
+        "u",
+        "h",
+        "o",
+        "n",
+        "u",
+        "a"
+      ],
+      "length": 9,
+      "bare": "mokuhonua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "continent",
+      "meanings": [
+        "continent"
+      ],
+      "defHint": "continent",
+      "piece": {
+        "piece_word": "moku",
+        "piece_def": "an island, district, section",
+        "tier": 1,
+        "rationale": "Moku (island/land section) is the initial component of the compound for continent."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

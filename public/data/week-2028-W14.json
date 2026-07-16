@@ -1,0 +1,160 @@
+{
+  "weekId": "2028-W14",
+  "ordinal": 3040,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nākuʻi",
+      "glyphs": [
+        "n",
+        "ā",
+        "k",
+        "u",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "nakui",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "beating",
+      "meanings": [
+        "to rumble",
+        "to thumb",
+        "rumbling",
+        "beating"
+      ],
+      "defHint": "beating",
+      "piece": {
+        "piece_word": "kuʻi",
+        "piece_def": "to pound, to strike",
+        "tier": 1,
+        "rationale": "kuʻi 'to pound/strike' directly matches beating/rumbling sense"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hāna",
+      "glyphs": [
+        "h",
+        "ā",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hana",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be alert",
+      "meanings": [
+        "to be alert"
+      ],
+      "defHint": "to be alert",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kālele",
+      "glyphs": [
+        "k",
+        "ā",
+        "l",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "kalele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lean upon",
+      "meanings": [
+        "to lean upon",
+        "to trust"
+      ],
+      "defHint": "to lean upon",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "akemāmā",
+      "glyphs": [
+        "a",
+        "k",
+        "e",
+        "m",
+        "ā",
+        "m",
+        "ā"
+      ],
+      "length": 7,
+      "bare": "akemama",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "lung",
+      "meanings": [
+        "lung"
+      ],
+      "defHint": "lung",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kakahiaka",
+      "glyphs": [
+        "k",
+        "a",
+        "k",
+        "a",
+        "h",
+        "i",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kakahiaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "morning (time of day around dawn)",
+      "meanings": [
+        "morning (time of day around dawn)"
+      ],
+      "defHint": "morning (time of day around dawn)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

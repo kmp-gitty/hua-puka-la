@@ -1,0 +1,167 @@
+{
+  "weekId": "2028-W34",
+  "ordinal": 3060,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻihoʻi",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "i",
+        "h",
+        "o",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "hoihoi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to return, to send back",
+      "meanings": [
+        "to return, to send back",
+        "to save"
+      ],
+      "defHint": "to return, to send back",
+      "piece": {
+        "piece_word": "hoʻi",
+        "piece_def": "to return (go or come back)",
+        "tier": 1,
+        "rationale": "hoʻihoʻi is reduplication of hoʻi (return), matching the definition directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻano",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 4,
+      "bare": "ano",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "kind, type",
+      "meanings": [
+        "kind, type",
+        "nature, character",
+        "mood, personality",
+        "color",
+        "somewhat, rather"
+      ],
+      "defHint": "kind, type",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kimu",
+      "glyphs": [
+        "k",
+        "i",
+        "m",
+        "u"
+      ],
+      "length": 4,
+      "bare": "kimu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "precipitation",
+      "meanings": [
+        "precipitation",
+        "Samoan rain"
+      ],
+      "defHint": "precipitation",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "wehi",
+      "glyphs": [
+        "w",
+        "e",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "wehi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "decoration, ornament",
+      "meanings": [
+        "decoration, ornament",
+        "to decorate"
+      ],
+      "defHint": "decoration, ornament",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopōʻai",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "ō",
+        "ʻ",
+        "a",
+        "i"
+      ],
+      "length": 9,
+      "bare": "hoopoai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to encircle, to surround",
+      "meanings": [
+        "to encircle, to surround",
+        "to besiege"
+      ],
+      "defHint": "to encircle, to surround",
+      "piece": {
+        "piece_word": "pōʻai",
+        "piece_def": "to encircle",
+        "tier": 1,
+        "rationale": "pōʻai means to encircle, matching the word's definition directly."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

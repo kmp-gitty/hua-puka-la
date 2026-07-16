@@ -1,0 +1,161 @@
+{
+  "weekId": "2026-W48",
+  "ordinal": 2969,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ponopono",
+      "glyphs": [
+        "p",
+        "o",
+        "n",
+        "o",
+        "p",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 8,
+      "bare": "ponopono",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "neat, tidy, arranged, in order",
+      "meanings": [
+        "neat, tidy, arranged, in order"
+      ],
+      "defHint": "neat, tidy, arranged, in order",
+      "piece": {
+        "piece_word": "pono",
+        "piece_def": "correct procedure, true nature, rights, duty",
+        "tier": 1,
+        "rationale": "ponopono is reduplication of pono; correctness/order directly underlies neat, arranged, in order."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hōʻoia",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "o",
+        "i",
+        "a"
+      ],
+      "length": 6,
+      "bare": "hooia",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to confirm, to affirm, to certify",
+      "meanings": [
+        "to confirm, to affirm, to certify"
+      ],
+      "defHint": "to confirm, to affirm, to certify",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "naʻau",
+      "glyphs": [
+        "n",
+        "a",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "naau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "guts, intestines",
+      "meanings": [
+        "guts, intestines",
+        "mind, heart"
+      ],
+      "defHint": "guts, intestines",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hāwāwā",
+      "glyphs": [
+        "h",
+        "ā",
+        "w",
+        "ā",
+        "w",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "hawawa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "awkward, clumsy",
+      "meanings": [
+        "awkward, clumsy",
+        "unskilled, incompetent",
+        "incompetence"
+      ],
+      "defHint": "awkward, clumsy",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "haikokene",
+      "glyphs": [
+        "h",
+        "a",
+        "i",
+        "k",
+        "o",
+        "k",
+        "e",
+        "n",
+        "e"
+      ],
+      "length": 9,
+      "bare": "haikokene",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "hydrogen (chemical element)",
+      "meanings": [
+        "hydrogen (chemical element)"
+      ],
+      "defHint": "hydrogen (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

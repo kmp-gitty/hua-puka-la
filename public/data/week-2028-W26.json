@@ -1,0 +1,170 @@
+{
+  "weekId": "2028-W26",
+  "ordinal": 3052,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hapakolu",
+      "glyphs": [
+        "h",
+        "a",
+        "p",
+        "a",
+        "k",
+        "o",
+        "l",
+        "u"
+      ],
+      "length": 8,
+      "bare": "hapakolu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "third (third part of something)",
+      "meanings": [
+        "third (third part of something)"
+      ],
+      "defHint": "third (third part of something)",
+      "piece": {
+        "piece_word": "kolu",
+        "piece_def": "three; third",
+        "tier": 1,
+        "rationale": "'kolu' means third, literally present in 'third part'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻōpuhi",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "u",
+        "h",
+        "i"
+      ],
+      "length": 6,
+      "bare": "opuhi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "shampoo ginger (Zingiber zerumbet)",
+      "meanings": [
+        "shampoo ginger (Zingiber zerumbet)"
+      ],
+      "defHint": "shampoo ginger (Zingiber zerumbet)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "nihoniho",
+      "glyphs": [
+        "n",
+        "i",
+        "h",
+        "o",
+        "n",
+        "i",
+        "h",
+        "o"
+      ],
+      "length": 8,
+      "bare": "nihoniho",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be toothed, notched, serrated",
+      "meanings": [
+        "to be toothed, notched, serrated"
+      ],
+      "defHint": "to be toothed, notched, serrated",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "makaʻu",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "ʻ",
+        "u"
+      ],
+      "length": 6,
+      "bare": "makau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "fear",
+      "meanings": [
+        "fear",
+        "danger",
+        "to fear, be afraid"
+      ],
+      "defHint": "fear",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻonuinui",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "u",
+        "i",
+        "n",
+        "u",
+        "i"
+      ],
+      "length": 10,
+      "bare": "hoonuinui",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to exaggerate",
+      "meanings": [
+        "to use threatening language without carrying out the threat",
+        "to exaggerate"
+      ],
+      "defHint": "to exaggerate",
+      "piece": {
+        "piece_word": "nui",
+        "piece_def": "big, great, abundant",
+        "tier": 2,
+        "rationale": "Reduplicated nui (big/much) relates to exaggerating; to exaggerate is to make things bigger."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

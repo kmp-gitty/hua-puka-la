@@ -1,0 +1,170 @@
+{
+  "weekId": "2027-W26",
+  "ordinal": 3000,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻokolo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 8,
+      "bare": "hookolo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to make crawl",
+      "meanings": [
+        "to make crawl",
+        "to track, to trace (to a source)",
+        "tracking"
+      ],
+      "defHint": "to make crawl",
+      "piece": {
+        "piece_word": "kolo",
+        "piece_def": "to crawl",
+        "tier": 1,
+        "rationale": "hoʻokolo is causative of kolo (crawl); 'crawl' literally in definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "laholio",
+      "glyphs": [
+        "l",
+        "a",
+        "h",
+        "o",
+        "l",
+        "i",
+        "o"
+      ],
+      "length": 7,
+      "bare": "laholio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "rubber, flexible and pliable material made from coagulating natural latex of the rubber tree (Hevea brasiliensis).",
+      "meanings": [
+        "rubber, flexible and pliable material made from coagulating natural latex of the rubber tree (Hevea brasiliensis).",
+        "elastic, flexible band"
+      ],
+      "defHint": "rubber, flexible and pliable material made from coagulating natural latex of the rubber tree (Hevea brasiliensis).",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hōloʻa",
+      "glyphs": [
+        "h",
+        "ō",
+        "l",
+        "o",
+        "ʻ",
+        "a"
+      ],
+      "length": 6,
+      "bare": "holoa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to dispense",
+      "meanings": [
+        "to dispense"
+      ],
+      "defHint": "to dispense",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kōpaʻa",
+      "glyphs": [
+        "k",
+        "ō",
+        "p",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kopaa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sugar",
+      "meanings": [
+        "sugar"
+      ],
+      "defHint": "sugar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomomona",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "o",
+        "m",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hoomomona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to fatten",
+      "meanings": [
+        "to fatten",
+        "to fertilize"
+      ],
+      "defHint": "to fatten",
+      "piece": {
+        "piece_word": "mona",
+        "piece_def": "fat; fertile, rich (as soil); fruitful",
+        "tier": 1,
+        "rationale": "Fat/fertile literally underlies to fatten and to fertilize."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

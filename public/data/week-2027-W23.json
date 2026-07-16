@@ -1,0 +1,168 @@
+{
+  "weekId": "2027-W23",
+  "ordinal": 2997,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kuapuʻu",
+      "glyphs": [
+        "k",
+        "u",
+        "a",
+        "p",
+        "u",
+        "ʻ",
+        "u"
+      ],
+      "length": 7,
+      "bare": "kuapuu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "hump, fleshy mass on camels etc",
+      "meanings": [
+        "hump, fleshy mass on camels etc"
+      ],
+      "defHint": "hump, fleshy mass on camels etc",
+      "piece": {
+        "piece_word": "puʻu",
+        "piece_def": "protuberance, mound, mass",
+        "tier": 1,
+        "rationale": "A hump is a protuberant fleshy mass, matching puʻu's meaning of mound/mass."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "nāuki",
+      "glyphs": [
+        "n",
+        "ā",
+        "u",
+        "k",
+        "i"
+      ],
+      "length": 5,
+      "bare": "nauki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "vexation, anger",
+      "meanings": [
+        "vexation, anger"
+      ],
+      "defHint": "vexation, anger",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "nae",
+      "glyphs": [
+        "n",
+        "a",
+        "e"
+      ],
+      "length": 3,
+      "bare": "nae",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "shortness of breath",
+      "meanings": [
+        "shortness of breath",
+        "to be short of breath; to pant",
+        "fragrance",
+        "fragrant, sweet-smelling",
+        "fine-meshed fishing net"
+      ],
+      "defHint": "shortness of breath",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hapa",
+      "glyphs": [
+        "h",
+        "a",
+        "p",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hapa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "half of something",
+      "meanings": [
+        "half of something",
+        "portion, part",
+        "someone who has Hawaiian ancestry mixed with another ethnicity",
+        "partial",
+        "less",
+        "mixed"
+      ],
+      "defHint": "half of something",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomakaʻu",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "k",
+        "a",
+        "ʻ",
+        "u"
+      ],
+      "length": 10,
+      "bare": "hoomakau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to frighten",
+      "meanings": [
+        "to frighten"
+      ],
+      "defHint": "to frighten",
+      "piece": {
+        "piece_word": "makaʻu",
+        "piece_def": "fear; to fear, be afraid",
+        "tier": 1,
+        "rationale": "Root of the word; hoʻo- causative of makaʻu means to cause fear = frighten."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

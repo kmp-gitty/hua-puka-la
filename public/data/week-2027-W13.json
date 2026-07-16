@@ -1,0 +1,178 @@
+{
+  "weekId": "2027-W13",
+  "ordinal": 2987,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pūpū",
+      "glyphs": [
+        "p",
+        "ū",
+        "p",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "pupu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "bunch, tuft, bundle (as of grass); bouquet",
+      "meanings": [
+        "bunch, tuft, bundle (as of grass); bouquet",
+        "to be bundled up",
+        "to gather together; to draw tight (as a fishing net)",
+        "shell (marine or land), beads",
+        "snail",
+        "appetizer, canapé, hors d'oeuvre, relish",
+        "to eat a pūpū (appetizer, canapé, hors d'oeuvre)"
+      ],
+      "defHint": "bunch, tuft, bundle (as of grass); bouquet",
+      "piece": {
+        "piece_word": "pū",
+        "piece_def": "cluster, clump; together",
+        "tier": 1,
+        "rationale": "pū (cluster/together) reduplicated forms pūpū meaning bunch/tuft/bundle and 'to gather together'; meaning literally present."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pili",
+      "glyphs": [
+        "p",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "pili",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "black speargrass (Heteropogon contortus)",
+      "meanings": [
+        "black speargrass (Heteropogon contortus)",
+        "shingles (roof covering)",
+        "to cling, to stick",
+        "to join",
+        "to be close, associated",
+        "to refer to, to relate to",
+        "to pertain to, to concern"
+      ],
+      "defHint": "black speargrass (Heteropogon contortus)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lili",
+      "glyphs": [
+        "l",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "lili",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "jealous",
+      "meanings": [
+        "jealous",
+        "sensitive to criticism",
+        "jealousy",
+        "mental anguish at one's loved ones being criticised"
+      ],
+      "defHint": "jealous",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lōkahi",
+      "glyphs": [
+        "l",
+        "ō",
+        "k",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 6,
+      "bare": "lokahi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "unity, accord",
+      "meanings": [
+        "unity, accord",
+        "to be in agreement, to be in harmony, to be unanimous"
+      ],
+      "defHint": "unity, accord",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kaumokuʻāina",
+      "glyphs": [
+        "k",
+        "a",
+        "u",
+        "m",
+        "o",
+        "k",
+        "u",
+        "ʻ",
+        "ā",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 12,
+      "bare": "kaumokuaina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "country",
+      "meanings": [
+        "country"
+      ],
+      "defHint": "country",
+      "piece": {
+        "piece_word": "ʻāina",
+        "piece_def": "land (earth; country; real estate)",
+        "tier": 1,
+        "rationale": "ʻĀina means land/country, directly present in the meaning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

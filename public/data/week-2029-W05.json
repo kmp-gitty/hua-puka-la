@@ -1,0 +1,170 @@
+{
+  "weekId": "2029-W05",
+  "ordinal": 3083,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hanahana",
+      "glyphs": [
+        "h",
+        "a",
+        "n",
+        "a",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hanahana",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "hot, warm",
+      "meanings": [
+        "hot, warm",
+        "vehement"
+      ],
+      "defHint": "hot, warm",
+      "piece": {
+        "piece_word": "hana",
+        "piece_def": "warm",
+        "tier": 1,
+        "rationale": "hana carries the sense 'warm'; hanahana is a reduplication meaning hot/warm."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoakipa",
+      "glyphs": [
+        "h",
+        "o",
+        "a",
+        "k",
+        "i",
+        "p",
+        "a"
+      ],
+      "length": 7,
+      "bare": "hoakipa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "visitor",
+      "meanings": [
+        "visitor"
+      ],
+      "defHint": "visitor",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kokoleka",
+      "glyphs": [
+        "k",
+        "o",
+        "k",
+        "o",
+        "l",
+        "e",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kokoleka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "chocolate",
+      "meanings": [
+        "chocolate"
+      ],
+      "defHint": "chocolate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hōʻaka",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "hoaka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to provoke laughter",
+      "meanings": [
+        "to provoke laughter"
+      ],
+      "defHint": "to provoke laughter",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻelemakule",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "l",
+        "e",
+        "m",
+        "a",
+        "k",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 10,
+      "bare": "elemakule",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "old",
+      "meanings": [
+        "old man",
+        "old"
+      ],
+      "defHint": "old",
+      "piece": {
+        "piece_word": "makule",
+        "piece_def": "aged, elderly",
+        "tier": 1,
+        "rationale": "'makule' means aged/elderly, directly matching the 'old' sense."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,172 @@
+{
+  "weekId": "2027-W44",
+  "ordinal": 3018,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nunuha",
+      "glyphs": [
+        "n",
+        "u",
+        "n",
+        "u",
+        "h",
+        "a"
+      ],
+      "length": 6,
+      "bare": "nunuha",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "sulky, moody",
+      "meanings": [
+        "sulky, moody"
+      ],
+      "defHint": "sulky, moody",
+      "piece": {
+        "piece_word": "nuha",
+        "piece_def": "stubborn, sulky, peevish",
+        "tier": 1,
+        "rationale": "nuha means sulky, which literally appears in nunuha's definition (sulky, moody)"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lenalena",
+      "glyphs": [
+        "l",
+        "e",
+        "n",
+        "a",
+        "l",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "lenalena",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "orange-hued yellow (color)",
+      "meanings": [
+        "orange-hued yellow (color)"
+      ],
+      "defHint": "orange-hued yellow (color)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mona",
+      "glyphs": [
+        "m",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "mona",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "fat (specialized animal tissue)",
+      "meanings": [
+        "fat (specialized animal tissue)",
+        "fat (carrying a larger than normal amount of fat on one's body)",
+        "fertile, rich (as soil)",
+        "fruitful"
+      ],
+      "defHint": "fat (specialized animal tissue)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻōpule",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "opule",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "spotted, speckled",
+      "meanings": [
+        "spotted, speckled",
+        "pearl wrasse"
+      ],
+      "defHint": "spotted, speckled",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻoponopono",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "o",
+        "n",
+        "o",
+        "p",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 12,
+      "bare": "hooponopono",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to rectify, to put in order",
+      "meanings": [
+        "to correct, to revise",
+        "to rectify, to put in order",
+        "to administer, to manage"
+      ],
+      "defHint": "to rectify, to put in order",
+      "piece": {
+        "piece_word": "pono",
+        "piece_def": "correct procedure, true nature, rights, duty; goodness",
+        "tier": 1,
+        "rationale": "Root of the word; means correct/in order, directly reflected in 'put in order/rectify'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

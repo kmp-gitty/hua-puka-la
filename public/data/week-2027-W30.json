@@ -1,0 +1,168 @@
+{
+  "weekId": "2027-W30",
+  "ordinal": 3004,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kukule",
+      "glyphs": [
+        "k",
+        "u",
+        "k",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "kukule",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "inactive",
+      "meanings": [
+        "inactive",
+        "listless, meh"
+      ],
+      "defHint": "inactive",
+      "piece": {
+        "piece_word": "kule",
+        "piece_def": "inactive",
+        "tier": 1,
+        "rationale": "'kule' means inactive, which literally matches the larger word's definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoʻomana",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoomana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to place into a position of authority, to put in power",
+      "meanings": [
+        "to place into a position of authority, to put in power",
+        "to worship",
+        "religion, sect",
+        "callous"
+      ],
+      "defHint": "to place into a position of authority, to put in power",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pōhīnaʻi",
+      "glyphs": [
+        "p",
+        "ō",
+        "h",
+        "ī",
+        "n",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "pohinai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "basketball (sport)",
+      "meanings": [
+        "basketball (sport)"
+      ],
+      "defHint": "basketball (sport)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pea",
+      "glyphs": [
+        "p",
+        "e",
+        "a"
+      ],
+      "length": 3,
+      "bare": "pea",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bear",
+      "meanings": [
+        "bear"
+      ],
+      "defHint": "bear",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomanaʻo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 10,
+      "bare": "hoomanao",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to remember",
+      "meanings": [
+        "to remember"
+      ],
+      "defHint": "to remember",
+      "piece": {
+        "piece_word": "manaʻo",
+        "piece_def": "to think, to consider",
+        "tier": 2,
+        "rationale": "hoʻomanaʻo (remember) derives from manaʻo (think), a genuine morphological/semantic root."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

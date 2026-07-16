@@ -1,0 +1,171 @@
+{
+  "weekId": "2029-W31",
+  "ordinal": 3109,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pāʻumi",
+      "glyphs": [
+        "p",
+        "ā",
+        "ʻ",
+        "u",
+        "m",
+        "i"
+      ],
+      "length": 6,
+      "bare": "paumi",
+      "pos": [
+        "num",
+        "verb"
+      ],
+      "featuredSense": "ten times, ten at a time, by tens, etc.",
+      "meanings": [
+        "ten times, ten at a time, by tens, etc.",
+        "to divide by ten",
+        "decimal"
+      ],
+      "defHint": "ten times, ten at a time, by tens, etc.",
+      "piece": {
+        "piece_word": "ʻumi",
+        "piece_def": "ten, tenth",
+        "tier": 1,
+        "rationale": "ʻumi means ten; pāʻumi means ten times/by tens — ten literally appears in the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "puna",
+      "glyphs": [
+        "p",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "puna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "spring (water source)",
+      "meanings": [
+        "spring (water source)",
+        "coral, lime, plaster",
+        "calcium",
+        "section between joints or nodes, internodes",
+        "cuttlebone",
+        "spoon"
+      ],
+      "defHint": "spring (water source)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "noʻonoʻo",
+      "glyphs": [
+        "n",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "o",
+        "ʻ",
+        "o"
+      ],
+      "length": 8,
+      "bare": "noonoo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "thought, reflection",
+      "meanings": [
+        "thought, reflection",
+        "to think, reflect",
+        "to consider"
+      ],
+      "defHint": "thought, reflection",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lōpū",
+      "glyphs": [
+        "l",
+        "ō",
+        "p",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "lopu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "medium",
+      "meanings": [
+        "medium"
+      ],
+      "defHint": "medium",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "manuhelekū",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "u",
+        "h",
+        "e",
+        "l",
+        "e",
+        "k",
+        "ū"
+      ],
+      "length": 10,
+      "bare": "manuheleku",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "penguin",
+      "meanings": [
+        "penguin"
+      ],
+      "defHint": "penguin",
+      "piece": {
+        "piece_word": "manu",
+        "piece_def": "bird (animal)",
+        "tier": 1,
+        "rationale": "A penguin is a bird; manu literally means bird."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

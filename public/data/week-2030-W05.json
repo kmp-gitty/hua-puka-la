@@ -1,0 +1,172 @@
+{
+  "weekId": "2030-W05",
+  "ordinal": 3135,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hōʻaiā",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "i",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "hoaia",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act wickedly",
+      "meanings": [
+        "to act wickedly",
+        "to lead others astray"
+      ],
+      "defHint": "to act wickedly",
+      "piece": {
+        "piece_word": "ʻaiā",
+        "piece_def": "wicked; wickedness; ungodly, godless",
+        "tier": 1,
+        "rationale": "Root meaning wicked/ungodly directly appears in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoʻokūkū",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "ū",
+        "k",
+        "ū"
+      ],
+      "length": 8,
+      "bare": "hookuku",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to compete",
+      "meanings": [
+        "to compete",
+        "to compare",
+        "to hold a contest",
+        "contest, game, match"
+      ],
+      "defHint": "to compete",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lima",
+      "glyphs": [
+        "l",
+        "i",
+        "m",
+        "a"
+      ],
+      "length": 4,
+      "bare": "lima",
+      "pos": [
+        "noun",
+        "num"
+      ],
+      "featuredSense": "five",
+      "meanings": [
+        "five",
+        "fifth",
+        "hand (part of the body)"
+      ],
+      "defHint": "five",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lehu",
+      "glyphs": [
+        "l",
+        "e",
+        "h",
+        "u"
+      ],
+      "length": 4,
+      "bare": "lehu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ash (of colour and substance)",
+      "meanings": [
+        "ash (of colour and substance)",
+        "grey"
+      ],
+      "defHint": "ash (of colour and substance)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kāhulihuli",
+      "glyphs": [
+        "k",
+        "ā",
+        "h",
+        "u",
+        "l",
+        "i",
+        "h",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 10,
+      "bare": "kahulihuli",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to sway, to totter",
+      "meanings": [
+        "to sway, to totter",
+        "tossed about",
+        "unsteady, rickety",
+        "unsettled, variable"
+      ],
+      "defHint": "to sway, to totter",
+      "piece": {
+        "piece_word": "huli",
+        "piece_def": "to turn; to reverse; to change one's manner or thought",
+        "tier": 2,
+        "rationale": "kāhulihuli is a reduplication of huli (to turn), directly underlying the sense of swaying/tossing about."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

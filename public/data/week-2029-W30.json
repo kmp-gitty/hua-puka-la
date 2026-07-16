@@ -1,0 +1,166 @@
+{
+  "weekId": "2029-W30",
+  "ordinal": 3108,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻomake",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "k",
+        "e"
+      ],
+      "length": 8,
+      "bare": "hoomake",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to kill",
+      "meanings": [
+        "to kill"
+      ],
+      "defHint": "to kill",
+      "piece": {
+        "piece_word": "make",
+        "piece_def": "to die; death; dead",
+        "tier": 1,
+        "rationale": "hoʻomake = causative hoʻo + make (die); to kill literally means to cause death"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hōʻai",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "i"
+      ],
+      "length": 5,
+      "bare": "hoai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to feed; to give to someone to eat",
+      "meanings": [
+        "to feed; to give to someone to eat"
+      ],
+      "defHint": "to feed; to give to someone to eat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "māʻeʻele",
+      "glyphs": [
+        "m",
+        "ā",
+        "ʻ",
+        "e",
+        "ʻ",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "maeele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "numb, gone to sleep",
+      "meanings": [
+        "numb, gone to sleep",
+        "shocked, stricken with horror, grief, etc."
+      ],
+      "defHint": "numb, gone to sleep",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "aliʻi",
+      "glyphs": [
+        "a",
+        "l",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 5,
+      "bare": "alii",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "a hereditary rank of traditional chief",
+      "meanings": [
+        "a hereditary rank of traditional chief",
+        "noble"
+      ],
+      "defHint": "a hereditary rank of traditional chief",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kumulāʻau",
+      "glyphs": [
+        "k",
+        "u",
+        "m",
+        "u",
+        "l",
+        "ā",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 9,
+      "bare": "kumulaau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "tree",
+      "meanings": [
+        "tree"
+      ],
+      "defHint": "tree",
+      "piece": {
+        "piece_word": "kumu",
+        "piece_def": "basis, foundation; source",
+        "tier": 1,
+        "rationale": "Kumu means trunk/base, the literal core component of kumulāʻau (tree)."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,174 @@
+{
+  "weekId": "2027-W24",
+  "ordinal": 2998,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "anuanu",
+      "glyphs": [
+        "a",
+        "n",
+        "u",
+        "a",
+        "n",
+        "u"
+      ],
+      "length": 6,
+      "bare": "anuanu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cold",
+      "meanings": [
+        "cold"
+      ],
+      "defHint": "cold",
+      "piece": {
+        "piece_word": "anu",
+        "piece_def": "to be cold",
+        "tier": 1,
+        "rationale": "anuanu is a reduplication of anu (cold); meaning appears directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "manamana",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "a",
+        "m",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "manamana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "finger, toe",
+      "meanings": [
+        "finger, toe",
+        "branches",
+        "claws",
+        "rays"
+      ],
+      "defHint": "finger, toe",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hāʻule",
+      "glyphs": [
+        "h",
+        "ā",
+        "ʻ",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "haule",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to fall (from a height)",
+      "meanings": [
+        "to fall (from a height)",
+        "to lose",
+        "to forget, to neglect",
+        "defeat, loss",
+        "failure",
+        "to begin",
+        "to delouse"
+      ],
+      "defHint": "to fall (from a height)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pahu",
+      "glyphs": [
+        "p",
+        "a",
+        "h",
+        "u"
+      ],
+      "length": 4,
+      "bare": "pahu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "drum",
+      "meanings": [
+        "drum",
+        "box, chest, ark, case, coffin",
+        "barrel, keg",
+        "boxfish (fish of the genus Ostracion)",
+        "to push, to shove",
+        "to thrust, to hurl",
+        "to pierce",
+        "to bruise (feelings)"
+      ],
+      "defHint": "drum",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "penekuina",
+      "glyphs": [
+        "p",
+        "e",
+        "n",
+        "e",
+        "k",
+        "u",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "penekuina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "penguin",
+      "meanings": [
+        "penguin"
+      ],
+      "defHint": "penguin",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

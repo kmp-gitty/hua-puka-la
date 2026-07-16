@@ -1,0 +1,156 @@
+{
+  "weekId": "2028-W32",
+  "ordinal": 3058,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kumulipo",
+      "glyphs": [
+        "k",
+        "u",
+        "m",
+        "u",
+        "l",
+        "i",
+        "p",
+        "o"
+      ],
+      "length": 8,
+      "bare": "kumulipo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "origin, genesis",
+      "meanings": [
+        "origin, genesis"
+      ],
+      "defHint": "origin, genesis",
+      "piece": {
+        "piece_word": "kumu",
+        "piece_def": "source, cause",
+        "tier": 1,
+        "rationale": "kumu (source, foundation) directly conveys origin/genesis, the core meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kūmau",
+      "glyphs": [
+        "k",
+        "ū",
+        "m",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "kumau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "customary, usual",
+      "meanings": [
+        "customary, usual"
+      ],
+      "defHint": "customary, usual",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lawa",
+      "glyphs": [
+        "l",
+        "a",
+        "w",
+        "a"
+      ],
+      "length": 4,
+      "bare": "lawa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sufficiency, abundance, plenty",
+      "meanings": [
+        "sufficiency, abundance, plenty"
+      ],
+      "defHint": "sufficiency, abundance, plenty",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "liu",
+      "glyphs": [
+        "l",
+        "i",
+        "u"
+      ],
+      "length": 3,
+      "bare": "liu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "bilgewater, leakage",
+      "meanings": [
+        "bilgewater, leakage",
+        "to leak"
+      ],
+      "defHint": "bilgewater, leakage",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kalenekalio",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "e",
+        "n",
+        "e",
+        "k",
+        "a",
+        "l",
+        "i",
+        "o"
+      ],
+      "length": 11,
+      "bare": "kalenekalio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "calendar",
+      "meanings": [
+        "calendar"
+      ],
+      "defHint": "calendar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

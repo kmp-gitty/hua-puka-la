@@ -1,0 +1,176 @@
+{
+  "weekId": "2029-W02",
+  "ordinal": 3080,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻokomo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "m",
+        "o"
+      ],
+      "length": 8,
+      "bare": "hookomo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to penetrate",
+      "meanings": [
+        "to insert",
+        "to penetrate",
+        "to admit",
+        "to import",
+        "to install",
+        "to deposit",
+        "to file (enter into a file)"
+      ],
+      "defHint": "to penetrate",
+      "piece": {
+        "piece_word": "komo",
+        "piece_def": "to enter, go into, penetrate; to include",
+        "tier": 1,
+        "rationale": "hoʻokomo is causative of komo; 'penetrate' literally matches."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lae",
+      "glyphs": [
+        "l",
+        "a",
+        "e"
+      ],
+      "length": 3,
+      "bare": "lae",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "forehead",
+      "meanings": [
+        "forehead",
+        "headland, cape, point, peninsula"
+      ],
+      "defHint": "forehead",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "leo",
+      "glyphs": [
+        "l",
+        "e",
+        "o"
+      ],
+      "length": 3,
+      "bare": "leo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "voice; sound",
+      "meanings": [
+        "voice; sound",
+        "command",
+        "verbal message",
+        "to speak",
+        "to make a sound"
+      ],
+      "defHint": "voice; sound",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hoʻohui",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "u",
+        "i"
+      ],
+      "length": 7,
+      "bare": "hoohui",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to join, to connect",
+      "meanings": [
+        "to join, to connect",
+        "to append, to annex",
+        "to unite, to ally, to federate",
+        "to introduce (one person to another)",
+        "to form a society",
+        "to compound; to affix",
+        "to add"
+      ],
+      "defHint": "to join, to connect",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "huaʻōlelo",
+      "glyphs": [
+        "h",
+        "u",
+        "a",
+        "ʻ",
+        "ō",
+        "l",
+        "e",
+        "l",
+        "o"
+      ],
+      "length": 9,
+      "bare": "huaolelo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "word",
+      "meanings": [
+        "word"
+      ],
+      "defHint": "word",
+      "piece": {
+        "piece_word": "ʻōlelo",
+        "piece_def": "word, term; language, speech",
+        "tier": 1,
+        "rationale": "ʻōlelo means word/speech, directly present in meaning of huaʻōlelo."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

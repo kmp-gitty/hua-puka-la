@@ -1,0 +1,172 @@
+{
+  "weekId": "2029-W50",
+  "ordinal": 3128,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mānaleo",
+      "glyphs": [
+        "m",
+        "ā",
+        "n",
+        "a",
+        "l",
+        "e",
+        "o"
+      ],
+      "length": 7,
+      "bare": "manaleo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "native speaker (lit. inherited language)",
+      "meanings": [
+        "native speaker (lit. inherited language)"
+      ],
+      "defHint": "native speaker (lit. inherited language)",
+      "piece": {
+        "piece_word": "leo",
+        "piece_def": "voice; language; to speak",
+        "tier": 1,
+        "rationale": "'leo' means voice/language and appears literally in 'inherited language'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "haʻalele",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "a",
+        "l",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "haalele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to leave, to desert",
+      "meanings": [
+        "to leave, to desert",
+        "to abandon, to forsake",
+        "to evacuate",
+        "to quit, to resign, to abdicate"
+      ],
+      "defHint": "to leave, to desert",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kio",
+      "glyphs": [
+        "k",
+        "i",
+        "o"
+      ],
+      "length": 3,
+      "bare": "kio",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to cheep, to chirp",
+      "meanings": [
+        "to cheep, to chirp",
+        "projection, protuberance",
+        "worm snail"
+      ],
+      "defHint": "to cheep, to chirp",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kaʻaka",
+      "glyphs": [
+        "k",
+        "a",
+        "ʻ",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kaaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fellow, chap, person, wretch",
+      "meanings": [
+        "fellow, chap, person, wretch"
+      ],
+      "defHint": "fellow, chap, person, wretch",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokaʻawale",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "a",
+        "ʻ",
+        "a",
+        "w",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 12,
+      "bare": "hookaawale",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to separate, to set aside, to segregate",
+      "meanings": [
+        "to separate, to set aside, to segregate",
+        "to distinguish, to discriminate, to differentiate",
+        "to appropriate"
+      ],
+      "defHint": "to separate, to set aside, to segregate",
+      "piece": {
+        "piece_word": "kaʻawale",
+        "piece_def": "to separate; to isolate; separate, apart, alone",
+        "tier": 1,
+        "rationale": "Base word; hoʻo- causative of kaʻawale, meaning to separate directly matches."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

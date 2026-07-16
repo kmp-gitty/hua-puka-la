@@ -1,0 +1,183 @@
+{
+  "weekId": "2028-W03",
+  "ordinal": 3029,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pāleo",
+      "glyphs": [
+        "p",
+        "ā",
+        "l",
+        "e",
+        "o"
+      ],
+      "length": 5,
+      "bare": "paleo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to converse, to chat",
+      "meanings": [
+        "to converse, to chat",
+        "to rap, to speak lyrics rhythmically usual of hip-hop music.",
+        "phonograph record"
+      ],
+      "defHint": "to converse, to chat",
+      "piece": {
+        "piece_word": "leo",
+        "piece_def": "voice; sound; to speak",
+        "tier": 1,
+        "rationale": "pāleo means to converse/speak; leo (voice, to speak) is literally central to the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "palaoa",
+      "glyphs": [
+        "p",
+        "a",
+        "l",
+        "a",
+        "o",
+        "a"
+      ],
+      "length": 6,
+      "bare": "palaoa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "flour",
+      "meanings": [
+        "flour",
+        "wheat",
+        "any dry-cultivated cereal grain",
+        "bread",
+        "sperm whale",
+        "ivory"
+      ],
+      "defHint": "flour",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻonipaʻa",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "n",
+        "i",
+        "p",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "onipaa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "fixed, immobile",
+      "meanings": [
+        "fixed, immobile",
+        "established",
+        "steadfast, firm"
+      ],
+      "defHint": "fixed, immobile",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "palekana",
+      "glyphs": [
+        "p",
+        "a",
+        "l",
+        "e",
+        "k",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "palekana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "protection, defense",
+      "meanings": [
+        "protection, defense",
+        "safety, security",
+        "safe, secure",
+        "saved, rescued",
+        "convalescent, recovering"
+      ],
+      "defHint": "protection, defense",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomikanele",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "i",
+        "k",
+        "a",
+        "n",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 12,
+      "bare": "hoomikanele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act like or as a missionary",
+      "meanings": [
+        "to act like or as a missionary",
+        "to be a goody-goody"
+      ],
+      "defHint": "to act like or as a missionary",
+      "piece": {
+        "piece_word": "mikanele",
+        "piece_def": "missionary",
+        "tier": 1,
+        "rationale": "Missionary literally appears in the definition; hoʻo- causative of mikanele."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,159 @@
+{
+  "weekId": "2028-W18",
+  "ordinal": 3044,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hulina",
+      "glyphs": [
+        "h",
+        "u",
+        "l",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "hulina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "act of turning; reversal",
+      "meanings": [
+        "act of turning; reversal",
+        "turn, bend",
+        "act of seeking",
+        "search"
+      ],
+      "defHint": "act of turning; reversal",
+      "piece": {
+        "piece_word": "huli",
+        "piece_def": "to turn; to reverse; to seek, to search",
+        "tier": 1,
+        "rationale": "hulina is the nominalized form of huli; turning and seeking appear directly in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻemepake",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "m",
+        "e",
+        "p",
+        "a",
+        "k",
+        "e"
+      ],
+      "length": 8,
+      "bare": "emepake",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "embassy",
+      "meanings": [
+        "embassy"
+      ],
+      "defHint": "embassy",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "wīwī",
+      "glyphs": [
+        "w",
+        "ī",
+        "w",
+        "ī"
+      ],
+      "length": 4,
+      "bare": "wiwi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "thin, slender",
+      "meanings": [
+        "thin, slender",
+        "bony, emaciated"
+      ],
+      "defHint": "thin, slender",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "wikiō",
+      "glyphs": [
+        "w",
+        "i",
+        "k",
+        "i",
+        "ō"
+      ],
+      "length": 5,
+      "bare": "wikio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "video",
+      "meanings": [
+        "video"
+      ],
+      "defHint": "video",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "keonimana",
+      "glyphs": [
+        "k",
+        "e",
+        "o",
+        "n",
+        "i",
+        "m",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "keonimana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "gentleman",
+      "meanings": [
+        "gentleman"
+      ],
+      "defHint": "gentleman",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

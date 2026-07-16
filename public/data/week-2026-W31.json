@@ -1,0 +1,167 @@
+{
+  "weekId": "2026-W31",
+  "ordinal": 2952,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻopiʻopi",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "p",
+        "i",
+        "ʻ",
+        "o",
+        "p",
+        "i"
+      ],
+      "length": 8,
+      "bare": "opiopi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to fold",
+      "meanings": [
+        "to fold",
+        "folding"
+      ],
+      "defHint": "to fold",
+      "piece": {
+        "piece_word": "ʻopi",
+        "piece_def": "to fold, to crease; fold, crease",
+        "tier": 1,
+        "rationale": "ʻopiʻopi is a reduplication of ʻopi; fold literally appears in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "maʻamaʻa",
+      "glyphs": [
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "m",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "maamaa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "accustomed, experienced",
+      "meanings": [
+        "accustomed, experienced"
+      ],
+      "defHint": "accustomed, experienced",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻauhau",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "h",
+        "a",
+        "u"
+      ],
+      "length": 6,
+      "bare": "auhau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "tribute",
+      "meanings": [
+        "tribute",
+        "tax, tariff",
+        "to pay (tax or tribute)"
+      ],
+      "defHint": "tribute",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hiō",
+      "glyphs": [
+        "h",
+        "i",
+        "ō"
+      ],
+      "length": 3,
+      "bare": "hio",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lean",
+      "meanings": [
+        "to lean"
+      ],
+      "defHint": "to lean",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōpulepule",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "u",
+        "l",
+        "e",
+        "p",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 10,
+      "bare": "opulepule",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "spotted, speckled, mottled",
+      "meanings": [
+        "spotted, speckled, mottled"
+      ],
+      "defHint": "spotted, speckled, mottled",
+      "piece": {
+        "piece_word": "ʻōpule",
+        "piece_def": "spotted, speckled",
+        "tier": 1,
+        "rationale": "ʻōpule means spotted/speckled, matching the reduplicated form's meaning literally."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

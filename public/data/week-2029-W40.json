@@ -1,0 +1,164 @@
+{
+  "weekId": "2029-W40",
+  "ordinal": 3118,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kalipuna",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "i",
+        "p",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kalipuna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "calcium (chemical element)",
+      "meanings": [
+        "calcium (chemical element)"
+      ],
+      "defHint": "calcium (chemical element)",
+      "piece": {
+        "piece_word": "puna",
+        "piece_def": "calcium; coral, lime, plaster",
+        "tier": 1,
+        "rationale": "Puna directly means calcium/lime, literally matching the word's meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ānuenue",
+      "glyphs": [
+        "ā",
+        "n",
+        "u",
+        "e",
+        "n",
+        "u",
+        "e"
+      ],
+      "length": 7,
+      "bare": "anuenue",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "rainbow",
+      "meanings": [
+        "rainbow"
+      ],
+      "defHint": "rainbow",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "puʻuwai",
+      "glyphs": [
+        "p",
+        "u",
+        "ʻ",
+        "u",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "puuwai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "heart",
+      "meanings": [
+        "heart"
+      ],
+      "defHint": "heart",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻapeʻape",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "p",
+        "e",
+        "ʻ",
+        "a",
+        "p",
+        "e"
+      ],
+      "length": 8,
+      "bare": "apeape",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Any Gunnera species.",
+      "meanings": [
+        "Any Gunnera species.",
+        "flapping motion like those of a fish's gills underwater",
+        "a fish's breathing"
+      ],
+      "defHint": "Any Gunnera species.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "haukapila",
+      "glyphs": [
+        "h",
+        "a",
+        "u",
+        "k",
+        "a",
+        "p",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 9,
+      "bare": "haukapila",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "hospital",
+      "meanings": [
+        "hospital"
+      ],
+      "defHint": "hospital",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

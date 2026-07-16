@@ -1,0 +1,168 @@
+{
+  "weekId": "2027-W11",
+  "ordinal": 2985,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "wawā",
+      "glyphs": [
+        "w",
+        "a",
+        "w",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "wawa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "racket, roar, loud talk",
+      "meanings": [
+        "racket, roar, loud talk",
+        "tumultuous",
+        "talked-about, rumoured",
+        "resounding, repeating"
+      ],
+      "defHint": "racket, roar, loud talk",
+      "piece": {
+        "piece_word": "wā",
+        "piece_def": "to make noise, to roar; to talk a lot; to gossip",
+        "tier": 1,
+        "rationale": "wawā is a reduplication of wā; the noise/roar/talk sense literally appears in the definition"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hanohano",
+      "glyphs": [
+        "h",
+        "a",
+        "n",
+        "o",
+        "h",
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 8,
+      "bare": "hanohano",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "distinguished, honored, dignified",
+      "meanings": [
+        "distinguished, honored, dignified",
+        "distinction, honor",
+        "nobility, glory, majesty"
+      ],
+      "defHint": "distinguished, honored, dignified",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "makai",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "i"
+      ],
+      "length": 5,
+      "bare": "makai",
+      "pos": [
+        "adv"
+      ],
+      "featuredSense": "seaward, towards the sea",
+      "meanings": [
+        "seaward, towards the sea"
+      ],
+      "defHint": "seaward, towards the sea",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kikokiko",
+      "glyphs": [
+        "k",
+        "i",
+        "k",
+        "o",
+        "k",
+        "i",
+        "k",
+        "o"
+      ],
+      "length": 8,
+      "bare": "kikokiko",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "dotted, spotted, speckled",
+      "meanings": [
+        "dotted, spotted, speckled",
+        "to dot, to discolor with spots",
+        "to nibble, to peck at",
+        "to type"
+      ],
+      "defHint": "dotted, spotted, speckled",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻakepeuʻie",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "e",
+        "p",
+        "e",
+        "u",
+        "ʻ",
+        "i",
+        "e"
+      ],
+      "length": 10,
+      "bare": "akepeuie",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Oʻahu ʻākepa, a bird of species Loxops wolstenholmei",
+      "meanings": [
+        "Oʻahu ʻākepa, a bird of species Loxops wolstenholmei"
+      ],
+      "defHint": "Oʻahu ʻākepa, a bird of species Loxops wolstenholmei",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,164 @@
+{
+  "weekId": "2030-W13",
+  "ordinal": 3143,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻonā",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "hoona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to soothe, to comfort",
+      "meanings": [
+        "to soothe, to comfort",
+        "to quiet, to pacify",
+        "to appease, to placate",
+        "to settle"
+      ],
+      "defHint": "to soothe, to comfort",
+      "piece": {
+        "piece_word": "nā",
+        "piece_def": "calm, quieted; soothed, pacified; settled",
+        "tier": 1,
+        "rationale": "hoʻonā is the causative of nā; the meanings soothe/pacify/settle literally match."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hīʻōʻō",
+      "glyphs": [
+        "h",
+        "ī",
+        "ʻ",
+        "ō",
+        "ʻ",
+        "ō"
+      ],
+      "length": 6,
+      "bare": "hioo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be restless, active, flighty",
+      "meanings": [
+        "to be restless, active, flighty"
+      ],
+      "defHint": "to be restless, active, flighty",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻanae",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "n",
+        "a",
+        "e"
+      ],
+      "length": 5,
+      "bare": "anae",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mullet (fish)",
+      "meanings": [
+        "mullet (fish)"
+      ],
+      "defHint": "mullet (fish)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mauli",
+      "glyphs": [
+        "m",
+        "a",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 5,
+      "bare": "mauli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "life",
+      "meanings": [
+        "life",
+        "heart (seat of life)",
+        "spirit, ghost"
+      ],
+      "defHint": "life",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "matuahine",
+      "glyphs": [
+        "m",
+        "a",
+        "t",
+        "u",
+        "a",
+        "h",
+        "i",
+        "n",
+        "e"
+      ],
+      "length": 9,
+      "bare": "matuahine",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Niʻihau form of makuahine (“mother”)",
+      "meanings": [
+        "Niʻihau form of makuahine (“mother”)"
+      ],
+      "defHint": "Niʻihau form of makuahine (“mother”)",
+      "piece": {
+        "piece_word": "matua",
+        "piece_def": "Niʻihau form of makua (parent)",
+        "tier": 2,
+        "rationale": "Mother is a parent; matua (parent) is the root of matuahine (mother)."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

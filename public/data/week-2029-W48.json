@@ -1,0 +1,179 @@
+{
+  "weekId": "2029-W48",
+  "ordinal": 3126,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kūkulu",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 6,
+      "bare": "kukulu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to found, to establish",
+      "meanings": [
+        "pillar, post",
+        "border, edge",
+        "horizon",
+        "cardinal point, compass point",
+        "to tether",
+        "to park",
+        "to build, to construct",
+        "to put up, to erect",
+        "to found, to establish",
+        "building"
+      ],
+      "defHint": "to found, to establish",
+      "piece": {
+        "piece_word": "kū",
+        "piece_def": "to establish",
+        "tier": 1,
+        "rationale": "kū (to stand/establish) relates directly to kūkulu meaning to erect, build, establish; reduplication of kū"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hailuku",
+      "glyphs": [
+        "h",
+        "a",
+        "i",
+        "l",
+        "u",
+        "k",
+        "u"
+      ],
+      "length": 7,
+      "bare": "hailuku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to stone",
+      "meanings": [
+        "to stone"
+      ],
+      "defHint": "to stone",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "manakuke",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "a",
+        "k",
+        "u",
+        "k",
+        "e"
+      ],
+      "length": 8,
+      "bare": "manakuke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mongoose (Herpestidae)",
+      "meanings": [
+        "mongoose (Herpestidae)"
+      ],
+      "defHint": "mongoose (Herpestidae)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kōhi",
+      "glyphs": [
+        "k",
+        "ō",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kohi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to break or split something off with a blade, such as a shovel",
+      "meanings": [
+        "to break or split something off with a blade, such as a shovel",
+        "to chisel",
+        "to gouge",
+        "to chip, to pick (of ice)",
+        "to gather",
+        "to fill up",
+        "to heal"
+      ],
+      "defHint": "to break or split something off with a blade, such as a shovel",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokāhāhā",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "ā",
+        "h",
+        "ā",
+        "h",
+        "ā"
+      ],
+      "length": 10,
+      "bare": "hookahaha",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to cause astonishment",
+      "meanings": [
+        "to cause astonishment"
+      ],
+      "defHint": "to cause astonishment",
+      "piece": {
+        "piece_word": "kāhāhā",
+        "piece_def": "to wonder, to be surprised; surprised, astonished, amazed",
+        "tier": 1,
+        "rationale": "Root meaning astonishment/surprise; hoʻo- causative gives 'to cause astonishment'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

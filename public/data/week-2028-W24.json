@@ -1,0 +1,166 @@
+{
+  "weekId": "2028-W24",
+  "ordinal": 3050,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻauinapō",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "i",
+        "n",
+        "a",
+        "p",
+        "ō"
+      ],
+      "length": 8,
+      "bare": "auinapo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "midnight, late night",
+      "meanings": [
+        "midnight, late night"
+      ],
+      "defHint": "midnight, late night",
+      "piece": {
+        "piece_word": "pō",
+        "piece_def": "night, period of darkness after the evening",
+        "tier": 1,
+        "rationale": "'pō' means night; the word means midnight/late night — night literally appears."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pāloke",
+      "glyphs": [
+        "p",
+        "ā",
+        "l",
+        "o",
+        "k",
+        "e"
+      ],
+      "length": 6,
+      "bare": "paloke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "parrot",
+      "meanings": [
+        "parrot"
+      ],
+      "defHint": "parrot",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hepa",
+      "glyphs": [
+        "h",
+        "e",
+        "p",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hepa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "idiot, imbecile",
+      "meanings": [
+        "idiot, imbecile"
+      ],
+      "defHint": "idiot, imbecile",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kapu",
+      "glyphs": [
+        "k",
+        "a",
+        "p",
+        "u"
+      ],
+      "length": 4,
+      "bare": "kapu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "taboo, prohibition",
+      "meanings": [
+        "taboo, prohibition",
+        "something sacred or holy, and thus prohibited or forbidden to most",
+        "to be prohibited; to be consecrated, to be holy",
+        "a tub",
+        "a cap"
+      ],
+      "defHint": "taboo, prohibition",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pīlalilali",
+      "glyphs": [
+        "p",
+        "ī",
+        "l",
+        "a",
+        "l",
+        "i",
+        "l",
+        "a",
+        "l",
+        "i"
+      ],
+      "length": 10,
+      "bare": "pilalilali",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "sticky, gummy",
+      "meanings": [
+        "sticky, gummy",
+        "slimy, greasy"
+      ],
+      "defHint": "sticky, gummy",
+      "piece": {
+        "piece_word": "pīlali",
+        "piece_def": "gummy, sticky",
+        "tier": 1,
+        "rationale": "pīlali means gummy/sticky, which literally appears in the definition of pīlalilali."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

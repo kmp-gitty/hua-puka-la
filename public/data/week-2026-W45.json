@@ -1,0 +1,161 @@
+{
+  "weekId": "2026-W45",
+  "ordinal": 2966,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "haupia",
+      "glyphs": [
+        "h",
+        "a",
+        "u",
+        "p",
+        "i",
+        "a"
+      ],
+      "length": 6,
+      "bare": "haupia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "haupia (traditional pudding made with starch and coconut cream)",
+      "meanings": [
+        "haupia (traditional pudding made with starch and coconut cream)"
+      ],
+      "defHint": "— (traditional pudding made with starch and coconut cream)",
+      "piece": {
+        "piece_word": "pia",
+        "piece_def": "starch from any plant in general",
+        "tier": 1,
+        "rationale": "Haupia is made with starch; pia (starch) literally appears in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kūnā",
+      "glyphs": [
+        "k",
+        "ū",
+        "n",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "kuna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "second person",
+      "meanings": [
+        "second person"
+      ],
+      "defHint": "second person",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "poi",
+      "glyphs": [
+        "p",
+        "o",
+        "i"
+      ],
+      "length": 3,
+      "bare": "poi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a porridge-like substance made from cooked and ground taro corm mixed with water; a traditional Hawaiian staple food",
+      "meanings": [
+        "a porridge-like substance made from cooked and ground taro corm mixed with water; a traditional Hawaiian staple food"
+      ],
+      "defHint": "a porridge-like substance made from cooked and ground taro corm mixed with water; a traditional Hawaiian staple food",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "naku",
+      "glyphs": [
+        "n",
+        "a",
+        "k",
+        "u"
+      ],
+      "length": 4,
+      "bare": "naku",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to wallow",
+      "meanings": [
+        "to wallow",
+        "to tread, to trample",
+        "to struggle",
+        "bulrush"
+      ],
+      "defHint": "to wallow",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "maipoinaiaʻu",
+      "glyphs": [
+        "m",
+        "a",
+        "i",
+        "p",
+        "o",
+        "i",
+        "n",
+        "a",
+        "i",
+        "a",
+        "ʻ",
+        "u"
+      ],
+      "length": 12,
+      "bare": "maipoinaiau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "forget-me-not (flower)",
+      "meanings": [
+        "forget-me-not (flower)"
+      ],
+      "defHint": "forget-me-not (flower)",
+      "piece": {
+        "piece_word": "poina",
+        "piece_def": "to forget; forgotten",
+        "tier": 1,
+        "rationale": "Forget-me-not literally contains 'forget'; poina is the verb 'to forget' in the phrase."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

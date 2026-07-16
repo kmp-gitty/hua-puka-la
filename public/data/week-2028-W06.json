@@ -1,0 +1,159 @@
+{
+  "weekId": "2028-W06",
+  "ordinal": 3032,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻuwī",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "w",
+        "ī"
+      ],
+      "length": 4,
+      "bare": "uwi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to squeak, to squeal",
+      "meanings": [
+        "to squeak, to squeal",
+        "to squeeze, to wring"
+      ],
+      "defHint": "to squeak, to squeal",
+      "piece": {
+        "piece_word": "wī",
+        "piece_def": "squeak; any high shrill sound; to squeal, tinkle",
+        "tier": 1,
+        "rationale": "wī means squeak/squeal, matching the definition of ʻuwī 'to squeak, to squeal'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻakekeʻe",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "e",
+        "k",
+        "e",
+        "ʻ",
+        "e"
+      ],
+      "length": 8,
+      "bare": "akekee",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Kauaʻi ʻākepa (Loxops caeruleirostris)",
+      "meanings": [
+        "Kauaʻi ʻākepa (Loxops caeruleirostris)"
+      ],
+      "defHint": "Kauaʻi ʻākepa (Loxops caeruleirostris)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "liona",
+      "glyphs": [
+        "l",
+        "i",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "liona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "lion",
+      "meanings": [
+        "lion"
+      ],
+      "defHint": "lion",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "heu",
+      "glyphs": [
+        "h",
+        "e",
+        "u"
+      ],
+      "length": 3,
+      "bare": "heu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "down, fuzz",
+      "meanings": [
+        "down, fuzz",
+        "fine spines in sugarcane or cactus",
+        "bristle",
+        "sprouting"
+      ],
+      "defHint": "down, fuzz",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōpakapaka",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "a",
+        "k",
+        "a",
+        "p",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "opakapaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "crimson jobfish (Pristipomoides filamentosus)",
+      "meanings": [
+        "crimson jobfish (Pristipomoides filamentosus)",
+        "lavender jobfish (Pristipomoides sieboldii)"
+      ],
+      "defHint": "crimson jobfish (Pristipomoides filamentosus)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

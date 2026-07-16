@@ -1,0 +1,175 @@
+{
+  "weekId": "2029-W12",
+  "ordinal": 3090,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻakiʻaki",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "i",
+        "ʻ",
+        "a",
+        "k",
+        "i"
+      ],
+      "length": 8,
+      "bare": "akiaki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to snap constantly, repeatedly",
+      "meanings": [
+        "to snap constantly, repeatedly",
+        "to nibble (like a fish)",
+        "Any of species Ahnfeltia concinna of coarse edible red seaweed."
+      ],
+      "defHint": "to snap constantly, repeatedly",
+      "piece": {
+        "piece_word": "ʻaki",
+        "piece_def": "to snap; to nip (take a bite and let go)",
+        "tier": 1,
+        "rationale": "ʻakiʻaki is the reduplication of ʻaki; 'to snap'/'to nip' appears directly in senses [0] and [1]."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hāpa",
+      "glyphs": [
+        "h",
+        "ā",
+        "p",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hapa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "harp",
+      "meanings": [
+        "harp"
+      ],
+      "defHint": "harp",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "loukuaka",
+      "glyphs": [
+        "l",
+        "o",
+        "u",
+        "k",
+        "u",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "loukuaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "loquat",
+      "meanings": [
+        "loquat"
+      ],
+      "defHint": "loquat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lau",
+      "glyphs": [
+        "l",
+        "a",
+        "u"
+      ],
+      "length": 3,
+      "bare": "lau",
+      "pos": [
+        "noun",
+        "num",
+        "verb"
+      ],
+      "featuredSense": "leaf; frond; greens",
+      "meanings": [
+        "leaf; frond; greens",
+        "many, numerous",
+        "four hundred"
+      ],
+      "defHint": "leaf; frond; greens",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "lokomaikaʻi",
+      "glyphs": [
+        "l",
+        "o",
+        "k",
+        "o",
+        "m",
+        "a",
+        "i",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 11,
+      "bare": "lokomaikai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "good will",
+      "meanings": [
+        "good will",
+        "generosity",
+        "grace",
+        "kind, humane",
+        "gracious, obliging, generous",
+        "benevolent, beneficent"
+      ],
+      "defHint": "good will",
+      "piece": {
+        "piece_word": "maikaʻi",
+        "piece_def": "goodness, to be in a state of goodness",
+        "tier": 1,
+        "rationale": "Maikaʻi (goodness) is core to the meaning good will and kindness."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

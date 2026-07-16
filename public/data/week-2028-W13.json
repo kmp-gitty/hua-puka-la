@@ -1,0 +1,164 @@
+{
+  "weekId": "2028-W13",
+  "ordinal": 3039,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pōkaʻo",
+      "glyphs": [
+        "p",
+        "ō",
+        "k",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 6,
+      "bare": "pokao",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "barren",
+      "meanings": [
+        "barren",
+        "destitute",
+        "dry and tasteless",
+        "boring"
+      ],
+      "defHint": "barren",
+      "piece": {
+        "piece_word": "kaʻo",
+        "piece_def": "dry, arid; bare of vegetation",
+        "tier": 1,
+        "rationale": "Barren/dry meaning literally matches the larger word's senses."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pāpaʻi",
+      "glyphs": [
+        "p",
+        "ā",
+        "p",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "papai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "crab",
+      "meanings": [
+        "crab"
+      ],
+      "defHint": "crab",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "muʻe",
+      "glyphs": [
+        "m",
+        "u",
+        "ʻ",
+        "e"
+      ],
+      "length": 4,
+      "bare": "mue",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "bitter",
+      "meanings": [
+        "bitter"
+      ],
+      "defHint": "bitter",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lipi",
+      "glyphs": [
+        "l",
+        "i",
+        "p",
+        "i"
+      ],
+      "length": 4,
+      "bare": "lipi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "adze, chisel",
+      "meanings": [
+        "adze, chisel",
+        "any sharp edge or blade",
+        "taper",
+        "ridge of a mountain"
+      ],
+      "defHint": "adze, chisel",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kūkaenalo",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "a",
+        "e",
+        "n",
+        "a",
+        "l",
+        "o"
+      ],
+      "length": 9,
+      "bare": "kukaenalo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "beeswax",
+      "meanings": [
+        "beeswax",
+        "mole (naevus)"
+      ],
+      "defHint": "beeswax",
+      "piece": {
+        "piece_word": "nalo",
+        "piece_def": "bee",
+        "tier": 2,
+        "rationale": "kūkaenalo literally combines kūkae (excrement) + nalo (bee); beeswax relates to the bee sense."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

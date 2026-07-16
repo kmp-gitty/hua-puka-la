@@ -1,0 +1,168 @@
+{
+  "weekId": "2028-W23",
+  "ordinal": 3049,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "leoleo",
+      "glyphs": [
+        "l",
+        "e",
+        "o",
+        "l",
+        "e",
+        "o"
+      ],
+      "length": 6,
+      "bare": "leoleo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to speak loudly or vociferously",
+      "meanings": [
+        "to speak loudly or vociferously"
+      ],
+      "defHint": "to speak loudly or vociferously",
+      "piece": {
+        "piece_word": "leo",
+        "piece_def": "voice; sound; to speak",
+        "tier": 1,
+        "rationale": "leoleo is reduplication of leo (voice/to speak); the meaning 'to speak loudly' literally derives from leo."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "laukōnā",
+      "glyphs": [
+        "l",
+        "a",
+        "u",
+        "k",
+        "ō",
+        "n",
+        "ā"
+      ],
+      "length": 7,
+      "bare": "laukona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "heartless, merciless",
+      "meanings": [
+        "heartless, merciless",
+        "furious (i about)"
+      ],
+      "defHint": "heartless, merciless",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "naka",
+      "glyphs": [
+        "n",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "naka",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "Thaumatodon nesophila, a kind of land snail",
+      "meanings": [
+        "Thaumatodon nesophila, a kind of land snail",
+        "to crack, peel",
+        "to quiver, shake"
+      ],
+      "defHint": "Thaumatodon nesophila, a kind of land snail",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "uhalula",
+      "glyphs": [
+        "u",
+        "h",
+        "a",
+        "l",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 7,
+      "bare": "uhalula",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "A sea urchin with long spines.",
+      "meanings": [
+        "A sea urchin with long spines.",
+        "to be lazy"
+      ],
+      "defHint": "A sea urchin with long spines.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pōpaʻipaʻi",
+      "glyphs": [
+        "p",
+        "ō",
+        "p",
+        "a",
+        "ʻ",
+        "i",
+        "p",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 10,
+      "bare": "popaipai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "volleyball (sport)",
+      "meanings": [
+        "volleyball (sport)"
+      ],
+      "defHint": "volleyball (sport)",
+      "piece": {
+        "piece_word": "paʻi",
+        "piece_def": "to hit; to slap; to clap",
+        "tier": 2,
+        "rationale": "Volleyball involves hitting/slapping the ball; the reduplicated paʻipaʻi relates to the striking action."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

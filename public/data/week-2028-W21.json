@@ -1,0 +1,183 @@
+{
+  "weekId": "2028-W21",
+  "ordinal": 3047,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kālua",
+      "glyphs": [
+        "k",
+        "ā",
+        "l",
+        "u",
+        "a"
+      ],
+      "length": 5,
+      "bare": "kalua",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to be double-stranded",
+      "meanings": [
+        "to cook in an underground oven",
+        "to burn brick or lime",
+        "sinkhole, pit",
+        "slope, descent",
+        "downhill path or road",
+        "to be double-stranded"
+      ],
+      "defHint": "to be double-stranded",
+      "piece": {
+        "piece_word": "lua",
+        "piece_def": "two; second; double; duplicate",
+        "tier": 1,
+        "rationale": "'lua' (two/double) literally relates to the 'double-stranded' sense; also 'lua' means pit."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hōʻae",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "e"
+      ],
+      "length": 5,
+      "bare": "hoae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to pulverize",
+      "meanings": [
+        "to pulverize",
+        "to soften",
+        "to yield"
+      ],
+      "defHint": "to pulverize",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻukiʻuki",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "k",
+        "i",
+        "ʻ",
+        "u",
+        "k",
+        "i"
+      ],
+      "length": 8,
+      "bare": "ukiuki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Any of species Dianella sandwicensis of flax lilies, native to Hawaii.",
+      "meanings": [
+        "Any of species Dianella sandwicensis of flax lilies, native to Hawaii."
+      ],
+      "defHint": "Any of species Dianella sandwicensis of flax lilies, native to Hawaii.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "puni",
+      "glyphs": [
+        "p",
+        "u",
+        "n",
+        "i"
+      ],
+      "length": 4,
+      "bare": "puni",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "surrounded, enclosed",
+      "meanings": [
+        "surrounded, enclosed",
+        "controlled",
+        "overcome (by emotion)",
+        "deceived, deluded",
+        "to believe a lie",
+        "completed, terminated",
+        "lap (complete circuit)",
+        "round",
+        "hand (round of a card game)",
+        "to be fond of, to be partial to",
+        "to desire, to covet"
+      ],
+      "defHint": "surrounded, enclosed",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻālapakonakolu",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "l",
+        "a",
+        "p",
+        "a",
+        "k",
+        "o",
+        "n",
+        "a",
+        "k",
+        "o",
+        "l",
+        "u"
+      ],
+      "length": 14,
+      "bare": "alapakonakolu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "triathlon",
+      "meanings": [
+        "triathlon"
+      ],
+      "defHint": "triathlon",
+      "piece": {
+        "piece_word": "kolu",
+        "piece_def": "three; third",
+        "tier": 2,
+        "rationale": "Triathlon involves three events; 'kolu' (three) relates to the tri- component."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

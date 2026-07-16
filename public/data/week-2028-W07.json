@@ -1,0 +1,163 @@
+{
+  "weekId": "2028-W07",
+  "ordinal": 3033,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lauleʻa",
+      "glyphs": [
+        "l",
+        "a",
+        "u",
+        "l",
+        "e",
+        "ʻ",
+        "a"
+      ],
+      "length": 7,
+      "bare": "laulea",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "peace, happiness",
+      "meanings": [
+        "peace, happiness",
+        "happy, glad, peaceful"
+      ],
+      "defHint": "peace, happiness",
+      "piece": {
+        "piece_word": "leʻa",
+        "piece_def": "happy, merry; joy, pleasure",
+        "tier": 1,
+        "rationale": "leʻa (happy/joy) literally appears in the meaning happiness/happy."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kika",
+      "glyphs": [
+        "k",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "kika",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "slippery",
+      "meanings": [
+        "slippery"
+      ],
+      "defHint": "slippery",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ukana",
+      "glyphs": [
+        "u",
+        "k",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "ukana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "baggage",
+      "meanings": [
+        "baggage"
+      ],
+      "defHint": "baggage",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "naonao",
+      "glyphs": [
+        "n",
+        "a",
+        "o",
+        "n",
+        "a",
+        "o"
+      ],
+      "length": 6,
+      "bare": "naonao",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ant",
+      "meanings": [
+        "ant"
+      ],
+      "defHint": "ant",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "naʻauʻauā",
+      "glyphs": [
+        "n",
+        "a",
+        "ʻ",
+        "a",
+        "u",
+        "ʻ",
+        "a",
+        "u",
+        "ā"
+      ],
+      "length": 9,
+      "bare": "naauaua",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to mourn, to grieve",
+      "meanings": [
+        "suicidal grief",
+        "to mourn, to grieve"
+      ],
+      "defHint": "to mourn, to grieve",
+      "piece": {
+        "piece_word": "naʻau",
+        "piece_def": "mind, heart",
+        "tier": 2,
+        "rationale": "naʻau (heart/seat of emotion) relates to deep grief and mourning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,191 +1,2181 @@
 {
   "weeks": [
     {
-      "id": "2026-W27",
-      "ordinal": 2948,
-      "words": [
-        "wikiwiki",
-        "kuapuʻu",
-        "lolo",
-        "pepeiao",
-        "ninaninau"
-      ]
-    },
-    {
-      "id": "2026-W28",
-      "ordinal": 2949,
-      "words": [
-        "nihoa",
-        "ʻahi",
-        "ʻaʻa",
-        "kinipōpō",
-        "lepupalika"
-      ]
-    },
-    {
       "id": "2026-W29",
       "ordinal": 2950,
       "words": [
-        "kākoʻo",
-        "ʻamaʻama",
-        "hāʻuke",
-        "manu",
-        "hoʻohaʻalulu"
+        "mahana",
+        "koko",
+        "ʻiʻini",
+        "ʻoi",
+        "kālaimeaola"
       ]
     },
     {
       "id": "2026-W30",
       "ordinal": 2951,
       "words": [
-        "pāʻele",
-        "kepa",
-        "kūʻai",
-        "hoʻomaha",
-        "hoʻopōʻai"
-      ]
-    },
-    {
-      "id": "reserve-01",
-      "ordinal": null,
-      "type": "reserve",
-      "words": [
-        "hoʻohui",
-        "kahakai",
-        "kanaluna",
-        "hālau",
-        "hoʻokahua"
-      ]
-    },
-    {
-      "id": "reserve-02",
-      "ordinal": null,
-      "type": "reserve",
-      "words": [
-        "mākonā",
-        "ulepuaʻa",
-        "huki",
-        "haʻupoho",
-        "naʻauʻauā"
-      ]
-    },
-    {
-      "id": "reserve-03",
-      "ordinal": null,
-      "type": "reserve",
-      "words": [
-        "ʻulaʻula",
-        "hāwāwā",
-        "polopeka",
-        "lepelepe",
-        "hoʻokoʻokoʻo"
-      ]
-    },
-    {
-      "id": "reserve-04",
-      "ordinal": null,
-      "type": "reserve",
-      "words": [
-        "mahana",
-        "ʻūpā",
-        "lena",
-        "hue",
+        "hoʻohina",
+        "kōlea",
+        "heluhelu",
+        "keu",
         "wilipuaʻa"
       ]
     },
     {
-      "id": "reserve-05",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2026-W31",
+      "ordinal": 2952,
       "words": [
-        "lumaʻi",
-        "mama",
-        "leo",
-        "kolepa",
-        "ʻāpikipiki"
+        "ʻopiʻopi",
+        "maʻamaʻa",
+        "ʻauhau",
+        "hiō",
+        "ʻōpulepule"
       ]
     },
     {
-      "id": "reserve-06",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2026-W32",
+      "ordinal": 2953,
       "words": [
-        "ʻāhui",
-        "poloka",
-        "punihei",
-        "hōʻona",
-        "hoʻopumehana"
+        "mākia",
+        "pūʻulu",
+        "waimaka",
+        "pio",
+        "māluhiluhi"
       ]
     },
     {
-      "id": "reserve-07",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2026-W33",
+      "ordinal": 2954,
       "words": [
-        "puʻukani",
-        "holoāiʻa",
-        "kūkā",
-        "pūhihio",
-        "ʻōhuluhulu"
+        "hulihuli",
+        "makamae",
+        "ʻole",
+        "lānahu",
+        "ʻōmaʻimaʻi"
       ]
     },
     {
-      "id": "reserve-08",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2026-W34",
+      "ordinal": 2955,
       "words": [
-        "hoʻonani",
-        "kāʻahi",
-        "hula",
-        "hohoki",
-        "hoʻokamaliʻi"
+        "haʻahaʻa",
+        "waiūpaka",
+        "pehea",
+        "pano",
+        "panalāʻau"
       ]
     },
     {
-      "id": "reserve-09",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2026-W35",
+      "ordinal": 2956,
       "words": [
-        "kīpuka",
-        "hopohopo",
-        "pihaʻā",
-        "kahiko",
+        "hoʻokua",
+        "ʻieʻie",
+        "hoʻīli",
+        "kamaliʻi",
+        "ʻaluminuma"
+      ]
+    },
+    {
+      "id": "2026-W36",
+      "ordinal": 2957,
+      "words": [
+        "pākuʻina",
+        "ʻōhinu",
+        "kalame",
+        "aʻo",
+        "kaikuahine"
+      ]
+    },
+    {
+      "id": "2026-W37",
+      "ordinal": 2958,
+      "words": [
+        "liʻiliʻi",
+        "paʻahao",
+        "ʻūhōloʻa",
+        "pūlale",
         "haukalima"
       ]
     },
     {
-      "id": "reserve-10",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2026-W38",
+      "ordinal": 2959,
       "words": [
-        "ʻokina",
-        "naio",
-        "ono",
-        "moa",
+        "paʻikiʻi",
+        "hoʻomaka",
+        "manawa",
+        "kaula",
+        "ʻauipaʻewa"
+      ]
+    },
+    {
+      "id": "2026-W39",
+      "ordinal": 2960,
+      "words": [
+        "punipuni",
+        "ʻaho",
+        "lāʻau",
+        "waiūtepe",
+        "āhinahina"
+      ]
+    },
+    {
+      "id": "2026-W40",
+      "ordinal": 2961,
+      "words": [
+        "hoʻomoʻa",
+        "maʻalahi",
+        "hoana",
+        "ʻākau",
+        "hoʻopālua"
+      ]
+    },
+    {
+      "id": "2026-W41",
+      "ordinal": 2962,
+      "words": [
+        "hāuli",
+        "kilo",
+        "kanaka",
+        "kulaʻi",
+        "hoʻomākeʻaka"
+      ]
+    },
+    {
+      "id": "2026-W42",
+      "ordinal": 2963,
+      "words": [
+        "hoʻonuha",
+        "ʻauwai",
+        "olo",
+        "huʻahuʻa",
+        "waihoʻoluʻu"
+      ]
+    },
+    {
+      "id": "2026-W43",
+      "ordinal": 2964,
+      "words": [
+        "ʻōlena",
+        "kauka",
+        "luhi",
+        "maʻawe",
+        "lepupalika"
+      ]
+    },
+    {
+      "id": "2026-W44",
+      "ordinal": 2965,
+      "words": [
+        "mokupuni",
+        "kopa",
+        "woela",
+        "kōkō",
+        "ʻōhuluhulu"
+      ]
+    },
+    {
+      "id": "2026-W45",
+      "ordinal": 2966,
+      "words": [
+        "haupia",
+        "kūnā",
+        "poi",
+        "naku",
+        "maipoinaiaʻu"
+      ]
+    },
+    {
+      "id": "2026-W46",
+      "ordinal": 2967,
+      "words": [
+        "okaoka",
+        "kaʻokaʻo",
+        "nīkiʻi",
+        "lumi",
+        "pūnaewele"
+      ]
+    },
+    {
+      "id": "2026-W47",
+      "ordinal": 2968,
+      "words": [
+        "poepoe",
+        "kino",
+        "lawe",
+        "mīkini",
+        "hoʻomalolo"
+      ]
+    },
+    {
+      "id": "2026-W48",
+      "ordinal": 2969,
+      "words": [
+        "ponopono",
+        "hōʻoia",
+        "naʻau",
+        "hāwāwā",
+        "haikokene"
+      ]
+    },
+    {
+      "id": "2026-W49",
+      "ordinal": 2970,
+      "words": [
+        "paʻakai",
+        "kāki",
+        "hoʻopae",
+        "makau",
+        "ʻōmalumalu"
+      ]
+    },
+    {
+      "id": "2026-W50",
+      "ordinal": 2971,
+      "words": [
+        "hoʻomaha",
+        "ʻauinalā",
+        "ʻūheheʻe",
+        "ʻou",
+        "ʻōpeʻapeʻa"
+      ]
+    },
+    {
+      "id": "2026-W51",
+      "ordinal": 2972,
+      "words": [
+        "pōhae",
+        "ʻeleweka",
+        "moe",
+        "ʻahi",
+        "makanekiuma"
+      ]
+    },
+    {
+      "id": "2026-W52",
+      "ordinal": 2973,
+      "words": [
+        "kuahao",
+        "neʻe",
+        "lauoho",
+        "like",
+        "hoʻomālielie"
+      ]
+    },
+    {
+      "id": "2026-W53",
+      "ordinal": 2974,
+      "words": [
+        "heleāwai",
+        "ponoʻī",
+        "kulāiwi",
+        "hapahā",
+        "pahupaʻikiʻi"
+      ]
+    },
+    {
+      "id": "2027-W01",
+      "ordinal": 2975,
+      "words": [
+        "lauhoe",
+        "hāʻāpuka",
+        "ʻalani",
+        "kali",
+        "manaʻolana"
+      ]
+    },
+    {
+      "id": "2027-W02",
+      "ordinal": 2976,
+      "words": [
+        "piʻina",
+        "holoholo",
+        "ʻuao",
+        "hānai",
+        "hoʻomālie"
+      ]
+    },
+    {
+      "id": "2027-W03",
+      "ordinal": 2977,
+      "words": [
+        "hoʻoulu",
+        "haʻa",
+        "paona",
+        "malo",
+        "makaaniani"
+      ]
+    },
+    {
+      "id": "2027-W04",
+      "ordinal": 2978,
+      "words": [
+        "pauaho",
+        "luna",
+        "mālolo",
+        "tumu",
+        "mākolukolu"
+      ]
+    },
+    {
+      "id": "2027-W05",
+      "ordinal": 2979,
+      "words": [
+        "māʻona",
+        "pāweo",
+        "maoli",
+        "keʻokeʻo",
+        "hoʻouluhua"
+      ]
+    },
+    {
+      "id": "2027-W06",
+      "ordinal": 2980,
+      "words": [
+        "noʻu",
+        "pōpoki",
+        "haʻupoho",
+        "pololei",
+        "hoʻomaʻalahi"
+      ]
+    },
+    {
+      "id": "2027-W07",
+      "ordinal": 2981,
+      "words": [
+        "pūhihio",
+        "pono",
+        "kani",
+        "ʻehu",
+        "hoʻōkaoka"
+      ]
+    },
+    {
+      "id": "2027-W08",
+      "ordinal": 2982,
+      "words": [
+        "pōnalo",
+        "lilikoʻi",
+        "mālō",
+        "ulana",
+        "mākaʻukaʻu"
+      ]
+    },
+    {
+      "id": "2027-W09",
+      "ordinal": 2983,
+      "words": [
+        "kaʻikaʻi",
+        "makautau",
+        "ʻaiāmanō",
+        "kolepa",
+        "ʻenekinia"
+      ]
+    },
+    {
+      "id": "2027-W10",
+      "ordinal": 2984,
+      "words": [
+        "kainui",
+        "hēkī",
+        "ʻawaʻawa",
+        "lama",
+        "hoʻopaʻahao"
+      ]
+    },
+    {
+      "id": "2027-W11",
+      "ordinal": 2985,
+      "words": [
+        "wawā",
+        "hanohano",
+        "makai",
+        "kikokiko",
+        "ʻakepeuʻie"
+      ]
+    },
+    {
+      "id": "2027-W12",
+      "ordinal": 2986,
+      "words": [
+        "inumia",
+        "paʻakīkī",
+        "kālā",
+        "kūkaeuli",
+        "hoʻomākaʻukaʻu"
+      ]
+    },
+    {
+      "id": "2027-W13",
+      "ordinal": 2987,
+      "words": [
+        "pūpū",
+        "pili",
+        "lili",
+        "lōkahi",
+        "kaumokuʻāina"
+      ]
+    },
+    {
+      "id": "2027-W14",
+      "ordinal": 2988,
+      "words": [
+        "kahawai",
+        "pāʻani",
+        "kobalata",
+        "ʻalamihi",
+        "manaʻoʻiʻo"
+      ]
+    },
+    {
+      "id": "2027-W15",
+      "ordinal": 2989,
+      "words": [
+        "kīpuka",
+        "monakō",
+        "kaʻa",
+        "waleluka",
+        "waiūhakuhaku"
+      ]
+    },
+    {
+      "id": "2027-W16",
+      "ordinal": 2990,
+      "words": [
+        "ʻōmaʻo",
+        "hōkū",
+        "ʻaina",
+        "likiuma",
+        "hoʻolimalima"
+      ]
+    },
+    {
+      "id": "2027-W17",
+      "ordinal": 2991,
+      "words": [
+        "ʻakina",
+        "maiʻa",
+        "moehewa",
+        "noʻa",
+        "ʻalemanaka"
+      ]
+    },
+    {
+      "id": "2027-W18",
+      "ordinal": 2992,
+      "words": [
+        "mahiʻai",
+        "keiki",
+        "ʻiʻiwi",
+        "māʻalo",
+        "hoʻokahua"
+      ]
+    },
+    {
+      "id": "2027-W19",
+      "ordinal": 2993,
+      "words": [
+        "ʻaʻā",
+        "kuʻu",
+        "hana",
+        "haʻiinoa",
+        "paʻanaʻau"
+      ]
+    },
+    {
+      "id": "2027-W20",
+      "ordinal": 2994,
+      "words": [
+        "konākonā",
+        "hōʻaiʻē",
+        "kiaʻi",
+        "kīhāpai",
+        "hoʻonauki"
+      ]
+    },
+    {
+      "id": "2027-W21",
+      "ordinal": 2995,
+      "words": [
+        "nou",
+        "poloka",
+        "waʻu",
+        "paniolo",
+        "kālaikūlohea"
+      ]
+    },
+    {
+      "id": "2027-W22",
+      "ordinal": 2996,
+      "words": [
+        "lonoā",
+        "male",
+        "akua",
+        "ipu",
+        "ʻalakenika"
+      ]
+    },
+    {
+      "id": "2027-W23",
+      "ordinal": 2997,
+      "words": [
+        "kuapuʻu",
+        "nāuki",
+        "nae",
+        "hapa",
+        "hoʻomakaʻu"
+      ]
+    },
+    {
+      "id": "2027-W24",
+      "ordinal": 2998,
+      "words": [
+        "anuanu",
+        "manamana",
+        "hāʻule",
+        "pahu",
+        "penekuina"
+      ]
+    },
+    {
+      "id": "2027-W25",
+      "ordinal": 2999,
+      "words": [
+        "hakuhaku",
+        "kalaiwa",
+        "oli",
+        "ʻōwehe",
+        "ʻākulikuli"
+      ]
+    },
+    {
+      "id": "2027-W26",
+      "ordinal": 3000,
+      "words": [
+        "hoʻokolo",
+        "laholio",
+        "hōloʻa",
+        "kōpaʻa",
+        "hoʻomomona"
+      ]
+    },
+    {
+      "id": "2027-W27",
+      "ordinal": 3001,
+      "words": [
+        "hoʻaʻā",
+        "mōhai",
+        "aʻe",
+        "kelepona",
+        "hoʻomaikaʻi"
+      ]
+    },
+    {
+      "id": "2027-W28",
+      "ordinal": 3002,
+      "words": [
+        "hōʻona",
+        "ʻakele",
+        "huhū",
+        "noʻeau",
+        "pōʻailani"
+      ]
+    },
+    {
+      "id": "2027-W29",
+      "ordinal": 3003,
+      "words": [
+        "hikiāloa",
+        "ʻau",
+        "kamani",
+        "kīkā",
+        "ahimakani"
+      ]
+    },
+    {
+      "id": "2027-W30",
+      "ordinal": 3004,
+      "words": [
+        "kukule",
+        "hoʻomana",
+        "pōhīnaʻi",
+        "pea",
+        "hoʻomanaʻo"
+      ]
+    },
+    {
+      "id": "2027-W31",
+      "ordinal": 3005,
+      "words": [
+        "nohona",
+        "honua",
+        "koa",
+        "hālō",
+        "kamakuaka"
+      ]
+    },
+    {
+      "id": "2027-W32",
+      "ordinal": 3006,
+      "words": [
+        "aniani",
+        "pāhoehoe",
+        "ala",
+        "maka",
+        "pūʻoheʻohe"
+      ]
+    },
+    {
+      "id": "2027-W33",
+      "ordinal": 3007,
+      "words": [
+        "hanini",
+        "uaua",
+        "lamalama",
+        "akahele",
+        "waonahele"
+      ]
+    },
+    {
+      "id": "2027-W34",
+      "ordinal": 3008,
+      "words": [
+        "hoʻomale",
+        "nīnau",
+        "aumoe",
+        "mauka",
+        "mālamalama"
+      ]
+    },
+    {
+      "id": "2027-W35",
+      "ordinal": 3009,
+      "words": [
+        "koʻokoʻo",
+        "ʻāpuka",
+        "piʻo",
+        "ʻaloʻalo",
+        "hoʻomaopopo"
+      ]
+    },
+    {
+      "id": "2027-W36",
+      "ordinal": 3010,
+      "words": [
+        "hōʻaumoe",
+        "hoʻolei",
+        "naʻanaʻa",
+        "lēpela",
+        "hoʻokolohua"
+      ]
+    },
+    {
+      "id": "2027-W37",
+      "ordinal": 3011,
+      "words": [
+        "kupukupu",
+        "hikaluhi",
+        "kanapī",
+        "aina",
+        "ʻōniʻoniʻo"
+      ]
+    },
+    {
+      "id": "2027-W38",
+      "ordinal": 3012,
+      "words": [
+        "kūkae",
+        "hae",
+        "ane",
+        "panepane",
+        "hoʻomākonā"
+      ]
+    },
+    {
+      "id": "2027-W39",
+      "ordinal": 3013,
+      "words": [
+        "ʻalohi",
+        "paina",
+        "kahu",
+        "māmā",
+        "ʻālapakonalima"
+      ]
+    },
+    {
+      "id": "2027-W40",
+      "ordinal": 3014,
+      "words": [
+        "hoʻopau",
+        "koholā",
+        "outou",
+        "hoʻopiʻo",
+        "kaikoʻeke"
+      ]
+    },
+    {
+      "id": "2027-W41",
+      "ordinal": 3015,
+      "words": [
+        "ʻaholo",
+        "pākiʻi",
+        "koaea",
+        "hahau",
+        "ʻoumuamua"
+      ]
+    },
+    {
+      "id": "2027-W42",
+      "ordinal": 3016,
+      "words": [
+        "hoʻonoho",
+        "pepa",
+        "ʻoʻopu",
+        "lōʻihi",
+        "hanuāpuaʻa"
+      ]
+    },
+    {
+      "id": "2027-W43",
+      "ordinal": 3017,
+      "words": [
+        "kinoea",
+        "lānai",
+        "loko",
+        "ʻīnaʻi",
+        "makemakika"
+      ]
+    },
+    {
+      "id": "2027-W44",
+      "ordinal": 3018,
+      "words": [
+        "nunuha",
+        "lenalena",
+        "mona",
+        "ʻōpule",
+        "hoʻoponopono"
+      ]
+    },
+    {
+      "id": "2027-W45",
+      "ordinal": 3019,
+      "words": [
+        "hōʻalo",
+        "mama",
+        "kuki",
+        "kahe",
+        "hoʻopūhili"
+      ]
+    },
+    {
+      "id": "2027-W46",
+      "ordinal": 3020,
+      "words": [
+        "pāleoleo",
+        "pelapela",
+        "ʻaʻo",
+        "hoʻōla",
+        "kaikunāne"
+      ]
+    },
+    {
+      "id": "2027-W47",
+      "ordinal": 3021,
+      "words": [
+        "nalowale",
+        "pākuʻi",
+        "ianakama",
+        "kahikolu",
+        "hoʻohanohano"
+      ]
+    },
+    {
+      "id": "2027-W48",
+      "ordinal": 3022,
+      "words": [
+        "kukuli",
+        "kālani",
+        "akalau",
+        "huinahā",
+        "hoʻomoana"
+      ]
+    },
+    {
+      "id": "2027-W49",
+      "ordinal": 3023,
+      "words": [
+        "kahaone",
+        "kaikaina",
+        "kīwila",
+        "one",
+        "kūʻonoʻono"
+      ]
+    },
+    {
+      "id": "2027-W50",
+      "ordinal": 3024,
+      "words": [
+        "lokoʻino",
+        "mikanele",
+        "ʻiʻoʻiʻo",
+        "lole",
+        "huliāmahi"
+      ]
+    },
+    {
+      "id": "2027-W51",
+      "ordinal": 3025,
+      "words": [
+        "uluwehi",
+        "kope",
+        "nika",
+        "ʻamaʻama",
+        "hoʻomakua"
+      ]
+    },
+    {
+      "id": "2027-W52",
+      "ordinal": 3026,
+      "words": [
+        "ʻopihi",
+        "hoʻōnea",
+        "pueo",
+        "kuke",
+        "makanahele"
+      ]
+    },
+    {
+      "id": "2028-W01",
+      "ordinal": 3027,
+      "words": [
+        "nakulu",
+        "kalaina",
+        "kāhili",
+        "kūionoko",
+        "ʻailakele"
+      ]
+    },
+    {
+      "id": "2028-W02",
+      "ordinal": 3028,
+      "words": [
+        "kilohi",
+        "pākeke",
+        "ili",
+        "puka",
+        "mokuʻāina"
+      ]
+    },
+    {
+      "id": "2028-W03",
+      "ordinal": 3029,
+      "words": [
+        "pāleo",
+        "palaoa",
+        "ʻonipaʻa",
+        "palekana",
+        "hoʻomikanele"
+      ]
+    },
+    {
+      "id": "2028-W04",
+      "ordinal": 3030,
+      "words": [
+        "kuʻihao",
+        "pilau",
+        "pihi",
+        "māhū",
+        "katahiaka"
+      ]
+    },
+    {
+      "id": "2028-W05",
+      "ordinal": 3031,
+      "words": [
+        "wehewehe",
+        "paʻapū",
+        "ʻōkole",
+        "kuene",
+        "makuahine"
+      ]
+    },
+    {
+      "id": "2028-W06",
+      "ordinal": 3032,
+      "words": [
+        "ʻuwī",
+        "ʻakekeʻe",
+        "liona",
+        "heu",
+        "ʻōpakapaka"
+      ]
+    },
+    {
+      "id": "2028-W07",
+      "ordinal": 3033,
+      "words": [
+        "lauleʻa",
+        "kika",
+        "ukana",
+        "naonao",
+        "naʻauʻauā"
+      ]
+    },
+    {
+      "id": "2028-W08",
+      "ordinal": 3034,
+      "words": [
+        "wāwae",
+        "ʻaʻole",
+        "māihi",
+        "lua",
+        "naʻaukake"
+      ]
+    },
+    {
+      "id": "2028-W09",
+      "ordinal": 3035,
+      "words": [
+        "hauhau",
+        "kīkī",
+        "papa",
+        "kikiki",
+        "hoʻomaʻamaʻa"
+      ]
+    },
+    {
+      "id": "2028-W10",
+      "ordinal": 3036,
+      "words": [
+        "kinipōpō",
+        "hamo",
+        "aikāne",
+        "ʻāluna",
+        "akeakamai"
+      ]
+    },
+    {
+      "id": "2028-W11",
+      "ordinal": 3037,
+      "words": [
+        "hoʻopoe",
+        "ʻōnaha",
+        "kokuli",
+        "hoehoe",
+        "hāloliʻili"
+      ]
+    },
+    {
+      "id": "2028-W12",
+      "ordinal": 3038,
+      "words": [
+        "hoʻomanō",
+        "mauna",
+        "meʻe",
+        "ʻawapuhi",
+        "hoʻopumehana"
+      ]
+    },
+    {
+      "id": "2028-W13",
+      "ordinal": 3039,
+      "words": [
+        "pōkaʻo",
+        "pāpaʻi",
+        "muʻe",
+        "lipi",
+        "kūkaenalo"
+      ]
+    },
+    {
+      "id": "2028-W14",
+      "ordinal": 3040,
+      "words": [
+        "nākuʻi",
+        "hāna",
+        "kālele",
+        "akemāmā",
         "kakahiaka"
       ]
     },
     {
-      "id": "reserve-11",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2028-W15",
+      "ordinal": 3041,
+      "words": [
+        "ʻakolo",
+        "nohu",
+        "ʻanoʻano",
+        "maha",
+        "puahiohio"
+      ]
+    },
+    {
+      "id": "2028-W16",
+      "ordinal": 3042,
+      "words": [
+        "hoʻoneo",
+        "lemu",
+        "mōhā",
+        "hōʻā",
+        "paikikala"
+      ]
+    },
+    {
+      "id": "2028-W17",
+      "ordinal": 3043,
+      "words": [
+        "hōʻole",
+        "mua",
+        "ʻeleʻele",
+        "lopi",
+        "hoʻopalaka"
+      ]
+    },
+    {
+      "id": "2028-W18",
+      "ordinal": 3044,
+      "words": [
+        "hulina",
+        "ʻemepake",
+        "wīwī",
+        "wikiō",
+        "keonimana"
+      ]
+    },
+    {
+      "id": "2028-W19",
+      "ordinal": 3045,
+      "words": [
+        "kāholo",
+        "malino",
+        "kuahine",
+        "ʻalalā",
+        "ʻāinapuniʻole"
+      ]
+    },
+    {
+      "id": "2028-W20",
+      "ordinal": 3046,
+      "words": [
+        "mōhāhā",
+        "ano",
+        "hoʻohana",
+        "lika",
+        "hoʻohaʻalulu"
+      ]
+    },
+    {
+      "id": "2028-W21",
+      "ordinal": 3047,
+      "words": [
+        "kālua",
+        "hōʻae",
+        "ʻukiʻuki",
+        "puni",
+        "ʻālapakonakolu"
+      ]
+    },
+    {
+      "id": "2028-W22",
+      "ordinal": 3048,
+      "words": [
+        "ʻuʻuku",
+        "ʻaragona",
+        "kāhea",
+        "papamū",
+        "hoʻolaulā"
+      ]
+    },
+    {
+      "id": "2028-W23",
+      "ordinal": 3049,
+      "words": [
+        "leoleo",
+        "laukōnā",
+        "naka",
+        "uhalula",
+        "pōpaʻipaʻi"
+      ]
+    },
+    {
+      "id": "2028-W24",
+      "ordinal": 3050,
+      "words": [
+        "ʻauinapō",
+        "pāloke",
+        "hepa",
+        "kapu",
+        "pīlalilali"
+      ]
+    },
+    {
+      "id": "2028-W25",
+      "ordinal": 3051,
+      "words": [
+        "kākoʻo",
+        "hui",
+        "hānana",
+        "hali",
+        "hoʻomākaukau"
+      ]
+    },
+    {
+      "id": "2028-W26",
+      "ordinal": 3052,
+      "words": [
+        "hapakolu",
+        "ʻōpuhi",
+        "nihoniho",
+        "makaʻu",
+        "hoʻonuinui"
+      ]
+    },
+    {
+      "id": "2028-W27",
+      "ordinal": 3053,
+      "words": [
+        "hoʻowela",
+        "ʻōkuhe",
+        "kinowai",
+        "kapikala",
+        "huinakolu"
+      ]
+    },
+    {
+      "id": "2028-W28",
+      "ordinal": 3054,
+      "words": [
+        "ʻahamele",
+        "lulu",
+        "hao",
+        "lunu",
+        "kumukānāwai"
+      ]
+    },
+    {
+      "id": "2028-W29",
+      "ordinal": 3055,
+      "words": [
+        "kokoko",
+        "akaaka",
+        "pelu",
+        "pālākiō",
+        "ʻokekelika"
+      ]
+    },
+    {
+      "id": "2028-W30",
+      "ordinal": 3056,
+      "words": [
+        "ʻaumakua",
+        "pūkiawe",
+        "ʻūhili",
+        "ʻōnini",
+        "hoʻākoakoa"
+      ]
+    },
+    {
+      "id": "2028-W31",
+      "ordinal": 3057,
+      "words": [
+        "ʻāmana",
+        "kahuna",
+        "katau",
+        "hāliu",
+        "ʻālapakonaʻumi"
+      ]
+    },
+    {
+      "id": "2028-W32",
+      "ordinal": 3058,
+      "words": [
+        "kumulipo",
+        "kūmau",
+        "lawa",
+        "liu",
+        "kalenekalio"
+      ]
+    },
+    {
+      "id": "2028-W33",
+      "ordinal": 3059,
+      "words": [
+        "nīnauele",
+        "nani",
+        "pokela",
+        "hiʻi",
+        "hoʻohalahala"
+      ]
+    },
+    {
+      "id": "2028-W34",
+      "ordinal": 3060,
+      "words": [
+        "hoʻihoʻi",
+        "ʻano",
+        "kimu",
+        "wehi",
+        "hoʻopōʻai"
+      ]
+    },
+    {
+      "id": "2028-W35",
+      "ordinal": 3061,
+      "words": [
+        "mākonā",
+        "koʻe",
+        "wulekula",
+        "mina",
+        "hoʻoikaika"
+      ]
+    },
+    {
+      "id": "2028-W36",
+      "ordinal": 3062,
+      "words": [
+        "helekū",
+        "maitai",
+        "mile",
+        "heʻe",
+        "kālaimeaolahune"
+      ]
+    },
+    {
+      "id": "2028-W37",
+      "ordinal": 3063,
+      "words": [
+        "pāʻele",
+        "hoai",
+        "hono",
+        "ākea",
+        "hiʻohiʻona"
+      ]
+    },
+    {
+      "id": "2028-W38",
+      "ordinal": 3064,
+      "words": [
+        "mamaʻo",
+        "kili",
+        "kime",
+        "makahiti",
+        "kahahānai"
+      ]
+    },
+    {
+      "id": "2028-W39",
+      "ordinal": 3065,
+      "words": [
+        "hoʻopuka",
+        "pilikia",
+        "una",
+        "aeʻo",
+        "makapiapia"
+      ]
+    },
+    {
+      "id": "2028-W40",
+      "ordinal": 3066,
+      "words": [
+        "hoʻoluʻu",
+        "hiwa",
+        "kekele",
+        "eʻe",
+        "ʻōnaehana"
+      ]
+    },
+    {
+      "id": "2028-W41",
+      "ordinal": 3067,
+      "words": [
+        "ʻaleʻale",
+        "muku",
+        "pāʻina",
+        "ʻonaʻona",
+        "nāhelehele"
+      ]
+    },
+    {
+      "id": "2028-W42",
+      "ordinal": 3068,
+      "words": [
+        "pūnono",
+        "noio",
+        "loke",
+        "awa",
+        "hoʻohaole"
+      ]
+    },
+    {
+      "id": "2028-W43",
+      "ordinal": 3069,
+      "words": [
+        "kiʻekiʻe",
+        "māunauna",
+        "luaʻi",
+        "haʻuki",
+        "hoʻokiʻekiʻe"
+      ]
+    },
+    {
+      "id": "2028-W44",
+      "ordinal": 3070,
+      "words": [
+        "hoʻouahi",
+        "nahau",
+        "uniona",
+        "halehale",
+        "ʻekalekia"
+      ]
+    },
+    {
+      "id": "2028-W45",
+      "ordinal": 3071,
+      "words": [
+        "puʻukani",
+        "kumuhana",
+        "kānāwai",
+        "kukula",
+        "ʻōmaʻomaʻo"
+      ]
+    },
+    {
+      "id": "2028-W46",
+      "ordinal": 3072,
+      "words": [
+        "aumiki",
+        "piopio",
+        "aupuni",
+        "hiʻuhiʻu",
+        "hoʻolaukōnā"
+      ]
+    },
+    {
+      "id": "2028-W47",
+      "ordinal": 3073,
+      "words": [
+        "pōhaku",
+        "wiki",
+        "paio",
+        "hāliʻi",
+        "ʻaiāpuaʻa"
+      ]
+    },
+    {
+      "id": "2028-W48",
+      "ordinal": 3074,
       "words": [
         "ʻinoʻino",
-        "pilikana",
-        "mokulele",
-        "kolili",
+        "unahi",
+        "kae",
+        "wilikī",
+        "potasiuma"
+      ]
+    },
+    {
+      "id": "2028-W49",
+      "ordinal": 3075,
+      "words": [
+        "ʻehaʻeha",
+        "ākala",
+        "mikomiko",
+        "mīka",
+        "anamanaʻo"
+      ]
+    },
+    {
+      "id": "2028-W50",
+      "ordinal": 3076,
+      "words": [
+        "hiamoe",
+        "kēpuka",
+        "luli",
+        "lipo",
+        "kanapapiki"
+      ]
+    },
+    {
+      "id": "2028-W51",
+      "ordinal": 3077,
+      "words": [
+        "mōakaaka",
+        "meakanu",
+        "hihi",
+        "mātua",
+        "hoʻoholoholo"
+      ]
+    },
+    {
+      "id": "2028-W52",
+      "ordinal": 3078,
+      "words": [
+        "ʻāhui",
+        "welo",
+        "ʻono",
+        "ʻohi",
+        "halemākaʻi"
+      ]
+    },
+    {
+      "id": "2029-W01",
+      "ordinal": 3079,
+      "words": [
+        "pumehana",
+        "hai",
+        "kolohe",
+        "une",
+        "ʻahaʻōlelo"
+      ]
+    },
+    {
+      "id": "2029-W02",
+      "ordinal": 3080,
+      "words": [
+        "hoʻokomo",
+        "lae",
+        "leo",
+        "hoʻohui",
+        "huaʻōlelo"
+      ]
+    },
+    {
+      "id": "2029-W03",
+      "ordinal": 3081,
+      "words": [
+        "akaʻai",
+        "miki",
+        "ʻākala",
+        "kūnou",
+        "ninaninau"
+      ]
+    },
+    {
+      "id": "2029-W04",
+      "ordinal": 3082,
+      "words": [
+        "ʻoihana",
+        "hahai",
+        "meli",
+        "moʻopuna",
+        "hōʻelemakule"
+      ]
+    },
+    {
+      "id": "2029-W05",
+      "ordinal": 3083,
+      "words": [
+        "hanahana",
+        "hoakipa",
+        "kokoleka",
+        "hōʻaka",
+        "ʻelemakule"
+      ]
+    },
+    {
+      "id": "2029-W06",
+      "ordinal": 3084,
+      "words": [
+        "pōhue",
+        "mahae",
+        "ʻohu",
+        "mūkiʻi",
+        "hoʻopaʻanaʻau"
+      ]
+    },
+    {
+      "id": "2029-W07",
+      "ordinal": 3085,
+      "words": [
+        "lauhala",
+        "hale",
+        "wala",
+        "wai",
+        "pāpāʻōlelo"
+      ]
+    },
+    {
+      "id": "2029-W08",
+      "ordinal": 3086,
+      "words": [
+        "kīkoʻo",
+        "lelemu",
+        "hoomata",
+        "ikaika",
+        "hoʻokolohe"
+      ]
+    },
+    {
+      "id": "2029-W09",
+      "ordinal": 3087,
+      "words": [
+        "kilohana",
+        "pineki",
+        "māpala",
+        "māhea",
+        "mokuhonua"
+      ]
+    },
+    {
+      "id": "2029-W10",
+      "ordinal": 3088,
+      "words": [
+        "ʻikepili",
+        "hoʻokala",
+        "piʻipiʻi",
+        "iwi",
+        "lepelepeamoa"
+      ]
+    },
+    {
+      "id": "2029-W11",
+      "ordinal": 3089,
+      "words": [
+        "limalima",
+        "piʻi",
+        "kakalina",
+        "lāhui",
+        "naikokene"
+      ]
+    },
+    {
+      "id": "2029-W12",
+      "ordinal": 3090,
+      "words": [
+        "ʻakiʻaki",
+        "hāpa",
+        "loukuaka",
+        "lau",
+        "lokomaikaʻi"
+      ]
+    },
+    {
+      "id": "2029-W13",
+      "ordinal": 3091,
+      "words": [
+        "wikiwiki",
+        "tupuna",
+        "hoʻopaʻa",
+        "minuke",
+        "hōʻikeʻike"
+      ]
+    },
+    {
+      "id": "2029-W14",
+      "ordinal": 3092,
+      "words": [
+        "pōkaʻa",
+        "kaʻawale",
+        "ihona",
+        "maikaʻi",
+        "ʻōkolehao"
+      ]
+    },
+    {
+      "id": "2029-W15",
+      "ordinal": 3093,
+      "words": [
+        "kahakai",
+        "malu",
+        "pokepola",
+        "ʻōhiʻa",
+        "kiʻiʻoniʻoni"
+      ]
+    },
+    {
+      "id": "2029-W16",
+      "ordinal": 3094,
+      "words": [
+        "ihoiho",
+        "kiʻe",
+        "punihei",
+        "kākau",
+        "moʻowaiwai"
+      ]
+    },
+    {
+      "id": "2029-W17",
+      "ordinal": 3095,
+      "words": [
+        "ʻāhewa",
+        "polomine",
+        "silikone",
+        "piwa",
+        "kamaʻilio"
+      ]
+    },
+    {
+      "id": "2029-W18",
+      "ordinal": 3096,
+      "words": [
+        "nānaku",
+        "kūʻē",
+        "kila",
+        "mahāha",
+        "hoʻonaʻanaʻa"
+      ]
+    },
+    {
+      "id": "2029-W19",
+      "ordinal": 3097,
+      "words": [
+        "hōʻauʻau",
+        "hīnano",
+        "manaʻo",
+        "kulanui",
+        "manakanika"
+      ]
+    },
+    {
+      "id": "2029-W20",
+      "ordinal": 3098,
+      "words": [
+        "ʻokina",
+        "moana",
+        "alaloa",
+        "haole",
+        "hoʻokoʻokoʻo"
+      ]
+    },
+    {
+      "id": "2029-W21",
+      "ordinal": 3099,
+      "words": [
+        "lelele",
+        "kai",
+        "liʻi",
+        "ʻōmā",
+        "kaikamahine"
+      ]
+    },
+    {
+      "id": "2029-W22",
+      "ordinal": 3100,
+      "words": [
+        "kāhinu",
+        "puaiohi",
+        "ʻālina",
+        "lawena",
+        "hoʻohanini"
+      ]
+    },
+    {
+      "id": "2029-W23",
+      "ordinal": 3101,
+      "words": [
+        "kalakala",
+        "hinahina",
+        "pōhina",
+        "ʻumiʻumi",
+        "hoʻomāʻona"
+      ]
+    },
+    {
+      "id": "2029-W24",
+      "ordinal": 3102,
+      "words": [
+        "hoʻolohe",
+        "kau",
+        "ʻaiʻē",
+        "ʻoʻoleʻa",
+        "hoʻokamaliʻi"
+      ]
+    },
+    {
+      "id": "2029-W25",
+      "ordinal": 3103,
+      "words": [
+        "kuaʻāina",
+        "poina",
+        "pule",
+        "ulu",
+        "hoʻohāliu"
+      ]
+    },
+    {
+      "id": "2029-W26",
+      "ordinal": 3104,
+      "words": [
+        "ʻahahui",
+        "ʻelepani",
+        "māino",
+        "luakaha",
+        "ʻokomopila"
+      ]
+    },
+    {
+      "id": "2029-W27",
+      "ordinal": 3105,
+      "words": [
+        "ʻaʻalu",
+        "malihini",
+        "tita",
+        "poʻohiwi",
+        "hoʻoʻulaʻula"
+      ]
+    },
+    {
+      "id": "2029-W28",
+      "ordinal": 3106,
+      "words": [
+        "pāpale",
+        "mālua",
+        "haku",
+        "hōkeo",
+        "pūkonakona"
+      ]
+    },
+    {
+      "id": "2029-W29",
+      "ordinal": 3107,
+      "words": [
+        "alakaʻi",
+        "hiku",
+        "ahiahi",
+        "wehe",
+        "hoʻowahine"
+      ]
+    },
+    {
+      "id": "2029-W30",
+      "ordinal": 3108,
+      "words": [
+        "hoʻomake",
+        "hōʻai",
+        "māʻeʻele",
+        "aliʻi",
+        "kumulāʻau"
+      ]
+    },
+    {
+      "id": "2029-W31",
+      "ordinal": 3109,
+      "words": [
+        "pāʻumi",
+        "puna",
+        "noʻonoʻo",
+        "lōpū",
+        "manuhelekū"
+      ]
+    },
+    {
+      "id": "2029-W32",
+      "ordinal": 3110,
+      "words": [
+        "lumaʻi",
+        "pulu",
+        "kahiko",
+        "kikino",
+        "pūhenehene"
+      ]
+    },
+    {
+      "id": "2029-W33",
+      "ordinal": 3111,
+      "words": [
+        "uliuli",
+        "koena",
+        "ʻume",
+        "leʻa",
+        "ʻōpikipiki"
+      ]
+    },
+    {
+      "id": "2029-W34",
+      "ordinal": 3112,
+      "words": [
+        "kinopaʻa",
+        "huʻihuʻi",
+        "paniinoa",
+        "makahiki",
+        "mākaʻikaʻi"
+      ]
+    },
+    {
+      "id": "2029-W35",
+      "ordinal": 3113,
+      "words": [
+        "māhaehae",
+        "kuli",
+        "ʻaui",
+        "melemele",
+        "kaikuaʻana"
+      ]
+    },
+    {
+      "id": "2029-W36",
+      "ordinal": 3114,
+      "words": [
+        "haʻihaʻi",
+        "uila",
+        "kāʻei",
+        "muli",
+        "hoʻomaʻemaʻe"
+      ]
+    },
+    {
+      "id": "2029-W37",
+      "ordinal": 3115,
+      "words": [
+        "waiūpaʻa",
+        "ʻīlio",
+        "hiliuma",
+        "hoʻokuʻu",
+        "kukuluaeʻo"
+      ]
+    },
+    {
+      "id": "2029-W38",
+      "ordinal": 3116,
+      "words": [
+        "hoʻonani",
+        "anahulu",
+        "ʻaʻa",
+        "makemake",
+        "ʻāpikipiki"
+      ]
+    },
+    {
+      "id": "2029-W39",
+      "ordinal": 3117,
+      "words": [
+        "lepelepe",
+        "oki",
+        "hilo",
+        "hoku",
+        "pelekikena"
+      ]
+    },
+    {
+      "id": "2029-W40",
+      "ordinal": 3118,
+      "words": [
+        "kalipuna",
+        "ānuenue",
+        "puʻuwai",
+        "ʻapeʻape",
         "haukapila"
       ]
     },
     {
-      "id": "reserve-12",
-      "ordinal": null,
-      "type": "reserve",
+      "id": "2029-W41",
+      "ordinal": 3119,
       "words": [
-        "pōhina",
-        "hālāwai",
-        "kea",
+        "hoʻokāne",
+        "lio",
+        "ʻakolika",
+        "hala",
+        "hoʻokuaʻāina"
+      ]
+    },
+    {
+      "id": "2029-W42",
+      "ordinal": 3120,
+      "words": [
+        "ʻahaʻaha",
+        "papekiko",
+        "ula",
+        "ʻawe",
+        "kamepiula"
+      ]
+    },
+    {
+      "id": "2029-W43",
+      "ordinal": 3121,
+      "words": [
+        "ʻulaʻula",
+        "nihi",
+        "ʻami",
+        "nākiʻi",
+        "kamepuila"
+      ]
+    },
+    {
+      "id": "2029-W44",
+      "ordinal": 3122,
+      "words": [
+        "hoʻolaka",
+        "heihei",
+        "puku",
+        "hāʻuke",
+        "hoʻopelapela"
+      ]
+    },
+    {
+      "id": "2029-W45",
+      "ordinal": 3123,
+      "words": [
+        "alawai",
+        "kou",
+        "polū",
+        "haʻaheo",
+        "kahuapaʻa"
+      ]
+    },
+    {
+      "id": "2029-W46",
+      "ordinal": 3124,
+      "words": [
+        "pāpapa",
+        "hiʻu",
+        "kōʻala",
+        "kūkini",
+        "ʻakaʻakai"
+      ]
+    },
+    {
+      "id": "2029-W47",
+      "ordinal": 3125,
+      "words": [
+        "ahupuaʻa",
+        "puaʻa",
+        "hano",
+        "kāwili",
+        "hoʻopōhaku"
+      ]
+    },
+    {
+      "id": "2029-W48",
+      "ordinal": 3126,
+      "words": [
+        "kūkulu",
+        "hailuku",
+        "manakuke",
+        "kōhi",
+        "hoʻokāhāhā"
+      ]
+    },
+    {
+      "id": "2029-W49",
+      "ordinal": 3127,
+      "words": [
+        "kaunaʻoa",
+        "ʻīniha",
+        "mākaʻi",
         "hīkiʻi",
-        "hoʻomālie"
+        "pulelehua"
+      ]
+    },
+    {
+      "id": "2029-W50",
+      "ordinal": 3128,
+      "words": [
+        "mānaleo",
+        "haʻalele",
+        "kio",
+        "kaʻaka",
+        "hoʻokaʻawale"
+      ]
+    },
+    {
+      "id": "2029-W51",
+      "ordinal": 3129,
+      "words": [
+        "hoʻokae",
+        "piko",
+        "pōhili",
+        "ʻaiā",
+        "kūlanakauhale"
+      ]
+    },
+    {
+      "id": "2029-W52",
+      "ordinal": 3130,
+      "words": [
+        "nihoa",
+        "kalima",
+        "pona",
+        "ʻelekule",
+        "hukialewa"
+      ]
+    },
+    {
+      "id": "2030-W01",
+      "ordinal": 3131,
+      "words": [
+        "haukaʻe",
+        "aʻa",
+        "hoa",
+        "kalukalu",
+        "kūkaeloli"
+      ]
+    },
+    {
+      "id": "2030-W02",
+      "ordinal": 3132,
+      "words": [
+        "kūkākūkā",
+        "honu",
+        "wānana",
+        "waiū",
+        "hulipoepoe"
+      ]
+    },
+    {
+      "id": "2030-W03",
+      "ordinal": 3133,
+      "words": [
+        "hoʻohaku",
+        "ʻauina",
+        "hoʻokipa",
+        "huki",
+        "pūnāwelewele"
+      ]
+    },
+    {
+      "id": "2030-W04",
+      "ordinal": 3134,
+      "words": [
+        "pāheahea",
+        "kule",
+        "pīʻao",
+        "mahiole",
+        "kūkaepele"
+      ]
+    },
+    {
+      "id": "2030-W05",
+      "ordinal": 3135,
+      "words": [
+        "hōʻaiā",
+        "hoʻokūkū",
+        "lima",
+        "lehu",
+        "kāhulihuli"
+      ]
+    },
+    {
+      "id": "2030-W06",
+      "ordinal": 3136,
+      "words": [
+        "heleāiʻa",
+        "ʻāpono",
+        "ono",
+        "kuʻi",
+        "hoʻomalihini"
+      ]
+    },
+    {
+      "id": "2030-W07",
+      "ordinal": 3137,
+      "words": [
+        "lahilahi",
+        "pupule",
+        "keakea",
+        "laulā",
+        "polalauahi"
+      ]
+    },
+    {
+      "id": "2030-W08",
+      "ordinal": 3138,
+      "words": [
+        "hoʻonui",
+        "inu",
+        "piha",
+        "mānienie",
+        "pāʻoihana"
+      ]
+    },
+    {
+      "id": "2030-W09",
+      "ordinal": 3139,
+      "words": [
+        "kāhuli",
+        "tūtū",
+        "mālie",
+        "piapia",
+        "hoʻohelehele"
+      ]
+    },
+    {
+      "id": "2030-W10",
+      "ordinal": 3140,
+      "words": [
+        "hoʻoʻino",
+        "ʻeʻeʻina",
+        "mehameha",
+        "hoe",
+        "ʻaikalima"
+      ]
+    },
+    {
+      "id": "2030-W11",
+      "ordinal": 3141,
+      "words": [
+        "limahana",
+        "maile",
+        "ulukū",
+        "luʻu",
+        "ʻālohilohi"
+      ]
+    },
+    {
+      "id": "2030-W12",
+      "ordinal": 3142,
+      "words": [
+        "ʻīpuka",
+        "umō",
+        "ʻōpala",
+        "huila",
+        "kamaʻāina"
+      ]
+    },
+    {
+      "id": "2030-W13",
+      "ordinal": 3143,
+      "words": [
+        "hoʻonā",
+        "hīʻōʻō",
+        "ʻanae",
+        "mauli",
+        "matuahine"
+      ]
+    },
+    {
+      "id": "2030-W14",
+      "ordinal": 3144,
+      "words": [
+        "alahao",
+        "holoi",
+        "ʻona",
+        "lālā",
+        "māloʻeloʻe"
+      ]
+    },
+    {
+      "id": "2030-W15",
+      "ordinal": 3145,
+      "words": [
+        "alanui",
+        "kōkē",
+        "lolo",
+        "ola",
+        "hoʻomaʻau"
+      ]
+    },
+    {
+      "id": "2030-W16",
+      "ordinal": 3146,
+      "words": [
+        "ʻikena",
+        "māiʻuʻu",
+        "hipa",
+        "kanu",
+        "holoholona"
+      ]
+    },
+    {
+      "id": "2030-W17",
+      "ordinal": 3147,
+      "words": [
+        "lawaiʻa",
+        "naʻokoko",
+        "kokomo",
+        "ʻuala",
+        "kipikelia"
       ]
     }
   ]

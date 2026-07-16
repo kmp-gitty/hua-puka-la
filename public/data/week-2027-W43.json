@@ -1,0 +1,162 @@
+{
+  "weekId": "2027-W43",
+  "ordinal": 3017,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kinoea",
+      "glyphs": [
+        "k",
+        "i",
+        "n",
+        "o",
+        "e",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kinoea",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "gas",
+      "meanings": [
+        "gas",
+        "gaseous"
+      ],
+      "defHint": "gas",
+      "piece": {
+        "piece_word": "ea",
+        "piece_def": "gas, vapor, fumes",
+        "tier": 1,
+        "rationale": "'ea' means gas/vapor, which literally appears in the definition of kinoea."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lānai",
+      "glyphs": [
+        "l",
+        "ā",
+        "n",
+        "a",
+        "i"
+      ],
+      "length": 5,
+      "bare": "lanai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a roofed patio, porch",
+      "meanings": [
+        "a roofed patio, porch"
+      ],
+      "defHint": "a roofed patio, porch",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "loko",
+      "glyphs": [
+        "l",
+        "o",
+        "k",
+        "o"
+      ],
+      "length": 4,
+      "bare": "loko",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pond, lake",
+      "meanings": [
+        "pond, lake",
+        "interior, inside",
+        "interior (of an island)",
+        "inland",
+        "mainland",
+        "innards, entrails",
+        "character"
+      ],
+      "defHint": "pond, lake",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻīnaʻi",
+      "glyphs": [
+        "ʻ",
+        "ī",
+        "n",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "inai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "relish, garnish",
+      "meanings": [
+        "relish, garnish"
+      ],
+      "defHint": "relish, garnish",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "makemakika",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "e",
+        "m",
+        "a",
+        "k",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "makemakika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mathematics",
+      "meanings": [
+        "mathematics"
+      ],
+      "defHint": "mathematics",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

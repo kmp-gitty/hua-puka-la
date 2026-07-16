@@ -1,0 +1,169 @@
+{
+  "weekId": "2028-W27",
+  "ordinal": 3053,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻowela",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "w",
+        "e",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoowela",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to burn",
+      "meanings": [
+        "to burn",
+        "to arouse"
+      ],
+      "defHint": "to burn",
+      "piece": {
+        "piece_word": "wela",
+        "piece_def": "to be hot; heat; fever; lust, passion",
+        "tier": 1,
+        "rationale": "hoʻowela is the causative of wela (hot); to burn literally relates to heat."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻōkuhe",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "k",
+        "u",
+        "h",
+        "e"
+      ],
+      "length": 6,
+      "bare": "okuhe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Any of species Eleotris sandwicensis of fishes in the family Eleotridae",
+      "meanings": [
+        "Any of species Eleotris sandwicensis of fishes in the family Eleotridae"
+      ],
+      "defHint": "Any of species Eleotris sandwicensis of fishes in the family Eleotridae",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kinowai",
+      "glyphs": [
+        "k",
+        "i",
+        "n",
+        "o",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kinowai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "liquid (as opposed to a solid or a gas)",
+      "meanings": [
+        "liquid (as opposed to a solid or a gas)",
+        "liquid"
+      ],
+      "defHint": "liquid (as opposed to a solid or a gas)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kapikala",
+      "glyphs": [
+        "k",
+        "a",
+        "p",
+        "i",
+        "k",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kapikala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "capital city",
+      "meanings": [
+        "capital city"
+      ],
+      "defHint": "capital city",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "huinakolu",
+      "glyphs": [
+        "h",
+        "u",
+        "i",
+        "n",
+        "a",
+        "k",
+        "o",
+        "l",
+        "u"
+      ],
+      "length": 9,
+      "bare": "huinakolu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "triangle",
+      "meanings": [
+        "triangle"
+      ],
+      "defHint": "triangle",
+      "piece": {
+        "piece_word": "kolu",
+        "piece_def": "three",
+        "tier": 1,
+        "rationale": "A triangle has three angles; huina-kolu literally 'three angles'"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

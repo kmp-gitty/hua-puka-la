@@ -1,0 +1,166 @@
+{
+  "weekId": "2029-W22",
+  "ordinal": 3100,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kāhinu",
+      "glyphs": [
+        "k",
+        "ā",
+        "h",
+        "i",
+        "n",
+        "u"
+      ],
+      "length": 6,
+      "bare": "kahinu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to anoint",
+      "meanings": [
+        "to anoint"
+      ],
+      "defHint": "to anoint",
+      "piece": {
+        "piece_word": "hinu",
+        "piece_def": "oil; grease; ointment; polish",
+        "tier": 1,
+        "rationale": "kāhinu means to anoint, which involves applying oil/ointment (hinu)"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "puaiohi",
+      "glyphs": [
+        "p",
+        "u",
+        "a",
+        "i",
+        "o",
+        "h",
+        "i"
+      ],
+      "length": 7,
+      "bare": "puaiohi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "small Kauaʻi thrush",
+      "meanings": [
+        "small Kauaʻi thrush"
+      ],
+      "defHint": "small Kauaʻi thrush",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻālina",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "l",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "alina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "scar",
+      "meanings": [
+        "scar"
+      ],
+      "defHint": "scar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lawena",
+      "glyphs": [
+        "l",
+        "a",
+        "w",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "lawena",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "carrying, movement",
+      "meanings": [
+        "carrying, movement",
+        "taking, acquisition",
+        "behaviour"
+      ],
+      "defHint": "carrying, movement",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻohanini",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "a",
+        "n",
+        "i",
+        "n",
+        "i"
+      ],
+      "length": 10,
+      "bare": "hoohanini",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to cause to overflow",
+      "meanings": [
+        "to cause to overflow",
+        "to dump"
+      ],
+      "defHint": "to cause to overflow",
+      "piece": {
+        "piece_word": "nini",
+        "piece_def": "to pour; to spill",
+        "tier": 1,
+        "rationale": "Pouring/spilling directly relates to causing to overflow."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

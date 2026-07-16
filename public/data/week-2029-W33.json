@@ -1,0 +1,166 @@
+{
+  "weekId": "2029-W33",
+  "ordinal": 3111,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "uliuli",
+      "glyphs": [
+        "u",
+        "l",
+        "i",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "uliuli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "blue, green, black, any dark color",
+      "meanings": [
+        "blue, green, black, any dark color"
+      ],
+      "defHint": "blue, green, black, any dark color",
+      "piece": {
+        "piece_word": "uli",
+        "piece_def": "having any dark color (blue, green, black, etc.)",
+        "tier": 1,
+        "rationale": "uliuli is reduplication of uli; the dark-color meaning appears directly in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "koena",
+      "glyphs": [
+        "k",
+        "o",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "koena",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ton (unit of measure)",
+      "meanings": [
+        "ton (unit of measure)"
+      ],
+      "defHint": "ton (unit of measure)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻume",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "m",
+        "e"
+      ],
+      "length": 4,
+      "bare": "ume",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to pull, to draw",
+      "meanings": [
+        "to pull, to draw",
+        "to attract",
+        "to drag",
+        "to pause",
+        "to lengthen vowels"
+      ],
+      "defHint": "to pull, to draw",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "leʻa",
+      "glyphs": [
+        "l",
+        "e",
+        "ʻ",
+        "a"
+      ],
+      "length": 4,
+      "bare": "lea",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "pleasing, delightful",
+      "meanings": [
+        "pleasing, delightful",
+        "pleased, delighted",
+        "happy, merry",
+        "joy, pleasure",
+        "happiness, merriment",
+        "orgasm",
+        "clearly, thoroughly",
+        "smoothly, successfully"
+      ],
+      "defHint": "pleasing, delightful",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōpikipiki",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "i",
+        "k",
+        "i",
+        "p",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 10,
+      "bare": "opikipiki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "anxiety",
+      "meanings": [
+        "anxiety",
+        "anxious, agitated"
+      ],
+      "defHint": "anxiety",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

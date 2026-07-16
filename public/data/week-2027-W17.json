@@ -1,0 +1,158 @@
+{
+  "weekId": "2027-W17",
+  "ordinal": 2991,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻakina",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "akina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "biting; bite",
+      "meanings": [
+        "biting; bite"
+      ],
+      "defHint": "biting; bite",
+      "piece": {
+        "piece_word": "ʻaki",
+        "piece_def": "to snap; to nip (take a bite and let go)",
+        "tier": 1,
+        "rationale": "ʻaki means to nip/bite, directly matching the biting sense of ʻakina."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "maiʻa",
+      "glyphs": [
+        "m",
+        "a",
+        "i",
+        "ʻ",
+        "a"
+      ],
+      "length": 5,
+      "bare": "maia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "banana (plant; fruit)",
+      "meanings": [
+        "banana (plant; fruit)"
+      ],
+      "defHint": "banana (plant; fruit)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "moehewa",
+      "glyphs": [
+        "m",
+        "o",
+        "e",
+        "h",
+        "e",
+        "w",
+        "a"
+      ],
+      "length": 7,
+      "bare": "moehewa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to figit, talk, or walk in one's sleep",
+      "meanings": [
+        "to figit, talk, or walk in one's sleep",
+        "to have a nightmare"
+      ],
+      "defHint": "to figit, talk, or walk in one's sleep",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "noʻa",
+      "glyphs": [
+        "n",
+        "o",
+        "ʻ",
+        "a"
+      ],
+      "length": 4,
+      "bare": "noa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a piece of wood used in the games of noʻa and pūhenehene",
+      "meanings": [
+        "a piece of wood used in the games of noʻa and pūhenehene",
+        "a guessing game in which the noʻa is hidden under bundles of tapa and players must guess where it is",
+        "secret thoughts, secret plans"
+      ],
+      "defHint": "a piece of wood used in the games of — and pūhenehene",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻalemanaka",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "e",
+        "m",
+        "a",
+        "n",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "alemanaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "almanac, calendar",
+      "meanings": [
+        "almanac, calendar"
+      ],
+      "defHint": "almanac, calendar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

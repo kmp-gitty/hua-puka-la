@@ -1,0 +1,162 @@
+{
+  "weekId": "2029-W07",
+  "ordinal": 3085,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lauhala",
+      "glyphs": [
+        "l",
+        "a",
+        "u",
+        "h",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 7,
+      "bare": "lauhala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "A screwpine leaf, especially when used in plaiting.",
+      "meanings": [
+        "A screwpine leaf, especially when used in plaiting."
+      ],
+      "defHint": "A screwpine leaf, especially when used in plaiting.",
+      "piece": {
+        "piece_word": "lau",
+        "piece_def": "leaf; frond",
+        "tier": 1,
+        "rationale": "Lauhala literally means the leaf of the hala (screwpine); 'leaf' appears in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hale",
+      "glyphs": [
+        "h",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 4,
+      "bare": "hale",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "house, building",
+      "meanings": [
+        "house, building",
+        "institution",
+        "lodge",
+        "station, hall",
+        "railroad car, carriage",
+        "to have a house"
+      ],
+      "defHint": "house, building",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "wala",
+      "glyphs": [
+        "w",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 4,
+      "bare": "wala",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to tilt backwards",
+      "meanings": [
+        "to tilt backwards"
+      ],
+      "defHint": "to tilt backwards",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "wai",
+      "glyphs": [
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 3,
+      "bare": "wai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "water, especially of fresh sources",
+      "meanings": [
+        "water, especially of fresh sources"
+      ],
+      "defHint": "water, especially of fresh sources",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pāpāʻōlelo",
+      "glyphs": [
+        "p",
+        "ā",
+        "p",
+        "ā",
+        "ʻ",
+        "ō",
+        "l",
+        "e",
+        "l",
+        "o"
+      ],
+      "length": 10,
+      "bare": "papaolelo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "conversation",
+      "meanings": [
+        "conversation"
+      ],
+      "defHint": "conversation",
+      "piece": {
+        "piece_word": "ʻōlelo",
+        "piece_def": "language, speech; word",
+        "tier": 1,
+        "rationale": "Conversation is speech; ʻōlelo (speech/language) is the root of pāpāʻōlelo."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

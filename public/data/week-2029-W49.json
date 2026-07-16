@@ -1,0 +1,170 @@
+{
+  "weekId": "2029-W49",
+  "ordinal": 3127,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kaunaʻoa",
+      "glyphs": [
+        "k",
+        "a",
+        "u",
+        "n",
+        "a",
+        "ʻ",
+        "o",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kaunaoa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "worm snail (marine gastropod in the family Vermetidae)",
+      "meanings": [
+        "Any of species Cuscuta sandwichiana of parasitic vines endemic to the Hawai'ian Islands.",
+        "Any of species Galaxaura rugosa of a coarse seaweeds bearing some resemblance to the vine.",
+        "worm snail (marine gastropod in the family Vermetidae)"
+      ],
+      "defHint": "worm snail (marine gastropod in the family Vermetidae)",
+      "piece": {
+        "piece_word": "unaʻoa",
+        "piece_def": "worm snail (marine gastropod in the family Vermetidae)",
+        "tier": 1,
+        "rationale": "Same meaning as sense [2], worm snail, literally matches."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻīniha",
+      "glyphs": [
+        "ʻ",
+        "ī",
+        "n",
+        "i",
+        "h",
+        "a"
+      ],
+      "length": 6,
+      "bare": "iniha",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "inch",
+      "meanings": [
+        "inch"
+      ],
+      "defHint": "inch",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mākaʻi",
+      "glyphs": [
+        "m",
+        "ā",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "makai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to inspect, to police",
+      "meanings": [
+        "to inspect, to police",
+        "police officer"
+      ],
+      "defHint": "to inspect, to police",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hīkiʻi",
+      "glyphs": [
+        "h",
+        "ī",
+        "k",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "hikii",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "binding, tying",
+      "meanings": [
+        "binding, tying",
+        "to tie, to bind"
+      ],
+      "defHint": "binding, tying",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pulelehua",
+      "glyphs": [
+        "p",
+        "u",
+        "l",
+        "e",
+        "l",
+        "e",
+        "h",
+        "u",
+        "a"
+      ],
+      "length": 9,
+      "bare": "pulelehua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "butterfly, moth",
+      "meanings": [
+        "butterfly, moth",
+        "Kamehameha butterfly (Vanessa tameamea), one of two species of butterfly endemic to Hawai'i."
+      ],
+      "defHint": "butterfly, moth",
+      "piece": {
+        "piece_word": "lele",
+        "piece_def": "to fly",
+        "tier": 2,
+        "rationale": "Butterflies fly; 'lele' (to fly) is a meaningful hint."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,172 @@
+{
+  "weekId": "2028-W45",
+  "ordinal": 3071,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "puʻukani",
+      "glyphs": [
+        "p",
+        "u",
+        "ʻ",
+        "u",
+        "k",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 8,
+      "bare": "puukani",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "sweet-toned, melodious",
+      "meanings": [
+        "sweet-voiced",
+        "sweet-toned, melodious",
+        "singer"
+      ],
+      "defHint": "sweet-toned, melodious",
+      "piece": {
+        "piece_word": "kani",
+        "piece_def": "sound; peal, tinkle",
+        "tier": 1,
+        "rationale": "puʻukani is literally puʻu+kani; kani (sound) underlies sweet-toned/melodious meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kumuhana",
+      "glyphs": [
+        "k",
+        "u",
+        "m",
+        "u",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kumuhana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "topic",
+      "meanings": [
+        "topic"
+      ],
+      "defHint": "topic",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kānāwai",
+      "glyphs": [
+        "k",
+        "ā",
+        "n",
+        "ā",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kanawai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "code, law, statute, act",
+      "meanings": [
+        "code, law, statute, act",
+        "rule, commandment (also used in a religious context)"
+      ],
+      "defHint": "code, law, statute, act",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kukula",
+      "glyphs": [
+        "k",
+        "u",
+        "k",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kukula",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to attend school",
+      "meanings": [
+        "to attend school"
+      ],
+      "defHint": "to attend school",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōmaʻomaʻo",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "m",
+        "a",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 10,
+      "bare": "omaomao",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "green (color)",
+      "meanings": [
+        "emerald",
+        "green (color)"
+      ],
+      "defHint": "green (color)",
+      "piece": {
+        "piece_word": "maʻo",
+        "piece_def": "green",
+        "tier": 1,
+        "rationale": "maʻo means green, which literally is the meaning of ʻōmaʻomaʻo (reduplication)."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

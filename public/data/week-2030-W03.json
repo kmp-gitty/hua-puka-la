@@ -1,0 +1,170 @@
+{
+  "weekId": "2030-W03",
+  "ordinal": 3133,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻohaku",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "a",
+        "k",
+        "u"
+      ],
+      "length": 8,
+      "bare": "hoohaku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act like a lord",
+      "meanings": [
+        "to act like a lord",
+        "to lord over, boss around, dominate",
+        "bossy"
+      ],
+      "defHint": "to act like a lord",
+      "piece": {
+        "piece_word": "haku",
+        "piece_def": "lord, master, overseer",
+        "tier": 1,
+        "rationale": "hoʻohaku means to act like a lord; haku means lord — meaning appears literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻauina",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "auina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "slope, decline, descent",
+      "meanings": [
+        "slope, decline, descent",
+        "gradient"
+      ],
+      "defHint": "slope, decline, descent",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoʻokipa",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "i",
+        "p",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hookipa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to entertain (treat hospitably)",
+      "meanings": [
+        "to entertain (treat hospitably)",
+        "hospitality"
+      ],
+      "defHint": "to entertain (treat hospitably)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "huki",
+      "glyphs": [
+        "h",
+        "u",
+        "k",
+        "i"
+      ],
+      "length": 4,
+      "bare": "huki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "any fit: convulsion, stroke, spasm",
+      "meanings": [
+        "any fit: convulsion, stroke, spasm",
+        "to pull, to tug",
+        "to reach",
+        "to support"
+      ],
+      "defHint": "any fit: convulsion, stroke, spasm",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pūnāwelewele",
+      "glyphs": [
+        "p",
+        "ū",
+        "n",
+        "ā",
+        "w",
+        "e",
+        "l",
+        "e",
+        "w",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 12,
+      "bare": "punawelewele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "spider",
+      "meanings": [
+        "spider"
+      ],
+      "defHint": "spider",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

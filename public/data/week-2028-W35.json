@@ -1,0 +1,165 @@
+{
+  "weekId": "2028-W35",
+  "ordinal": 3061,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mākonā",
+      "glyphs": [
+        "m",
+        "ā",
+        "k",
+        "o",
+        "n",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "makona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "hard, unyielding",
+      "meanings": [
+        "hard, unyielding",
+        "mean, nasty",
+        "malevolent, evil"
+      ],
+      "defHint": "hard, unyielding",
+      "piece": {
+        "piece_word": "konā",
+        "piece_def": "hard, unyielding; unfriendly, brusque; contemptuous",
+        "tier": 1,
+        "rationale": "konā directly matches 'hard, unyielding' and mean senses of mākonā."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "koʻe",
+      "glyphs": [
+        "k",
+        "o",
+        "ʻ",
+        "e"
+      ],
+      "length": 4,
+      "bare": "koe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "worm",
+      "meanings": [
+        "worm"
+      ],
+      "defHint": "worm",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "wulekula",
+      "glyphs": [
+        "w",
+        "u",
+        "l",
+        "e",
+        "k",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "wulekula",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "vulture (bird)",
+      "meanings": [
+        "vulture (bird)"
+      ],
+      "defHint": "vulture (bird)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mina",
+      "glyphs": [
+        "m",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "mina",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to regret, be sorry, deplore; to grieve for something that is lost",
+      "meanings": [
+        "to regret, be sorry, deplore; to grieve for something that is lost",
+        "to prize greatly, value greatly, especially of something in danger of being lost"
+      ],
+      "defHint": "to regret, be sorry, deplore; to grieve for something that is lost",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻoikaika",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "i",
+        "k",
+        "a",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hooikaika",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to strengthen",
+      "meanings": [
+        "to strive, to strain, to endeavour",
+        "to strengthen",
+        "to encourage"
+      ],
+      "defHint": "to strengthen",
+      "piece": {
+        "piece_word": "ikaika",
+        "piece_def": "strength; to be strong",
+        "tier": 1,
+        "rationale": "hoʻoikaika is causative of ikaika; strength literally underlies 'to strengthen'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

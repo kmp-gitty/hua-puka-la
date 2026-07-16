@@ -1,0 +1,168 @@
+{
+  "weekId": "2029-W11",
+  "ordinal": 3089,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "limalima",
+      "glyphs": [
+        "l",
+        "i",
+        "m",
+        "a",
+        "l",
+        "i",
+        "m",
+        "a"
+      ],
+      "length": 8,
+      "bare": "limalima",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to handle",
+      "meanings": [
+        "to handle",
+        "to hire"
+      ],
+      "defHint": "to handle",
+      "piece": {
+        "piece_word": "lima",
+        "piece_def": "hand (part of the body)",
+        "tier": 1,
+        "rationale": "limalima is reduplication of lima (hand); handling relates directly to the hand."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "piʻi",
+      "glyphs": [
+        "p",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 4,
+      "bare": "pii",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to travel inland, thus",
+      "meanings": [
+        "to travel inland, thus",
+        "to rise, to climb, to ascend",
+        "to grow up",
+        "to mount, to breed, to fuck",
+        "to experience personally, to feel",
+        "a triangular piece of fabric used in a holoku or trouser leg to add width"
+      ],
+      "defHint": "to travel inland, thus",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kakalina",
+      "glyphs": [
+        "k",
+        "a",
+        "k",
+        "a",
+        "l",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kakalina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "gasoline",
+      "meanings": [
+        "gasoline"
+      ],
+      "defHint": "gasoline",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lāhui",
+      "glyphs": [
+        "l",
+        "ā",
+        "h",
+        "u",
+        "i"
+      ],
+      "length": 5,
+      "bare": "lahui",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "race, nation, tribe, people, nationality",
+      "meanings": [
+        "race, nation, tribe, people, nationality",
+        "to assemble, gather together",
+        "to prohibit, forbid, lay a taboo, proclaim a law",
+        "national"
+      ],
+      "defHint": "race, nation, tribe, people, nationality",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "naikokene",
+      "glyphs": [
+        "n",
+        "a",
+        "i",
+        "k",
+        "o",
+        "k",
+        "e",
+        "n",
+        "e"
+      ],
+      "length": 9,
+      "bare": "naikokene",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "nitrogen (chemical element)",
+      "meanings": [
+        "nitrogen (chemical element)"
+      ],
+      "defHint": "nitrogen (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

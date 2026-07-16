@@ -1,0 +1,167 @@
+{
+  "weekId": "2027-W16",
+  "ordinal": 2990,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻōmaʻo",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "m",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 6,
+      "bare": "omao",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "green (of plants)",
+      "meanings": [
+        "Hawaiian thrush",
+        "green (of plants)"
+      ],
+      "defHint": "green (of plants)",
+      "piece": {
+        "piece_word": "maʻo",
+        "piece_def": "green",
+        "tier": 1,
+        "rationale": "maʻo means green, matching the 'green (of plants)' sense literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hōkū",
+      "glyphs": [
+        "h",
+        "ō",
+        "k",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "hoku",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "star (luminous celestial body)",
+      "meanings": [
+        "star (luminous celestial body)"
+      ],
+      "defHint": "star (luminous celestial body)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻaina",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "aina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "meal",
+      "meanings": [
+        "meal"
+      ],
+      "defHint": "meal",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "likiuma",
+      "glyphs": [
+        "l",
+        "i",
+        "k",
+        "i",
+        "u",
+        "m",
+        "a"
+      ],
+      "length": 7,
+      "bare": "likiuma",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "lithium (chemical element)",
+      "meanings": [
+        "lithium (chemical element)"
+      ],
+      "defHint": "lithium (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻolimalima",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "i",
+        "m",
+        "a",
+        "l",
+        "i",
+        "m",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hoolimalima",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to employ, to hire",
+      "meanings": [
+        "to rent, to lease (by an owner, to a tenant)",
+        "to employ, to hire",
+        "rental, lease"
+      ],
+      "defHint": "to employ, to hire",
+      "piece": {
+        "piece_word": "limalima",
+        "piece_def": "to hire",
+        "tier": 1,
+        "rationale": "limalima 'to hire' is the base of hoʻolimalima; meaning appears literally."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

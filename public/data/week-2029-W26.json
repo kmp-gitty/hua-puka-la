@@ -1,0 +1,167 @@
+{
+  "weekId": "2029-W26",
+  "ordinal": 3104,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻahahui",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "h",
+        "a",
+        "h",
+        "u",
+        "i"
+      ],
+      "length": 7,
+      "bare": "ahahui",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "society, club, organization",
+      "meanings": [
+        "society, club, organization"
+      ],
+      "defHint": "society, club, organization",
+      "piece": {
+        "piece_word": "hui",
+        "piece_def": "club, organization; company, firm",
+        "tier": 1,
+        "rationale": "'hui' literally means club/organization, matching the definition of 'ahahui."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻelepani",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "l",
+        "e",
+        "p",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 8,
+      "bare": "elepani",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "elephant",
+      "meanings": [
+        "elephant"
+      ],
+      "defHint": "elephant",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "māino",
+      "glyphs": [
+        "m",
+        "ā",
+        "i",
+        "n",
+        "o"
+      ],
+      "length": 5,
+      "bare": "maino",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "cruelty, harm",
+      "meanings": [
+        "cruelty, harm",
+        "misery",
+        "cruel",
+        "miserable"
+      ],
+      "defHint": "cruelty, harm",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "luakaha",
+      "glyphs": [
+        "l",
+        "u",
+        "a",
+        "k",
+        "a",
+        "h",
+        "a"
+      ],
+      "length": 7,
+      "bare": "luakaha",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "place of relaxation",
+      "meanings": [
+        "place of relaxation",
+        "enjoyable, pleasant",
+        "to while away the time pleasantly"
+      ],
+      "defHint": "place of relaxation",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻokomopila",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "m",
+        "o",
+        "p",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 10,
+      "bare": "okomopila",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "car",
+      "meanings": [
+        "car"
+      ],
+      "defHint": "car",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

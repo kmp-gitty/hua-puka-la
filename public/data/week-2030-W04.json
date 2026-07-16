@@ -1,0 +1,167 @@
+{
+  "weekId": "2030-W04",
+  "ordinal": 3134,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pāheahea",
+      "glyphs": [
+        "p",
+        "ā",
+        "h",
+        "e",
+        "a",
+        "h",
+        "e",
+        "a"
+      ],
+      "length": 8,
+      "bare": "paheahea",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to call (especially to invite to eat)",
+      "meanings": [
+        "to call (especially to invite to eat)",
+        "hospitality"
+      ],
+      "defHint": "to call (especially to invite to eat)",
+      "piece": {
+        "piece_word": "hea",
+        "piece_def": "to call",
+        "tier": 1,
+        "rationale": "hea 'to call' literally appears in the definition 'to call'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kule",
+      "glyphs": [
+        "k",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 4,
+      "bare": "kule",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "inactive",
+      "meanings": [
+        "inactive"
+      ],
+      "defHint": "inactive",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pīʻao",
+      "glyphs": [
+        "p",
+        "ī",
+        "ʻ",
+        "a",
+        "o"
+      ],
+      "length": 5,
+      "bare": "piao",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "a cuplike package made of folded ti leaves",
+      "meanings": [
+        "a cuplike package made of folded ti leaves",
+        "to fold ti leaves into a cuplike package",
+        "(of leaves) curling, shriveling; (of waves) crumpling up"
+      ],
+      "defHint": "a cuplike package made of folded ti leaves",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mahiole",
+      "glyphs": [
+        "m",
+        "a",
+        "h",
+        "i",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 7,
+      "bare": "mahiole",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "royal headgear, helmet",
+      "meanings": [
+        "royal headgear, helmet"
+      ],
+      "defHint": "royal headgear, helmet",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kūkaepele",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "a",
+        "e",
+        "p",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 9,
+      "bare": "kukaepele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sulfur (chemical element)",
+      "meanings": [
+        "sulfur (chemical element)",
+        "match (device to make fire)"
+      ],
+      "defHint": "sulfur (chemical element)",
+      "piece": {
+        "piece_word": "pele",
+        "piece_def": "volcano",
+        "tier": 2,
+        "rationale": "Kūkaepele literally means 'excrement of Pele/volcano'; sulfur is associated with volcanic activity."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

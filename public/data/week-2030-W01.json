@@ -1,0 +1,165 @@
+{
+  "weekId": "2030-W01",
+  "ordinal": 3131,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "haukaʻe",
+      "glyphs": [
+        "h",
+        "a",
+        "u",
+        "k",
+        "a",
+        "ʻ",
+        "e"
+      ],
+      "length": 7,
+      "bare": "haukae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to stain, to smear",
+      "meanings": [
+        "to stain, to smear",
+        "stained, smeared, defaced, defiled"
+      ],
+      "defHint": "to stain, to smear",
+      "piece": {
+        "piece_word": "kaʻe",
+        "piece_def": "to smudge, to besmear",
+        "tier": 1,
+        "rationale": "Smudge/besmear directly matches the smear/stain meaning of the word."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "aʻa",
+      "glyphs": [
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 3,
+      "bare": "aa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "root (of plant)",
+      "meanings": [
+        "root (of plant)",
+        "vein of leaf",
+        "blood vessel incl. vein, artery",
+        "sinew (nerve, tendon, muscle)",
+        "womb, offspring",
+        "to send greetings or love",
+        "hospitality"
+      ],
+      "defHint": "root (of plant)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoa",
+      "glyphs": [
+        "h",
+        "o",
+        "a"
+      ],
+      "length": 3,
+      "bare": "hoa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "friend, companion, associate, colleague, comrade, partner, mate, peer",
+      "meanings": [
+        "friend, companion, associate, colleague, comrade, partner, mate, peer",
+        "club (heavy stick for use as weapon or plaything)",
+        "to club, to strike with a stick or club"
+      ],
+      "defHint": "friend, companion, associate, colleague, comrade, partner, mate, peer",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kalukalu",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "u",
+        "k",
+        "a",
+        "l",
+        "u"
+      ],
+      "length": 8,
+      "bare": "kalukalu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a kind of fern",
+      "meanings": [
+        "a kind of fern",
+        "a kind of rush or grass"
+      ],
+      "defHint": "a kind of fern",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kūkaeloli",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "a",
+        "e",
+        "l",
+        "o",
+        "l",
+        "i"
+      ],
+      "length": 9,
+      "bare": "kukaeloli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mildew",
+      "meanings": [
+        "mildew"
+      ],
+      "defHint": "mildew",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

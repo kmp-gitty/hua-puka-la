@@ -1,0 +1,174 @@
+{
+  "weekId": "2027-W14",
+  "ordinal": 2988,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kahawai",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "a",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kahawai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "stream, creek",
+      "meanings": [
+        "stream, creek",
+        "ravine, gulch"
+      ],
+      "defHint": "stream, creek",
+      "piece": {
+        "piece_word": "wai",
+        "piece_def": "water, especially of fresh sources",
+        "tier": 1,
+        "rationale": "A stream/creek is fresh water; wai (fresh water) is a genuine component."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pāʻani",
+      "glyphs": [
+        "p",
+        "ā",
+        "ʻ",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "paani",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "play, sport, game, amusement, fun",
+      "meanings": [
+        "play, sport, game, amusement, fun",
+        "joke, joking",
+        "to be playful; to be fun, amusing, entertaining",
+        "to play, sport"
+      ],
+      "defHint": "play, sport, game, amusement, fun",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kobalata",
+      "glyphs": [
+        "k",
+        "o",
+        "b",
+        "a",
+        "l",
+        "a",
+        "t",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kobalata",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cobalt (chemical element)",
+      "meanings": [
+        "cobalt (chemical element)"
+      ],
+      "defHint": "cobalt (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻalamihi",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "a",
+        "m",
+        "i",
+        "h",
+        "i"
+      ],
+      "length": 8,
+      "bare": "alamihi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "thukuhar shore-crab",
+      "meanings": [
+        "thukuhar shore-crab"
+      ],
+      "defHint": "thukuhar shore-crab",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "manaʻoʻiʻo",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "o",
+        "ʻ",
+        "i",
+        "ʻ",
+        "o"
+      ],
+      "length": 10,
+      "bare": "manaoio",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to believe",
+      "meanings": [
+        "faith, confidence",
+        "to believe"
+      ],
+      "defHint": "to believe",
+      "piece": {
+        "piece_word": "manaʻo",
+        "piece_def": "thought, to think, to consider",
+        "tier": 1,
+        "rationale": "manaʻoʻiʻo is manaʻo (think) intensified into believing/faith; root literally present."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

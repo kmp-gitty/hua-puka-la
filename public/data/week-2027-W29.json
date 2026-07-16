@@ -1,0 +1,167 @@
+{
+  "weekId": "2027-W29",
+  "ordinal": 3003,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hikiāloa",
+      "glyphs": [
+        "h",
+        "i",
+        "k",
+        "i",
+        "ā",
+        "l",
+        "o",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hikialoa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "long-term, long-range",
+      "meanings": [
+        "long-term, long-range"
+      ],
+      "defHint": "long-term, long-range",
+      "piece": {
+        "piece_word": "loa",
+        "piece_def": "length; long, permanent",
+        "tier": 1,
+        "rationale": "'long' literally appears in the definition long-term/long-range."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻau",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 3,
+      "bare": "au",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "handle",
+      "meanings": [
+        "handle",
+        "staff",
+        "stem; stalk",
+        "shaft",
+        "bone (of lower arm or leg)",
+        "a group (when followed by a qualifier)",
+        "to swim, travel by sea",
+        "to jut out, project"
+      ],
+      "defHint": "handle",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kamani",
+      "glyphs": [
+        "k",
+        "a",
+        "m",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kamani",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Calophyllum inophyllum, tree with wood used for house and canoe making",
+      "meanings": [
+        "Calophyllum inophyllum, tree with wood used for house and canoe making"
+      ],
+      "defHint": "Calophyllum inophyllum, tree with wood used for house and canoe making",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kīkā",
+      "glyphs": [
+        "k",
+        "ī",
+        "k",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "kika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "guitar",
+      "meanings": [
+        "guitar",
+        "cigar"
+      ],
+      "defHint": "guitar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ahimakani",
+      "glyphs": [
+        "a",
+        "h",
+        "i",
+        "m",
+        "a",
+        "k",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 9,
+      "bare": "ahimakani",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "gasoline",
+      "meanings": [
+        "gasoline"
+      ],
+      "defHint": "gasoline",
+      "piece": {
+        "piece_word": "ahi",
+        "piece_def": "fire (oxidation reaction)",
+        "tier": 2,
+        "rationale": "Gasoline is a fuel that burns; fire relates to its combustible nature."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

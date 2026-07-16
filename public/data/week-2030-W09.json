@@ -1,0 +1,163 @@
+{
+  "weekId": "2030-W09",
+  "ordinal": 3139,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kāhuli",
+      "glyphs": [
+        "k",
+        "ā",
+        "h",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kahuli",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to change",
+      "meanings": [
+        "to change"
+      ],
+      "defHint": "to change",
+      "piece": {
+        "piece_word": "huli",
+        "piece_def": "to change one's manner or thought; to turn, to reverse",
+        "tier": 1,
+        "rationale": "'huli' literally means to turn/change, matching the meaning of kāhuli."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "tūtū",
+      "glyphs": [
+        "t",
+        "ū",
+        "t",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "tutu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "grandma, grandpa",
+      "meanings": [
+        "grandma, grandpa"
+      ],
+      "defHint": "grandma, grandpa",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mālie",
+      "glyphs": [
+        "m",
+        "ā",
+        "l",
+        "i",
+        "e"
+      ],
+      "length": 5,
+      "bare": "malie",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "calm, serene, still",
+      "meanings": [
+        "calm, serene, still",
+        "quiet, tranquil, silent"
+      ],
+      "defHint": "calm, serene, still",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "piapia",
+      "glyphs": [
+        "p",
+        "i",
+        "a",
+        "p",
+        "i",
+        "a"
+      ],
+      "length": 6,
+      "bare": "piapia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "the encrusted white matter in the eyes, as from sleeping or from sore eyes, \"sand\" in the eyes;",
+      "meanings": [
+        "the encrusted white matter in the eyes, as from sleeping or from sore eyes, \"sand\" in the eyes;",
+        "an abusive epithet applied to one who was unwashed, said to refer to genitals"
+      ],
+      "defHint": "the encrusted white matter in the eyes, as from sleeping or from sore eyes, \"sand\" in the eyes;",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻohelehele",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "e",
+        "l",
+        "e",
+        "h",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 12,
+      "bare": "hoohelehele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to walk (take for a walk)",
+      "meanings": [
+        "to walk (take for a walk)"
+      ],
+      "defHint": "to walk (take for a walk)",
+      "piece": {
+        "piece_word": "hele",
+        "piece_def": "to walk, move; to be mobile",
+        "tier": 1,
+        "rationale": "'hele' means to walk, literally present in the definition 'to walk'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

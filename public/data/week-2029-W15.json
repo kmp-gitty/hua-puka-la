@@ -1,0 +1,173 @@
+{
+  "weekId": "2029-W15",
+  "ordinal": 3093,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kahakai",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "a",
+        "k",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kahakai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "seashore, seaside, coast",
+      "meanings": [
+        "seashore, seaside, coast",
+        "sandy shore, beach"
+      ],
+      "defHint": "seashore, seaside, coast",
+      "piece": {
+        "piece_word": "kai",
+        "piece_def": "sea; salt water",
+        "tier": 1,
+        "rationale": "Kahakai literally means the edge of the sea; kai (sea) is a core component."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "malu",
+      "glyphs": [
+        "m",
+        "a",
+        "l",
+        "u"
+      ],
+      "length": 4,
+      "bare": "malu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "shade",
+      "meanings": [
+        "shade",
+        "shelter, protection",
+        "control",
+        "peaceful, safe",
+        "reserved, taboo"
+      ],
+      "defHint": "shade",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pokepola",
+      "glyphs": [
+        "p",
+        "o",
+        "k",
+        "e",
+        "p",
+        "o",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "pokepola",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "phosphorus (chemical element)",
+      "meanings": [
+        "phosphorus (chemical element)"
+      ],
+      "defHint": "phosphorus (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻōhiʻa",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "h",
+        "i",
+        "ʻ",
+        "a"
+      ],
+      "length": 6,
+      "bare": "ohia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mountain apple or Malay apple; Syzygium malaccense",
+      "meanings": [
+        "mountain apple or Malay apple; Syzygium malaccense",
+        "Metrosideros polymorpha",
+        "Metrosideros macropus"
+      ],
+      "defHint": "mountain apple or Malay apple; Syzygium malaccense",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kiʻiʻoniʻoni",
+      "glyphs": [
+        "k",
+        "i",
+        "ʻ",
+        "i",
+        "ʻ",
+        "o",
+        "n",
+        "i",
+        "ʻ",
+        "o",
+        "n",
+        "i"
+      ],
+      "length": 12,
+      "bare": "kiionioni",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "movie, moving picture, film",
+      "meanings": [
+        "movie, moving picture, film"
+      ],
+      "defHint": "movie, moving picture, film",
+      "piece": {
+        "piece_word": "kiʻi",
+        "piece_def": "a picture, image, drawing",
+        "tier": 1,
+        "rationale": "Kiʻi means picture/image, literally present in 'moving picture'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

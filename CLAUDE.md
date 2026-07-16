@@ -69,17 +69,18 @@ Tue–Thu **null**, Fri **allows**. Featured sense follows the piece's `word_sen
 Regenerate: `node --env-file=.env scripts/classify-pieces.mjs` then `seal-week --reseal`.
 `ANTHROPIC_API_KEY` lives in gitignored `.env`. Rationales in `piece-verdicts.json` seed Learn v2.
 
-## Ops pipeline (reserve seeding — WIRED & RUNNING; see docs/OPS.md)
-n8n Cloud → GitHub Actions run `seal-week.mjs` → Google Chat review card → Approve gates the commit.
-Reserve modes: `--candidate` → `data/reserve/pending.json`, `--swap "<word>"`, `--approve` →
-`reserve-NN.json` + ledger. Actions: `.github/workflows/reserve-seal.yml` + `reserve-finalize.yml`.
-n8n scaffold + card live in `ops/`. Reserve weeks in `data/reserve/` are NOT served (not public/) until
-promoted to a live Monday. Classification is NOT in this loop (pool pre-classified). Repo uses
-`pull.rebase=true` so ops-Action commits to main don't collide with local pushes.
-**Status: reserve 2/12 seeded; 10 more cycles to go.** Next: automatic Wednesday cadence (weekly
-production cycle) — scheduled seal, promote reserve→live Monday, low-reserve alarm.
+## Content strategy: BATCH pre-generation (current) — replaced the n8n weekly flow
+The app is fueled by a **one-time batch of 198 sealed weeks** (`2026-W29 … 2030-W17`, ~3.8 yrs) in
+`public/data/`, made with `node scripts/seal-week.mjs <startWeek> --weeks N --batch`. `--batch` blocks
+ALL prior words (no repeat) and stops gracefully when the pool exhausts — Friday's 198 nine-to-fifteen-
+letter words are the binding limit. No per-week human approval; the client just serves the current HST week.
+To regenerate/extend: set `data/ledger.json` to `{"weeks":[]}`, `rm public/data/week-*.json`, re-run the batch.
+Recycling (reuse words after full exhaustion) is a someday-task (~2030).
+
+**DEPRECATED, still in repo (unused, safe to delete):** the n8n weekly-approval flow — reserve engine
+(`seal-week.mjs --candidate/--swap/--approve`), `.github/workflows/reserve-*.yml`, `ops/`, `data/reserve/`,
+`docs/OPS.md`. Superseded by the batch strategy above.
 
 ## Deferred (see STATUS.md for detail)
-- **Automatic Wednesday cadence** (weekly-seal schedule + promote reserve→live Monday) — design decision
-  pending: generate fresh weekly vs drain the reserve buffer.
+- **Word recycling** once the 198-week pool is exhausted (~2030), if the app is still running.
 - **Learn mode / Share / streaks / archive** — parked; seams left in the shell.

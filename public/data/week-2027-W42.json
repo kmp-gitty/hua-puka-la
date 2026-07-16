@@ -1,0 +1,174 @@
+{
+  "weekId": "2027-W42",
+  "ordinal": 3016,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻonoho",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "o",
+        "h",
+        "o"
+      ],
+      "length": 8,
+      "bare": "hoonoho",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to install, to give a seat",
+      "meanings": [
+        "to take up residence",
+        "to install, to give a seat",
+        "to appoint",
+        "to carry, to convey",
+        "to arrange, to pack",
+        "to set",
+        "to set up"
+      ],
+      "defHint": "to install, to give a seat",
+      "piece": {
+        "piece_word": "noho",
+        "piece_def": "seat; chair",
+        "tier": 1,
+        "rationale": "hoʻonoho is causative of noho; means to give a seat/install."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pepa",
+      "glyphs": [
+        "p",
+        "e",
+        "p",
+        "a"
+      ],
+      "length": 4,
+      "bare": "pepa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "paper",
+      "meanings": [
+        "paper",
+        "card",
+        "pepper"
+      ],
+      "defHint": "paper",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻoʻopu",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "u"
+      ],
+      "length": 6,
+      "bare": "oopu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Any of various small marine or freshwater fish in the families Eleotridae (sleeper gobies) and Gobiidae (true gobies).",
+      "meanings": [
+        "Any of various small marine or freshwater fish in the families Eleotridae (sleeper gobies) and Gobiidae (true gobies)."
+      ],
+      "defHint": "Any of various small marine or freshwater fish in the families Eleotridae (sleeper gobies) and Gobiidae (true gobies).",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lōʻihi",
+      "glyphs": [
+        "l",
+        "ō",
+        "ʻ",
+        "i",
+        "h",
+        "i"
+      ],
+      "length": 6,
+      "bare": "loihi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "length, distance",
+      "meanings": [
+        "length, distance",
+        "height",
+        "long",
+        "tall"
+      ],
+      "defHint": "length, distance",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hanuāpuaʻa",
+      "glyphs": [
+        "h",
+        "a",
+        "n",
+        "u",
+        "ā",
+        "p",
+        "u",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hanuapuaa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to breathe heavily, gasp",
+      "meanings": [
+        "to breathe heavily, gasp"
+      ],
+      "defHint": "to breathe heavily, gasp",
+      "piece": {
+        "piece_word": "hanu",
+        "piece_def": "breath; respiration; to breathe",
+        "tier": 1,
+        "rationale": "Breathing literally appears in the meaning to breathe heavily."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

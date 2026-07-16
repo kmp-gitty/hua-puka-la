@@ -1,0 +1,166 @@
+{
+  "weekId": "2027-W09",
+  "ordinal": 2983,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kaʻikaʻi",
+      "glyphs": [
+        "k",
+        "a",
+        "ʻ",
+        "i",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "kaikai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lift up, to raise",
+      "meanings": [
+        "to lift up, to raise",
+        "to support",
+        "to lead"
+      ],
+      "defHint": "to lift up, to raise",
+      "piece": {
+        "piece_word": "kaʻi",
+        "piece_def": "to lead; to lift up and carry",
+        "tier": 1,
+        "rationale": "kaʻikaʻi is a reduplication of kaʻi; meanings 'lift up' and 'lead' appear directly in both."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "makautau",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "u",
+        "t",
+        "a",
+        "u"
+      ],
+      "length": 8,
+      "bare": "makautau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "Niʻihau form of mākaukau (“competence, proficiency, efficiency”)",
+      "meanings": [
+        "Niʻihau form of mākaukau (“competence, proficiency, efficiency”)",
+        "Niʻihau form of mākaukau (“ready, competent”)"
+      ],
+      "defHint": "Niʻihau form of mākaukau (“competence, proficiency, efficiency”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻaiāmanō",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "i",
+        "ā",
+        "m",
+        "a",
+        "n",
+        "ō"
+      ],
+      "length": 8,
+      "bare": "aiamano",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to eat like a pig; to eat greedily",
+      "meanings": [
+        "to eat like a pig; to eat greedily"
+      ],
+      "defHint": "to eat like a pig; to eat greedily",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kolepa",
+      "glyphs": [
+        "k",
+        "o",
+        "l",
+        "e",
+        "p",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kolepa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "golf (sport)",
+      "meanings": [
+        "golf (sport)"
+      ],
+      "defHint": "golf (sport)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻenekinia",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "n",
+        "e",
+        "k",
+        "i",
+        "n",
+        "i",
+        "a"
+      ],
+      "length": 9,
+      "bare": "enekinia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "engineer",
+      "meanings": [
+        "engineer"
+      ],
+      "defHint": "engineer",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

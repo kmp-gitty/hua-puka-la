@@ -1,0 +1,168 @@
+{
+  "weekId": "2027-W06",
+  "ordinal": 2980,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "noʻu",
+      "glyphs": [
+        "n",
+        "o",
+        "ʻ",
+        "u"
+      ],
+      "length": 4,
+      "bare": "nou",
+      "pos": [
+        "pron",
+        "verb"
+      ],
+      "featuredSense": "mine, for me",
+      "meanings": [
+        "mine, for me",
+        "to be short, plump"
+      ],
+      "defHint": "mine, for me",
+      "piece": {
+        "piece_word": "no",
+        "piece_def": "for, belonging to",
+        "tier": 1,
+        "rationale": "noʻu = no (for/belonging to) + ʻu; 'for me' derives directly from 'for/belonging to'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pōpoki",
+      "glyphs": [
+        "p",
+        "ō",
+        "p",
+        "o",
+        "k",
+        "i"
+      ],
+      "length": 6,
+      "bare": "popoki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cat",
+      "meanings": [
+        "cat"
+      ],
+      "defHint": "cat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "haʻupoho",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "u",
+        "p",
+        "o",
+        "h",
+        "o"
+      ],
+      "length": 8,
+      "bare": "haupoho",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "parachute",
+      "meanings": [
+        "parachute"
+      ],
+      "defHint": "parachute",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pololei",
+      "glyphs": [
+        "p",
+        "o",
+        "l",
+        "o",
+        "l",
+        "e",
+        "i"
+      ],
+      "length": 7,
+      "bare": "pololei",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "correct, right",
+      "meanings": [
+        "correct, right",
+        "straight"
+      ],
+      "defHint": "correct, right",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomaʻalahi",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "l",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 12,
+      "bare": "hoomaalahi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to simplify",
+      "meanings": [
+        "to simplify"
+      ],
+      "defHint": "to simplify",
+      "piece": {
+        "piece_word": "maʻalahi",
+        "piece_def": "ease, simplicity; easy; simple",
+        "tier": 1,
+        "rationale": "Root meaning simple/easy is the base of the causative hoʻo- form 'to simplify'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

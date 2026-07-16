@@ -1,0 +1,171 @@
+{
+  "weekId": "2027-W46",
+  "ordinal": 3020,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pāleoleo",
+      "glyphs": [
+        "p",
+        "ā",
+        "l",
+        "e",
+        "o",
+        "l",
+        "e",
+        "o"
+      ],
+      "length": 8,
+      "bare": "paleoleo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to rap, to speak lyrics rhythmically usual of hip-hop music.",
+      "meanings": [
+        "to rap, to speak lyrics rhythmically usual of hip-hop music."
+      ],
+      "defHint": "to rap, to speak lyrics rhythmically usual of hip-hop music.",
+      "piece": {
+        "piece_word": "leo",
+        "piece_def": "voice; sound; to speak",
+        "tier": 1,
+        "rationale": "To rap/speak involves the voice; leo (voice/speak) is core to the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pelapela",
+      "glyphs": [
+        "p",
+        "e",
+        "l",
+        "a",
+        "p",
+        "e",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "pelapela",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "filthy, dirty, nasty, unclean",
+      "meanings": [
+        "filthy, dirty, nasty, unclean",
+        "indecent, vulgar, lewd, obscene",
+        "to be defiled",
+        "to stink, to emit a bad smell",
+        "uncleanliness, filth, refuse"
+      ],
+      "defHint": "filthy, dirty, nasty, unclean",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻaʻo",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 4,
+      "bare": "ao",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Hawaiian shearwater (Puffinus newelli)",
+      "meanings": [
+        "Hawaiian shearwater (Puffinus newelli)"
+      ],
+      "defHint": "Hawaiian shearwater (Puffinus newelli)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hoʻōla",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "ō",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "hoola",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "salvation",
+      "meanings": [
+        "salvation",
+        "healer; savior, saviour",
+        "to save, to heal, to cure, to spare"
+      ],
+      "defHint": "salvation",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kaikunāne",
+      "glyphs": [
+        "k",
+        "a",
+        "i",
+        "k",
+        "u",
+        "n",
+        "ā",
+        "n",
+        "e"
+      ],
+      "length": 9,
+      "bare": "kaikunane",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "brother or male cousin",
+      "meanings": [
+        "brother or male cousin"
+      ],
+      "defHint": "brother or male cousin",
+      "piece": {
+        "piece_word": "kunāne",
+        "piece_def": "brother or male cousin",
+        "tier": 1,
+        "rationale": "Same meaning literally present; core morpheme of the word."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

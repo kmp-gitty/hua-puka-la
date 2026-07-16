@@ -1,0 +1,170 @@
+{
+  "weekId": "2030-W07",
+  "ordinal": 3137,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lahilahi",
+      "glyphs": [
+        "l",
+        "a",
+        "h",
+        "i",
+        "l",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 8,
+      "bare": "lahilahi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "thinness, frailty, flimsiness",
+      "meanings": [
+        "thinness, frailty, flimsiness"
+      ],
+      "defHint": "thinness, frailty, flimsiness",
+      "piece": {
+        "piece_word": "lahi",
+        "piece_def": "thinness, frailty",
+        "tier": 1,
+        "rationale": "lahilahi is the reduplication of lahi; meaning literally matches."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pupule",
+      "glyphs": [
+        "p",
+        "u",
+        "p",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "pupule",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "crazy, insane, reckless, wild",
+      "meanings": [
+        "crazy, insane, reckless, wild"
+      ],
+      "defHint": "crazy, insane, reckless, wild",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "keakea",
+      "glyphs": [
+        "k",
+        "e",
+        "a",
+        "k",
+        "e",
+        "a"
+      ],
+      "length": 6,
+      "bare": "keakea",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "semen",
+      "meanings": [
+        "semen",
+        "child"
+      ],
+      "defHint": "semen",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "laulā",
+      "glyphs": [
+        "l",
+        "a",
+        "u",
+        "l",
+        "ā"
+      ],
+      "length": 5,
+      "bare": "laula",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "wide, broad",
+      "meanings": [
+        "wide, broad",
+        "public",
+        "liberal",
+        "width, breadth"
+      ],
+      "defHint": "wide, broad",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "polalauahi",
+      "glyphs": [
+        "p",
+        "o",
+        "l",
+        "a",
+        "l",
+        "a",
+        "u",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 10,
+      "bare": "polalauahi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to be voggy: polluted by the presence of volcanic smoke and ash (i.e. in the air)",
+      "meanings": [
+        "vog",
+        "to be voggy: polluted by the presence of volcanic smoke and ash (i.e. in the air)"
+      ],
+      "defHint": "to be voggy: polluted by the presence of volcanic smoke and ash (i.e. in the air)",
+      "piece": {
+        "piece_word": "uahi",
+        "piece_def": "smoke",
+        "tier": 1,
+        "rationale": "Vog is volcanic smoke; smoke literally in the definition."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

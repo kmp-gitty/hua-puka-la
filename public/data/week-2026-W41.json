@@ -1,0 +1,168 @@
+{
+  "weekId": "2026-W41",
+  "ordinal": 2962,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hāuli",
+      "glyphs": [
+        "h",
+        "ā",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 5,
+      "bare": "hauli",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "bruise",
+      "meanings": [
+        "blackish",
+        "bruise"
+      ],
+      "defHint": "bruise",
+      "piece": {
+        "piece_word": "uli",
+        "piece_def": "having any dark color (blue, green, black, etc.); black and blue (colored like a bruise)",
+        "tier": 1,
+        "rationale": "'uli' means dark/black-and-blue, literally matching blackish and bruise."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kilo",
+      "glyphs": [
+        "k",
+        "i",
+        "l",
+        "o"
+      ],
+      "length": 4,
+      "bare": "kilo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to watch, gaze",
+      "meanings": [
+        "to watch, gaze",
+        "watch or observer, someone who watches or observes"
+      ],
+      "defHint": "to watch, gaze",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kanaka",
+      "glyphs": [
+        "k",
+        "a",
+        "n",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kanaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "man, human, human being",
+      "meanings": [
+        "man, human, human being",
+        "subject, retainer",
+        "a Hawaiian"
+      ],
+      "defHint": "man, human, human being",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kulaʻi",
+      "glyphs": [
+        "k",
+        "u",
+        "l",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kulai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to push over; to overthrow; to shove; to push to one side",
+      "meanings": [
+        "to push over; to overthrow; to shove; to push to one side"
+      ],
+      "defHint": "to push over; to overthrow; to shove; to push to one side",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomākeʻaka",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "ā",
+        "k",
+        "e",
+        "ʻ",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hoomakeaka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to cause laughter",
+      "meanings": [
+        "to cause laughter",
+        "amusing, comic, funny, witty, humorous"
+      ],
+      "defHint": "to cause laughter",
+      "piece": {
+        "piece_word": "ʻaka",
+        "piece_def": "to laugh",
+        "tier": 1,
+        "rationale": "'ʻaka' means to laugh; core root of causing laughter."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,169 @@
+{
+  "weekId": "2027-W35",
+  "ordinal": 3009,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "koʻokoʻo",
+      "glyphs": [
+        "k",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "ʻ",
+        "o"
+      ],
+      "length": 8,
+      "bare": "kookoo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "support; prop",
+      "meanings": [
+        "cane; staff; rod",
+        "support; prop",
+        "means of livelihood"
+      ],
+      "defHint": "support; prop",
+      "piece": {
+        "piece_word": "koʻo",
+        "piece_def": "brace; support; prop",
+        "tier": 1,
+        "rationale": "koʻo means support/prop, matching the reduplicated koʻokoʻo's 'support; prop' sense."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻāpuka",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "p",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "apuka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to cheat",
+      "meanings": [
+        "to cheat"
+      ],
+      "defHint": "to cheat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "piʻo",
+      "glyphs": [
+        "p",
+        "i",
+        "ʻ",
+        "o"
+      ],
+      "length": 4,
+      "bare": "pio",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "bend, curve, arc",
+      "meanings": [
+        "bend, curve, arc",
+        "to arch (of a rainbow)"
+      ],
+      "defHint": "bend, curve, arc",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻaloʻalo",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "o",
+        "ʻ",
+        "a",
+        "l",
+        "o"
+      ],
+      "length": 8,
+      "bare": "aloalo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "escort, attendant",
+      "meanings": [
+        "escort, attendant"
+      ],
+      "defHint": "escort, attendant",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomaopopo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "o",
+        "p",
+        "o",
+        "p",
+        "o"
+      ],
+      "length": 11,
+      "bare": "hoomaopopo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to understand",
+      "meanings": [
+        "to understand"
+      ],
+      "defHint": "to understand",
+      "piece": {
+        "piece_word": "maopopo",
+        "piece_def": "to understand",
+        "tier": 1,
+        "rationale": "Root meaning to understand; hoʻo- causative form of the same meaning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,182 @@
+{
+  "weekId": "2029-W36",
+  "ordinal": 3114,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "haʻihaʻi",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "i",
+        "h",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "haihai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "brittle",
+      "meanings": [
+        "to speak back and forth",
+        "brittle",
+        "quavering, breaking",
+        "chiropractic massage"
+      ],
+      "defHint": "brittle",
+      "piece": {
+        "piece_word": "haʻi",
+        "piece_def": "to break, to snap; break, fracture",
+        "tier": 1,
+        "rationale": "haʻihaʻi is a reduplication of haʻi (to break), directly relating to 'brittle', 'breaking', and 'fracture' senses"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "uila",
+      "glyphs": [
+        "u",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 4,
+      "bare": "uila",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "lightning",
+      "meanings": [
+        "lightning",
+        "electricity",
+        "electric"
+      ],
+      "defHint": "lightning",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kāʻei",
+      "glyphs": [
+        "k",
+        "ā",
+        "ʻ",
+        "e",
+        "i"
+      ],
+      "length": 5,
+      "bare": "kaei",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "belt, sash",
+      "meanings": [
+        "belt, sash",
+        "zone"
+      ],
+      "defHint": "belt, sash",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "muli",
+      "glyphs": [
+        "m",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "muli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "after, afterward, by and by",
+      "meanings": [
+        "after, afterward, by and by",
+        "behind, following behind; follower",
+        "younger, youngest, last",
+        "because",
+        "thin end of a pearl-shell shank",
+        "stern of a canoe",
+        "back",
+        "coda of a syllable, in linguistics"
+      ],
+      "defHint": "after, afterward, by and by",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomaʻemaʻe",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "ʻ",
+        "e",
+        "m",
+        "a",
+        "ʻ",
+        "e"
+      ],
+      "length": 12,
+      "bare": "hoomaemae",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to clean, cause to be clean, cleanse",
+      "meanings": [
+        "to clean, cause to be clean, cleanse",
+        "to purify",
+        "to purge",
+        "to reform",
+        "purge",
+        "reform"
+      ],
+      "defHint": "to clean, cause to be clean, cleanse",
+      "piece": {
+        "piece_word": "maʻemaʻe",
+        "piece_def": "to be clean; to be pure",
+        "tier": 1,
+        "rationale": "Root: hoʻomaʻemaʻe is the causative of maʻemaʻe, literally to make clean/pure."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

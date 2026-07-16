@@ -1,0 +1,179 @@
+{
+  "weekId": "2027-W15",
+  "ordinal": 2989,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kīpuka",
+      "glyphs": [
+        "k",
+        "ī",
+        "p",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kipuka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "an opening in a forest or a cloud formation",
+      "meanings": [
+        "a variation or change in form, such as:",
+        "an oasis in a lava bed",
+        "a calm place in the sea",
+        "a deep place in a shoal",
+        "an opening in a forest or a cloud formation",
+        "poncho, cape",
+        "loop, lasso, snare"
+      ],
+      "defHint": "an opening in a forest or a cloud formation",
+      "piece": {
+        "piece_word": "puka",
+        "piece_def": "hole, gate, doorway; a snare, a trap",
+        "tier": 1,
+        "rationale": "Puka means opening/hole and kīpuka includes 'an opening in a forest or cloud'; also loop/snare sense aligns."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "monakō",
+      "glyphs": [
+        "m",
+        "o",
+        "n",
+        "a",
+        "k",
+        "ō"
+      ],
+      "length": 6,
+      "bare": "monako",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "glucose",
+      "meanings": [
+        "glucose"
+      ],
+      "defHint": "glucose",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kaʻa",
+      "glyphs": [
+        "k",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 4,
+      "bare": "kaa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "car (automobile)",
+      "meanings": [
+        "car (automobile)",
+        "cart, buggy",
+        "vehicle",
+        "to roll, revolve",
+        "to turn, twist",
+        "to pass (go past)",
+        "to reach",
+        "to take effect",
+        "to pay"
+      ],
+      "defHint": "car (automobile)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "waleluka",
+      "glyphs": [
+        "w",
+        "a",
+        "l",
+        "e",
+        "l",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "waleluka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "walrus",
+      "meanings": [
+        "walrus"
+      ],
+      "defHint": "walrus",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "waiūhakuhaku",
+      "glyphs": [
+        "w",
+        "a",
+        "i",
+        "ū",
+        "h",
+        "a",
+        "k",
+        "u",
+        "h",
+        "a",
+        "k",
+        "u"
+      ],
+      "length": 12,
+      "bare": "waiuhakuhaku",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cottage cheese",
+      "meanings": [
+        "cottage cheese"
+      ],
+      "defHint": "cottage cheese",
+      "piece": {
+        "piece_word": "waiū",
+        "piece_def": "milk",
+        "tier": 1,
+        "rationale": "Cottage cheese is a milk product; waiū (milk) is its base."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

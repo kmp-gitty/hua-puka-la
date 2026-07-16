@@ -1,0 +1,180 @@
+{
+  "weekId": "2029-W14",
+  "ordinal": 3092,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pōkaʻa",
+      "glyphs": [
+        "p",
+        "ō",
+        "k",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 6,
+      "bare": "pokaa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to wind, roll, coil",
+      "meanings": [
+        "reel, spool",
+        "ball",
+        "to wind, roll, coil",
+        "to revolve, go around, gyrate"
+      ],
+      "defHint": "to wind, roll, coil",
+      "piece": {
+        "piece_word": "kaʻa",
+        "piece_def": "to roll, revolve",
+        "tier": 1,
+        "rationale": "kaʻa 'to roll, revolve' literally matches pōkaʻa's meanings to wind/roll and revolve."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kaʻawale",
+      "glyphs": [
+        "k",
+        "a",
+        "ʻ",
+        "a",
+        "w",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "kaawale",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to separate",
+      "meanings": [
+        "to separate",
+        "to isolate, to reserve",
+        "to withdraw",
+        "separate, apart, alone",
+        "free, spare",
+        "unoccupied, empty",
+        "free time",
+        "opportunity",
+        "interval (distance separating objects)"
+      ],
+      "defHint": "to separate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ihona",
+      "glyphs": [
+        "i",
+        "h",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "ihona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "incline, descent",
+      "meanings": [
+        "incline, descent"
+      ],
+      "defHint": "incline, descent",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "maikaʻi",
+      "glyphs": [
+        "m",
+        "a",
+        "i",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 7,
+      "bare": "maikai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "goodness, wellness",
+      "meanings": [
+        "goodness, wellness",
+        "good looking",
+        "to be well, fine, in a state of goodness"
+      ],
+      "defHint": "goodness, wellness",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōkolehao",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "k",
+        "o",
+        "l",
+        "e",
+        "h",
+        "a",
+        "o"
+      ],
+      "length": 9,
+      "bare": "okolehao",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "iron try-pot still",
+      "meanings": [
+        "iron try-pot still",
+        "okolehao"
+      ],
+      "defHint": "iron try-pot still",
+      "piece": {
+        "piece_word": "hao",
+        "piece_def": "iron; general name for metal tools",
+        "tier": 1,
+        "rationale": "'iron' literally appears in the definition 'iron try-pot still'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

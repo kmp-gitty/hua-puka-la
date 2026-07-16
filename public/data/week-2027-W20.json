@@ -1,0 +1,174 @@
+{
+  "weekId": "2027-W20",
+  "ordinal": 2994,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "konākonā",
+      "glyphs": [
+        "k",
+        "o",
+        "n",
+        "ā",
+        "k",
+        "o",
+        "n",
+        "ā"
+      ],
+      "length": 8,
+      "bare": "konakona",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "contempt",
+      "meanings": [
+        "to dislike",
+        "dislike",
+        "contempt"
+      ],
+      "defHint": "contempt",
+      "piece": {
+        "piece_word": "konā",
+        "piece_def": "contemptuous, haughty; unfriendly, brusque",
+        "tier": 1,
+        "rationale": "konākonā is reduplication of konā; contempt appears directly in both."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hōʻaiʻē",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "a",
+        "i",
+        "ʻ",
+        "ē"
+      ],
+      "length": 7,
+      "bare": "hoaie",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lend, loan",
+      "meanings": [
+        "to lend, loan",
+        "to borrow"
+      ],
+      "defHint": "to lend, loan",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kiaʻi",
+      "glyphs": [
+        "k",
+        "i",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 5,
+      "bare": "kiai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to guard, to watch over",
+      "meanings": [
+        "to guard, to watch over",
+        "to overlook",
+        "guard, watchman"
+      ],
+      "defHint": "to guard, to watch over",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kīhāpai",
+      "glyphs": [
+        "k",
+        "ī",
+        "h",
+        "ā",
+        "p",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kihapai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "garden, patch",
+      "meanings": [
+        "garden, patch",
+        "parish",
+        "department",
+        "Madagascar periwinkle"
+      ],
+      "defHint": "garden, patch",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻonauki",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "a",
+        "u",
+        "k",
+        "i"
+      ],
+      "length": 9,
+      "bare": "hoonauki",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "aggravating, annoying, exasperating, provoking",
+      "meanings": [
+        "aggravating, annoying, exasperating, provoking"
+      ],
+      "defHint": "aggravating, annoying, exasperating, provoking",
+      "piece": {
+        "piece_word": "nauki",
+        "piece_def": "impatient, irritable; cross, vexed",
+        "tier": 2,
+        "rationale": "hoʻonauki is the causative of nauki; to make irritable/vexed relates directly to annoying/provoking."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

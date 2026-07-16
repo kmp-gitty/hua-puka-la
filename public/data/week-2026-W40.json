@@ -1,0 +1,174 @@
+{
+  "weekId": "2026-W40",
+  "ordinal": 2961,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻomoʻa",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "o",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoomoa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to cook",
+      "meanings": [
+        "to cook",
+        "to bake"
+      ],
+      "defHint": "to cook",
+      "piece": {
+        "piece_word": "moʻa",
+        "piece_def": "cooked; cooked food",
+        "tier": 1,
+        "rationale": "moʻa means cooked, the literal root of hoʻomoʻa (to cook)."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "maʻalahi",
+      "glyphs": [
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "l",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 8,
+      "bare": "maalahi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "ease, simplicity",
+      "meanings": [
+        "ease, simplicity",
+        "easy",
+        "simple"
+      ],
+      "defHint": "ease, simplicity",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoana",
+      "glyphs": [
+        "h",
+        "o",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "hoana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "grindstone",
+      "meanings": [
+        "grindstone",
+        "to rub, to grind",
+        "to brandish (a weapon), to threaten",
+        "joining, joint, binding (object that joins two other objects together)"
+      ],
+      "defHint": "grindstone",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻākau",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "k",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "akau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "right (not left)",
+      "meanings": [
+        "right (not left)",
+        "north"
+      ],
+      "defHint": "right (not left)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopālua",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "ā",
+        "l",
+        "u",
+        "a"
+      ],
+      "length": 9,
+      "bare": "hoopalua",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to double",
+      "meanings": [
+        "to double",
+        "to reduplicate",
+        "to cut in two, to halve"
+      ],
+      "defHint": "to double",
+      "piece": {
+        "piece_word": "lua",
+        "piece_def": "two; double; duplicate",
+        "tier": 1,
+        "rationale": "'lua' means two/double, directly present in 'to double'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

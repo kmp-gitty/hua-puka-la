@@ -1,0 +1,174 @@
+{
+  "weekId": "2029-W41",
+  "ordinal": 3119,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻokāne",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "ā",
+        "n",
+        "e"
+      ],
+      "length": 8,
+      "bare": "hookane",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act like a man",
+      "meanings": [
+        "to act like a man",
+        "to adopt a man as a platonic friend",
+        "to offer to become a husband or sweetheart"
+      ],
+      "defHint": "to act like a man",
+      "piece": {
+        "piece_word": "kāne",
+        "piece_def": "male; man (adult male human); husband",
+        "tier": 1,
+        "rationale": "'Man/husband' literally appears in the definitions; kāne is the root."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lio",
+      "glyphs": [
+        "l",
+        "i",
+        "o"
+      ],
+      "length": 3,
+      "bare": "lio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "horse",
+      "meanings": [
+        "horse"
+      ],
+      "defHint": "horse",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻakolika",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "o",
+        "l",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "akolika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ostrich",
+      "meanings": [
+        "ostrich"
+      ],
+      "defHint": "ostrich",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hala",
+      "glyphs": [
+        "h",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hala",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "sin",
+      "meanings": [
+        "sin",
+        "error",
+        "to sin",
+        "to err",
+        "to miss",
+        "to pass, elapse",
+        "to pass away, to die",
+        "screw pine, pandanus (Pandanus tectorius)"
+      ],
+      "defHint": "sin",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokuaʻāina",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "u",
+        "a",
+        "ʻ",
+        "ā",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hookuaaina",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act like someone from the countryside",
+      "meanings": [
+        "to act like someone from the countryside",
+        "countrified, rustic"
+      ],
+      "defHint": "to act like someone from the countryside",
+      "piece": {
+        "piece_word": "ʻāina",
+        "piece_def": "land (earth; country; real estate)",
+        "tier": 1,
+        "rationale": "Land/country is core to kuaʻāina/countryside meaning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,155 @@
+{
+  "weekId": "2029-W43",
+  "ordinal": 3121,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻulaʻula",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "l",
+        "a",
+        "ʻ",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "ulaula",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "red (color)",
+      "meanings": [
+        "red (color)",
+        "gold (metal, color)"
+      ],
+      "defHint": "red (color)",
+      "piece": {
+        "piece_word": "ʻula",
+        "piece_def": "red (color)",
+        "tier": 1,
+        "rationale": "ʻulaʻula is a reduplication of ʻula 'red'; meaning appears literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "nihi",
+      "glyphs": [
+        "n",
+        "i",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "nihi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Lānaʻi form of lihi (“edge”)",
+      "meanings": [
+        "Lānaʻi form of lihi (“edge”)"
+      ],
+      "defHint": "Lānaʻi form of lihi (“edge”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻami",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "m",
+        "i"
+      ],
+      "length": 4,
+      "bare": "ami",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "locative preposition",
+      "meanings": [
+        "locative preposition"
+      ],
+      "defHint": "locative preposition",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "nākiʻi",
+      "glyphs": [
+        "n",
+        "ā",
+        "k",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "nakii",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to tie",
+      "meanings": [
+        "to tie"
+      ],
+      "defHint": "to tie",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kamepuila",
+      "glyphs": [
+        "k",
+        "a",
+        "m",
+        "e",
+        "p",
+        "u",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kamepuila",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "computer",
+      "meanings": [
+        "computer"
+      ],
+      "defHint": "computer",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

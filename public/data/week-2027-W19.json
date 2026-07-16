@@ -1,0 +1,169 @@
+{
+  "weekId": "2027-W19",
+  "ordinal": 2993,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻaʻā",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "ʻ",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "aa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to burn, glow",
+      "meanings": [
+        "aa, a type of lava",
+        "fury",
+        "to burn, glow",
+        "to be covered in lava, to be stony",
+        "to be angry",
+        "young damselfish"
+      ],
+      "defHint": "to burn, glow",
+      "piece": {
+        "piece_word": "ʻā",
+        "piece_def": "fire, burning; aa lava; to burn",
+        "tier": 1,
+        "rationale": "ʻā means to burn/fire and aa lava, directly matching the senses to burn/glow and aa lava in the larger word"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kuʻu",
+      "glyphs": [
+        "k",
+        "u",
+        "ʻ",
+        "u"
+      ],
+      "length": 4,
+      "bare": "kuu",
+      "pos": [
+        "det",
+        "verb"
+      ],
+      "featuredSense": "my first person singular possessive, both o- and a-type",
+      "meanings": [
+        "my first person singular possessive, both o- and a-type",
+        "to release, to let go",
+        "diminish, subside, settle"
+      ],
+      "defHint": "my first person singular possessive, both o- and a-type",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hana",
+      "glyphs": [
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "hana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "work, labor, job, employment, occupation, duty, activity, function, practice, incident, action",
+      "meanings": [
+        "work, labor, job, employment, occupation, duty, activity, function, practice, incident, action",
+        "to work, labor, do, make, manufacture, create, perform",
+        "warm"
+      ],
+      "defHint": "work, labor, job, employment, occupation, duty, activity, function, practice, incident, action",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "haʻiinoa",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "i",
+        "i",
+        "n",
+        "o",
+        "a"
+      ],
+      "length": 8,
+      "bare": "haiinoa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "noun",
+      "meanings": [
+        "noun"
+      ],
+      "defHint": "noun",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "paʻanaʻau",
+      "glyphs": [
+        "p",
+        "a",
+        "ʻ",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 9,
+      "bare": "paanaau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "memorized, remembered",
+      "meanings": [
+        "memorized, remembered"
+      ],
+      "defHint": "memorized, remembered",
+      "piece": {
+        "piece_word": "paʻa",
+        "piece_def": "firm, fast, permanent",
+        "tier": 2,
+        "rationale": "paʻanaʻau = paʻa (fixed/firm) + naʻau; memorized means held firmly in the mind."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

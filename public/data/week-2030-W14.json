@@ -1,0 +1,167 @@
+{
+  "weekId": "2030-W14",
+  "ordinal": 3144,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "alahao",
+      "glyphs": [
+        "a",
+        "l",
+        "a",
+        "h",
+        "a",
+        "o"
+      ],
+      "length": 6,
+      "bare": "alahao",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "railroad, railway",
+      "meanings": [
+        "railroad, railway"
+      ],
+      "defHint": "railroad, railway",
+      "piece": {
+        "piece_word": "ala",
+        "piece_def": "way, path, road",
+        "tier": 1,
+        "rationale": "Railroad literally is a road/way; 'ala' means road, appears in the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "holoi",
+      "glyphs": [
+        "h",
+        "o",
+        "l",
+        "o",
+        "i"
+      ],
+      "length": 5,
+      "bare": "holoi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "laundry",
+      "meanings": [
+        "laundry",
+        "eraser",
+        "to wash, clean",
+        "to erase, scrub"
+      ],
+      "defHint": "laundry",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻona",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "ona",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "drunk",
+      "meanings": [
+        "drunk",
+        "intoxicating",
+        "intoxication"
+      ],
+      "defHint": "drunk",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lālā",
+      "glyphs": [
+        "l",
+        "ā",
+        "l",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "lala",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "branch, bough",
+      "meanings": [
+        "branch, bough",
+        "frond (of coconut)",
+        "limb",
+        "timber (as of outrigger boom or float)",
+        "wing (of an army)",
+        "member (as of a society)",
+        "to branch out, to diverge"
+      ],
+      "defHint": "branch, bough",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "māloʻeloʻe",
+      "glyphs": [
+        "m",
+        "ā",
+        "l",
+        "o",
+        "ʻ",
+        "e",
+        "l",
+        "o",
+        "ʻ",
+        "e"
+      ],
+      "length": 10,
+      "bare": "maloeloe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "tired, exhausted",
+      "meanings": [
+        "tired, exhausted",
+        "sore, stiff"
+      ],
+      "defHint": "tired, exhausted",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

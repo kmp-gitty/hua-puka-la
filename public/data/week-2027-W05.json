@@ -1,0 +1,168 @@
+{
+  "weekId": "2027-W05",
+  "ordinal": 2979,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "māʻona",
+      "glyphs": [
+        "m",
+        "ā",
+        "ʻ",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "maona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "drunk",
+      "meanings": [
+        "full, satiated",
+        "drunk",
+        "satisfying"
+      ],
+      "defHint": "drunk",
+      "piece": {
+        "piece_word": "ʻona",
+        "piece_def": "drunk; intoxicating; intoxication",
+        "tier": 1,
+        "rationale": "'drunk' literally appears in māʻona's senses"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pāweo",
+      "glyphs": [
+        "p",
+        "ā",
+        "w",
+        "e",
+        "o"
+      ],
+      "length": 5,
+      "bare": "paweo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to turn away from someone",
+      "meanings": [
+        "to turn away from someone"
+      ],
+      "defHint": "to turn away from someone",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "maoli",
+      "glyphs": [
+        "m",
+        "a",
+        "o",
+        "l",
+        "i"
+      ],
+      "length": 5,
+      "bare": "maoli",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "native, indigenous",
+      "meanings": [
+        "native, indigenous",
+        "real, genuine"
+      ],
+      "defHint": "native, indigenous",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "keʻokeʻo",
+      "glyphs": [
+        "k",
+        "e",
+        "ʻ",
+        "o",
+        "k",
+        "e",
+        "ʻ",
+        "o"
+      ],
+      "length": 8,
+      "bare": "keokeo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "white (color)",
+      "meanings": [
+        "white (color)",
+        "muslin",
+        "white, clear"
+      ],
+      "defHint": "white (color)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻouluhua",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "u",
+        "l",
+        "u",
+        "h",
+        "u",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hoouluhua",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to annoy, to vex",
+      "meanings": [
+        "to annoy, to vex"
+      ],
+      "defHint": "to annoy, to vex",
+      "piece": {
+        "piece_word": "uluhua",
+        "piece_def": "vexed, annoyed; angry, upset",
+        "tier": 1,
+        "rationale": "Root meaning vexed/annoyed literally matches 'to annoy, to vex'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

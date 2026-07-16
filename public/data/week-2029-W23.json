@@ -1,0 +1,174 @@
+{
+  "weekId": "2029-W23",
+  "ordinal": 3101,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kalakala",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "a",
+        "k",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kalakala",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "craggy, thorny",
+      "meanings": [
+        "craggy, thorny",
+        "rude, harsh",
+        "low-resolution"
+      ],
+      "defHint": "craggy, thorny",
+      "piece": {
+        "piece_word": "kala",
+        "piece_def": "horn, spike, thorn",
+        "tier": 1,
+        "rationale": "kala means thorn/spike, matching kalakala's 'craggy, thorny' (reduplication)."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hinahina",
+      "glyphs": [
+        "h",
+        "i",
+        "n",
+        "a",
+        "h",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hinahina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Heliotropium anomalum, a heliotrope of the Pacific Islands",
+      "meanings": [
+        "Heliotropium anomalum, a heliotrope of the Pacific Islands",
+        "Artemisia australis"
+      ],
+      "defHint": "Heliotropium anomalum, a heliotrope of the Pacific Islands",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pōhina",
+      "glyphs": [
+        "p",
+        "ō",
+        "h",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "pohina",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "gray",
+      "meanings": [
+        "gray",
+        "misty, foggy, hazy"
+      ],
+      "defHint": "gray",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻumiʻumi",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "m",
+        "i",
+        "ʻ",
+        "u",
+        "m",
+        "i"
+      ],
+      "length": 8,
+      "bare": "umiumi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "beard, goatee",
+      "meanings": [
+        "beard, goatee",
+        "mane"
+      ],
+      "defHint": "beard, goatee",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomāʻona",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "ā",
+        "ʻ",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hoomaona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to eat one's fill",
+      "meanings": [
+        "to eat one's fill",
+        "to feed until satiety"
+      ],
+      "defHint": "to eat one's fill",
+      "piece": {
+        "piece_word": "māʻona",
+        "piece_def": "full, satiated; satisfying",
+        "tier": 1,
+        "rationale": "Base word meaning full/satiated directly underlies eating one's fill."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

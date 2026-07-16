@@ -1,0 +1,167 @@
+{
+  "weekId": "2028-W08",
+  "ordinal": 3034,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "wāwae",
+      "glyphs": [
+        "w",
+        "ā",
+        "w",
+        "a",
+        "e"
+      ],
+      "length": 5,
+      "bare": "wawae",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "leg, foot",
+      "meanings": [
+        "leg, foot"
+      ],
+      "defHint": "leg, foot",
+      "piece": {
+        "piece_word": "wae",
+        "piece_def": "leg",
+        "tier": 1,
+        "rationale": "wae means leg, which literally appears in wāwae (leg, foot)."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻaʻole",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "ʻ",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "aole",
+      "pos": [
+        "intj",
+        "verb"
+      ],
+      "featuredSense": "no, not",
+      "meanings": [
+        "no, not",
+        "never",
+        "to be none, to have none"
+      ],
+      "defHint": "no, not",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "māihi",
+      "glyphs": [
+        "m",
+        "ā",
+        "i",
+        "h",
+        "i"
+      ],
+      "length": 5,
+      "bare": "maihi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to peel, strip, as bark",
+      "meanings": [
+        "to peel, strip, as bark"
+      ],
+      "defHint": "to peel, strip, as bark",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lua",
+      "glyphs": [
+        "l",
+        "u",
+        "a"
+      ],
+      "length": 3,
+      "bare": "lua",
+      "pos": [
+        "noun",
+        "num"
+      ],
+      "featuredSense": "two",
+      "meanings": [
+        "two",
+        "second",
+        "double",
+        "duplicate",
+        "companion",
+        "a traditional Hawaiian type of fighting",
+        "pit, hole",
+        "toilet"
+      ],
+      "defHint": "two",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "naʻaukake",
+      "glyphs": [
+        "n",
+        "a",
+        "ʻ",
+        "a",
+        "u",
+        "k",
+        "a",
+        "k",
+        "e"
+      ],
+      "length": 9,
+      "bare": "naaukake",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sausage",
+      "meanings": [
+        "sausage"
+      ],
+      "defHint": "sausage",
+      "piece": {
+        "piece_word": "naʻau",
+        "piece_def": "guts, intestines",
+        "tier": 2,
+        "rationale": "Sausage is meat encased in intestines; naʻau (guts/intestines) meaningfully relates."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

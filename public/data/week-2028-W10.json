@@ -1,0 +1,168 @@
+{
+  "weekId": "2028-W10",
+  "ordinal": 3036,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kinipōpō",
+      "glyphs": [
+        "k",
+        "i",
+        "n",
+        "i",
+        "p",
+        "ō",
+        "p",
+        "ō"
+      ],
+      "length": 8,
+      "bare": "kinipopo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ball",
+      "meanings": [
+        "ball",
+        "ball game (any sport involving chasing after a ball)"
+      ],
+      "defHint": "ball",
+      "piece": {
+        "piece_word": "pōpō",
+        "piece_def": "ball, wad",
+        "tier": 1,
+        "rationale": "pōpō means ball, literally present in the word's meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hamo",
+      "glyphs": [
+        "h",
+        "a",
+        "m",
+        "o"
+      ],
+      "length": 4,
+      "bare": "hamo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to rub (on)",
+      "meanings": [
+        "to rub (on)",
+        "to besmear, to spread",
+        "to anoint",
+        "to stroke, to caress",
+        "to butter up, to flatter"
+      ],
+      "defHint": "to rub (on)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "aikāne",
+      "glyphs": [
+        "a",
+        "i",
+        "k",
+        "ā",
+        "n",
+        "e"
+      ],
+      "length": 6,
+      "bare": "aikane",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a man with whom one has sex",
+      "meanings": [
+        "a man with whom one has sex"
+      ],
+      "defHint": "a man with whom one has sex",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻāluna",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "l",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "aluna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "descent",
+      "meanings": [
+        "descent"
+      ],
+      "defHint": "descent",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "akeakamai",
+      "glyphs": [
+        "a",
+        "k",
+        "e",
+        "a",
+        "k",
+        "a",
+        "m",
+        "a",
+        "i"
+      ],
+      "length": 9,
+      "bare": "akeakamai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "one who seeks knowledge, philosopher, philosophy, scientist, science",
+      "meanings": [
+        "one who seeks knowledge, philosopher, philosophy, scientist, science",
+        "scientific"
+      ],
+      "defHint": "one who seeks knowledge, philosopher, philosophy, scientist, science",
+      "piece": {
+        "piece_word": "akamai",
+        "piece_def": "intelligence, wit; intelligent, smart, clever",
+        "tier": 1,
+        "rationale": "akamai (knowledge/intelligence) is the root; the word means one who seeks knowledge."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

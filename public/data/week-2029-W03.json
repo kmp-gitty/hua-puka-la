@@ -1,0 +1,171 @@
+{
+  "weekId": "2029-W03",
+  "ordinal": 3081,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "akaʻai",
+      "glyphs": [
+        "a",
+        "k",
+        "a",
+        "ʻ",
+        "a",
+        "i"
+      ],
+      "length": 6,
+      "bare": "akaai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to eat slowly",
+      "meanings": [
+        "to eat slowly"
+      ],
+      "defHint": "to eat slowly",
+      "piece": {
+        "piece_word": "ʻai",
+        "piece_def": "to eat (consume)",
+        "tier": 1,
+        "rationale": "'to eat' literally appears in 'to eat slowly'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "miki",
+      "glyphs": [
+        "m",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 4,
+      "bare": "miki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to suck in",
+      "meanings": [
+        "to suck in",
+        "to shrink, to shrivel",
+        "to contract",
+        "to recede",
+        "to pick up with the fingers",
+        "to shock (give an electric shock to)",
+        "quick, prompt",
+        "lively, nimble",
+        "active, alert",
+        "speed",
+        "alertness"
+      ],
+      "defHint": "to suck in",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻākala",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "k",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "akala",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "Hawaiian raspberry (either of two species in the genus Rubus endemic to Hawaii):",
+      "meanings": [
+        "Hawaiian raspberry (either of two species in the genus Rubus endemic to Hawaii):",
+        "Rubus hawaiensis",
+        "Rubus macraei",
+        "thimbleberry (Rubus rosaefolius)",
+        "juice of these berries, used as a dye.",
+        "pink"
+      ],
+      "defHint": "Hawaiian raspberry (either of two species in the genus Rubus endemic to Hawaii):",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kūnou",
+      "glyphs": [
+        "k",
+        "ū",
+        "n",
+        "o",
+        "u"
+      ],
+      "length": 5,
+      "bare": "kunou",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "Lānaʻi form of kūlou (“to overflow”)",
+      "meanings": [
+        "Lānaʻi form of kūlou (“to overflow”)"
+      ],
+      "defHint": "Lānaʻi form of kūlou (“to overflow”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ninaninau",
+      "glyphs": [
+        "n",
+        "i",
+        "n",
+        "a",
+        "n",
+        "i",
+        "n",
+        "a",
+        "u"
+      ],
+      "length": 9,
+      "bare": "ninaninau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to interrogate, ask questions repeatedly",
+      "meanings": [
+        "to interrogate, ask questions repeatedly",
+        "for many people to ask questions"
+      ],
+      "defHint": "to interrogate, ask questions repeatedly",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

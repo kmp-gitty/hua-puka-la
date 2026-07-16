@@ -1,0 +1,165 @@
+{
+  "weekId": "2028-W30",
+  "ordinal": 3056,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻaumakua",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "m",
+        "a",
+        "k",
+        "u",
+        "a"
+      ],
+      "length": 8,
+      "bare": "aumakua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "family god",
+      "meanings": [
+        "family god"
+      ],
+      "defHint": "family god",
+      "piece": {
+        "piece_word": "akua",
+        "piece_def": "god (deity)",
+        "tier": 1,
+        "rationale": "ʻaumakua is a family god; akua = god appears in meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pūkiawe",
+      "glyphs": [
+        "p",
+        "ū",
+        "k",
+        "i",
+        "a",
+        "w",
+        "e"
+      ],
+      "length": 7,
+      "bare": "pukiawe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "jequirity bean",
+      "meanings": [
+        "jequirity bean",
+        "A native shrub of the genus Styphelia."
+      ],
+      "defHint": "jequirity bean",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻūhili",
+      "glyphs": [
+        "ʻ",
+        "ū",
+        "h",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "uhili",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bat, club, racquet, etc.",
+      "meanings": [
+        "bat, club, racquet, etc."
+      ],
+      "defHint": "bat, club, racquet, etc.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻōnini",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "n",
+        "i",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "onini",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "slight breeze, puff of wind",
+      "meanings": [
+        "slight breeze, puff of wind",
+        "to blow softly",
+        "to gasp for breath"
+      ],
+      "defHint": "slight breeze, puff of wind",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻākoakoa",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "ā",
+        "k",
+        "o",
+        "a",
+        "k",
+        "o",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hoakoakoa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to assemble, to congregate",
+      "meanings": [
+        "to assemble, to congregate",
+        "to collect, to gather"
+      ],
+      "defHint": "to assemble, to congregate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

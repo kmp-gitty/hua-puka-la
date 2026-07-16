@@ -1,0 +1,175 @@
+{
+  "weekId": "2029-W20",
+  "ordinal": 3098,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻokina",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "k",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "okina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cutting off, separation",
+      "meanings": [
+        "cutting off, separation",
+        "okina"
+      ],
+      "defHint": "cutting off, separation",
+      "piece": {
+        "piece_word": "oki",
+        "piece_def": "to finish; to stop",
+        "tier": 1,
+        "rationale": "'oki relates to cutting off/stopping, which literally appears in the meaning cutting off, separation."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "moana",
+      "glyphs": [
+        "m",
+        "o",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "moana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "ocean, sea",
+      "meanings": [
+        "ocean, sea",
+        "broad, wide",
+        "consultation area for chiefs",
+        "campground"
+      ],
+      "defHint": "ocean, sea",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "alaloa",
+      "glyphs": [
+        "a",
+        "l",
+        "a",
+        "l",
+        "o",
+        "a"
+      ],
+      "length": 6,
+      "bare": "alaloa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "highway, beltway",
+      "meanings": [
+        "highway, beltway"
+      ],
+      "defHint": "highway, beltway",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "haole",
+      "glyphs": [
+        "h",
+        "a",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 5,
+      "bare": "haole",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "foreigner",
+      "meanings": [
+        "foreigner",
+        "Caucasian",
+        "Englishman, Englishwoman, American",
+        "foreign",
+        "Caucasian, white",
+        "English, American"
+      ],
+      "defHint": "foreigner",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokoʻokoʻo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "ʻ",
+        "o"
+      ],
+      "length": 12,
+      "bare": "hookookoo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to brace, to lean back and brace oneself",
+      "meanings": [
+        "to push",
+        "to resist",
+        "to brace, to lean back and brace oneself"
+      ],
+      "defHint": "to brace, to lean back and brace oneself",
+      "piece": {
+        "piece_word": "koʻo",
+        "piece_def": "brace; support; prop; pole (as used in pushing a canoe)",
+        "tier": 1,
+        "rationale": "'brace/prop' literally matches the word's meaning to brace and push."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

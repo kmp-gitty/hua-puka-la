@@ -1,0 +1,168 @@
+{
+  "weekId": "2027-W34",
+  "ordinal": 3008,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻomale",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "hoomale",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to wed (perform the marriage ceremony for)",
+      "meanings": [
+        "to wed (perform the marriage ceremony for)",
+        "to marry off"
+      ],
+      "defHint": "to wed (perform the marriage ceremony for)",
+      "piece": {
+        "piece_word": "male",
+        "piece_def": "to marry; wedding, matrimony",
+        "tier": 1,
+        "rationale": "male is the root meaning 'to marry/wed'; hoʻomale is causative 'to wed/marry off'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "nīnau",
+      "glyphs": [
+        "n",
+        "ī",
+        "n",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "ninau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "question",
+      "meanings": [
+        "question",
+        "to ask, inquire"
+      ],
+      "defHint": "question",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "aumoe",
+      "glyphs": [
+        "a",
+        "u",
+        "m",
+        "o",
+        "e"
+      ],
+      "length": 5,
+      "bare": "aumoe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "midnight, late night",
+      "meanings": [
+        "midnight, late night"
+      ],
+      "defHint": "midnight, late night",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mauka",
+      "glyphs": [
+        "m",
+        "a",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 5,
+      "bare": "mauka",
+      "pos": [
+        "adv"
+      ],
+      "featuredSense": "inland; upland; towards the mountains",
+      "meanings": [
+        "inland; upland; towards the mountains",
+        "shoreward (if at sea)"
+      ],
+      "defHint": "inland; upland; towards the mountains",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "mālamalama",
+      "glyphs": [
+        "m",
+        "ā",
+        "l",
+        "a",
+        "m",
+        "a",
+        "l",
+        "a",
+        "m",
+        "a"
+      ],
+      "length": 10,
+      "bare": "malamalama",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "clear, shining",
+      "meanings": [
+        "clarity",
+        "clear perception, enlightenment",
+        "clear, shining"
+      ],
+      "defHint": "clear, shining",
+      "piece": {
+        "piece_word": "lama",
+        "piece_def": "torch; light",
+        "tier": 1,
+        "rationale": "mālamalama is a reduplication of lama (light); light literally underlies the shining sense."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

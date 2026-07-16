@@ -1,0 +1,171 @@
+{
+  "weekId": "2027-W39",
+  "ordinal": 3013,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻalohi",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "o",
+        "h",
+        "i"
+      ],
+      "length": 6,
+      "bare": "alohi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to shine, glimmer or glister",
+      "meanings": [
+        "to shine, glimmer or glister",
+        "splendor, brilliancy"
+      ],
+      "defHint": "to shine, glimmer or glister",
+      "piece": {
+        "piece_word": "lohi",
+        "piece_def": "to shine",
+        "tier": 1,
+        "rationale": "The sense 'to shine' literally matches the meaning of ʻalohi."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "paina",
+      "glyphs": [
+        "p",
+        "a",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "paina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "rising, swelling, breaking (as of waves)",
+      "meanings": [
+        "rising, swelling, breaking (as of waves)"
+      ],
+      "defHint": "rising, swelling, breaking (as of waves)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kahu",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "u"
+      ],
+      "length": 4,
+      "bare": "kahu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "guardian",
+      "meanings": [
+        "guardian",
+        "master"
+      ],
+      "defHint": "guardian",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "māmā",
+      "glyphs": [
+        "m",
+        "ā",
+        "m",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "mama",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "lightness, state of little weight",
+      "meanings": [
+        "lightness, state of little weight",
+        "ease, state of low effort",
+        "nimbleness, swiftness",
+        "tempo",
+        "nimble, quick",
+        "light (of little weight)",
+        "eased"
+      ],
+      "defHint": "lightness, state of little weight",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻālapakonalima",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "l",
+        "a",
+        "p",
+        "a",
+        "k",
+        "o",
+        "n",
+        "a",
+        "l",
+        "i",
+        "m",
+        "a"
+      ],
+      "length": 14,
+      "bare": "alapakonalima",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pentathlon",
+      "meanings": [
+        "pentathlon"
+      ],
+      "defHint": "pentathlon",
+      "piece": {
+        "piece_word": "lima",
+        "piece_def": "five",
+        "tier": 1,
+        "rationale": "Pentathlon means five events; lima=five literally underlies the term."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

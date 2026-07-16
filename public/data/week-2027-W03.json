@@ -1,0 +1,162 @@
+{
+  "weekId": "2027-W03",
+  "ordinal": 2977,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻoulu",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 7,
+      "bare": "hooulu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to grow",
+      "meanings": [
+        "to grow",
+        "to stir up, incite"
+      ],
+      "defHint": "to grow",
+      "piece": {
+        "piece_word": "ulu",
+        "piece_def": "to grow",
+        "tier": 1,
+        "rationale": "'to grow' literally appears in the definition; hoʻo- is causative prefix on ulu."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "haʻa",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 4,
+      "bare": "haa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "low",
+      "meanings": [
+        "low",
+        "short",
+        "a man or animal of short stature; dwarf"
+      ],
+      "defHint": "low",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "paona",
+      "glyphs": [
+        "p",
+        "a",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "paona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pound (unit of measure)",
+      "meanings": [
+        "pound (unit of measure)"
+      ],
+      "defHint": "pound (unit of measure)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "malo",
+      "glyphs": [
+        "m",
+        "a",
+        "l",
+        "o"
+      ],
+      "length": 4,
+      "bare": "malo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "loincloth (traditionally worn by men)",
+      "meanings": [
+        "loincloth (traditionally worn by men)"
+      ],
+      "defHint": "loincloth (traditionally worn by men)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "makaaniani",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "a",
+        "n",
+        "i",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 10,
+      "bare": "makaaniani",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "eyeglasses, spectacles",
+      "meanings": [
+        "eyeglasses, spectacles"
+      ],
+      "defHint": "eyeglasses, spectacles",
+      "piece": {
+        "piece_word": "maka",
+        "piece_def": "eye (organ)",
+        "tier": 1,
+        "rationale": "Eyeglasses are literally for the eye; maka means eye."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

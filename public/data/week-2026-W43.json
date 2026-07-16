@@ -1,0 +1,164 @@
+{
+  "weekId": "2026-W43",
+  "ordinal": 2964,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻōlena",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "l",
+        "e",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "olena",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "turmeric",
+      "meanings": [
+        "turmeric"
+      ],
+      "defHint": "turmeric",
+      "piece": {
+        "piece_word": "lena",
+        "piece_def": "turmeric",
+        "tier": 1,
+        "rationale": "lena also means turmeric, matching the word's meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kauka",
+      "glyphs": [
+        "k",
+        "a",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 5,
+      "bare": "kauka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "doctor",
+      "meanings": [
+        "doctor",
+        "doctorate"
+      ],
+      "defHint": "doctor",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "luhi",
+      "glyphs": [
+        "l",
+        "u",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "luhi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "labor, work, pains, toil",
+      "meanings": [
+        "labor, work, pains, toil",
+        "burden, wearisome or tedious task",
+        "tired",
+        "tiring, laborious",
+        "tiresome, burdensome",
+        "person raised with devoted care",
+        "protégé",
+        "to care for, to attend with care and affection"
+      ],
+      "defHint": "labor, work, pains, toil",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "maʻawe",
+      "glyphs": [
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "w",
+        "e"
+      ],
+      "length": 6,
+      "bare": "maawe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "thread, fiber, strand",
+      "meanings": [
+        "thread, fiber, strand",
+        "trace, track, tread, path, line"
+      ],
+      "defHint": "thread, fiber, strand",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "lepupalika",
+      "glyphs": [
+        "l",
+        "e",
+        "p",
+        "u",
+        "p",
+        "a",
+        "l",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "lepupalika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "republic",
+      "meanings": [
+        "republic"
+      ],
+      "defHint": "republic",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

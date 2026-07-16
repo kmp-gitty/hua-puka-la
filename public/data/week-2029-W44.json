@@ -1,0 +1,168 @@
+{
+  "weekId": "2029-W44",
+  "ordinal": 3122,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻolaka",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoolaka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to tame, to domesticate",
+      "meanings": [
+        "to tame, to domesticate",
+        "to treat with kindness"
+      ],
+      "defHint": "to tame, to domesticate",
+      "piece": {
+        "piece_word": "laka",
+        "piece_def": "tame, gentle; to tame, domesticate",
+        "tier": 1,
+        "rationale": "hoʻolaka is the causative of laka; meaning 'to tame, domesticate' appears literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "heihei",
+      "glyphs": [
+        "h",
+        "e",
+        "i",
+        "h",
+        "e",
+        "i"
+      ],
+      "length": 6,
+      "bare": "heihei",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "race (test of speed)",
+      "meanings": [
+        "race (test of speed)",
+        "to race"
+      ],
+      "defHint": "race (test of speed)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "puku",
+      "glyphs": [
+        "p",
+        "u",
+        "k",
+        "u"
+      ],
+      "length": 4,
+      "bare": "puku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to collect",
+      "meanings": [
+        "to collect",
+        "to gather"
+      ],
+      "defHint": "to collect",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hāʻuke",
+      "glyphs": [
+        "h",
+        "ā",
+        "ʻ",
+        "u",
+        "k",
+        "e"
+      ],
+      "length": 6,
+      "bare": "hauke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "helmet urchin (Colobocentrotus atratus)",
+      "meanings": [
+        "helmet urchin (Colobocentrotus atratus)"
+      ],
+      "defHint": "helmet urchin (Colobocentrotus atratus)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopelapela",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "e",
+        "l",
+        "a",
+        "p",
+        "e",
+        "l",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hoopelapela",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to befoul, soil, make dirty or filthy, to pollute",
+      "meanings": [
+        "to befoul, soil, make dirty or filthy, to pollute"
+      ],
+      "defHint": "to befoul, soil, make dirty or filthy, to pollute",
+      "piece": {
+        "piece_word": "pelapela",
+        "piece_def": "filthy, dirty, nasty, unclean",
+        "tier": 1,
+        "rationale": "hoʻopelapela is the causative of pelapela (filthy/dirty); meaning directly appears."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

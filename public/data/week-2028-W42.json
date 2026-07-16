@@ -1,0 +1,157 @@
+{
+  "weekId": "2028-W42",
+  "ordinal": 3068,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pūnono",
+      "glyphs": [
+        "p",
+        "ū",
+        "n",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 6,
+      "bare": "punono",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "flushed red",
+      "meanings": [
+        "flushed red",
+        "gorgeous"
+      ],
+      "defHint": "flushed red",
+      "piece": {
+        "piece_word": "nono",
+        "piece_def": "red-faced, rosy-cheeked; sunburned",
+        "tier": 1,
+        "rationale": "nono means red-faced/rosy, directly matching 'flushed red'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "noio",
+      "glyphs": [
+        "n",
+        "o",
+        "i",
+        "o"
+      ],
+      "length": 4,
+      "bare": "noio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "lesser noddy (Anous tenuirostris)",
+      "meanings": [
+        "lesser noddy (Anous tenuirostris)"
+      ],
+      "defHint": "lesser noddy (Anous tenuirostris)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "loke",
+      "glyphs": [
+        "l",
+        "o",
+        "k",
+        "e"
+      ],
+      "length": 4,
+      "bare": "loke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "rose",
+      "meanings": [
+        "rose"
+      ],
+      "defHint": "rose",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "awa",
+      "glyphs": [
+        "a",
+        "w",
+        "a"
+      ],
+      "length": 3,
+      "bare": "awa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "channel, passage",
+      "meanings": [
+        "channel, passage",
+        "port, harbor, cove",
+        "milkfish"
+      ],
+      "defHint": "channel, passage",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻohaole",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "a",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 9,
+      "bare": "hoohaole",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act like a white person",
+      "meanings": [
+        "to act like a white person"
+      ],
+      "defHint": "to act like a white person",
+      "piece": {
+        "piece_word": "haole",
+        "piece_def": "Caucasian; white person; foreigner",
+        "tier": 1,
+        "rationale": "Core root; 'white person' literally in the definition."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

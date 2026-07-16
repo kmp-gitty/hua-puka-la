@@ -1,0 +1,170 @@
+{
+  "weekId": "2030-W10",
+  "ordinal": 3140,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻoʻino",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "ʻ",
+        "i",
+        "n",
+        "o"
+      ],
+      "length": 8,
+      "bare": "hooino",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to abuse, to insult",
+      "meanings": [
+        "to harm, to injure",
+        "to abuse, to insult"
+      ],
+      "defHint": "to abuse, to insult",
+      "piece": {
+        "piece_word": "ʻino",
+        "piece_def": "bad, wicked; hate, sin",
+        "tier": 1,
+        "rationale": "hoʻoʻino is causative of ʻino (bad/wicked), meaning to harm/abuse; core root."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻeʻeʻina",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "ʻ",
+        "e",
+        "ʻ",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "eeina",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to creak; crackle; grate, as one thing against another",
+      "meanings": [
+        "to creak; crackle; grate, as one thing against another"
+      ],
+      "defHint": "to creak; crackle; grate, as one thing against another",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mehameha",
+      "glyphs": [
+        "m",
+        "e",
+        "h",
+        "a",
+        "m",
+        "e",
+        "h",
+        "a"
+      ],
+      "length": 8,
+      "bare": "mehameha",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "loneliness, solitude",
+      "meanings": [
+        "loneliness, solitude"
+      ],
+      "defHint": "loneliness, solitude",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hoe",
+      "glyphs": [
+        "h",
+        "o",
+        "e"
+      ],
+      "length": 3,
+      "bare": "hoe",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "oar",
+      "meanings": [
+        "oar",
+        "paddle",
+        "to row, to paddle",
+        "to propel, to start",
+        "to keep working"
+      ],
+      "defHint": "oar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻaikalima",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "i",
+        "k",
+        "a",
+        "l",
+        "i",
+        "m",
+        "a"
+      ],
+      "length": 9,
+      "bare": "aikalima",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ice cream",
+      "meanings": [
+        "ice cream"
+      ],
+      "defHint": "ice cream",
+      "piece": {
+        "piece_word": "kalima",
+        "piece_def": "cream",
+        "tier": 1,
+        "rationale": "Ice cream literally contains cream; kalima means cream."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

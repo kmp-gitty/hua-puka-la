@@ -1,0 +1,173 @@
+{
+  "weekId": "2028-W41",
+  "ordinal": 3067,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻaleʻale",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "e",
+        "ʻ",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "aleale",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "ripple",
+      "meanings": [
+        "ripple",
+        "rippling, stirring",
+        "full to the brim"
+      ],
+      "defHint": "ripple",
+      "piece": {
+        "piece_word": "ʻale",
+        "piece_def": "wave, billow; to ripple, to stir; to well",
+        "tier": 1,
+        "rationale": "ʻaleʻale is a reduplication of ʻale (ripple, stir); meaning appears directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "muku",
+      "glyphs": [
+        "m",
+        "u",
+        "k",
+        "u"
+      ],
+      "length": 4,
+      "bare": "muku",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "cut short, shortened",
+      "meanings": [
+        "cut short, shortened",
+        "cut off, amputated",
+        "ended, over",
+        "short, brief",
+        "broken section of a wave, wave tip"
+      ],
+      "defHint": "cut short, shortened",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pāʻina",
+      "glyphs": [
+        "p",
+        "ā",
+        "ʻ",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "paina",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "meal",
+      "meanings": [
+        "meal",
+        "dinner",
+        "small dinner party",
+        "to eat a pāʻina"
+      ],
+      "defHint": "meal",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻonaʻona",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "n",
+        "a",
+        "ʻ",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "onaona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "dizzy",
+      "meanings": [
+        "dizzy",
+        "punch drunk"
+      ],
+      "defHint": "dizzy",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "nāhelehele",
+      "glyphs": [
+        "n",
+        "ā",
+        "h",
+        "e",
+        "l",
+        "e",
+        "h",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 10,
+      "bare": "nahelehele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "weeds, undergrowth",
+      "meanings": [
+        "weeds, undergrowth",
+        "uncultivated land, wilderness"
+      ],
+      "defHint": "weeds, undergrowth",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

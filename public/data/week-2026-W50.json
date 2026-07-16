@@ -1,0 +1,170 @@
+{
+  "weekId": "2026-W50",
+  "ordinal": 2971,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻomaha",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "h",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoomaha",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to pause, to rest",
+      "meanings": [
+        "to pause, to rest",
+        "to take a vacation",
+        "to retire",
+        "intermission, interval",
+        "rest"
+      ],
+      "defHint": "to pause, to rest",
+      "piece": {
+        "piece_word": "maha",
+        "piece_def": "rest, repose; at ease, comfortable, resting",
+        "tier": 1,
+        "rationale": "hoʻomaha is causative of maha (rest); meaning literally rest/repose."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻauinalā",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "i",
+        "n",
+        "a",
+        "l",
+        "ā"
+      ],
+      "length": 8,
+      "bare": "auinala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "afternoon (time of day when the sun is setting)",
+      "meanings": [
+        "afternoon (time of day when the sun is setting)"
+      ],
+      "defHint": "afternoon (time of day when the sun is setting)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻūheheʻe",
+      "glyphs": [
+        "ʻ",
+        "ū",
+        "h",
+        "e",
+        "h",
+        "e",
+        "ʻ",
+        "e"
+      ],
+      "length": 8,
+      "bare": "uhehee",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "solvent",
+      "meanings": [
+        "solvent"
+      ],
+      "defHint": "solvent",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻou",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "u"
+      ],
+      "length": 3,
+      "bare": "ou",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to reach out for",
+      "meanings": [
+        "to reach out for"
+      ],
+      "defHint": "to reach out for",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōpeʻapeʻa",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "e",
+        "ʻ",
+        "a",
+        "p",
+        "e",
+        "ʻ",
+        "a"
+      ],
+      "length": 10,
+      "bare": "opeapea",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Lasiurus semotus, a Hawaiian bat (endemic to the Hawaiian Islands)",
+      "meanings": [
+        "Lasiurus semotus, a Hawaiian bat (endemic to the Hawaiian Islands)"
+      ],
+      "defHint": "Lasiurus semotus, a Hawaiian bat (endemic to the Hawaiian Islands)",
+      "piece": {
+        "piece_word": "peʻa",
+        "piece_def": "bat (flying mammal)",
+        "tier": 1,
+        "rationale": "The word means a Hawaiian bat, and peʻa literally means bat."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

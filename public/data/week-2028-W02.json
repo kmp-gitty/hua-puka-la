@@ -1,0 +1,170 @@
+{
+  "weekId": "2028-W02",
+  "ordinal": 3028,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kilohi",
+      "glyphs": [
+        "k",
+        "i",
+        "l",
+        "o",
+        "h",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kilohi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to observe",
+      "meanings": [
+        "to observe"
+      ],
+      "defHint": "to observe",
+      "piece": {
+        "piece_word": "kilo",
+        "piece_def": "to watch, gaze; observer",
+        "tier": 1,
+        "rationale": "Kilo means to watch/observe, matching kilohi 'to observe'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pākeke",
+      "glyphs": [
+        "p",
+        "ā",
+        "k",
+        "e",
+        "k",
+        "e"
+      ],
+      "length": 6,
+      "bare": "pakeke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pocket",
+      "meanings": [
+        "pocket",
+        "bucket"
+      ],
+      "defHint": "pocket",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ili",
+      "glyphs": [
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 3,
+      "bare": "ili",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to run aground",
+      "meanings": [
+        "to run aground",
+        "to run over",
+        "to set",
+        "to befall",
+        "to inherit",
+        "inheritance"
+      ],
+      "defHint": "to run aground",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "puka",
+      "glyphs": [
+        "p",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "puka",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "hole, gate, doorway",
+      "meanings": [
+        "hole, gate, doorway",
+        "a snare, a trap",
+        "to pass through and out",
+        "to graduate",
+        "to be said, to be spoken, to be issued",
+        "to win, to profit, to gain"
+      ],
+      "defHint": "hole, gate, doorway",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "mokuʻāina",
+      "glyphs": [
+        "m",
+        "o",
+        "k",
+        "u",
+        "ʻ",
+        "ā",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "mokuaina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "state, district, province",
+      "meanings": [
+        "state, district, province",
+        "island"
+      ],
+      "defHint": "state, district, province",
+      "piece": {
+        "piece_word": "moku",
+        "piece_def": "an island, district, forest, section",
+        "tier": 1,
+        "rationale": "Moku means island/district, directly present in the compound's meaning of state/district and island."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

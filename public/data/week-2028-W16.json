@@ -1,0 +1,158 @@
+{
+  "weekId": "2028-W16",
+  "ordinal": 3042,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻoneo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "e",
+        "o"
+      ],
+      "length": 7,
+      "bare": "hooneo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lay waste, to devastate",
+      "meanings": [
+        "to lay waste, to devastate",
+        "to make destitute"
+      ],
+      "defHint": "to lay waste, to devastate",
+      "piece": {
+        "piece_word": "neo",
+        "piece_def": "bare, desolate; nothing",
+        "tier": 1,
+        "rationale": "hoʻo- causative prefix on neo (desolate); to make desolate matches lay waste/devastate."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lemu",
+      "glyphs": [
+        "l",
+        "e",
+        "m",
+        "u"
+      ],
+      "length": 4,
+      "bare": "lemu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "buttocks (politer than ʻōkole)",
+      "meanings": [
+        "buttocks (politer than ʻōkole)",
+        "slow-moving, sluggish",
+        "lagging"
+      ],
+      "defHint": "buttocks (politer than ʻōkole)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mōhā",
+      "glyphs": [
+        "m",
+        "ō",
+        "h",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "moha",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "fully developed",
+      "meanings": [
+        "fully developed"
+      ],
+      "defHint": "fully developed",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hōʻā",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "hoa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to burn, set on fire, ignite, alight",
+      "meanings": [
+        "to burn, set on fire, ignite, alight",
+        "to drive, herd (animals, fish)",
+        "to talk a lot, chatter, blabber",
+        "to be talkative"
+      ],
+      "defHint": "to burn, set on fire, ignite, alight",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "paikikala",
+      "glyphs": [
+        "p",
+        "a",
+        "i",
+        "k",
+        "i",
+        "k",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 9,
+      "bare": "paikikala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bicycle",
+      "meanings": [
+        "bicycle"
+      ],
+      "defHint": "bicycle",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

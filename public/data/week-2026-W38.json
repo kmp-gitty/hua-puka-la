@@ -1,0 +1,164 @@
+{
+  "weekId": "2026-W38",
+  "ordinal": 2959,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "paʻikiʻi",
+      "glyphs": [
+        "p",
+        "a",
+        "ʻ",
+        "i",
+        "k",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "paikii",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "photograph",
+      "meanings": [
+        "photograph"
+      ],
+      "defHint": "photograph",
+      "piece": {
+        "piece_word": "kiʻi",
+        "piece_def": "a picture, image",
+        "tier": 1,
+        "rationale": "A photograph is a kind of picture/image, so kiʻi literally relates to the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoʻomaka",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoomaka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to begin, start",
+      "meanings": [
+        "to begin, start"
+      ],
+      "defHint": "to begin, start",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "manawa",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "a",
+        "w",
+        "a"
+      ],
+      "length": 6,
+      "bare": "manawa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "affections, feelings, disposition",
+      "meanings": [
+        "affections, feelings, disposition",
+        "heart (seat of emotions)",
+        "time, turn",
+        "chronology"
+      ],
+      "defHint": "affections, feelings, disposition",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kaula",
+      "glyphs": [
+        "k",
+        "a",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 5,
+      "bare": "kaula",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "rope, cord, string",
+      "meanings": [
+        "rope, cord, string",
+        "arc of a circle"
+      ],
+      "defHint": "rope, cord, string",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻauipaʻewa",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "i",
+        "p",
+        "a",
+        "ʻ",
+        "e",
+        "w",
+        "a"
+      ],
+      "length": 10,
+      "bare": "auipaewa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "dative case",
+      "meanings": [
+        "dative case"
+      ],
+      "defHint": "dative case",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

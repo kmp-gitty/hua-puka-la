@@ -1,0 +1,165 @@
+{
+  "weekId": "2027-W04",
+  "ordinal": 2978,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pauaho",
+      "glyphs": [
+        "p",
+        "a",
+        "u",
+        "a",
+        "h",
+        "o"
+      ],
+      "length": 6,
+      "bare": "pauaho",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "out of breath, winded",
+      "meanings": [
+        "out of breath, winded",
+        "faint of heart, discouraged"
+      ],
+      "defHint": "out of breath, winded",
+      "piece": {
+        "piece_word": "aho",
+        "piece_def": "breath; to breathe",
+        "tier": 1,
+        "rationale": "'aho' means breath, literally present in 'out of breath'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "luna",
+      "glyphs": [
+        "l",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "luna",
+      "pos": [
+        "noun",
+        "prep"
+      ],
+      "featuredSense": "top, upper",
+      "meanings": [
+        "top, upper",
+        "above, atop, on, in",
+        "boss, overseer, foreman, supervisor",
+        "any kind of official",
+        "chief piece in the game of kōnane"
+      ],
+      "defHint": "top, upper",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mālolo",
+      "glyphs": [
+        "m",
+        "ā",
+        "l",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 6,
+      "bare": "malolo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "flying fish",
+      "meanings": [
+        "flying fish",
+        "fickle person who leaps from mate to mate"
+      ],
+      "defHint": "flying fish",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "tumu",
+      "glyphs": [
+        "t",
+        "u",
+        "m",
+        "u"
+      ],
+      "length": 4,
+      "bare": "tumu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Niʻihau form of kumu (“parent”)",
+      "meanings": [
+        "Niʻihau form of kumu (“parent”)"
+      ],
+      "defHint": "Niʻihau form of kumu (“parent”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "mākolukolu",
+      "glyphs": [
+        "m",
+        "ā",
+        "k",
+        "o",
+        "l",
+        "u",
+        "k",
+        "o",
+        "l",
+        "u"
+      ],
+      "length": 10,
+      "bare": "makolukolu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "chubby",
+      "meanings": [
+        "chubby"
+      ],
+      "defHint": "chubby",
+      "piece": {
+        "piece_word": "mākolu",
+        "piece_def": "thick",
+        "tier": 2,
+        "rationale": "'Thick' relates to 'chubby'; mākolukolu is a reduplication of mākolu."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

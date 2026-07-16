@@ -1,0 +1,162 @@
+{
+  "weekId": "2030-W17",
+  "ordinal": 3147,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lawaiʻa",
+      "glyphs": [
+        "l",
+        "a",
+        "w",
+        "a",
+        "i",
+        "ʻ",
+        "a"
+      ],
+      "length": 7,
+      "bare": "lawaia",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "fisherman (person who attempts to catch fish)",
+      "meanings": [
+        "fisherman (person who attempts to catch fish)",
+        "fishing (sport of catching fish)",
+        "cormorant (bird)",
+        "to fish, to go fishing (to catch fish)"
+      ],
+      "defHint": "fisherman (person who attempts to catch fish)",
+      "piece": {
+        "piece_word": "iʻa",
+        "piece_def": "fish (vertebrate animal)",
+        "tier": 1,
+        "rationale": "Fish literally central to fisherman/fishing; iʻa is the fish root in lawaiʻa."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "naʻokoko",
+      "glyphs": [
+        "n",
+        "a",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "k",
+        "o"
+      ],
+      "length": 8,
+      "bare": "naokoko",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cholesterol",
+      "meanings": [
+        "cholesterol"
+      ],
+      "defHint": "cholesterol",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kokomo",
+      "glyphs": [
+        "k",
+        "o",
+        "k",
+        "o",
+        "m",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kokomo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to penetrate",
+      "meanings": [
+        "to penetrate"
+      ],
+      "defHint": "to penetrate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻuala",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 5,
+      "bare": "uala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sweet potato",
+      "meanings": [
+        "sweet potato"
+      ],
+      "defHint": "sweet potato",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kipikelia",
+      "glyphs": [
+        "k",
+        "i",
+        "p",
+        "i",
+        "k",
+        "e",
+        "l",
+        "i",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kipikelia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "diphtheria",
+      "meanings": [
+        "diphtheria"
+      ],
+      "defHint": "diphtheria",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

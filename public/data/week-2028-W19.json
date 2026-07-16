@@ -1,0 +1,169 @@
+{
+  "weekId": "2028-W19",
+  "ordinal": 3045,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kāholo",
+      "glyphs": [
+        "k",
+        "ā",
+        "h",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kaholo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to move quickly, to progress rapidly",
+      "meanings": [
+        "swift, quick",
+        "to move quickly, to progress rapidly"
+      ],
+      "defHint": "to move quickly, to progress rapidly",
+      "piece": {
+        "piece_word": "holo",
+        "piece_def": "to go, run, progress; gallop",
+        "tier": 1,
+        "rationale": "Holo (to run/progress) literally underlies kāholo's meaning of moving quickly/progressing rapidly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "malino",
+      "glyphs": [
+        "m",
+        "a",
+        "l",
+        "i",
+        "n",
+        "o"
+      ],
+      "length": 6,
+      "bare": "malino",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "calm, peaceful, quiet",
+      "meanings": [
+        "calm, peaceful, quiet",
+        "smooth, unwrinkled"
+      ],
+      "defHint": "calm, peaceful, quiet",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kuahine",
+      "glyphs": [
+        "k",
+        "u",
+        "a",
+        "h",
+        "i",
+        "n",
+        "e"
+      ],
+      "length": 7,
+      "bare": "kuahine",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "term of address for the sister or female cousin of a male",
+      "meanings": [
+        "term of address for the sister or female cousin of a male"
+      ],
+      "defHint": "term of address for the sister or female cousin of a male",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻalalā",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "a",
+        "l",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "alala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Hawaiian crow (Corvus hawaiiensis)",
+      "meanings": [
+        "Hawaiian crow (Corvus hawaiiensis)",
+        "azure (color/colour)"
+      ],
+      "defHint": "Hawaiian crow (Corvus hawaiiensis)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻāinapuniʻole",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "i",
+        "n",
+        "a",
+        "p",
+        "u",
+        "n",
+        "i",
+        "ʻ",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 13,
+      "bare": "ainapuniole",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "continent",
+      "meanings": [
+        "continent"
+      ],
+      "defHint": "continent",
+      "piece": {
+        "piece_word": "ʻāina",
+        "piece_def": "land (earth; country)",
+        "tier": 1,
+        "rationale": "A continent is a large landmass; ʻāina (land) is the core element."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

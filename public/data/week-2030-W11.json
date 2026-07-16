@@ -1,0 +1,163 @@
+{
+  "weekId": "2030-W11",
+  "ordinal": 3141,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "limahana",
+      "glyphs": [
+        "l",
+        "i",
+        "m",
+        "a",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "limahana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "labor",
+      "meanings": [
+        "worker, employee",
+        "labor"
+      ],
+      "defHint": "labor",
+      "piece": {
+        "piece_word": "hana",
+        "piece_def": "work, labor, job, employment",
+        "tier": 1,
+        "rationale": "Lima (hand) + hana (work) = worker/labor; work appears literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "maile",
+      "glyphs": [
+        "m",
+        "a",
+        "i",
+        "l",
+        "e"
+      ],
+      "length": 5,
+      "bare": "maile",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "maile",
+      "meanings": [
+        "maile"
+      ],
+      "defHint": null,
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ulukū",
+      "glyphs": [
+        "u",
+        "l",
+        "u",
+        "k",
+        "ū"
+      ],
+      "length": 5,
+      "bare": "uluku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "disturbed, upset",
+      "meanings": [
+        "disturbed, upset",
+        "restless, agitated"
+      ],
+      "defHint": "disturbed, upset",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "luʻu",
+      "glyphs": [
+        "l",
+        "u",
+        "ʻ",
+        "u"
+      ],
+      "length": 4,
+      "bare": "luu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to dive, plunge or dip onself, to immerse",
+      "meanings": [
+        "to dive, plunge or dip onself, to immerse",
+        "to duck i.e. to lower one's head or body out of sight or under water"
+      ],
+      "defHint": "to dive, plunge or dip onself, to immerse",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻālohilohi",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "l",
+        "o",
+        "h",
+        "i",
+        "l",
+        "o",
+        "h",
+        "i"
+      ],
+      "length": 10,
+      "bare": "alohilohi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "radiant, shining",
+      "meanings": [
+        "radiant, shining"
+      ],
+      "defHint": "radiant, shining",
+      "piece": {
+        "piece_word": "lohi",
+        "piece_def": "to shine",
+        "tier": 1,
+        "rationale": "ʻālohilohi is reduplication of lohi (to shine); meaning literally shining."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,167 @@
+{
+  "weekId": "2028-W12",
+  "ordinal": 3038,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻomanō",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "n",
+        "ō"
+      ],
+      "length": 8,
+      "bare": "hoomano",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act like a shark",
+      "meanings": [
+        "to act like a shark",
+        "to eat ravenously",
+        "to pursue women"
+      ],
+      "defHint": "to act like a shark",
+      "piece": {
+        "piece_word": "manō",
+        "piece_def": "shark",
+        "tier": 1,
+        "rationale": "Shark appears literally; hoʻo- causative of manō means to act like a shark."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mauna",
+      "glyphs": [
+        "m",
+        "a",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "mauna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mountain",
+      "meanings": [
+        "mountain"
+      ],
+      "defHint": "mountain",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "meʻe",
+      "glyphs": [
+        "m",
+        "e",
+        "ʻ",
+        "e"
+      ],
+      "length": 4,
+      "bare": "mee",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "hero",
+      "meanings": [
+        "hero"
+      ],
+      "defHint": "hero",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻawapuhi",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "w",
+        "a",
+        "p",
+        "u",
+        "h",
+        "i"
+      ],
+      "length": 8,
+      "bare": "awapuhi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Shampoo ginger, Zingiber zerumbet",
+      "meanings": [
+        "Shampoo ginger, Zingiber zerumbet"
+      ],
+      "defHint": "Shampoo ginger, Zingiber zerumbet",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopumehana",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "u",
+        "m",
+        "e",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hoopumehana",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to warm (up), to heat",
+      "meanings": [
+        "to warm (up), to heat"
+      ],
+      "defHint": "to warm (up), to heat",
+      "piece": {
+        "piece_word": "pumehana",
+        "piece_def": "warm; warmth",
+        "tier": 1,
+        "rationale": "pumehana means warm; hoʻopumehana is causative 'to warm up', literally warming."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

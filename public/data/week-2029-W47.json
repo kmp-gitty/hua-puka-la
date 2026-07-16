@@ -1,0 +1,165 @@
+{
+  "weekId": "2029-W47",
+  "ordinal": 3125,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ahupuaʻa",
+      "glyphs": [
+        "a",
+        "h",
+        "u",
+        "p",
+        "u",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "ahupuaa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a wedge-shaped land subdivision of ancient Hawaii which extended from the mountains to the sea",
+      "meanings": [
+        "a wedge-shaped land subdivision of ancient Hawaii which extended from the mountains to the sea"
+      ],
+      "defHint": "a wedge-shaped land subdivision of ancient Hawaii which extended from the mountains to the sea",
+      "piece": {
+        "piece_word": "ahu",
+        "piece_def": "heap, pile, mound; cairn, altar",
+        "tier": 1,
+        "rationale": "Ahupuaʻa named for the ahu (altar/cairn) marking its boundary, on which a pig image was placed"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "puaʻa",
+      "glyphs": [
+        "p",
+        "u",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 5,
+      "bare": "puaa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pig, hog, swine",
+      "meanings": [
+        "pig, hog, swine",
+        "pork",
+        "a general name for any introduced quadruped",
+        "banks of fog or clouds, often as gathered over a mountain summit, a sign of rain and believed to be the cloud forms of Kamapuaʻa"
+      ],
+      "defHint": "pig, hog, swine",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hano",
+      "glyphs": [
+        "h",
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 4,
+      "bare": "hano",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "glorious, honored",
+      "meanings": [
+        "glorious, honored"
+      ],
+      "defHint": "glorious, honored",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kāwili",
+      "glyphs": [
+        "k",
+        "ā",
+        "w",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kawili",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to snare",
+      "meanings": [
+        "to snare"
+      ],
+      "defHint": "to snare",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopōhaku",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "ō",
+        "h",
+        "a",
+        "k",
+        "u"
+      ],
+      "length": 10,
+      "bare": "hoopohaku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to harden, to petrify",
+      "meanings": [
+        "to harden, to petrify",
+        "to remain long in one place, to stay at home"
+      ],
+      "defHint": "to harden, to petrify",
+      "piece": {
+        "piece_word": "pōhaku",
+        "piece_def": "stone, rock, mineral",
+        "tier": 1,
+        "rationale": "Root pōhaku (stone) underlies hoʻopōhaku, to petrify/turn to stone."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

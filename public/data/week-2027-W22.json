@@ -1,0 +1,161 @@
+{
+  "weekId": "2027-W22",
+  "ordinal": 2996,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lonoā",
+      "glyphs": [
+        "l",
+        "o",
+        "n",
+        "o",
+        "ā"
+      ],
+      "length": 5,
+      "bare": "lonoa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "rumor",
+      "meanings": [
+        "rumor"
+      ],
+      "defHint": "rumor",
+      "piece": {
+        "piece_word": "lono",
+        "piece_def": "news, report, rumor",
+        "tier": 1,
+        "rationale": "'lono' literally means rumor, which is the definition of lonoā."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "male",
+      "glyphs": [
+        "m",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 4,
+      "bare": "male",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "phlegm (mucus from the lungs or throat)",
+      "meanings": [
+        "phlegm (mucus from the lungs or throat)",
+        "to marry",
+        "wedding, matrimony"
+      ],
+      "defHint": "phlegm (mucus from the lungs or throat)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "akua",
+      "glyphs": [
+        "a",
+        "k",
+        "u",
+        "a"
+      ],
+      "length": 4,
+      "bare": "akua",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "god (deity)",
+      "meanings": [
+        "god (deity)",
+        "any supernatural being, spirit, ghost, devil",
+        "image, idol",
+        "divine",
+        "supernatural"
+      ],
+      "defHint": "god (deity)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ipu",
+      "glyphs": [
+        "i",
+        "p",
+        "u"
+      ],
+      "length": 3,
+      "bare": "ipu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bottle gourd (Lagenaria siceraria)",
+      "meanings": [
+        "bottle gourd (Lagenaria siceraria)",
+        "watermelon (Citrullus lanatus)",
+        "any vessel or container (such as a dish, bowl, pot, calabash, cup, mug, urn, basin, or pipe)",
+        "type of drum (made of a single gourd or made of two large gourds of unequal size joined together)",
+        "crown (of a hat)"
+      ],
+      "defHint": "bottle gourd (Lagenaria siceraria)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻalakenika",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "a",
+        "k",
+        "e",
+        "n",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "alakenika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "arsenic (chemical element)",
+      "meanings": [
+        "arsenic (chemical element)"
+      ],
+      "defHint": "arsenic (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

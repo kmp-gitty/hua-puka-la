@@ -1,0 +1,171 @@
+{
+  "weekId": "2029-W25",
+  "ordinal": 3103,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kuaʻāina",
+      "glyphs": [
+        "k",
+        "u",
+        "a",
+        "ʻ",
+        "ā",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kuaaina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "countryside, country (contrasted with \"city\"), backwoods",
+      "meanings": [
+        "countryside, country (contrasted with \"city\"), backwoods",
+        "rustic (a person from the country)",
+        "rustic, country, rural"
+      ],
+      "defHint": "countryside, country (contrasted with \"city\"), backwoods",
+      "piece": {
+        "piece_word": "ʻāina",
+        "piece_def": "land (earth; country)",
+        "tier": 1,
+        "rationale": "ʻāina (land/country) directly appears in the countryside/country meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "poina",
+      "glyphs": [
+        "p",
+        "o",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "poina",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to forget",
+      "meanings": [
+        "to forget",
+        "forgotten; forgettable"
+      ],
+      "defHint": "to forget",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pule",
+      "glyphs": [
+        "p",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 4,
+      "bare": "pule",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "prayer, spell, blessing",
+      "meanings": [
+        "prayer, spell, blessing",
+        "church service",
+        "week",
+        "to pray",
+        "to worship",
+        "speckled"
+      ],
+      "defHint": "prayer, spell, blessing",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ulu",
+      "glyphs": [
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 3,
+      "bare": "ulu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "growth",
+      "meanings": [
+        "growth",
+        "grove",
+        "flock",
+        "to grow",
+        "to inspire; to be possessed by a god"
+      ],
+      "defHint": "growth",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻohāliu",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "ā",
+        "l",
+        "i",
+        "u"
+      ],
+      "length": 9,
+      "bare": "hoohaliu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "to cause to turn",
+      "meanings": [
+        "to cause to turn"
+      ],
+      "defHint": "to cause to turn",
+      "piece": {
+        "piece_word": "hāliu",
+        "piece_def": "to turn; to hearken to, to regard",
+        "tier": 1,
+        "rationale": "hoʻohāliu is the causative of hāliu; 'to turn' literally appears in the definition."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

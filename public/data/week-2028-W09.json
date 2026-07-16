@@ -1,0 +1,179 @@
+{
+  "weekId": "2028-W09",
+  "ordinal": 3035,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hauhau",
+      "glyphs": [
+        "h",
+        "a",
+        "u",
+        "h",
+        "a",
+        "u"
+      ],
+      "length": 6,
+      "bare": "hauhau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "cold (as food)",
+      "meanings": [
+        "cold (as food)",
+        "bad odor"
+      ],
+      "defHint": "cold (as food)",
+      "piece": {
+        "piece_word": "hau",
+        "piece_def": "cool, cold; ice, snow, frost",
+        "tier": 1,
+        "rationale": "hauhau is a reduplication of hau (cold); cold literally appears in the sense."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kīkī",
+      "glyphs": [
+        "k",
+        "ī",
+        "k",
+        "ī"
+      ],
+      "length": 4,
+      "bare": "kiki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to shoot",
+      "meanings": [
+        "to shoot",
+        "to spout",
+        "A bird resembling the plover."
+      ],
+      "defHint": "to shoot",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "papa",
+      "glyphs": [
+        "p",
+        "a",
+        "p",
+        "a"
+      ],
+      "length": 4,
+      "bare": "papa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "board, lumber",
+      "meanings": [
+        "board, lumber",
+        "flat surface, layer",
+        "foundation",
+        "storey (of a building), floor",
+        "table, shelf",
+        "face (of a clock)",
+        "wooden",
+        "two-dimensional",
+        "native-born",
+        "in unison",
+        "set close together",
+        "wafer",
+        "list, directory",
+        "class (in school)"
+      ],
+      "defHint": "board, lumber",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kikiki",
+      "glyphs": [
+        "k",
+        "i",
+        "k",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kikiki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ticket",
+      "meanings": [
+        "ticket"
+      ],
+      "defHint": "ticket",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomaʻamaʻa",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "m",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hoomaamaa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to practice, to train, to drill",
+      "meanings": [
+        "to practice, to train, to drill"
+      ],
+      "defHint": "to practice, to train, to drill",
+      "piece": {
+        "piece_word": "maʻa",
+        "piece_def": "accustomed, familiar, experienced",
+        "tier": 2,
+        "rationale": "Practicing/drilling leads to becoming accustomed and experienced; hoʻo- causative of maʻa."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

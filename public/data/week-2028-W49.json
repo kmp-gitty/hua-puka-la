@@ -1,0 +1,169 @@
+{
+  "weekId": "2028-W49",
+  "ordinal": 3075,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻehaʻeha",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "h",
+        "a",
+        "ʻ",
+        "e",
+        "h",
+        "a"
+      ],
+      "length": 8,
+      "bare": "ehaeha",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "extreme pain, agony",
+      "meanings": [
+        "extreme pain, agony",
+        "many small pains"
+      ],
+      "defHint": "extreme pain, agony",
+      "piece": {
+        "piece_word": "ʻeha",
+        "piece_def": "pain; ache; soreness",
+        "tier": 1,
+        "rationale": "ʻehaʻeha is the reduplication of ʻeha (pain), literally meaning intense/repeated pain"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ākala",
+      "glyphs": [
+        "ā",
+        "k",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 5,
+      "bare": "akala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pink",
+      "meanings": [
+        "pink"
+      ],
+      "defHint": "pink",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mikomiko",
+      "glyphs": [
+        "m",
+        "i",
+        "k",
+        "o",
+        "m",
+        "i",
+        "k",
+        "o"
+      ],
+      "length": 8,
+      "bare": "mikomiko",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "lightly salted",
+      "meanings": [
+        "lightly salted",
+        "delicious",
+        "entertaining, instructive",
+        "garnish"
+      ],
+      "defHint": "lightly salted",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mīka",
+      "glyphs": [
+        "m",
+        "ī",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "mika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "meter (unit of measure)",
+      "meanings": [
+        "meter (unit of measure)"
+      ],
+      "defHint": "meter (unit of measure)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "anamanaʻo",
+      "glyphs": [
+        "a",
+        "n",
+        "a",
+        "m",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 9,
+      "bare": "anamanao",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "survey, poll",
+      "meanings": [
+        "survey, poll",
+        "to survey, to poll"
+      ],
+      "defHint": "survey, poll",
+      "piece": {
+        "piece_word": "ana",
+        "piece_def": "measurement; dimension",
+        "tier": 2,
+        "rationale": "'ana' as measurement relates to surveying/measuring in a poll."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

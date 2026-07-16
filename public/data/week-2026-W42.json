@@ -1,0 +1,166 @@
+{
+  "weekId": "2026-W42",
+  "ordinal": 2963,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻonuha",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "u",
+        "h",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoonuha",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to sulk; to cause to sulk",
+      "meanings": [
+        "to sulk; to cause to sulk"
+      ],
+      "defHint": "to sulk; to cause to sulk",
+      "piece": {
+        "piece_word": "nuha",
+        "piece_def": "stubborn, sulky, peevish",
+        "tier": 1,
+        "rationale": "hoʻonuha is the causative of nuha (sulky); sulk appears literally in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻauwai",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 6,
+      "bare": "auwai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ditch",
+      "meanings": [
+        "ditch"
+      ],
+      "defHint": "ditch",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "olo",
+      "glyphs": [
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 3,
+      "bare": "olo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to rub back and forth, to grate",
+      "meanings": [
+        "to rub back and forth, to grate",
+        "to saw"
+      ],
+      "defHint": "to rub back and forth, to grate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "huʻahuʻa",
+      "glyphs": [
+        "h",
+        "u",
+        "ʻ",
+        "a",
+        "h",
+        "u",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "huahua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "foam, froth",
+      "meanings": [
+        "foam, froth"
+      ],
+      "defHint": "foam, froth",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "waihoʻoluʻu",
+      "glyphs": [
+        "w",
+        "a",
+        "i",
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "u",
+        "ʻ",
+        "u"
+      ],
+      "length": 11,
+      "bare": "waihooluu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "dye, colorant to submerge fabrics in",
+      "meanings": [
+        "dye, colorant to submerge fabrics in",
+        "color"
+      ],
+      "defHint": "dye, colorant to submerge fabrics in",
+      "piece": {
+        "piece_word": "hoʻoluʻu",
+        "piece_def": "to plunge or dip something in liquids, dyes, solutions",
+        "tier": 1,
+        "rationale": "Directly denotes dipping in dye, matching the dye/colorant meaning literally."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

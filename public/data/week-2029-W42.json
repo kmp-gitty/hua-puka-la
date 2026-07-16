@@ -1,0 +1,164 @@
+{
+  "weekId": "2029-W42",
+  "ordinal": 3120,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻahaʻaha",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "h",
+        "a",
+        "ʻ",
+        "a",
+        "h",
+        "a"
+      ],
+      "length": 8,
+      "bare": "ahaaha",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "cordage",
+      "meanings": [
+        "cordage",
+        "young of the needlefish",
+        "to sit in a haughty manner (arms akimbo, back stiff, head up)",
+        "to sit cross-legged",
+        "to stand with hands on hips"
+      ],
+      "defHint": "cordage",
+      "piece": {
+        "piece_word": "ʻaha",
+        "piece_def": "sennit (coconut husk fiber); cord of braided sennit",
+        "tier": 1,
+        "rationale": "'ʻaha' means cordage/sennit which is exactly sense [0] cordage"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "papekiko",
+      "glyphs": [
+        "p",
+        "a",
+        "p",
+        "e",
+        "k",
+        "i",
+        "k",
+        "o"
+      ],
+      "length": 8,
+      "bare": "papekiko",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to baptize",
+      "meanings": [
+        "to baptize",
+        "baptismal"
+      ],
+      "defHint": "to baptize",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ula",
+      "glyphs": [
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 3,
+      "bare": "ula",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "spiny lobster",
+      "meanings": [
+        "spiny lobster"
+      ],
+      "defHint": "spiny lobster",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻawe",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "w",
+        "e"
+      ],
+      "length": 4,
+      "bare": "awe",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to carry",
+      "meanings": [
+        "to carry",
+        "carriage, pack, knapsack",
+        "tentacle"
+      ],
+      "defHint": "to carry",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kamepiula",
+      "glyphs": [
+        "k",
+        "a",
+        "m",
+        "e",
+        "p",
+        "i",
+        "u",
+        "l",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kamepiula",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "computer",
+      "meanings": [
+        "computer"
+      ],
+      "defHint": "computer",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

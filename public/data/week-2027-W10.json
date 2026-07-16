@@ -1,0 +1,166 @@
+{
+  "weekId": "2027-W10",
+  "ordinal": 2984,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kainui",
+      "glyphs": [
+        "k",
+        "a",
+        "i",
+        "n",
+        "u",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kainui",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "\"the great ocean\"",
+      "meanings": [
+        "high tide",
+        "\"the great ocean\"",
+        "tsunami"
+      ],
+      "defHint": "\"the great ocean\"",
+      "piece": {
+        "piece_word": "nui",
+        "piece_def": "big, great, abundant",
+        "tier": 1,
+        "rationale": "'nui' means great, matching 'the great ocean' and 'high/great tide'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hēkī",
+      "glyphs": [
+        "h",
+        "ē",
+        "k",
+        "ī"
+      ],
+      "length": 4,
+      "bare": "heki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "jet",
+      "meanings": [
+        "jet"
+      ],
+      "defHint": "jet",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻawaʻawa",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "w",
+        "a",
+        "ʻ",
+        "a",
+        "w",
+        "a"
+      ],
+      "length": 8,
+      "bare": "awaawa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sourness, acidity",
+      "meanings": [
+        "sourness, acidity",
+        "bitterness",
+        "anguish, tragedy"
+      ],
+      "defHint": "sourness, acidity",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lama",
+      "glyphs": [
+        "l",
+        "a",
+        "m",
+        "a"
+      ],
+      "length": 4,
+      "bare": "lama",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "torch",
+      "meanings": [
+        "torch",
+        "light"
+      ],
+      "defHint": "torch",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopaʻahao",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "a",
+        "ʻ",
+        "a",
+        "h",
+        "a",
+        "o"
+      ],
+      "length": 11,
+      "bare": "hoopaahao",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to imprison, to take prisoner",
+      "meanings": [
+        "to imprison, to take prisoner"
+      ],
+      "defHint": "to imprison, to take prisoner",
+      "piece": {
+        "piece_word": "paʻahao",
+        "piece_def": "prisoner; imprisoned",
+        "tier": 1,
+        "rationale": "Core root; the word means to imprison/take prisoner."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

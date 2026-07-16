@@ -1,0 +1,183 @@
+{
+  "weekId": "2027-W47",
+  "ordinal": 3021,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nalowale",
+      "glyphs": [
+        "n",
+        "a",
+        "l",
+        "o",
+        "w",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "nalowale",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "lost, gone",
+      "meanings": [
+        "lost, gone",
+        "to disappear"
+      ],
+      "defHint": "lost, gone",
+      "piece": {
+        "piece_word": "nalo",
+        "piece_def": "lost, missing; vanished",
+        "tier": 1,
+        "rationale": "nalo means lost/vanished, directly matching nalowale's meaning of lost/disappear."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pākuʻi",
+      "glyphs": [
+        "p",
+        "ā",
+        "k",
+        "u",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "pakui",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to add on, to append, to annex",
+      "meanings": [
+        "to add on, to append, to annex",
+        "to graft",
+        "additional",
+        "supplement",
+        "annex, extension",
+        "graft",
+        "affix",
+        "to beat",
+        "to oppress",
+        "heavily scented"
+      ],
+      "defHint": "to add on, to append, to annex",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ianakama",
+      "glyphs": [
+        "i",
+        "a",
+        "n",
+        "a",
+        "k",
+        "a",
+        "m",
+        "a"
+      ],
+      "length": 8,
+      "bare": "ianakama",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ginseng (any plant of two species of the genus Panax (Panax ginseng and Panax quinquefolius))",
+      "meanings": [
+        "ginseng (any plant of two species of the genus Panax (Panax ginseng and Panax quinquefolius))"
+      ],
+      "defHint": "ginseng (any plant of two species of the genus Panax (Panax ginseng and Panax quinquefolius))",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kahikolu",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "i",
+        "k",
+        "o",
+        "l",
+        "u"
+      ],
+      "length": 8,
+      "bare": "kahikolu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "three-in-one",
+      "meanings": [
+        "three-in-one"
+      ],
+      "defHint": "three-in-one",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻohanohano",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "a",
+        "n",
+        "o",
+        "h",
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 12,
+      "bare": "hoohanohano",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to honor, to glorify",
+      "meanings": [
+        "to honor, to glorify",
+        "to conduct oneself with distinction",
+        "honorary"
+      ],
+      "defHint": "to honor, to glorify",
+      "piece": {
+        "piece_word": "hano",
+        "piece_def": "glorious, honored",
+        "tier": 1,
+        "rationale": "Root meaning honored/glorious appears directly in 'to honor, to glorify'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

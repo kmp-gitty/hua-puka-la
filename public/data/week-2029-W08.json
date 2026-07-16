@@ -1,0 +1,180 @@
+{
+  "weekId": "2029-W08",
+  "ordinal": 3086,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kīkoʻo",
+      "glyphs": [
+        "k",
+        "ī",
+        "k",
+        "o",
+        "ʻ",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kikoo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to shoot from a bow",
+      "meanings": [
+        "to stretch out, to extend",
+        "to step in order to reach",
+        "to span (measure with the thumb and forefinger)",
+        "to shoot from a bow",
+        "to disburse (pay out money)",
+        "to withdraw (take out money)",
+        "span (unit of measure)",
+        "span, extent",
+        "a bent bow",
+        "arc"
+      ],
+      "defHint": "to shoot from a bow",
+      "piece": {
+        "piece_word": "kī",
+        "piece_def": "to shoot; to aim",
+        "tier": 1,
+        "rationale": "'To shoot' literally appears in the sense 'to shoot from a bow'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lelemu",
+      "glyphs": [
+        "l",
+        "e",
+        "l",
+        "e",
+        "m",
+        "u"
+      ],
+      "length": 6,
+      "bare": "lelemu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "sluggish, disinclined to get up",
+      "meanings": [
+        "sluggish, disinclined to get up",
+        "slowpoke"
+      ],
+      "defHint": "sluggish, disinclined to get up",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoomata",
+      "glyphs": [
+        "h",
+        "o",
+        "o",
+        "m",
+        "a",
+        "t",
+        "a"
+      ],
+      "length": 7,
+      "bare": "hoomata",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "Niʻihau form of hoʻomaka (“to start”)",
+      "meanings": [
+        "Niʻihau form of hoʻomaka (“to start”)"
+      ],
+      "defHint": "Niʻihau form of hoʻomaka (“to start”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ikaika",
+      "glyphs": [
+        "i",
+        "k",
+        "a",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "ikaika",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "strength",
+      "meanings": [
+        "strength",
+        "to become strong",
+        "to be strong"
+      ],
+      "defHint": "strength",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokolohe",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "o",
+        "l",
+        "o",
+        "h",
+        "e"
+      ],
+      "length": 10,
+      "bare": "hookolohe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to make mischief, to play pranks",
+      "meanings": [
+        "to make mischief, to play pranks",
+        "to disturb, to annoy",
+        "funny, humorous"
+      ],
+      "defHint": "to make mischief, to play pranks",
+      "piece": {
+        "piece_word": "kolohe",
+        "piece_def": "mischievous, naughty; to misbehave",
+        "tier": 1,
+        "rationale": "hoʻokolohe is causative of kolohe; mischief literally central to meaning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

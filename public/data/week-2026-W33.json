@@ -1,0 +1,171 @@
+{
+  "weekId": "2026-W33",
+  "ordinal": 2954,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hulihuli",
+      "glyphs": [
+        "h",
+        "u",
+        "l",
+        "i",
+        "h",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 8,
+      "bare": "hulihuli",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to turn repeatedly, to revolve",
+      "meanings": [
+        "to turn repeatedly, to revolve",
+        "to search repeatedly",
+        "to revise, to scrutinize (of documents)"
+      ],
+      "defHint": "to turn repeatedly, to revolve",
+      "piece": {
+        "piece_word": "huli",
+        "piece_def": "to turn; to seek, to search",
+        "tier": 1,
+        "rationale": "hulihuli is the reduplication of huli; its meanings turn/search appear directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "makamae",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "m",
+        "a",
+        "e"
+      ],
+      "length": 7,
+      "bare": "makamae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "precious",
+      "meanings": [
+        "precious"
+      ],
+      "defHint": "precious",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻole",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 4,
+      "bare": "ole",
+      "pos": [
+        "noun",
+        "num",
+        "verb"
+      ],
+      "featuredSense": "not, without, lacking",
+      "meanings": [
+        "not, without, lacking",
+        "to deny",
+        "zero, nothing, nought, negative",
+        "nothingness",
+        "zero"
+      ],
+      "defHint": "not, without, lacking",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lānahu",
+      "glyphs": [
+        "l",
+        "ā",
+        "n",
+        "a",
+        "h",
+        "u"
+      ],
+      "length": 6,
+      "bare": "lanahu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "coal, charcoal",
+      "meanings": [
+        "coal, charcoal"
+      ],
+      "defHint": "coal, charcoal",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōmaʻimaʻi",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "m",
+        "a",
+        "ʻ",
+        "i",
+        "m",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 10,
+      "bare": "omaimai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "chronically ill",
+      "meanings": [
+        "chronically ill"
+      ],
+      "defHint": "chronically ill",
+      "piece": {
+        "piece_word": "maʻi",
+        "piece_def": "sick, ill; sickness, illness, disease",
+        "tier": 1,
+        "rationale": "Reduplication of maʻi (sick) yields 'chronically ill'; illness literally in definition."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

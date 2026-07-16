@@ -1,0 +1,175 @@
+{
+  "weekId": "2027-W32",
+  "ordinal": 3006,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "aniani",
+      "glyphs": [
+        "a",
+        "n",
+        "i",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "aniani",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to blow softly",
+      "meanings": [
+        "state of clarity, transparency",
+        "glass, mirror",
+        "clear, transparent",
+        "obvious",
+        "to be cool, to be refreshing",
+        "to blow softly"
+      ],
+      "defHint": "to blow softly",
+      "piece": {
+        "piece_word": "ani",
+        "piece_def": "to blow softly (as a breeze)",
+        "tier": 1,
+        "rationale": "aniani is reduplication of ani; 'to blow softly' literally matches sense [5]."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pāhoehoe",
+      "glyphs": [
+        "p",
+        "ā",
+        "h",
+        "o",
+        "e",
+        "h",
+        "o",
+        "e"
+      ],
+      "length": 8,
+      "bare": "pahoehoe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pahoehoe (a kind of lava)",
+      "meanings": [
+        "pahoehoe (a kind of lava)"
+      ],
+      "defHint": "— (a kind of lava)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ala",
+      "glyphs": [
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 3,
+      "bare": "ala",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "way, path, road",
+      "meanings": [
+        "way, path, road",
+        "to waken",
+        "awake",
+        "to arise, rise up"
+      ],
+      "defHint": "way, path, road",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "maka",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "maka",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "eye (organ)",
+      "meanings": [
+        "eye (organ)",
+        "face",
+        "bud",
+        "beloved one",
+        "mesh of a net",
+        "raw (undercooked)"
+      ],
+      "defHint": "eye (organ)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pūʻoheʻohe",
+      "glyphs": [
+        "p",
+        "ū",
+        "ʻ",
+        "o",
+        "h",
+        "e",
+        "ʻ",
+        "o",
+        "h",
+        "e"
+      ],
+      "length": 10,
+      "bare": "puoheohe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Job's tears",
+      "meanings": [
+        "Job's tears"
+      ],
+      "defHint": "Job's tears",
+      "piece": {
+        "piece_word": "pū",
+        "piece_def": "cluster of several stalks; cluster, clump",
+        "tier": 2,
+        "rationale": "Job's tears is a grassy plant growing in clumps/clusters of stalks, matching pū."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

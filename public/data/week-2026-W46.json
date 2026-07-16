@@ -1,0 +1,170 @@
+{
+  "weekId": "2026-W46",
+  "ordinal": 2967,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "okaoka",
+      "glyphs": [
+        "o",
+        "k",
+        "a",
+        "o",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "okaoka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bits, particles",
+      "meanings": [
+        "bits, particles"
+      ],
+      "defHint": "bits, particles",
+      "piece": {
+        "piece_word": "oka",
+        "piece_def": "crumbs, small bits",
+        "tier": 1,
+        "rationale": "okaoka is a reduplication of oka; small bits literally matches the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kaʻokaʻo",
+      "glyphs": [
+        "k",
+        "a",
+        "ʻ",
+        "o",
+        "k",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 8,
+      "bare": "kaokao",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "high, lofty",
+      "meanings": [
+        "high, lofty",
+        "prominent",
+        "conceited",
+        "hard, arid"
+      ],
+      "defHint": "high, lofty",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "nīkiʻi",
+      "glyphs": [
+        "n",
+        "ī",
+        "k",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "nikii",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to tie, to bind",
+      "meanings": [
+        "to tie, to bind"
+      ],
+      "defHint": "to tie, to bind",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lumi",
+      "glyphs": [
+        "l",
+        "u",
+        "m",
+        "i"
+      ],
+      "length": 4,
+      "bare": "lumi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to crowd uncomfortably",
+      "meanings": [
+        "to crowd uncomfortably",
+        "to overturn",
+        "to press",
+        "to pound",
+        "room (division in a building)"
+      ],
+      "defHint": "to crowd uncomfortably",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pūnaewele",
+      "glyphs": [
+        "p",
+        "ū",
+        "n",
+        "a",
+        "e",
+        "w",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 9,
+      "bare": "punaewele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "network",
+      "meanings": [
+        "network",
+        "internet"
+      ],
+      "defHint": "network",
+      "piece": {
+        "piece_word": "pū",
+        "piece_def": "cluster, clump; together",
+        "tier": 2,
+        "rationale": "A network is a clustering/joining together, matching pū's sense of cluster/together."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

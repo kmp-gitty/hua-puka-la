@@ -1,0 +1,166 @@
+{
+  "weekId": "2026-W39",
+  "ordinal": 2960,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "punipuni",
+      "glyphs": [
+        "p",
+        "u",
+        "n",
+        "i",
+        "p",
+        "u",
+        "n",
+        "i"
+      ],
+      "length": 8,
+      "bare": "punipuni",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lie (tell falsehoods)",
+      "meanings": [
+        "to lie (tell falsehoods)"
+      ],
+      "defHint": "to lie (tell falsehoods)",
+      "piece": {
+        "piece_word": "puni",
+        "piece_def": "deceived, deluded",
+        "tier": 1,
+        "rationale": "punipuni is reduplication of puni (deceived); deception relates directly to lying."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻaho",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "h",
+        "o"
+      ],
+      "length": 4,
+      "bare": "aho",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "thatch purlin and rafter",
+      "meanings": [
+        "thatch purlin and rafter"
+      ],
+      "defHint": "thatch purlin and rafter",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lāʻau",
+      "glyphs": [
+        "l",
+        "ā",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "laau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "tree, wood",
+      "meanings": [
+        "tree, wood",
+        "medicine",
+        "wooden",
+        "medical"
+      ],
+      "defHint": "tree, wood",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "waiūtepe",
+      "glyphs": [
+        "w",
+        "a",
+        "i",
+        "ū",
+        "t",
+        "e",
+        "p",
+        "e"
+      ],
+      "length": 8,
+      "bare": "waiutepe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "yogurt",
+      "meanings": [
+        "yogurt"
+      ],
+      "defHint": "yogurt",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "āhinahina",
+      "glyphs": [
+        "ā",
+        "h",
+        "i",
+        "n",
+        "a",
+        "h",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "ahinahina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "grey (color)",
+      "meanings": [
+        "grey (color)"
+      ],
+      "defHint": "grey (color)",
+      "piece": {
+        "piece_word": "hina",
+        "piece_def": "gray hair",
+        "tier": 2,
+        "rationale": "Reduplicated base hina (gray) forms āhinahina meaning grey."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

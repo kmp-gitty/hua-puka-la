@@ -1,0 +1,166 @@
+{
+  "weekId": "2027-W49",
+  "ordinal": 3023,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kahaone",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "a",
+        "o",
+        "n",
+        "e"
+      ],
+      "length": 7,
+      "bare": "kahaone",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a beach covered with sand",
+      "meanings": [
+        "a beach covered with sand"
+      ],
+      "defHint": "a beach covered with sand",
+      "piece": {
+        "piece_word": "one",
+        "piece_def": "sand; silt",
+        "tier": 1,
+        "rationale": "'One' (sand) literally appears in the definition 'covered with sand'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kaikaina",
+      "glyphs": [
+        "k",
+        "a",
+        "i",
+        "k",
+        "a",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kaikaina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a younger sibling",
+      "meanings": [
+        "a younger sibling"
+      ],
+      "defHint": "a younger sibling",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kīwila",
+      "glyphs": [
+        "k",
+        "ī",
+        "w",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kiwila",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "civilian",
+      "meanings": [
+        "civilian",
+        "to be civil, civic"
+      ],
+      "defHint": "civilian",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "one",
+      "glyphs": [
+        "o",
+        "n",
+        "e"
+      ],
+      "length": 3,
+      "bare": "one",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sand",
+      "meanings": [
+        "sand",
+        "silt"
+      ],
+      "defHint": "sand",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kūʻonoʻono",
+      "glyphs": [
+        "k",
+        "ū",
+        "ʻ",
+        "o",
+        "n",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 10,
+      "bare": "kuonoono",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "well-off, well-supplied",
+      "meanings": [
+        "well-off, well-supplied",
+        "wealthy, well-to-do"
+      ],
+      "defHint": "well-off, well-supplied",
+      "piece": {
+        "piece_word": "kū",
+        "piece_def": "to establish, to stand firm",
+        "tier": 2,
+        "rationale": "kū conveys stability/being established, relating to being well-off and secure."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,170 @@
+{
+  "weekId": "2027-W12",
+  "ordinal": 2986,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "inumia",
+      "glyphs": [
+        "i",
+        "n",
+        "u",
+        "m",
+        "i",
+        "a"
+      ],
+      "length": 6,
+      "bare": "inumia",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to drink",
+      "meanings": [
+        "to drink"
+      ],
+      "defHint": "to drink",
+      "piece": {
+        "piece_word": "inu",
+        "piece_def": "to drink",
+        "tier": 1,
+        "rationale": "'inu' means to drink, which literally appears in the definition of inumia."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "paʻakīkī",
+      "glyphs": [
+        "p",
+        "a",
+        "ʻ",
+        "a",
+        "k",
+        "ī",
+        "k",
+        "ī"
+      ],
+      "length": 8,
+      "bare": "paakiki",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "hard, difficult",
+      "meanings": [
+        "hard, difficult"
+      ],
+      "defHint": "hard, difficult",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kālā",
+      "glyphs": [
+        "k",
+        "ā",
+        "l",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "kala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "dollar",
+      "meanings": [
+        "dollar",
+        "money"
+      ],
+      "defHint": "dollar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kūkaeuli",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "a",
+        "e",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 8,
+      "bare": "kukaeuli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ink excreted by an octopus in order to escape",
+      "meanings": [
+        "ink excreted by an octopus in order to escape",
+        "prostitute"
+      ],
+      "defHint": "ink excreted by an octopus in order to escape",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomākaʻukaʻu",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "ā",
+        "k",
+        "a",
+        "ʻ",
+        "u",
+        "k",
+        "a",
+        "ʻ",
+        "u"
+      ],
+      "length": 14,
+      "bare": "hoomakaukau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to frighten",
+      "meanings": [
+        "to frighten"
+      ],
+      "defHint": "to frighten",
+      "piece": {
+        "piece_word": "mākaʻukaʻu",
+        "piece_def": "frightened, afraid",
+        "tier": 1,
+        "rationale": "Root of the causative; hoʻo- + mākaʻukaʻu means to cause fear, literally matching 'to frighten'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

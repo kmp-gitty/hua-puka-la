@@ -1,0 +1,170 @@
+{
+  "weekId": "2028-W20",
+  "ordinal": 3046,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mōhāhā",
+      "glyphs": [
+        "m",
+        "ō",
+        "h",
+        "ā",
+        "h",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "mohaha",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "fully developed",
+      "meanings": [
+        "fully developed",
+        "bright"
+      ],
+      "defHint": "fully developed",
+      "piece": {
+        "piece_word": "mōhā",
+        "piece_def": "fully developed",
+        "tier": 1,
+        "rationale": "mōhā means 'fully developed', matching sense [0] literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ano",
+      "glyphs": [
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 3,
+      "bare": "ano",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "awe, reverence, peacefulness, sacredness, holiness",
+      "meanings": [
+        "awe, reverence, peacefulness, sacredness, holiness",
+        "feeling of awe, fear, or oppression",
+        "weird solitude, oppressive quiet",
+        "awestruck, lost in thought"
+      ],
+      "defHint": "awe, reverence, peacefulness, sacredness, holiness",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoʻohana",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoohana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to use",
+      "meanings": [
+        "to use",
+        "to employ",
+        "use, usage",
+        "employment",
+        "to tease, to provoke"
+      ],
+      "defHint": "to use",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lika",
+      "glyphs": [
+        "l",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "lika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "liter (unit of measure)",
+      "meanings": [
+        "liter (unit of measure)"
+      ],
+      "defHint": "liter (unit of measure)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻohaʻalulu",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "a",
+        "ʻ",
+        "a",
+        "l",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 12,
+      "bare": "hoohaalulu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to cause to shake",
+      "meanings": [
+        "to cause to shake"
+      ],
+      "defHint": "to cause to shake",
+      "piece": {
+        "piece_word": "haʻalulu",
+        "piece_def": "to cause to shake",
+        "tier": 1,
+        "rationale": "Root word with hoʻo- causative prefix; identical meaning."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

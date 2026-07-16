@@ -1,0 +1,162 @@
+{
+  "weekId": "2029-W17",
+  "ordinal": 3095,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻāhewa",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "h",
+        "e",
+        "w",
+        "a"
+      ],
+      "length": 6,
+      "bare": "ahewa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to blame, to reproach",
+      "meanings": [
+        "to condemn, to convict",
+        "to blame, to reproach",
+        "condemnation, censure",
+        "conviction"
+      ],
+      "defHint": "to blame, to reproach",
+      "piece": {
+        "piece_word": "hewa",
+        "piece_def": "fault, guilt; wrong",
+        "tier": 1,
+        "rationale": "To blame/reproach relates directly to fault/wrong; hewa is the root of ʻāhewa."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "polomine",
+      "glyphs": [
+        "p",
+        "o",
+        "l",
+        "o",
+        "m",
+        "i",
+        "n",
+        "e"
+      ],
+      "length": 8,
+      "bare": "polomine",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "bromine (chemical element)",
+      "meanings": [
+        "bromine (chemical element)"
+      ],
+      "defHint": "bromine (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "silikone",
+      "glyphs": [
+        "s",
+        "i",
+        "l",
+        "i",
+        "k",
+        "o",
+        "n",
+        "e"
+      ],
+      "length": 8,
+      "bare": "silikone",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "silicon (chemical element)",
+      "meanings": [
+        "silicon (chemical element)"
+      ],
+      "defHint": "silicon (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "piwa",
+      "glyphs": [
+        "p",
+        "i",
+        "w",
+        "a"
+      ],
+      "length": 4,
+      "bare": "piwa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fever",
+      "meanings": [
+        "fever"
+      ],
+      "defHint": "fever",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kamaʻilio",
+      "glyphs": [
+        "k",
+        "a",
+        "m",
+        "a",
+        "ʻ",
+        "i",
+        "l",
+        "i",
+        "o"
+      ],
+      "length": 9,
+      "bare": "kamailio",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to talk, converse",
+      "meanings": [
+        "to talk, converse"
+      ],
+      "defHint": "to talk, converse",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,166 @@
+{
+  "weekId": "2026-W49",
+  "ordinal": 2970,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "paʻakai",
+      "glyphs": [
+        "p",
+        "a",
+        "ʻ",
+        "a",
+        "k",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "paakai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "salt",
+      "meanings": [
+        "salt"
+      ],
+      "defHint": "salt",
+      "piece": {
+        "piece_word": "kai",
+        "piece_def": "sea; salt water",
+        "tier": 1,
+        "rationale": "Salt is paʻa (hardened) kai (sea water); salt literally derives from sea water."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kāki",
+      "glyphs": [
+        "k",
+        "ā",
+        "k",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kaki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "charge, bill",
+      "meanings": [
+        "charge, bill",
+        "to charge"
+      ],
+      "defHint": "charge, bill",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoʻopae",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "a",
+        "e"
+      ],
+      "length": 7,
+      "bare": "hoopae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to cluster, to form a row of",
+      "meanings": [
+        "to cluster, to form a row of",
+        "to build up (an embankment)"
+      ],
+      "defHint": "to cluster, to form a row of",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "makau",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "makau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fishhook",
+      "meanings": [
+        "fishhook"
+      ],
+      "defHint": "fishhook",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōmalumalu",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "m",
+        "a",
+        "l",
+        "u",
+        "m",
+        "a",
+        "l",
+        "u"
+      ],
+      "length": 10,
+      "bare": "omalumalu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to be cloudy",
+      "meanings": [
+        "to be cloudy",
+        "cloud cover, cloudiness"
+      ],
+      "defHint": "to be cloudy",
+      "piece": {
+        "piece_word": "malu",
+        "piece_def": "shade; shelter, protection",
+        "tier": 2,
+        "rationale": "Reduplicated malumalu relates to shade/overcast; clouds provide shade, plausible hint."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

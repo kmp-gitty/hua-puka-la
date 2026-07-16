@@ -1,0 +1,169 @@
+{
+  "weekId": "2028-W01",
+  "ordinal": 3027,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nakulu",
+      "glyphs": [
+        "n",
+        "a",
+        "k",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 6,
+      "bare": "nakulu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "dripping",
+      "meanings": [
+        "dripping",
+        "rumbling, grumbling",
+        "to patter, to clatter",
+        "to circulate"
+      ],
+      "defHint": "dripping",
+      "piece": {
+        "piece_word": "kulu",
+        "piece_def": "a drop",
+        "tier": 1,
+        "rationale": "kulu means 'a drop', matching the 'dripping' sense of nakulu."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kalaina",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "a",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 7,
+      "bare": "kalaina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "carving",
+      "meanings": [
+        "carving",
+        "hewing"
+      ],
+      "defHint": "carving",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kāhili",
+      "glyphs": [
+        "k",
+        "ā",
+        "h",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kahili",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "feather standard mounted on a pole, as traditionally used in Hawaii on ceremonial occasions",
+      "meanings": [
+        "feather standard mounted on a pole, as traditionally used in Hawaii on ceremonial occasions",
+        "crape myrtle (Lagerstroemia indica), an ornamental plant from Asia",
+        "Hedychium gardnerianum, plant related to ginger native to the Himalayas but widely grown and invasive elsewhere in warm climates",
+        "to brush, to sweep",
+        "to switch"
+      ],
+      "defHint": "feather standard mounted on a pole, as traditionally used in Hawaii on ceremonial occasions",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kūionoko",
+      "glyphs": [
+        "k",
+        "ū",
+        "i",
+        "o",
+        "n",
+        "o",
+        "k",
+        "o"
+      ],
+      "length": 8,
+      "bare": "kuionoko",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "dugong",
+      "meanings": [
+        "dugong"
+      ],
+      "defHint": "dugong",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻailakele",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "i",
+        "l",
+        "a",
+        "k",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 9,
+      "bare": "ailakele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fat",
+      "meanings": [
+        "fat"
+      ],
+      "defHint": "fat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

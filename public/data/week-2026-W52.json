@@ -1,0 +1,161 @@
+{
+  "weekId": "2026-W52",
+  "ordinal": 2973,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kuahao",
+      "glyphs": [
+        "k",
+        "u",
+        "a",
+        "h",
+        "a",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kuahao",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "anvil, heavy iron block as work surface in blacksmithing",
+      "meanings": [
+        "anvil, heavy iron block as work surface in blacksmithing"
+      ],
+      "defHint": "anvil, heavy iron block as work surface in blacksmithing",
+      "piece": {
+        "piece_word": "hao",
+        "piece_def": "iron; general name for metal tools",
+        "tier": 1,
+        "rationale": "Anvil is a heavy iron block; iron literally appears in the definition"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "neʻe",
+      "glyphs": [
+        "n",
+        "e",
+        "ʻ",
+        "e"
+      ],
+      "length": 4,
+      "bare": "nee",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to creep, to move gradually",
+      "meanings": [
+        "to creep, to move gradually",
+        "to squirm"
+      ],
+      "defHint": "to creep, to move gradually",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lauoho",
+      "glyphs": [
+        "l",
+        "a",
+        "u",
+        "o",
+        "h",
+        "o"
+      ],
+      "length": 6,
+      "bare": "lauoho",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "hair (of human head)",
+      "meanings": [
+        "hair (of human head)"
+      ],
+      "defHint": "hair (of human head)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "like",
+      "glyphs": [
+        "l",
+        "i",
+        "k",
+        "e"
+      ],
+      "length": 4,
+      "bare": "like",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "like, alike, similar",
+      "meanings": [
+        "like, alike, similar"
+      ],
+      "defHint": "—, alike, similar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomālielie",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "ā",
+        "l",
+        "i",
+        "e",
+        "l",
+        "i",
+        "e"
+      ],
+      "length": 12,
+      "bare": "hoomalielie",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to comfort, to soothe",
+      "meanings": [
+        "to comfort, to soothe"
+      ],
+      "defHint": "to comfort, to soothe",
+      "piece": {
+        "piece_word": "hoʻomālie",
+        "piece_def": "to soothe, to ease",
+        "tier": 1,
+        "rationale": "Nearly identical form meaning to soothe, matching definition literally."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

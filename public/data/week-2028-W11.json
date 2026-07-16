@@ -1,0 +1,161 @@
+{
+  "weekId": "2028-W11",
+  "ordinal": 3037,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻopoe",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "o",
+        "e"
+      ],
+      "length": 7,
+      "bare": "hoopoe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to form into a round shape",
+      "meanings": [
+        "to form into a round shape"
+      ],
+      "defHint": "to form into a round shape",
+      "piece": {
+        "piece_word": "poe",
+        "piece_def": "round, rounded",
+        "tier": 1,
+        "rationale": "hoʻopoe means to form into a round shape; poe means round."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻōnaha",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "n",
+        "a",
+        "h",
+        "a"
+      ],
+      "length": 6,
+      "bare": "onaha",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "stooped, bent over",
+      "meanings": [
+        "stooped, bent over",
+        "bowlegged; pigeon-toed",
+        "bent, curved",
+        "crescent-shaped"
+      ],
+      "defHint": "stooped, bent over",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kokuli",
+      "glyphs": [
+        "k",
+        "o",
+        "k",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kokuli",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "earwax",
+      "meanings": [
+        "earwax"
+      ],
+      "defHint": "earwax",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hoehoe",
+      "glyphs": [
+        "h",
+        "o",
+        "e",
+        "h",
+        "o",
+        "e"
+      ],
+      "length": 6,
+      "bare": "hoehoe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to paddle a canoe",
+      "meanings": [
+        "to paddle a canoe"
+      ],
+      "defHint": "to paddle a canoe",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hāloliʻili",
+      "glyphs": [
+        "h",
+        "ā",
+        "l",
+        "o",
+        "l",
+        "i",
+        "ʻ",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 10,
+      "bare": "haloliili",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "idle, useless, lazy",
+      "meanings": [
+        "idle, useless, lazy"
+      ],
+      "defHint": "idle, useless, lazy",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,163 @@
+{
+  "weekId": "2029-W45",
+  "ordinal": 3123,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "alawai",
+      "glyphs": [
+        "a",
+        "l",
+        "a",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 6,
+      "bare": "alawai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "channel",
+      "meanings": [
+        "channel",
+        "canal"
+      ],
+      "defHint": "channel",
+      "piece": {
+        "piece_word": "awa",
+        "piece_def": "channel, passage; port, harbor, cove",
+        "tier": 1,
+        "rationale": "Channel/passage literally matches the definition of alawai"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kou",
+      "glyphs": [
+        "k",
+        "o",
+        "u"
+      ],
+      "length": 3,
+      "bare": "kou",
+      "pos": [
+        "det",
+        "noun"
+      ],
+      "featuredSense": "your second person singular, o-type",
+      "meanings": [
+        "your second person singular, o-type",
+        "A tree of species Cordia subcordata, with wood highly valued for woodworking."
+      ],
+      "defHint": "your second person singular, o-type",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "polū",
+      "glyphs": [
+        "p",
+        "o",
+        "l",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "polu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "blue (color)",
+      "meanings": [
+        "blue (color)"
+      ],
+      "defHint": "blue (color)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "haʻaheo",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "a",
+        "h",
+        "e",
+        "o"
+      ],
+      "length": 7,
+      "bare": "haaheo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to cherish with pride",
+      "meanings": [
+        "to cherish with pride",
+        "to strut, to be haughty",
+        "pride, vanity"
+      ],
+      "defHint": "to cherish with pride",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kahuapaʻa",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "u",
+        "a",
+        "p",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kahuapaa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "website; web page",
+      "meanings": [
+        "website; web page"
+      ],
+      "defHint": "website; web page",
+      "piece": {
+        "piece_word": "paʻa",
+        "piece_def": "solid; firm, fast, permanent",
+        "tier": 2,
+        "rationale": "kahua paʻa suggests a fixed/established site (page), relating to the web page sense."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,175 @@
+{
+  "weekId": "2027-W50",
+  "ordinal": 3024,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lokoʻino",
+      "glyphs": [
+        "l",
+        "o",
+        "k",
+        "o",
+        "ʻ",
+        "i",
+        "n",
+        "o"
+      ],
+      "length": 8,
+      "bare": "lokoino",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to act vilely, to deal malevolently, to exhibit a bad disposition",
+      "meanings": [
+        "an evil disposition, a lack of kindness",
+        "to act vilely, to deal malevolently, to exhibit a bad disposition",
+        "careless, slothful",
+        "unmerciful, unkind, ungenerous"
+      ],
+      "defHint": "to act vilely, to deal malevolently, to exhibit a bad disposition",
+      "piece": {
+        "piece_word": "ʻino",
+        "piece_def": "bad, wicked; foul, rotten",
+        "tier": 1,
+        "rationale": "lokoʻino = loko (disposition/inside) + ʻino (bad); bad literally appears in the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mikanele",
+      "glyphs": [
+        "m",
+        "i",
+        "k",
+        "a",
+        "n",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "mikanele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "missionary",
+      "meanings": [
+        "missionary"
+      ],
+      "defHint": "missionary",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻiʻoʻiʻo",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "ʻ",
+        "o",
+        "ʻ",
+        "i",
+        "ʻ",
+        "o"
+      ],
+      "length": 8,
+      "bare": "ioio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "clitoris",
+      "meanings": [
+        "clitoris"
+      ],
+      "defHint": "clitoris",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lole",
+      "glyphs": [
+        "l",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 4,
+      "bare": "lole",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to unfold, reverse",
+      "meanings": [
+        "to unfold, reverse",
+        "to skin, flay",
+        "to wear clothes",
+        "cloth, fabric",
+        "clothes",
+        "dress, gown"
+      ],
+      "defHint": "to unfold, reverse",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "huliāmahi",
+      "glyphs": [
+        "h",
+        "u",
+        "l",
+        "i",
+        "ā",
+        "m",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 9,
+      "bare": "huliamahi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to cooperate, act in unanimity (in great numbers)",
+      "meanings": [
+        "to cooperate, act in unanimity (in great numbers)",
+        "strong as the sea",
+        "full of water",
+        "to overflow",
+        "cooperation"
+      ],
+      "defHint": "to cooperate, act in unanimity (in great numbers)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

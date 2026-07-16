@@ -1,0 +1,178 @@
+{
+  "weekId": "2029-W34",
+  "ordinal": 3112,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kinopaʻa",
+      "glyphs": [
+        "k",
+        "i",
+        "n",
+        "o",
+        "p",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "kinopaa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "solid (as opposed to a gas or liquid)",
+      "meanings": [
+        "solid (as opposed to a gas or liquid)",
+        "solid",
+        "terrestrial, rocky"
+      ],
+      "defHint": "solid (as opposed to a gas or liquid)",
+      "piece": {
+        "piece_word": "paʻa",
+        "piece_def": "solid; firm, fast, permanent",
+        "tier": 1,
+        "rationale": "paʻa means solid/firm, which literally appears in the word's definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "huʻihuʻi",
+      "glyphs": [
+        "h",
+        "u",
+        "ʻ",
+        "i",
+        "h",
+        "u",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "huihui",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "cold",
+      "meanings": [
+        "cold"
+      ],
+      "defHint": "cold",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "paniinoa",
+      "glyphs": [
+        "p",
+        "a",
+        "n",
+        "i",
+        "i",
+        "n",
+        "o",
+        "a"
+      ],
+      "length": 8,
+      "bare": "paniinoa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pronoun",
+      "meanings": [
+        "pronoun"
+      ],
+      "defHint": "pronoun",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "makahiki",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "h",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 8,
+      "bare": "makahiki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a year",
+      "meanings": [
+        "a year",
+        "a four-month festival in ancient Hawai'i which lasted from approximately October to February, during which time there were sports and religious activities and war was taboo"
+      ],
+      "defHint": "a year",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "mākaʻikaʻi",
+      "glyphs": [
+        "m",
+        "ā",
+        "k",
+        "a",
+        "ʻ",
+        "i",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 10,
+      "bare": "makaikai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to stroll, to take a walk",
+      "meanings": [
+        "to visit, to sight-see, to go on a tour",
+        "to stroll, to take a walk",
+        "to browse",
+        "spectator, sightseer, tourist"
+      ],
+      "defHint": "to stroll, to take a walk",
+      "piece": {
+        "piece_word": "kaʻi",
+        "piece_def": "to lead; to walk, procession",
+        "tier": 2,
+        "rationale": "kaʻi (to lead/move along) relates to strolling and touring, the reduplicated base of mākaʻikaʻi"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

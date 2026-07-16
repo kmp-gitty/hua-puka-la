@@ -1,0 +1,161 @@
+{
+  "weekId": "2029-W46",
+  "ordinal": 3124,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pāpapa",
+      "glyphs": [
+        "p",
+        "ā",
+        "p",
+        "a",
+        "p",
+        "a"
+      ],
+      "length": 6,
+      "bare": "papapa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "low, flat",
+      "meanings": [
+        "bean",
+        "low, flat"
+      ],
+      "defHint": "low, flat",
+      "piece": {
+        "piece_word": "papa",
+        "piece_def": "flat surface, layer",
+        "tier": 1,
+        "rationale": "Papa means flat surface, matching the 'low, flat' sense of pāpapa."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hiʻu",
+      "glyphs": [
+        "h",
+        "i",
+        "ʻ",
+        "u"
+      ],
+      "length": 4,
+      "bare": "hiu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fish tail",
+      "meanings": [
+        "fish tail"
+      ],
+      "defHint": "fish tail",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kōʻala",
+      "glyphs": [
+        "k",
+        "ō",
+        "ʻ",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "koala",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "grill",
+      "meanings": [
+        "grill",
+        "to grill, to barbecue",
+        "fast, quickly"
+      ],
+      "defHint": "grill",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kūkini",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "i",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kukini",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a runner, swift messenger, as employed by old chiefs, with a premium on their speed",
+      "meanings": [
+        "a runner, swift messenger, as employed by old chiefs, with a premium on their speed",
+        "cushion"
+      ],
+      "defHint": "a runner, swift messenger, as employed by old chiefs, with a premium on their speed",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻakaʻakai",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "a",
+        "ʻ",
+        "a",
+        "k",
+        "a",
+        "i"
+      ],
+      "length": 9,
+      "bare": "akaakai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "A slender grass once used for thatching houses in Hawaii (Schoenoplectus tabernaemontani)",
+      "meanings": [
+        "A slender grass once used for thatching houses in Hawaii (Schoenoplectus tabernaemontani)",
+        "onion (Allium cepa)"
+      ],
+      "defHint": "A slender grass once used for thatching houses in Hawaii (Schoenoplectus tabernaemontani)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

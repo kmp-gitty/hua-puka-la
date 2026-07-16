@@ -1,0 +1,162 @@
+{
+  "weekId": "2027-W51",
+  "ordinal": 3025,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "uluwehi",
+      "glyphs": [
+        "u",
+        "l",
+        "u",
+        "w",
+        "e",
+        "h",
+        "i"
+      ],
+      "length": 7,
+      "bare": "uluwehi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "lush growth",
+      "meanings": [
+        "lush growth"
+      ],
+      "defHint": "lush growth",
+      "piece": {
+        "piece_word": "ulu",
+        "piece_def": "growth; to grow",
+        "tier": 1,
+        "rationale": "'ulu' means growth, which literally appears in 'lush growth'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kope",
+      "glyphs": [
+        "k",
+        "o",
+        "p",
+        "e"
+      ],
+      "length": 4,
+      "bare": "kope",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "coffee",
+      "meanings": [
+        "coffee"
+      ],
+      "defHint": "coffee",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "nika",
+      "glyphs": [
+        "n",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 4,
+      "bare": "nika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "nigger",
+      "meanings": [
+        "nigger"
+      ],
+      "defHint": "nigger",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻamaʻama",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "m",
+        "a",
+        "ʻ",
+        "a",
+        "m",
+        "a"
+      ],
+      "length": 8,
+      "bare": "amaama",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "flathead mullet (Mugil cephalus)",
+      "meanings": [
+        "flathead mullet (Mugil cephalus)"
+      ],
+      "defHint": "flathead mullet (Mugil cephalus)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomakua",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "a",
+        "k",
+        "u",
+        "a"
+      ],
+      "length": 9,
+      "bare": "hoomakua",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to act as parent; to foster, to adopt",
+      "meanings": [
+        "to mature",
+        "to act as parent; to foster, to adopt",
+        "to treat as a parent, to address as a parent"
+      ],
+      "defHint": "to act as parent; to foster, to adopt",
+      "piece": {
+        "piece_word": "makua",
+        "piece_def": "parent",
+        "tier": 1,
+        "rationale": "makua means parent; the word literally means to act as/treat as a parent."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

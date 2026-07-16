@@ -1,0 +1,166 @@
+{
+  "weekId": "2027-W52",
+  "ordinal": 3026,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻopihi",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "p",
+        "i",
+        "h",
+        "i"
+      ],
+      "length": 6,
+      "bare": "opihi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "button",
+      "meanings": [
+        "limpet",
+        "button"
+      ],
+      "defHint": "button",
+      "piece": {
+        "piece_word": "pihi",
+        "piece_def": "button, badge, any fastened object",
+        "tier": 1,
+        "rationale": "Button meaning literally matches sense [1] of ʻopihi."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hoʻōnea",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "ō",
+        "n",
+        "e",
+        "a"
+      ],
+      "length": 7,
+      "bare": "hoonea",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to desolate",
+      "meanings": [
+        "to desolate"
+      ],
+      "defHint": "to desolate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pueo",
+      "glyphs": [
+        "p",
+        "u",
+        "e",
+        "o"
+      ],
+      "length": 4,
+      "bare": "pueo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "Hawaiian owl (Asio flammeus sandwichiensis)",
+      "meanings": [
+        "Hawaiian owl (Asio flammeus sandwichiensis)",
+        "short"
+      ],
+      "defHint": "Hawaiian owl (Asio flammeus sandwichiensis)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kuke",
+      "glyphs": [
+        "k",
+        "u",
+        "k",
+        "e"
+      ],
+      "length": 4,
+      "bare": "kuke",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to cook",
+      "meanings": [
+        "to cook",
+        "cook",
+        "to nudge, push"
+      ],
+      "defHint": "to cook",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "makanahele",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "n",
+        "a",
+        "h",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 10,
+      "bare": "makanahele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "forest, wilderness",
+      "meanings": [
+        "wild, untamed",
+        "forest, wilderness"
+      ],
+      "defHint": "forest, wilderness",
+      "piece": {
+        "piece_word": "nahele",
+        "piece_def": "forest, bush; vegetation",
+        "tier": 1,
+        "rationale": "nahele means forest/wilderness, literally matching sense of makanahele."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

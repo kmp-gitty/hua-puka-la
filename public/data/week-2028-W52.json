@@ -1,0 +1,158 @@
+{
+  "weekId": "2028-W52",
+  "ordinal": 3078,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻāhui",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "h",
+        "u",
+        "i"
+      ],
+      "length": 5,
+      "bare": "ahui",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fruit bunch or cluster (of bananas, pandanus keys, grapes)",
+      "meanings": [
+        "fruit bunch or cluster (of bananas, pandanus keys, grapes)"
+      ],
+      "defHint": "fruit bunch or cluster (of bananas, pandanus keys, grapes)",
+      "piece": {
+        "piece_word": "hui",
+        "piece_def": "cluster, bunch (of fruit)",
+        "tier": 1,
+        "rationale": "'hui' literally means cluster/bunch of fruit, matching the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "welo",
+      "glyphs": [
+        "w",
+        "e",
+        "l",
+        "o"
+      ],
+      "length": 4,
+      "bare": "welo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to flutter, to wave (of flags)",
+      "meanings": [
+        "to flutter, to wave (of flags)"
+      ],
+      "defHint": "to flutter, to wave (of flags)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻono",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 4,
+      "bare": "ono",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "delicious, tasty",
+      "meanings": [
+        "delicious, tasty",
+        "to relish, to crave",
+        "flavor"
+      ],
+      "defHint": "delicious, tasty",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻohi",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "ohi",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to harvest, gather or pick",
+      "meanings": [
+        "to harvest, gather or pick"
+      ],
+      "defHint": "to harvest, gather or pick",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "halemākaʻi",
+      "glyphs": [
+        "h",
+        "a",
+        "l",
+        "e",
+        "m",
+        "ā",
+        "k",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 10,
+      "bare": "halemakai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "police station",
+      "meanings": [
+        "police station"
+      ],
+      "defHint": "police station",
+      "piece": {
+        "piece_word": "hale",
+        "piece_def": "house, building; station, hall",
+        "tier": 1,
+        "rationale": "Hale means station/building, literally the 'station' part of police station."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

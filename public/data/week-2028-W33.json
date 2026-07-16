@@ -1,0 +1,165 @@
+{
+  "weekId": "2028-W33",
+  "ordinal": 3059,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nīnauele",
+      "glyphs": [
+        "n",
+        "ī",
+        "n",
+        "a",
+        "u",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "ninauele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "interview",
+      "meanings": [
+        "interview"
+      ],
+      "defHint": "interview",
+      "piece": {
+        "piece_word": "nīnau",
+        "piece_def": "question; to ask, inquire",
+        "tier": 1,
+        "rationale": "An interview centers on asking questions; nīnau is the root."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "nani",
+      "glyphs": [
+        "n",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 4,
+      "bare": "nani",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be lovely, pretty, nice",
+      "meanings": [
+        "to be lovely, pretty, nice"
+      ],
+      "defHint": "to be lovely, pretty, nice",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pokela",
+      "glyphs": [
+        "p",
+        "o",
+        "k",
+        "e",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "pokela",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "pottery",
+      "meanings": [
+        "pottery"
+      ],
+      "defHint": "pottery",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hiʻi",
+      "glyphs": [
+        "h",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 4,
+      "bare": "hii",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to hold or carry in the arms; to bear",
+      "meanings": [
+        "to hold or carry in the arms; to bear",
+        "to nurse"
+      ],
+      "defHint": "to hold or carry in the arms; to bear",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻohalahala",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "a",
+        "l",
+        "a",
+        "h",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hoohalahala",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to correct",
+      "meanings": [
+        "to correct",
+        "to criticize",
+        "to complain"
+      ],
+      "defHint": "to correct",
+      "piece": {
+        "piece_word": "halahala",
+        "piece_def": "correction; criticism; complaint",
+        "tier": 1,
+        "rationale": "Root directly means correction/criticism/complaint, matching the word's senses."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,169 @@
+{
+  "weekId": "2028-W46",
+  "ordinal": 3072,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "aumiki",
+      "glyphs": [
+        "a",
+        "u",
+        "m",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 6,
+      "bare": "aumiki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "rip current",
+      "meanings": [
+        "rip current"
+      ],
+      "defHint": "rip current",
+      "piece": {
+        "piece_word": "au",
+        "piece_def": "current (water)",
+        "tier": 1,
+        "rationale": "'au' means water current, literally present in 'rip current'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "piopio",
+      "glyphs": [
+        "p",
+        "i",
+        "o",
+        "p",
+        "i",
+        "o"
+      ],
+      "length": 6,
+      "bare": "piopio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "chick",
+      "meanings": [
+        "chick",
+        "sound used to call chickens"
+      ],
+      "defHint": "chick",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "aupuni",
+      "glyphs": [
+        "a",
+        "u",
+        "p",
+        "u",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "aupuni",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "nation, country, kingdom",
+      "meanings": [
+        "nation, country, kingdom",
+        "government",
+        "national"
+      ],
+      "defHint": "nation, country, kingdom",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hiʻuhiʻu",
+      "glyphs": [
+        "h",
+        "i",
+        "ʻ",
+        "u",
+        "h",
+        "i",
+        "ʻ",
+        "u"
+      ],
+      "length": 8,
+      "bare": "hiuhiu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "braid or plait end, loose ends of a woven mat or lei",
+      "meanings": [
+        "braid or plait end, loose ends of a woven mat or lei"
+      ],
+      "defHint": "braid or plait end, loose ends of a woven mat or lei",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻolaukōnā",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "a",
+        "u",
+        "k",
+        "ō",
+        "n",
+        "ā"
+      ],
+      "length": 11,
+      "bare": "hoolaukona",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to treat mercilessly, to oppress",
+      "meanings": [
+        "to treat mercilessly, to oppress"
+      ],
+      "defHint": "to treat mercilessly, to oppress",
+      "piece": {
+        "piece_word": "laukōnā",
+        "piece_def": "heartless, merciless; furious",
+        "tier": 1,
+        "rationale": "Core root meaning merciless directly matches the word's sense of treating mercilessly/oppressing."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

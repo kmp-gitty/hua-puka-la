@@ -1,0 +1,169 @@
+{
+  "weekId": "2027-W33",
+  "ordinal": 3007,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hanini",
+      "glyphs": [
+        "h",
+        "a",
+        "n",
+        "i",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "hanini",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to pour down",
+      "meanings": [
+        "to overflow",
+        "to pour down",
+        "to disappear"
+      ],
+      "defHint": "to pour down",
+      "piece": {
+        "piece_word": "nini",
+        "piece_def": "to pour; to spill",
+        "tier": 1,
+        "rationale": "Nini means to pour/spill, matching hanini's sense of pouring down."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "uaua",
+      "glyphs": [
+        "u",
+        "a",
+        "u",
+        "a"
+      ],
+      "length": 4,
+      "bare": "uaua",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "tough, sinewy, glutinous, viscid, leathery",
+      "meanings": [
+        "tough, sinewy, glutinous, viscid, leathery",
+        "hardheaded, willful, obstinate, tough-minded"
+      ],
+      "defHint": "tough, sinewy, glutinous, viscid, leathery",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "lamalama",
+      "glyphs": [
+        "l",
+        "a",
+        "m",
+        "a",
+        "l",
+        "a",
+        "m",
+        "a"
+      ],
+      "length": 8,
+      "bare": "lamalama",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "torch fishing",
+      "meanings": [
+        "torch fishing",
+        "fair-complexioned",
+        "animated, vivacious",
+        "glowing"
+      ],
+      "defHint": "torch fishing",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "akahele",
+      "glyphs": [
+        "a",
+        "k",
+        "a",
+        "h",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 7,
+      "bare": "akahele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "cautious, careful",
+      "meanings": [
+        "cautious, careful"
+      ],
+      "defHint": "cautious, careful",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "waonahele",
+      "glyphs": [
+        "w",
+        "a",
+        "o",
+        "n",
+        "a",
+        "h",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 9,
+      "bare": "waonahele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "jungle",
+      "meanings": [
+        "jungle"
+      ],
+      "defHint": "jungle",
+      "piece": {
+        "piece_word": "nahele",
+        "piece_def": "forest, bush; vegetation",
+        "tier": 1,
+        "rationale": "Forest/vegetation is essentially the meaning of jungle; core component of waonahele."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

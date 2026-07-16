@@ -1,0 +1,164 @@
+{
+  "weekId": "2026-W35",
+  "ordinal": 2956,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻokua",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "u",
+        "a"
+      ],
+      "length": 7,
+      "bare": "hookua",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "burdensome",
+      "meanings": [
+        "to persevere (persist in a task that has become burdensome)",
+        "burdensome"
+      ],
+      "defHint": "burdensome",
+      "piece": {
+        "piece_word": "kua",
+        "piece_def": "burden; to carry on the back",
+        "tier": 1,
+        "rationale": "Kua means burden and to carry on the back, directly matching 'burdensome' and the imagery of persevering under a load."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻieʻie",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "e",
+        "ʻ",
+        "i",
+        "e"
+      ],
+      "length": 6,
+      "bare": "ieie",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Any of species Freycinetia arborea of woody climbers with aerial roots.",
+      "meanings": [
+        "Any of species Freycinetia arborea of woody climbers with aerial roots."
+      ],
+      "defHint": "Any of species Freycinetia arborea of woody climbers with aerial roots.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoʻīli",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "ī",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "hoili",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to land upon",
+      "meanings": [
+        "to land upon",
+        "to set on shore, to load onto",
+        "to transfer, to transmit",
+        "to bequeath"
+      ],
+      "defHint": "to land upon",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kamaliʻi",
+      "glyphs": [
+        "k",
+        "a",
+        "m",
+        "a",
+        "l",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "kamalii",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "children, progeny",
+      "meanings": [
+        "children, progeny"
+      ],
+      "defHint": "children, progeny",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻaluminuma",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "u",
+        "m",
+        "i",
+        "n",
+        "u",
+        "m",
+        "a"
+      ],
+      "length": 10,
+      "bare": "aluminuma",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "aluminum (chemical element)",
+      "meanings": [
+        "aluminum (chemical element)"
+      ],
+      "defHint": "aluminum (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

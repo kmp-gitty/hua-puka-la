@@ -1,0 +1,164 @@
+{
+  "weekId": "2028-W15",
+  "ordinal": 3041,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻakolo",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "k",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 6,
+      "bare": "akolo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to attempt to creep",
+      "meanings": [
+        "to attempt to creep",
+        "to pull out small roots"
+      ],
+      "defHint": "to attempt to creep",
+      "piece": {
+        "piece_word": "kolo",
+        "piece_def": "to crawl",
+        "tier": 1,
+        "rationale": "To crawl/creep directly matches the meaning 'to attempt to creep'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "nohu",
+      "glyphs": [
+        "n",
+        "o",
+        "h",
+        "u"
+      ],
+      "length": 4,
+      "bare": "nohu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "scorpionfish",
+      "meanings": [
+        "scorpionfish"
+      ],
+      "defHint": "scorpionfish",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻanoʻano",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "n",
+        "o",
+        "ʻ",
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 8,
+      "bare": "anoano",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "seed",
+      "meanings": [
+        "seed"
+      ],
+      "defHint": "seed",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "maha",
+      "glyphs": [
+        "m",
+        "a",
+        "h",
+        "a"
+      ],
+      "length": 4,
+      "bare": "maha",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "temple",
+      "meanings": [
+        "temple",
+        "rest, repose",
+        "at ease, comfortable, resting"
+      ],
+      "defHint": "temple",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "puahiohio",
+      "glyphs": [
+        "p",
+        "u",
+        "a",
+        "h",
+        "i",
+        "o",
+        "h",
+        "i",
+        "o"
+      ],
+      "length": 9,
+      "bare": "puahiohio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "whirlwind, gust",
+      "meanings": [
+        "whirlwind, gust",
+        "empty or worthless talk"
+      ],
+      "defHint": "whirlwind, gust",
+      "piece": {
+        "piece_word": "hio",
+        "piece_def": "gust (of wind); to blow in gusts",
+        "tier": 1,
+        "rationale": "Gust literally appears in the definition of puahiohio."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

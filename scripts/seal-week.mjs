@@ -159,9 +159,13 @@ function sealPuzzle(word, day, pieces) {
   };
 }
 
-function sealWeek(dict, ledger, weekId, pieces) {
+function sealWeek(dict, ledger, weekId, pieces, blockAll = false) {
   const ordinal = weekOrdinal(weekId);
-  const blocked = blockedWords(ledger, ordinal);
+  // blockAll (batch mode) = never repeat any word across the whole run; else the
+  // rolling 12-week window (spec §2.4).
+  const blocked = blockAll
+    ? new Set(ledger.weeks.flatMap((w) => w.words))
+    : blockedWords(ledger, ordinal);
   const rng = mulberry32(seedFromString(weekId));
   const usedThisWeek = new Set();
   const puzzles = [];
@@ -316,6 +320,9 @@ const args = process.argv.slice(2);
 const weeksFlagIdx = args.indexOf("--weeks");
 const nWeeks = weeksFlagIdx >= 0 ? Number(args[weeksFlagIdx + 1]) : 1;
 const reseal = args.includes("--reseal"); // re-seal even if already in the ledger
+// --batch: one big pre-generated run. Block ALL prior words (no repeat until the
+// pool is exhausted) and stop GRACEFULLY when a week can't be filled.
+const batch = args.includes("--batch");
 const startWeek = args.find((a) => /^\d{4}-W\d{2}$/.test(a)) ?? currentHstWeekId();
 
 const dict = JSON.parse(readFileSync(DICT, "utf8"));
@@ -346,23 +353,34 @@ if (reseal) {
 
 let monday = isoWeekToMonday(startWeek);
 const sealedNow = new Date().toISOString();
+let sealedCount = 0;
 for (let i = 0; i < nWeeks; i++) {
   const weekId = mondayToWeekId(monday);
   const already = ledger.weeks.some((w) => w.id === weekId);
   if (already) {
     console.log(`  ${weekId} already sealed — skipping (use --reseal to rebuild)`);
   } else {
-    const week = sealWeek(dict, ledger, weekId, pieces);
+    let week;
+    try {
+      week = sealWeek(dict, ledger, weekId, pieces, batch);
+    } catch (e) {
+      if (batch) {
+        console.log(`  pool exhausted at ${weekId} after ${sealedCount} weeks (${e.message})`);
+        break; // graceful stop — we've generated as many as the pool allows
+      }
+      throw e;
+    }
     week.sealedAt = sealedNow;
     writeFileSync(join(OUT_DIR, `week-${weekId}.json`), JSON.stringify(week, null, 2));
-    const mondayPiece = week.puzzles[0].piece;
-    console.log(
-      `  sealed ${weekId}: ${week.puzzles.map((p) => p.word).join(", ")}` +
-        (mondayPiece ? `  [Mon piece: ${mondayPiece.piece_word} T${mondayPiece.tier}]` : ""),
-    );
+    sealedCount++;
+    if (!batch || sealedCount <= 3 || i >= nWeeks - 1) {
+      const mp = week.puzzles[0].piece;
+      console.log(`  sealed ${weekId}: ${week.puzzles.map((p) => p.word).join(", ")}` + (mp ? `  [Mon: ${mp.piece_word} T${mp.tier}]` : ""));
+    }
   }
   monday = new Date(monday.getTime() + 7 * 86400000);
 }
+if (batch) console.log(`  … sealed ${sealedCount} weeks total.`);
 
 writeFileSync(LEDGER, JSON.stringify(ledger, null, 2));
 const weeks = writeManifest();

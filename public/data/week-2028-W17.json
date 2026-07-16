@@ -1,0 +1,174 @@
+{
+  "weekId": "2028-W17",
+  "ordinal": 3043,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hōʻole",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "hoole",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to deny, to refuse, to reject",
+      "meanings": [
+        "to deny, to refuse, to reject",
+        "to prohibit",
+        "denial",
+        "refusal"
+      ],
+      "defHint": "to deny, to refuse, to reject",
+      "piece": {
+        "piece_word": "ʻole",
+        "piece_def": "to deny; negative; not",
+        "tier": 1,
+        "rationale": "'ʻole' means negation/deny, which literally underlies hōʻole 'to deny, refuse'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mua",
+      "glyphs": [
+        "m",
+        "u",
+        "a"
+      ],
+      "length": 3,
+      "bare": "mua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "before, in front of, first, ahead, forward, in advance, future, front",
+      "meanings": [
+        "before, in front of, first, ahead, forward, in advance, future, front",
+        "former, foremost, primary, principal",
+        "previously, beforehand",
+        "oldest, older sibling",
+        "senior branch of a family",
+        "leader, senior partner",
+        "more than",
+        "men’s eating house"
+      ],
+      "defHint": "before, in front of, first, ahead, forward, in advance, future, front",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻeleʻele",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "l",
+        "e",
+        "ʻ",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "eleele",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "black (color)",
+      "meanings": [
+        "black (color)",
+        "branched string lettuce (Ulva prolifera)",
+        "black, dark"
+      ],
+      "defHint": "black (color)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lopi",
+      "glyphs": [
+        "l",
+        "o",
+        "p",
+        "i"
+      ],
+      "length": 4,
+      "bare": "lopi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "thread",
+      "meanings": [
+        "thread",
+        "floss"
+      ],
+      "defHint": "thread",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopalaka",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "a",
+        "l",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "hoopalaka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to feign indifference",
+      "meanings": [
+        "to feign indifference"
+      ],
+      "defHint": "to feign indifference",
+      "piece": {
+        "piece_word": "palaka",
+        "piece_def": "indifferent; apathetic",
+        "tier": 1,
+        "rationale": "palaka means indifferent; hoʻopalaka is the causative 'to feign indifference'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,189 @@
+{
+  "weekId": "2029-W24",
+  "ordinal": 3102,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻolohe",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "o",
+        "h",
+        "e"
+      ],
+      "length": 8,
+      "bare": "hoolohe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to listen to",
+      "meanings": [
+        "to listen to",
+        "to heed, to obey",
+        "obedient"
+      ],
+      "defHint": "to listen to",
+      "piece": {
+        "piece_word": "lohe",
+        "piece_def": "to hear; to obey",
+        "tier": 1,
+        "rationale": "hoʻolohe is causative of lohe (hear/obey); meaning appears directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kau",
+      "glyphs": [
+        "k",
+        "a",
+        "u"
+      ],
+      "length": 3,
+      "bare": "kau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "season",
+      "meanings": [
+        "season",
+        "period of time, lifetime",
+        "semester, term",
+        "session",
+        "to place, to put",
+        "to settle, to perch",
+        "to enact, to impose, to levy (a tax)",
+        "to board, to mount",
+        "to rise",
+        "to set",
+        "to hang up",
+        "sacred chant",
+        "to chant"
+      ],
+      "defHint": "season",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻaiʻē",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "i",
+        "ʻ",
+        "ē"
+      ],
+      "length": 5,
+      "bare": "aie",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "debt",
+      "meanings": [
+        "debt",
+        "loan",
+        "to owe"
+      ],
+      "defHint": "debt",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻoʻoleʻa",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "e",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "oolea",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "hard",
+      "meanings": [
+        "hard",
+        "stiff, rigid",
+        "strong",
+        "strict, severe, harsh",
+        "hardness",
+        "strength",
+        "strictness, severity"
+      ],
+      "defHint": "hard",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokamaliʻi",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "a",
+        "m",
+        "a",
+        "l",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 12,
+      "bare": "hookamalii",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be childish",
+      "meanings": [
+        "to be childish"
+      ],
+      "defHint": "to be childish",
+      "piece": {
+        "piece_word": "kama",
+        "piece_def": "child regardless of sex",
+        "tier": 1,
+        "rationale": "Child directly underlies the meaning 'to be childish'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

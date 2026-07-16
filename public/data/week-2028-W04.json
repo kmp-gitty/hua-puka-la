@@ -1,0 +1,160 @@
+{
+  "weekId": "2028-W04",
+  "ordinal": 3030,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kuʻihao",
+      "glyphs": [
+        "k",
+        "u",
+        "ʻ",
+        "i",
+        "h",
+        "a",
+        "o"
+      ],
+      "length": 7,
+      "bare": "kuihao",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "blacksmith",
+      "meanings": [
+        "blacksmith"
+      ],
+      "defHint": "blacksmith",
+      "piece": {
+        "piece_word": "hao",
+        "piece_def": "iron; general name for metal tools",
+        "tier": 1,
+        "rationale": "A blacksmith works iron/metal; hao literally relates to the metalwork"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pilau",
+      "glyphs": [
+        "p",
+        "i",
+        "l",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "pilau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "stench",
+      "meanings": [
+        "stench",
+        "rot, rottenness",
+        "to stink, be putrid"
+      ],
+      "defHint": "stench",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pihi",
+      "glyphs": [
+        "p",
+        "i",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "pihi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "scab, scar",
+      "meanings": [
+        "scab, scar",
+        "button, badge, any fastened object"
+      ],
+      "defHint": "scab, scar",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "māhū",
+      "glyphs": [
+        "m",
+        "ā",
+        "h",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "mahu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a person of the third gender, having traditional spiritual and social roles in the cultures of Hawaii and Tahiti",
+      "meanings": [
+        "a person of the third gender, having traditional spiritual and social roles in the cultures of Hawaii and Tahiti",
+        "homosexual",
+        "effeminate boy or man",
+        "hermaphrodite",
+        "eunuch"
+      ],
+      "defHint": "a person of the third gender, having traditional spiritual and social roles in the cultures of Hawaii and Tahiti",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "katahiaka",
+      "glyphs": [
+        "k",
+        "a",
+        "t",
+        "a",
+        "h",
+        "i",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 9,
+      "bare": "katahiaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Niʻihau form of kakahiaka (“morning”)",
+      "meanings": [
+        "Niʻihau form of kakahiaka (“morning”)"
+      ],
+      "defHint": "Niʻihau form of kakahiaka (“morning”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

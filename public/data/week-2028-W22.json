@@ -1,0 +1,174 @@
+{
+  "weekId": "2028-W22",
+  "ordinal": 3048,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻuʻuku",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "ʻ",
+        "u",
+        "k",
+        "u"
+      ],
+      "length": 6,
+      "bare": "uuku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "tiny, small",
+      "meanings": [
+        "tiny, small",
+        "few"
+      ],
+      "defHint": "tiny, small",
+      "piece": {
+        "piece_word": "ʻuku",
+        "piece_def": "small, tiny",
+        "tier": 1,
+        "rationale": "ʻuku means small/tiny, matching the definition of ʻuʻuku."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻaragona",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "r",
+        "a",
+        "g",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "aragona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "argon (chemical element)",
+      "meanings": [
+        "argon (chemical element)"
+      ],
+      "defHint": "argon (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kāhea",
+      "glyphs": [
+        "k",
+        "ā",
+        "h",
+        "e",
+        "a"
+      ],
+      "length": 5,
+      "bare": "kahea",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to call, to cry out",
+      "meanings": [
+        "to call, to cry out",
+        "to greet",
+        "to name",
+        "to summon",
+        "to command"
+      ],
+      "defHint": "to call, to cry out",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "papamū",
+      "glyphs": [
+        "p",
+        "a",
+        "p",
+        "a",
+        "m",
+        "ū"
+      ],
+      "length": 6,
+      "bare": "papamu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "A stone with a board for playing kōnane carved into the top.",
+      "meanings": [
+        "A stone with a board for playing kōnane carved into the top.",
+        "checkerboard",
+        "checkerboard (pattern); plaid",
+        "checkered"
+      ],
+      "defHint": "A stone with a board for playing kōnane carved into the top.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻolaulā",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "l",
+        "a",
+        "u",
+        "l",
+        "ā"
+      ],
+      "length": 9,
+      "bare": "hoolaula",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to widen, to broaden",
+      "meanings": [
+        "to widen, to broaden",
+        "to extend",
+        "to generalize",
+        "to zoom out"
+      ],
+      "defHint": "to widen, to broaden",
+      "piece": {
+        "piece_word": "laulā",
+        "piece_def": "wide, broad; width, breadth",
+        "tier": 1,
+        "rationale": "Root literally means wide/broad; word means to widen/broaden."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

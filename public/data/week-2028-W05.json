@@ -1,0 +1,173 @@
+{
+  "weekId": "2028-W05",
+  "ordinal": 3031,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "wehewehe",
+      "glyphs": [
+        "w",
+        "e",
+        "h",
+        "e",
+        "w",
+        "e",
+        "h",
+        "e"
+      ],
+      "length": 8,
+      "bare": "wehewehe",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to open something up or pull two things apart",
+      "meanings": [
+        "to explain",
+        "to open something up or pull two things apart"
+      ],
+      "defHint": "to open something up or pull two things apart",
+      "piece": {
+        "piece_word": "wehe",
+        "piece_def": "to open; pull apart",
+        "tier": 1,
+        "rationale": "wehewehe is a reduplication of wehe; meaning 'to open/pull apart' appears directly in sense [1]."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "paʻapū",
+      "glyphs": [
+        "p",
+        "a",
+        "ʻ",
+        "a",
+        "p",
+        "ū"
+      ],
+      "length": 6,
+      "bare": "paapu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "dense, covered (i with)",
+      "meanings": [
+        "dense, covered (i with)",
+        "crowded, congested",
+        "stifling, stuffy",
+        "impervious, nonporous"
+      ],
+      "defHint": "dense, covered (i with)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻōkole",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "k",
+        "o",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "okole",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "anus, buttocks (less polite than lemu)",
+      "meanings": [
+        "anus, buttocks (less polite than lemu)",
+        "a sea creature (possibly a sea anemone)",
+        "a kind of birthmark (round, black, and raised above the surrounding skin)"
+      ],
+      "defHint": "anus, buttocks (less polite than lemu)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kuene",
+      "glyphs": [
+        "k",
+        "u",
+        "e",
+        "n",
+        "e"
+      ],
+      "length": 5,
+      "bare": "kuene",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "steward",
+      "meanings": [
+        "steward",
+        "waiter",
+        "to lay out, to put in order, to supervise",
+        "to wait on, to serve"
+      ],
+      "defHint": "steward",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "makuahine",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "u",
+        "a",
+        "h",
+        "i",
+        "n",
+        "e"
+      ],
+      "length": 9,
+      "bare": "makuahine",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mother",
+      "meanings": [
+        "mother",
+        "any female relative of the parents' generation"
+      ],
+      "defHint": "mother",
+      "piece": {
+        "piece_word": "makua",
+        "piece_def": "parent",
+        "tier": 1,
+        "rationale": "Makuahine literally means female parent; makua = parent is the core morpheme."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

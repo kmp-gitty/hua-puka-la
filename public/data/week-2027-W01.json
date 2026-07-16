@@ -1,0 +1,171 @@
+{
+  "weekId": "2027-W01",
+  "ordinal": 2975,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lauhoe",
+      "glyphs": [
+        "l",
+        "a",
+        "u",
+        "h",
+        "o",
+        "e"
+      ],
+      "length": 6,
+      "bare": "lauhoe",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to paddle together",
+      "meanings": [
+        "blade of a paddle",
+        "to paddle together"
+      ],
+      "defHint": "to paddle together",
+      "piece": {
+        "piece_word": "hoe",
+        "piece_def": "paddle; to paddle",
+        "tier": 1,
+        "rationale": "Hoe (paddle) literally appears in both blade of a paddle and to paddle together."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hāʻāpuka",
+      "glyphs": [
+        "h",
+        "ā",
+        "ʻ",
+        "ā",
+        "p",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "haapuka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "to cause to cheat",
+      "meanings": [
+        "to cause to cheat"
+      ],
+      "defHint": "to cause to cheat",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻalani",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "l",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "alani",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "orange",
+      "meanings": [
+        "orange",
+        "orange (Citrus sinensis)"
+      ],
+      "defHint": "orange",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kali",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kali",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to wait",
+      "meanings": [
+        "to wait",
+        "to loiter",
+        "to hesitate",
+        "Niʻihau form of kohe (“vagina”)"
+      ],
+      "defHint": "to wait",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "manaʻolana",
+      "glyphs": [
+        "m",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "o",
+        "l",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "manaolana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "hope",
+      "meanings": [
+        "hope",
+        "to hope"
+      ],
+      "defHint": "hope",
+      "piece": {
+        "piece_word": "ola",
+        "piece_def": "life; existence",
+        "tier": 2,
+        "rationale": "manaʻolana relates to lana (buoyant thought); ola coincidentally overlaps but hope connects to life/existence loosely—still weak, but the word is manaʻo+lana, so ola is a coincidental split; reject."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

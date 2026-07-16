@@ -1,0 +1,168 @@
+{
+  "weekId": "2029-W16",
+  "ordinal": 3094,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ihoiho",
+      "glyphs": [
+        "i",
+        "h",
+        "o",
+        "i",
+        "h",
+        "o"
+      ],
+      "length": 6,
+      "bare": "ihoiho",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "core of a tree; heartwood",
+      "meanings": [
+        "core of a tree; heartwood",
+        "candle"
+      ],
+      "defHint": "core of a tree; heartwood",
+      "piece": {
+        "piece_word": "iho",
+        "piece_def": "core, pith",
+        "tier": 1,
+        "rationale": "'iho' means core/pith, which literally appears in the meaning 'core of a tree; heartwood'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kiʻe",
+      "glyphs": [
+        "k",
+        "i",
+        "ʻ",
+        "e"
+      ],
+      "length": 4,
+      "bare": "kie",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "high, lofty",
+      "meanings": [
+        "high, lofty"
+      ],
+      "defHint": "high, lofty",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "punihei",
+      "glyphs": [
+        "p",
+        "u",
+        "n",
+        "i",
+        "h",
+        "e",
+        "i"
+      ],
+      "length": 7,
+      "bare": "punihei",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "ensnared, entangled",
+      "meanings": [
+        "ensnared, entangled",
+        "obsessed (i with)",
+        "fascinating, captivating"
+      ],
+      "defHint": "ensnared, entangled",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kākau",
+      "glyphs": [
+        "k",
+        "ā",
+        "k",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "kakau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "writing",
+      "meanings": [
+        "writing",
+        "tattoo",
+        "to write",
+        "to tattoo"
+      ],
+      "defHint": "writing",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "moʻowaiwai",
+      "glyphs": [
+        "m",
+        "o",
+        "ʻ",
+        "o",
+        "w",
+        "a",
+        "i",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 10,
+      "bare": "moowaiwai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "inventory",
+      "meanings": [
+        "account (as in a bank)",
+        "inventory"
+      ],
+      "defHint": "inventory",
+      "piece": {
+        "piece_word": "moʻo",
+        "piece_def": "lizard, dragon, serpent; also succession/series",
+        "tier": 2,
+        "rationale": "Moʻo conveys a series/succession, relating to a listed account or inventory record."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

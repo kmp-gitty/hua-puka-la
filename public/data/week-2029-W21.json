@@ -1,0 +1,168 @@
+{
+  "weekId": "2029-W21",
+  "ordinal": 3099,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lelele",
+      "glyphs": [
+        "l",
+        "e",
+        "l",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "lelele",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to hop about, to caper",
+      "meanings": [
+        "to hop about, to caper",
+        "(of the heart) to beat quickly",
+        "inconstant, promiscuous",
+        "here and there"
+      ],
+      "defHint": "to hop about, to caper",
+      "piece": {
+        "piece_word": "lele",
+        "piece_def": "to jump, leap, hop, skip",
+        "tier": 1,
+        "rationale": "lelele is a reduplication of lele; hopping/leaping meaning appears directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kai",
+      "glyphs": [
+        "k",
+        "a",
+        "i"
+      ],
+      "length": 3,
+      "bare": "kai",
+      "pos": [
+        "intj",
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "sea",
+      "meanings": [
+        "sea",
+        "salt water",
+        "tide, current in the sea",
+        "gravy, sauce, dressing, soup, broth",
+        "seaside, area near the sea, lowlands",
+        "to be insipid, brackish, tasteless",
+        "my, how much!; how very! how terrific!"
+      ],
+      "defHint": "sea",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "liʻi",
+      "glyphs": [
+        "l",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 4,
+      "bare": "lii",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "small, tiny",
+      "meanings": [
+        "small, tiny"
+      ],
+      "defHint": "small, tiny",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻōmā",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "m",
+        "ā"
+      ],
+      "length": 4,
+      "bare": "oma",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Maine lobster, Homarus americanus",
+      "meanings": [
+        "Maine lobster, Homarus americanus"
+      ],
+      "defHint": "Maine lobster, Homarus americanus",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kaikamahine",
+      "glyphs": [
+        "k",
+        "a",
+        "i",
+        "k",
+        "a",
+        "m",
+        "a",
+        "h",
+        "i",
+        "n",
+        "e"
+      ],
+      "length": 11,
+      "bare": "kaikamahine",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "girl",
+      "meanings": [
+        "girl",
+        "daughter, niece"
+      ],
+      "defHint": "girl",
+      "piece": {
+        "piece_word": "kama",
+        "piece_def": "child regardless of sex",
+        "tier": 2,
+        "rationale": "Kaikamahine derives from kama (child); a girl is a female child."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

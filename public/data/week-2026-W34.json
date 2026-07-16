@@ -1,0 +1,166 @@
+{
+  "weekId": "2026-W34",
+  "ordinal": 2955,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "haʻahaʻa",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "a",
+        "h",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "haahaa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "low",
+      "meanings": [
+        "lowness",
+        "humility",
+        "lowly, low",
+        "minimum",
+        "humble, meek",
+        "modest, unassuming",
+        "low"
+      ],
+      "defHint": "low",
+      "piece": {
+        "piece_word": "haʻa",
+        "piece_def": "low; short",
+        "tier": 1,
+        "rationale": "Haʻahaʻa is a reduplication of haʻa (low), whose meaning literally appears as 'low/lowness'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "waiūpaka",
+      "glyphs": [
+        "w",
+        "a",
+        "i",
+        "ū",
+        "p",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "waiupaka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "butter",
+      "meanings": [
+        "butter"
+      ],
+      "defHint": "butter",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pehea",
+      "glyphs": [
+        "p",
+        "e",
+        "h",
+        "e",
+        "a"
+      ],
+      "length": 5,
+      "bare": "pehea",
+      "pos": [
+        "adv"
+      ],
+      "featuredSense": "how",
+      "meanings": [
+        "how"
+      ],
+      "defHint": "how",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pano",
+      "glyphs": [
+        "p",
+        "a",
+        "n",
+        "o"
+      ],
+      "length": 4,
+      "bare": "pano",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "dark",
+      "meanings": [
+        "dark",
+        "black",
+        "obscure"
+      ],
+      "defHint": "dark",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "panalāʻau",
+      "glyphs": [
+        "p",
+        "a",
+        "n",
+        "a",
+        "l",
+        "ā",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 9,
+      "bare": "panalaau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "territory, dependency, colony, province",
+      "meanings": [
+        "territory, dependency, colony, province"
+      ],
+      "defHint": "territory, dependency, colony, province",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,165 @@
+{
+  "weekId": "2030-W02",
+  "ordinal": 3132,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kūkākūkā",
+      "glyphs": [
+        "k",
+        "ū",
+        "k",
+        "ā",
+        "k",
+        "ū",
+        "k",
+        "ā"
+      ],
+      "length": 8,
+      "bare": "kukakuka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to discuss",
+      "meanings": [
+        "to discuss"
+      ],
+      "defHint": "to discuss",
+      "piece": {
+        "piece_word": "kūkā",
+        "piece_def": "to consult, to confer, to deliberate, to discuss",
+        "tier": 1,
+        "rationale": "kūkā means to discuss/confer, matching kūkākūkā (reduplicated form) meaning to discuss."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "honu",
+      "glyphs": [
+        "h",
+        "o",
+        "n",
+        "u"
+      ],
+      "length": 4,
+      "bare": "honu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "turtle",
+      "meanings": [
+        "turtle",
+        "sea turtle"
+      ],
+      "defHint": "turtle",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "wānana",
+      "glyphs": [
+        "w",
+        "ā",
+        "n",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "wanana",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "prophecy, foretell, foresight",
+      "meanings": [
+        "prophecy, foretell, foresight",
+        "prediction, forecast",
+        "to prophesize, to foretell, to foresight",
+        "to predict"
+      ],
+      "defHint": "prophecy, foretell, foresight",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "waiū",
+      "glyphs": [
+        "w",
+        "a",
+        "i",
+        "ū"
+      ],
+      "length": 4,
+      "bare": "waiu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "milk",
+      "meanings": [
+        "milk"
+      ],
+      "defHint": "milk",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hulipoepoe",
+      "glyphs": [
+        "h",
+        "u",
+        "l",
+        "i",
+        "p",
+        "o",
+        "e",
+        "p",
+        "o",
+        "e"
+      ],
+      "length": 10,
+      "bare": "hulipoepoe",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "globe (model of the Earth)",
+      "meanings": [
+        "globe (model of the Earth)"
+      ],
+      "defHint": "globe (model of the Earth)",
+      "piece": {
+        "piece_word": "poepoe",
+        "piece_def": "sphere, globe",
+        "tier": 1,
+        "rationale": "Poepoe literally means sphere/globe, matching the definition."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

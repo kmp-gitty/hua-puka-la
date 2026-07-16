@@ -1,0 +1,170 @@
+{
+  "weekId": "2028-W51",
+  "ordinal": 3077,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mōakaaka",
+      "glyphs": [
+        "m",
+        "ō",
+        "a",
+        "k",
+        "a",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "moakaaka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "clear, plain, intelligible",
+      "meanings": [
+        "clear, plain, intelligible"
+      ],
+      "defHint": "clear, plain, intelligible",
+      "piece": {
+        "piece_word": "akaaka",
+        "piece_def": "clear, transparent; visible, manifest",
+        "tier": 1,
+        "rationale": "'Clear' literally appears in the definition of mōakaaka."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "meakanu",
+      "glyphs": [
+        "m",
+        "e",
+        "a",
+        "k",
+        "a",
+        "n",
+        "u"
+      ],
+      "length": 7,
+      "bare": "meakanu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "plant (botany)",
+      "meanings": [
+        "plant (botany)"
+      ],
+      "defHint": "plant (botany)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hihi",
+      "glyphs": [
+        "h",
+        "i",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "hihi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to entangle, to intertwine",
+      "meanings": [
+        "to entangle, to intertwine",
+        "to intermingle",
+        "to creep, to spread",
+        "entanglement, web",
+        "snare"
+      ],
+      "defHint": "to entangle, to intertwine",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mātua",
+      "glyphs": [
+        "m",
+        "ā",
+        "t",
+        "u",
+        "a"
+      ],
+      "length": 5,
+      "bare": "matua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Niʻihau form of mākua (“parents”)",
+      "meanings": [
+        "Niʻihau form of mākua (“parents”)"
+      ],
+      "defHint": "Niʻihau form of mākua (“parents”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻoholoholo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "h",
+        "o",
+        "l",
+        "o",
+        "h",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 12,
+      "bare": "hooholoholo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to take someone on a walk, to escort",
+      "meanings": [
+        "to take someone on a walk, to escort",
+        "to help someone walk"
+      ],
+      "defHint": "to take someone on a walk, to escort",
+      "piece": {
+        "piece_word": "holo",
+        "piece_def": "to go, run, slide, progress",
+        "tier": 1,
+        "rationale": "holoholo is reduplication of holo (to go); base of the causative form meaning to take on a walk."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

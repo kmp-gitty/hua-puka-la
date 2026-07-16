@@ -1,0 +1,165 @@
+{
+  "weekId": "2027-W40",
+  "ordinal": 3014,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻopau",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "a",
+        "u"
+      ],
+      "length": 7,
+      "bare": "hoopau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to conclude, to finish",
+      "meanings": [
+        "to conclude, to finish",
+        "to consume",
+        "to waste",
+        "to cancel, to terminate",
+        "to revoke, to repeal"
+      ],
+      "defHint": "to conclude, to finish",
+      "piece": {
+        "piece_word": "pau",
+        "piece_def": "finished, done; all",
+        "tier": 1,
+        "rationale": "hoʻopau is the causative of pau; 'finished/done' literally appears in the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "koholā",
+      "glyphs": [
+        "k",
+        "o",
+        "h",
+        "o",
+        "l",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "kohola",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "humpback whale",
+      "meanings": [
+        "humpback whale"
+      ],
+      "defHint": "humpback whale",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "outou",
+      "glyphs": [
+        "o",
+        "u",
+        "t",
+        "o",
+        "u"
+      ],
+      "length": 5,
+      "bare": "outou",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Niʻihau form of ʻoukou (“second person plural; you (three or more)”)",
+      "meanings": [
+        "Niʻihau form of ʻoukou (“second person plural; you (three or more)”)"
+      ],
+      "defHint": "Niʻihau form of ʻoukou (“second person plural; you (three or more)”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hoʻopiʻo",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "i",
+        "ʻ",
+        "o"
+      ],
+      "length": 8,
+      "bare": "hoopio",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to bend, to curve",
+      "meanings": [
+        "to bend, to curve"
+      ],
+      "defHint": "to bend, to curve",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kaikoʻeke",
+      "glyphs": [
+        "k",
+        "a",
+        "i",
+        "k",
+        "o",
+        "ʻ",
+        "e",
+        "k",
+        "e"
+      ],
+      "length": 9,
+      "bare": "kaikoeke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "brother-in-law",
+      "meanings": [
+        "brother-in-law",
+        "male cousin-in-law",
+        "sister-in-law",
+        "female cousin-in-law"
+      ],
+      "defHint": "brother-in-law",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

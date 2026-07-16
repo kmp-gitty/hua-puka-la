@@ -1,0 +1,182 @@
+{
+  "weekId": "2029-W13",
+  "ordinal": 3091,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "wikiwiki",
+      "glyphs": [
+        "w",
+        "i",
+        "k",
+        "i",
+        "w",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 8,
+      "bare": "wikiwiki",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be quick, to be speedy",
+      "meanings": [
+        "to be quick, to be speedy"
+      ],
+      "defHint": "to be quick, to be speedy",
+      "piece": {
+        "piece_word": "wiki",
+        "piece_def": "to be swift, to be speedy, to be quick",
+        "tier": 1,
+        "rationale": "wikiwiki is the reduplication of wiki; the meaning speedy/quick literally matches"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "tupuna",
+      "glyphs": [
+        "t",
+        "u",
+        "p",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "tupuna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Niʻihau form of kupuna (“grandparent, elder”)",
+      "meanings": [
+        "Niʻihau form of kupuna (“grandparent, elder”)"
+      ],
+      "defHint": "Niʻihau form of kupuna (“grandparent, elder”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hoʻopaʻa",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoopaa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to make firm",
+      "meanings": [
+        "to make firm",
+        "to bolt",
+        "to plug",
+        "to fix",
+        "to learn, memorize, master",
+        "to record",
+        "to order, to reserve",
+        "to subscribe (to a periodical)",
+        "to insure",
+        "subscription",
+        "insurance"
+      ],
+      "defHint": "to make firm",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "minuke",
+      "glyphs": [
+        "m",
+        "i",
+        "n",
+        "u",
+        "k",
+        "e"
+      ],
+      "length": 6,
+      "bare": "minuke",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "minute (unit of time)",
+      "meanings": [
+        "minute (unit of time)"
+      ],
+      "defHint": "minute (unit of time)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hōʻikeʻike",
+      "glyphs": [
+        "h",
+        "ō",
+        "ʻ",
+        "i",
+        "k",
+        "e",
+        "ʻ",
+        "i",
+        "k",
+        "e"
+      ],
+      "length": 10,
+      "bare": "hoikeike",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to exhibit, to display",
+      "meanings": [
+        "to exhibit, to display",
+        "to show and tell",
+        "exposition",
+        "demonstration",
+        "show-and-tell"
+      ],
+      "defHint": "to exhibit, to display",
+      "piece": {
+        "piece_word": "ʻike",
+        "piece_def": "to see; sight",
+        "tier": 1,
+        "rationale": "ʻike (to see) is the root reduplicated in hōʻikeʻike, meaning to show/display."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

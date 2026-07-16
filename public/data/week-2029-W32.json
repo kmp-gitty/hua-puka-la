@@ -1,0 +1,168 @@
+{
+  "weekId": "2029-W32",
+  "ordinal": 3110,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "lumaʻi",
+      "glyphs": [
+        "l",
+        "u",
+        "m",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "lumai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to drown (someone)",
+      "meanings": [
+        "to drown (someone)"
+      ],
+      "defHint": "to drown (someone)",
+      "piece": {
+        "piece_word": "luma",
+        "piece_def": "to drown",
+        "tier": 1,
+        "rationale": "The piece means 'to drown', which literally matches the word's meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pulu",
+      "glyphs": [
+        "p",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 4,
+      "bare": "pulu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fibrous husk of any nut like coconuts, candlenuts etc; boll of cotton; down of ferns",
+      "meanings": [
+        "fibrous husk of any nut like coconuts, candlenuts etc; boll of cotton; down of ferns",
+        "any natural plant fiber from coconuts, cotton etc.",
+        "pulu, the fibers of the Cibotium glaucum",
+        "mulch",
+        "bull"
+      ],
+      "defHint": "fibrous husk of any nut like coconuts, candlenuts etc; boll of cotton; down of ferns",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kahiko",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "i",
+        "k",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kahiko",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "old, traditional, ancient",
+      "meanings": [
+        "old, traditional, ancient",
+        "old person"
+      ],
+      "defHint": "old, traditional, ancient",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "kikino",
+      "glyphs": [
+        "k",
+        "i",
+        "k",
+        "i",
+        "n",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kikino",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "noun",
+      "meanings": [
+        "noun"
+      ],
+      "defHint": "noun",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pūhenehene",
+      "glyphs": [
+        "p",
+        "ū",
+        "h",
+        "e",
+        "n",
+        "e",
+        "h",
+        "e",
+        "n",
+        "e"
+      ],
+      "length": 10,
+      "bare": "puhenehene",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "a guessing game in which players have to guess which player has a piece of wood (the noʻa) concealed on their person",
+      "meanings": [
+        "a guessing game in which players have to guess which player has a piece of wood (the noʻa) concealed on their person",
+        "to play pūhenehene"
+      ],
+      "defHint": "a guessing game in which players have to guess which player has a piece of wood (the noʻa) concealed on their person",
+      "piece": {
+        "piece_word": "pū",
+        "piece_def": "together",
+        "tier": 2,
+        "rationale": "'pū' (together) fits a group game played collectively, plausibly the prefix here."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

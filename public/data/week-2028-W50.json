@@ -1,0 +1,163 @@
+{
+  "weekId": "2028-W50",
+  "ordinal": 3076,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hiamoe",
+      "glyphs": [
+        "h",
+        "i",
+        "a",
+        "m",
+        "o",
+        "e"
+      ],
+      "length": 6,
+      "bare": "hiamoe",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to sleep",
+      "meanings": [
+        "sleep",
+        "to sleep"
+      ],
+      "defHint": "to sleep",
+      "piece": {
+        "piece_word": "moe",
+        "piece_def": "to sleep; to lie down",
+        "tier": 1,
+        "rationale": "'moe' means to sleep, literally the meaning of hiamoe."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kēpuka",
+      "glyphs": [
+        "k",
+        "ē",
+        "p",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kepuka",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "prank, trick",
+      "meanings": [
+        "prank, trick",
+        "to play a prank, usually with malicious intent",
+        "to trick"
+      ],
+      "defHint": "prank, trick",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "luli",
+      "glyphs": [
+        "l",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "luli",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to totter, to sway",
+      "meanings": [
+        "to totter, to sway",
+        "to shake (of the head)",
+        "to pitch and roll"
+      ],
+      "defHint": "to totter, to sway",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "lipo",
+      "glyphs": [
+        "l",
+        "i",
+        "p",
+        "o"
+      ],
+      "length": 4,
+      "bare": "lipo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "deep sea, cavern or forest",
+      "meanings": [
+        "deep sea, cavern or forest",
+        "blue-black",
+        "depth, darkness, dimness",
+        "grief, gloom"
+      ],
+      "defHint": "deep sea, cavern or forest",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kanapapiki",
+      "glyphs": [
+        "k",
+        "a",
+        "n",
+        "a",
+        "p",
+        "a",
+        "p",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 10,
+      "bare": "kanapapiki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "son of a bitch",
+      "meanings": [
+        "son of a bitch"
+      ],
+      "defHint": "son of a bitch",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

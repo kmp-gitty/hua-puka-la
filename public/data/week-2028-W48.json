@@ -1,0 +1,160 @@
+{
+  "weekId": "2028-W48",
+  "ordinal": 3074,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻinoʻino",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "n",
+        "o",
+        "ʻ",
+        "i",
+        "n",
+        "o"
+      ],
+      "length": 8,
+      "bare": "inoino",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "spoiled, contaminated, rotten",
+      "meanings": [
+        "spoiled, contaminated, rotten",
+        "broken, damaged",
+        "wretched"
+      ],
+      "defHint": "spoiled, contaminated, rotten",
+      "piece": {
+        "piece_word": "ʻino",
+        "piece_def": "bad, wicked; foul, rotten, smelly, ugly, of poor quality",
+        "tier": 1,
+        "rationale": "ʻinoʻino is reduplication of ʻino; rotten/spoiled meaning appears directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "unahi",
+      "glyphs": [
+        "u",
+        "n",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 5,
+      "bare": "unahi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "scale, flake",
+      "meanings": [
+        "scale, flake"
+      ],
+      "defHint": "scale, flake",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kae",
+      "glyphs": [
+        "k",
+        "a",
+        "e"
+      ],
+      "length": 3,
+      "bare": "kae",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "excrement",
+      "meanings": [
+        "excrement",
+        "rubbish, refuse, waste",
+        "scorn",
+        "scorned, treated with contempt"
+      ],
+      "defHint": "excrement",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "wilikī",
+      "glyphs": [
+        "w",
+        "i",
+        "l",
+        "i",
+        "k",
+        "ī"
+      ],
+      "length": 6,
+      "bare": "wiliki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "engineer",
+      "meanings": [
+        "engineer"
+      ],
+      "defHint": "engineer",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "potasiuma",
+      "glyphs": [
+        "p",
+        "o",
+        "t",
+        "a",
+        "s",
+        "i",
+        "u",
+        "m",
+        "a"
+      ],
+      "length": 9,
+      "bare": "potasiuma",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "potassium (chemical element)",
+      "meanings": [
+        "potassium (chemical element)"
+      ],
+      "defHint": "potassium (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

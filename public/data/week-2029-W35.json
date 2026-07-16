@@ -1,0 +1,169 @@
+{
+  "weekId": "2029-W35",
+  "ordinal": 3113,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "māhaehae",
+      "glyphs": [
+        "m",
+        "ā",
+        "h",
+        "a",
+        "e",
+        "h",
+        "a",
+        "e"
+      ],
+      "length": 8,
+      "bare": "mahaehae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to tear to shreds",
+      "meanings": [
+        "to tear to shreds"
+      ],
+      "defHint": "to tear to shreds",
+      "piece": {
+        "piece_word": "hae",
+        "piece_def": "to tear; tear",
+        "tier": 1,
+        "rationale": "'hae' means to tear, and the word means to tear to shreds; reduplicated form."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kuli",
+      "glyphs": [
+        "k",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kuli",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to be deaf (not hearing)",
+      "meanings": [
+        "to be deaf (not hearing)",
+        "knee"
+      ],
+      "defHint": "to be deaf (not hearing)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻaui",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "u",
+        "i"
+      ],
+      "length": 4,
+      "bare": "aui",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to turn aside, to deviate",
+      "meanings": [
+        "to turn aside, to deviate",
+        "to bend down, to decline",
+        "to roll, to pitch",
+        "swell, roller",
+        "declension; case"
+      ],
+      "defHint": "to turn aside, to deviate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "melemele",
+      "glyphs": [
+        "m",
+        "e",
+        "l",
+        "e",
+        "m",
+        "e",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "melemele",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "light yellow (color)",
+      "meanings": [
+        "light yellow (color)"
+      ],
+      "defHint": "light yellow (color)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kaikuaʻana",
+      "glyphs": [
+        "k",
+        "a",
+        "i",
+        "k",
+        "u",
+        "a",
+        "ʻ",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 10,
+      "bare": "kaikuaana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "older sibling",
+      "meanings": [
+        "older sibling"
+      ],
+      "defHint": "older sibling",
+      "piece": {
+        "piece_word": "kuaʻana",
+        "piece_def": "term of address for an older sibling or cousin of the same sex",
+        "tier": 1,
+        "rationale": "Directly means older sibling, matching the word's definition."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

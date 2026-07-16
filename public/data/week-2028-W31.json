@@ -1,0 +1,172 @@
+{
+  "weekId": "2028-W31",
+  "ordinal": 3057,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻāmana",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "m",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "amana",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "crotch",
+      "meanings": [
+        "Y-shaped crosspiece",
+        "crotch",
+        "gallows"
+      ],
+      "defHint": "crotch",
+      "piece": {
+        "piece_word": "mana",
+        "piece_def": "crotch, branch",
+        "tier": 1,
+        "rationale": "The 'crotch, branch' sense of mana literally matches the crotch/branch meaning of ʻāmana."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kahuna",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kahuna",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "priest, sorcerer, magician, minister, wizard",
+      "meanings": [
+        "priest, sorcerer, magician, minister, wizard",
+        "expert in any profession (doctors, surgeons, dentists were referred to as such in the 1845 laws)"
+      ],
+      "defHint": "priest, sorcerer, magician, minister, wizard",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "katau",
+      "glyphs": [
+        "k",
+        "a",
+        "t",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "katau",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "Niʻihau form of kākau (“writing”)",
+      "meanings": [
+        "Niʻihau form of kākau (“writing”)",
+        "Niʻihau form of kākau (“tattoo”)",
+        "Niʻihau form of kākau (“to write”)",
+        "Niʻihau form of kākau (“to tattoo”)"
+      ],
+      "defHint": "Niʻihau form of kākau (“writing”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hāliu",
+      "glyphs": [
+        "h",
+        "ā",
+        "l",
+        "i",
+        "u"
+      ],
+      "length": 5,
+      "bare": "haliu",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to turn",
+      "meanings": [
+        "to turn",
+        "to hearken to, to regard"
+      ],
+      "defHint": "to turn",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻālapakonaʻumi",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "l",
+        "a",
+        "p",
+        "a",
+        "k",
+        "o",
+        "n",
+        "a",
+        "ʻ",
+        "u",
+        "m",
+        "i"
+      ],
+      "length": 14,
+      "bare": "alapakonaumi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "decathlon",
+      "meanings": [
+        "decathlon"
+      ],
+      "defHint": "decathlon",
+      "piece": {
+        "piece_word": "ʻumi",
+        "piece_def": "ten, tenth",
+        "tier": 2,
+        "rationale": "Decathlon comprises ten events; ʻumi (ten) is the meaningful numeric root."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

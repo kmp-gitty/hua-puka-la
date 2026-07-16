@@ -1,0 +1,182 @@
+{
+  "weekId": "2028-W43",
+  "ordinal": 3069,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kiʻekiʻe",
+      "glyphs": [
+        "k",
+        "i",
+        "ʻ",
+        "e",
+        "k",
+        "i",
+        "ʻ",
+        "e"
+      ],
+      "length": 8,
+      "bare": "kiekie",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "high, lofty",
+      "meanings": [
+        "high, lofty",
+        "exalted, majestic",
+        "height (tallness)",
+        "height (altitude)"
+      ],
+      "defHint": "high, lofty",
+      "piece": {
+        "piece_word": "kiʻe",
+        "piece_def": "high, lofty",
+        "tier": 1,
+        "rationale": "kiʻekiʻe is the reduplication of kiʻe (high, lofty); meaning appears literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "māunauna",
+      "glyphs": [
+        "m",
+        "ā",
+        "u",
+        "n",
+        "a",
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "maunauna",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "wasteful, extravagant",
+      "meanings": [
+        "wasteful, extravagant"
+      ],
+      "defHint": "wasteful, extravagant",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "luaʻi",
+      "glyphs": [
+        "l",
+        "u",
+        "a",
+        "ʻ",
+        "i"
+      ],
+      "length": 5,
+      "bare": "luai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "vomit",
+      "meanings": [
+        "vomit",
+        "eruption (from a volcano)",
+        "to vomit",
+        "to erupt (as a volcano)",
+        "to banish, to expel"
+      ],
+      "defHint": "vomit",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "haʻuki",
+      "glyphs": [
+        "h",
+        "a",
+        "ʻ",
+        "u",
+        "k",
+        "i"
+      ],
+      "length": 6,
+      "bare": "hauki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sport",
+      "meanings": [
+        "sport"
+      ],
+      "defHint": "sport",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokiʻekiʻe",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "i",
+        "ʻ",
+        "e",
+        "k",
+        "i",
+        "ʻ",
+        "e"
+      ],
+      "length": 12,
+      "bare": "hookiekie",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "elevation",
+      "meanings": [
+        "to elevate",
+        "to promote",
+        "to lord it over others, to be overbearing",
+        "elevation",
+        "promotion",
+        "vanity, conceit"
+      ],
+      "defHint": "elevation",
+      "piece": {
+        "piece_word": "kiʻekiʻe",
+        "piece_def": "high, lofty; height",
+        "tier": 1,
+        "rationale": "hoʻo- causative of kiʻekiʻe; height/elevation appears directly."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

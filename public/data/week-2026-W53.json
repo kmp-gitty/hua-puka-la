@@ -1,0 +1,173 @@
+{
+  "weekId": "2026-W53",
+  "ordinal": 2974,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "heleāwai",
+      "glyphs": [
+        "h",
+        "e",
+        "l",
+        "e",
+        "ā",
+        "w",
+        "a",
+        "i"
+      ],
+      "length": 8,
+      "bare": "heleawai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to flow like water",
+      "meanings": [
+        "to flow like water"
+      ],
+      "defHint": "to flow like water",
+      "piece": {
+        "piece_word": "wai",
+        "piece_def": "water, especially of fresh sources",
+        "tier": 1,
+        "rationale": "Water literally appears in the definition 'to flow like water'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ponoʻī",
+      "glyphs": [
+        "p",
+        "o",
+        "n",
+        "o",
+        "ʻ",
+        "ī"
+      ],
+      "length": 6,
+      "bare": "ponoi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "self",
+      "meanings": [
+        "self",
+        "own, private, personal",
+        "directly, exactly"
+      ],
+      "defHint": "self",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kulāiwi",
+      "glyphs": [
+        "k",
+        "u",
+        "l",
+        "ā",
+        "i",
+        "w",
+        "i"
+      ],
+      "length": 7,
+      "bare": "kulaiwi",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "native land. homeland",
+      "meanings": [
+        "native land. homeland",
+        "native"
+      ],
+      "defHint": "native land. homeland",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hapahā",
+      "glyphs": [
+        "h",
+        "a",
+        "p",
+        "a",
+        "h",
+        "ā"
+      ],
+      "length": 6,
+      "bare": "hapaha",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fourth (fourth part of something)",
+      "meanings": [
+        "fourth (fourth part of something)",
+        "quarter"
+      ],
+      "defHint": "fourth (fourth part of something)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pahupaʻikiʻi",
+      "glyphs": [
+        "p",
+        "a",
+        "h",
+        "u",
+        "p",
+        "a",
+        "ʻ",
+        "i",
+        "k",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 12,
+      "bare": "pahupaikii",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "camera",
+      "meanings": [
+        "camera"
+      ],
+      "defHint": "camera",
+      "piece": {
+        "piece_word": "kiʻi",
+        "piece_def": "a picture, image, drawing",
+        "tier": 1,
+        "rationale": "A camera captures pictures/images; image literally relates to its function."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

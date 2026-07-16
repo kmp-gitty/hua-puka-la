@@ -1,35 +1,38 @@
 {
   "weekId": "2026-W29",
   "ordinal": 2950,
-  "sealedAt": "2026-07-02T20:40:11.426Z",
+  "sealedAt": "2026-07-16T13:48:50.183Z",
   "puzzles": [
     {
-      "word": "kākoʻo",
+      "word": "mahana",
       "glyphs": [
-        "k",
-        "ā",
-        "k",
-        "o",
-        "ʻ",
-        "o"
+        "m",
+        "a",
+        "h",
+        "a",
+        "n",
+        "a"
       ],
       "length": 6,
-      "bare": "kakoo",
+      "bare": "mahana",
       "pos": [
         "noun",
         "verb"
       ],
-      "featuredSense": "support, aid",
+      "featuredSense": "rest, repose, vacation",
       "meanings": [
-        "to support, to uphold, to favor",
-        "support, aid"
+        "warm",
+        "warmth, heat",
+        "rest, repose, vacation",
+        "farm, plantation, patch",
+        "a class of chiefs"
       ],
-      "defHint": "support, aid",
+      "defHint": "rest, repose, vacation",
       "piece": {
-        "piece_word": "koʻo",
-        "piece_def": "brace; support; prop",
+        "piece_word": "maha",
+        "piece_def": "rest, repose",
         "tier": 1,
-        "rationale": "koʻo literally means support/prop, directly appearing in the meaning of kākoʻo."
+        "rationale": "maha means rest/repose, literally matching mahana's rest sense."
       },
       "dayMeta": {
         "slot": 0,
@@ -39,27 +42,23 @@
       }
     },
     {
-      "word": "ʻamaʻama",
+      "word": "koko",
       "glyphs": [
-        "ʻ",
-        "a",
-        "m",
-        "a",
-        "ʻ",
-        "a",
-        "m",
-        "a"
+        "k",
+        "o",
+        "k",
+        "o"
       ],
-      "length": 8,
-      "bare": "amaama",
+      "length": 4,
+      "bare": "koko",
       "pos": [
         "noun"
       ],
-      "featuredSense": "flathead mullet (Mugil cephalus)",
+      "featuredSense": "blood",
       "meanings": [
-        "flathead mullet (Mugil cephalus)"
+        "blood"
       ],
-      "defHint": "flathead mullet (Mugil cephalus)",
+      "defHint": "blood",
       "piece": null,
       "dayMeta": {
         "slot": 1,
@@ -69,25 +68,27 @@
       }
     },
     {
-      "word": "hāʻuke",
+      "word": "ʻiʻini",
       "glyphs": [
-        "h",
-        "ā",
         "ʻ",
-        "u",
-        "k",
-        "e"
+        "i",
+        "ʻ",
+        "i",
+        "n",
+        "i"
       ],
       "length": 6,
-      "bare": "hauke",
+      "bare": "iini",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "featuredSense": "helmet urchin (Colobocentrotus atratus)",
+      "featuredSense": "desire, yearning",
       "meanings": [
-        "helmet urchin (Colobocentrotus atratus)"
+        "desire, yearning",
+        "to desire"
       ],
-      "defHint": "helmet urchin (Colobocentrotus atratus)",
+      "defHint": "desire, yearning",
       "piece": null,
       "dayMeta": {
         "slot": 2,
@@ -97,23 +98,25 @@
       }
     },
     {
-      "word": "manu",
+      "word": "ʻoi",
       "glyphs": [
-        "m",
-        "a",
-        "n",
-        "u"
+        "ʻ",
+        "o",
+        "i"
       ],
-      "length": 4,
-      "bare": "manu",
+      "length": 3,
+      "bare": "oi",
       "pos": [
-        "noun"
+        "noun",
+        "verb"
       ],
-      "featuredSense": "bird (animal)",
+      "featuredSense": "sharp",
       "meanings": [
-        "bird (animal)"
+        "sharp",
+        "acute",
+        "sharpness"
       ],
-      "defHint": "bird (animal)",
+      "defHint": "sharp",
       "piece": null,
       "dayMeta": {
         "slot": 3,
@@ -123,36 +126,35 @@
       }
     },
     {
-      "word": "hoʻohaʻalulu",
+      "word": "kālaimeaola",
       "glyphs": [
-        "h",
-        "o",
-        "ʻ",
-        "o",
-        "h",
-        "a",
-        "ʻ",
-        "a",
+        "k",
+        "ā",
         "l",
-        "u",
+        "a",
+        "i",
+        "m",
+        "e",
+        "a",
+        "o",
         "l",
-        "u"
+        "a"
       ],
-      "length": 12,
-      "bare": "hoohaalulu",
+      "length": 11,
+      "bare": "kalaimeaola",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "featuredSense": "to cause to shake",
+      "featuredSense": "biology",
       "meanings": [
-        "to cause to shake"
+        "biology"
       ],
-      "defHint": "to cause to shake",
+      "defHint": "biology",
       "piece": {
-        "piece_word": "haʻalulu",
-        "piece_def": "to cause to shake",
+        "piece_word": "ola",
+        "piece_def": "life",
         "tier": 1,
-        "rationale": "Root word with hoʻo- causative prefix; identical meaning."
+        "rationale": "Biology is the study of life; 'ola' (life) is a core component"
       },
       "dayMeta": {
         "slot": 4,

@@ -1,0 +1,169 @@
+{
+  "weekId": "2027-W08",
+  "ordinal": 2982,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pōnalo",
+      "glyphs": [
+        "p",
+        "ō",
+        "n",
+        "a",
+        "l",
+        "o"
+      ],
+      "length": 6,
+      "bare": "ponalo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "gnat; small fly",
+      "meanings": [
+        "gnat; small fly",
+        "dim, obscure",
+        "shriveled",
+        "misfortune",
+        "death",
+        "blight"
+      ],
+      "defHint": "gnat; small fly",
+      "piece": {
+        "piece_word": "nalo",
+        "piece_def": "fly (any two-winged insect)",
+        "tier": 1,
+        "rationale": "nalo means fly; pōnalo means gnat/small fly, so fly appears literally."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "lilikoʻi",
+      "glyphs": [
+        "l",
+        "i",
+        "l",
+        "i",
+        "k",
+        "o",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "lilikoi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "passion fruit",
+      "meanings": [
+        "passion fruit"
+      ],
+      "defHint": "passion fruit",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mālō",
+      "glyphs": [
+        "m",
+        "ā",
+        "l",
+        "ō"
+      ],
+      "length": 4,
+      "bare": "malo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "taut",
+      "meanings": [
+        "taut",
+        "straight",
+        "tense"
+      ],
+      "defHint": "taut",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ulana",
+      "glyphs": [
+        "u",
+        "l",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 5,
+      "bare": "ulana",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to plait",
+      "meanings": [
+        "to plait"
+      ],
+      "defHint": "to plait",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "mākaʻukaʻu",
+      "glyphs": [
+        "m",
+        "ā",
+        "k",
+        "a",
+        "ʻ",
+        "u",
+        "k",
+        "a",
+        "ʻ",
+        "u"
+      ],
+      "length": 10,
+      "bare": "makaukau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "frightened, afraid",
+      "meanings": [
+        "frightened, afraid"
+      ],
+      "defHint": "frightened, afraid",
+      "piece": {
+        "piece_word": "kaʻukaʻu",
+        "piece_def": "to hesitate",
+        "tier": 2,
+        "rationale": "Hesitation/holding back relates to fear; the reduplicated form echoes the fearful word."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,163 @@
+{
+  "weekId": "2028-W29",
+  "ordinal": 3055,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kokoko",
+      "glyphs": [
+        "k",
+        "o",
+        "k",
+        "o",
+        "k",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kokoko",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "bloody; (of meat) rare",
+      "meanings": [
+        "bloody; (of meat) rare",
+        "violently angry"
+      ],
+      "defHint": "bloody; (of meat) rare",
+      "piece": {
+        "piece_word": "koko",
+        "piece_def": "blood",
+        "tier": 1,
+        "rationale": "kokoko means bloody; blood literally appears in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "akaaka",
+      "glyphs": [
+        "a",
+        "k",
+        "a",
+        "a",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "akaaka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "clear, transparent",
+      "meanings": [
+        "clear, transparent",
+        "visible, manifest",
+        "luminous, shining"
+      ],
+      "defHint": "clear, transparent",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pelu",
+      "glyphs": [
+        "p",
+        "e",
+        "l",
+        "u"
+      ],
+      "length": 4,
+      "bare": "pelu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to bend, to fold",
+      "meanings": [
+        "to bend, to fold",
+        "to turn and go",
+        "to tuck, to hem",
+        "hem"
+      ],
+      "defHint": "to bend, to fold",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pālākiō",
+      "glyphs": [
+        "p",
+        "ā",
+        "l",
+        "ā",
+        "k",
+        "i",
+        "ō"
+      ],
+      "length": 7,
+      "bare": "palakio",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "scale, in math",
+      "meanings": [
+        "scale, in math"
+      ],
+      "defHint": "scale, in math",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻokekelika",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "k",
+        "e",
+        "k",
+        "e",
+        "l",
+        "i",
+        "k",
+        "a"
+      ],
+      "length": 10,
+      "bare": "okekelika",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ostrich",
+      "meanings": [
+        "ostrich"
+      ],
+      "defHint": "ostrich",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

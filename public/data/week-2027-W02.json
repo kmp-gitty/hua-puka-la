@@ -1,0 +1,172 @@
+{
+  "weekId": "2027-W02",
+  "ordinal": 2976,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "piʻina",
+      "glyphs": [
+        "p",
+        "i",
+        "ʻ",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "piina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "climb, ascent",
+      "meanings": [
+        "climb, ascent"
+      ],
+      "defHint": "climb, ascent",
+      "piece": {
+        "piece_word": "piʻi",
+        "piece_def": "to rise, to climb, to ascend",
+        "tier": 1,
+        "rationale": "piʻina is the nominalized form of piʻi; climb/ascent literally derives from it."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "holoholo",
+      "glyphs": [
+        "h",
+        "o",
+        "l",
+        "o",
+        "h",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 8,
+      "bare": "holoholo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to go for a walk, ride, or sail; to go out for pleasure, stroll, promenade",
+      "meanings": [
+        "to go for a walk, ride, or sail; to go out for pleasure, stroll, promenade",
+        "to baste"
+      ],
+      "defHint": "to go for a walk, ride, or sail; to go out for pleasure, stroll, promenade",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻuao",
+      "glyphs": [
+        "ʻ",
+        "u",
+        "a",
+        "o"
+      ],
+      "length": 4,
+      "bare": "uao",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to intercede, to mediate",
+      "meanings": [
+        "to intercede, to mediate",
+        "to arbitrate, to reconcile",
+        "to referee",
+        "arbitrator, mediator",
+        "referee, umpire"
+      ],
+      "defHint": "to intercede, to mediate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hānai",
+      "glyphs": [
+        "h",
+        "ā",
+        "n",
+        "a",
+        "i"
+      ],
+      "length": 5,
+      "bare": "hanai",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "foster child, adopted child",
+      "meanings": [
+        "foster child, adopted child",
+        "to feed, care for, provide for",
+        "to adopt",
+        "adopted"
+      ],
+      "defHint": "foster child, adopted child",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomālie",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "ā",
+        "l",
+        "i",
+        "e"
+      ],
+      "length": 9,
+      "bare": "hoomalie",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to calm",
+      "meanings": [
+        "to calm",
+        "to quiet, to lull, to hush",
+        "to soothe, to ease"
+      ],
+      "defHint": "to calm",
+      "piece": {
+        "piece_word": "mālie",
+        "piece_def": "calm, serene, still; quiet, tranquil",
+        "tier": 1,
+        "rationale": "hoʻomālie is causative of mālie (calm); meaning literally derives from it."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

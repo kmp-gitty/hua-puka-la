@@ -1,0 +1,163 @@
+{
+  "weekId": "2029-W06",
+  "ordinal": 3084,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pōhue",
+      "glyphs": [
+        "p",
+        "ō",
+        "h",
+        "u",
+        "e"
+      ],
+      "length": 5,
+      "bare": "pohue",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "A gourd",
+      "meanings": [
+        "A gourd"
+      ],
+      "defHint": "A gourd",
+      "piece": {
+        "piece_word": "hue",
+        "piece_def": "bottle gourd, Lagenaria siceraria; calabash",
+        "tier": 1,
+        "rationale": "hue means gourd/calabash, which literally matches the meaning of pōhue (a gourd)."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "mahae",
+      "glyphs": [
+        "m",
+        "a",
+        "h",
+        "a",
+        "e"
+      ],
+      "length": 5,
+      "bare": "mahae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to tear, to split, to separate",
+      "meanings": [
+        "to tear, to split, to separate"
+      ],
+      "defHint": "to tear, to split, to separate",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻohu",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "h",
+        "u"
+      ],
+      "length": 4,
+      "bare": "ohu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "fog",
+      "meanings": [
+        "fog"
+      ],
+      "defHint": "fog",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mūkiʻi",
+      "glyphs": [
+        "m",
+        "ū",
+        "k",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "mukii",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "tether",
+      "meanings": [
+        "tether",
+        "to tie, to bind"
+      ],
+      "defHint": "tether",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻopaʻanaʻau",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "a",
+        "ʻ",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "a",
+        "u"
+      ],
+      "length": 13,
+      "bare": "hoopaanaau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to memorize",
+      "meanings": [
+        "to memorize"
+      ],
+      "defHint": "to memorize",
+      "piece": {
+        "piece_word": "paʻanaʻau",
+        "piece_def": "memorized, remembered",
+        "tier": 1,
+        "rationale": "Directly means memorized, matching the definition"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

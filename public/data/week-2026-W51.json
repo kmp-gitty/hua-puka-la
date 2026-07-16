@@ -1,0 +1,166 @@
+{
+  "weekId": "2026-W51",
+  "ordinal": 2972,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pōhae",
+      "glyphs": [
+        "p",
+        "ō",
+        "h",
+        "a",
+        "e"
+      ],
+      "length": 5,
+      "bare": "pohae",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "torn",
+      "meanings": [
+        "torn",
+        "easily torn, fragile"
+      ],
+      "defHint": "torn",
+      "piece": {
+        "piece_word": "hae",
+        "piece_def": "to tear; tear",
+        "tier": 1,
+        "rationale": "'hae' means to tear, and pōhae literally means torn/easily torn."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻeleweka",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "l",
+        "e",
+        "w",
+        "e",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "eleweka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "elevator, lift",
+      "meanings": [
+        "elevator, lift"
+      ],
+      "defHint": "elevator, lift",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "moe",
+      "glyphs": [
+        "m",
+        "o",
+        "e"
+      ],
+      "length": 3,
+      "bare": "moe",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to sleep",
+      "meanings": [
+        "to sleep",
+        "to lie down",
+        "to die",
+        "to ambush",
+        "to marry",
+        "to incubate eggs (of birds)",
+        "bed",
+        "dream",
+        "marriage",
+        "calmness"
+      ],
+      "defHint": "to sleep",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻahi",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "h",
+        "i"
+      ],
+      "length": 4,
+      "bare": "ahi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "yellowfin tuna (Thunnus albacares)",
+      "meanings": [
+        "yellowfin tuna (Thunnus albacares)",
+        "bigeye tuna (Thunnus obesus)"
+      ],
+      "defHint": "yellowfin tuna (Thunnus albacares)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "makanekiuma",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "n",
+        "e",
+        "k",
+        "i",
+        "u",
+        "m",
+        "a"
+      ],
+      "length": 11,
+      "bare": "makanekiuma",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "magnesium (chemical element)",
+      "meanings": [
+        "magnesium (chemical element)"
+      ],
+      "defHint": "magnesium (chemical element)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

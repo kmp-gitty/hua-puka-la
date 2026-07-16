@@ -1,0 +1,158 @@
+{
+  "weekId": "2030-W12",
+  "ordinal": 3142,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻīpuka",
+      "glyphs": [
+        "ʻ",
+        "ī",
+        "p",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 6,
+      "bare": "ipuka",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "gateway",
+      "meanings": [
+        "gateway",
+        "alias (online or in a computer program)"
+      ],
+      "defHint": "gateway",
+      "piece": {
+        "piece_word": "puka",
+        "piece_def": "hole, gate, doorway",
+        "tier": 1,
+        "rationale": "'gate/doorway' literally matches the meaning 'gateway'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "umō",
+      "glyphs": [
+        "u",
+        "m",
+        "ō"
+      ],
+      "length": 3,
+      "bare": "umo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "moo, characteristic lowing sound made by cattle.",
+      "meanings": [
+        "moo, characteristic lowing sound made by cattle."
+      ],
+      "defHint": "moo, characteristic lowing sound made by cattle.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻōpala",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "p",
+        "a",
+        "l",
+        "a"
+      ],
+      "length": 6,
+      "bare": "opala",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "trash, garbage, rubbish",
+      "meanings": [
+        "trash, garbage, rubbish"
+      ],
+      "defHint": "trash, garbage, rubbish",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "huila",
+      "glyphs": [
+        "h",
+        "u",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 5,
+      "bare": "huila",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "wheel",
+      "meanings": [
+        "wheel"
+      ],
+      "defHint": "wheel",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kamaʻāina",
+      "glyphs": [
+        "k",
+        "a",
+        "m",
+        "a",
+        "ʻ",
+        "ā",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "kamaaina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "a person born and bred in Hawaii",
+      "meanings": [
+        "a person born and bred in Hawaii"
+      ],
+      "defHint": "a person born and bred in Hawaii",
+      "piece": {
+        "piece_word": "kama",
+        "piece_def": "child regardless of sex",
+        "tier": 2,
+        "rationale": "Kamaʻāina literally means child of the land; kama contributes the 'child' element."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

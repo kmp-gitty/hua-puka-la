@@ -1,0 +1,162 @@
+{
+  "weekId": "2027-W37",
+  "ordinal": 3011,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kupukupu",
+      "glyphs": [
+        "k",
+        "u",
+        "p",
+        "u",
+        "k",
+        "u",
+        "p",
+        "u"
+      ],
+      "length": 8,
+      "bare": "kupukupu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to surge forth",
+      "meanings": [
+        "to surge forth",
+        "fern (generic term for those growing a single stem)",
+        "sword fern (Nephrolepis exaltata)"
+      ],
+      "defHint": "to surge forth",
+      "piece": {
+        "piece_word": "kupu",
+        "piece_def": "to sprout, to germinate; to grow, to increase",
+        "tier": 1,
+        "rationale": "Kupukupu is a reduplication of kupu; sprouting/growing relates directly to 'surge forth'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hikaluhi",
+      "glyphs": [
+        "h",
+        "i",
+        "k",
+        "a",
+        "l",
+        "u",
+        "h",
+        "i"
+      ],
+      "length": 8,
+      "bare": "hikaluhi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "self-care",
+      "meanings": [
+        "self-care"
+      ],
+      "defHint": "self-care",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kanapī",
+      "glyphs": [
+        "k",
+        "a",
+        "n",
+        "a",
+        "p",
+        "ī"
+      ],
+      "length": 6,
+      "bare": "kanapi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "centipede",
+      "meanings": [
+        "centipede"
+      ],
+      "defHint": "centipede",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "aina",
+      "glyphs": [
+        "a",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "aina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "coition",
+      "meanings": [
+        "coition"
+      ],
+      "defHint": "coition",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻōniʻoniʻo",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "n",
+        "i",
+        "ʻ",
+        "o",
+        "n",
+        "i",
+        "ʻ",
+        "o"
+      ],
+      "length": 10,
+      "bare": "onionio",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be striped",
+      "meanings": [
+        "to be striped"
+      ],
+      "defHint": "to be striped",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

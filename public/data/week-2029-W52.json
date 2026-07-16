@@ -1,0 +1,166 @@
+{
+  "weekId": "2029-W52",
+  "ordinal": 3130,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nihoa",
+      "glyphs": [
+        "n",
+        "i",
+        "h",
+        "o",
+        "a"
+      ],
+      "length": 5,
+      "bare": "nihoa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "toothed, serrated",
+      "meanings": [
+        "toothed, serrated",
+        "jagged, sharp",
+        "notched",
+        "firmly set (i.e. like teeth in the mouth)"
+      ],
+      "defHint": "toothed, serrated",
+      "piece": {
+        "piece_word": "niho",
+        "piece_def": "tooth",
+        "tier": 1,
+        "rationale": "'niho' (tooth) literally underlies nihoa 'toothed, serrated'."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kalima",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "i",
+        "m",
+        "a"
+      ],
+      "length": 6,
+      "bare": "kalima",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "cream",
+      "meanings": [
+        "cream"
+      ],
+      "defHint": "cream",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "pona",
+      "glyphs": [
+        "p",
+        "o",
+        "n",
+        "a"
+      ],
+      "length": 4,
+      "bare": "pona",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "node of bamboo or sugarcanes",
+      "meanings": [
+        "node of bamboo or sugarcanes",
+        "joint of bones, fingers"
+      ],
+      "defHint": "node of bamboo or sugarcanes",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻelekule",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "l",
+        "e",
+        "k",
+        "u",
+        "l",
+        "e"
+      ],
+      "length": 8,
+      "bare": "elekule",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "old fellow",
+      "meanings": [
+        "old fellow"
+      ],
+      "defHint": "old fellow",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hukialewa",
+      "glyphs": [
+        "h",
+        "u",
+        "k",
+        "i",
+        "a",
+        "l",
+        "e",
+        "w",
+        "a"
+      ],
+      "length": 9,
+      "bare": "hukialewa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "chin-up, pull-up",
+      "meanings": [
+        "chin-up, pull-up",
+        "to perform a chin-up or pull-up"
+      ],
+      "defHint": "chin-up, pull-up",
+      "piece": {
+        "piece_word": "huki",
+        "piece_def": "to pull, to tug",
+        "tier": 1,
+        "rationale": "huki means to pull, literally present in the meaning pull-up/chin-up."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

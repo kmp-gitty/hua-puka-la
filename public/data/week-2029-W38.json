@@ -1,0 +1,190 @@
+{
+  "weekId": "2029-W38",
+  "ordinal": 3116,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻonani",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 8,
+      "bare": "hoonani",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to beautify",
+      "meanings": [
+        "to beautify",
+        "to decorate, to adorn",
+        "to adore, to praise"
+      ],
+      "defHint": "to beautify",
+      "piece": {
+        "piece_word": "nani",
+        "piece_def": "to be lovely, pretty, nice",
+        "tier": 1,
+        "rationale": "hoʻonani = causative of nani; beauty literally central to meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "anahulu",
+      "glyphs": [
+        "a",
+        "n",
+        "a",
+        "h",
+        "u",
+        "l",
+        "u"
+      ],
+      "length": 7,
+      "bare": "anahulu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "a period of ten days",
+      "meanings": [
+        "a period of ten days",
+        "to pass ten days"
+      ],
+      "defHint": "a period of ten days",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻaʻa",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 4,
+      "bare": "aa",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "clothlike sheath on the bottom of a coconut leaf frond",
+      "meanings": [
+        "clothlike sheath on the bottom of a coconut leaf frond",
+        "fiber from a coconut husk",
+        "cloth",
+        "pocket, bag",
+        "caul",
+        "eyelid",
+        "chaff",
+        "to brave, challenge, defy",
+        "to venture",
+        "to accept a challenge",
+        "to act wickedly",
+        "to be bold, brave, adventurous",
+        "belt, waist",
+        "to tie on"
+      ],
+      "defHint": "clothlike sheath on the bottom of a coconut leaf frond",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "makemake",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "e",
+        "m",
+        "a",
+        "k",
+        "e"
+      ],
+      "length": 8,
+      "bare": "makemake",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "desire",
+      "meanings": [
+        "desire",
+        "preference",
+        "to want",
+        "to prefer"
+      ],
+      "defHint": "desire",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻāpikipiki",
+      "glyphs": [
+        "ʻ",
+        "ā",
+        "p",
+        "i",
+        "k",
+        "i",
+        "p",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 10,
+      "bare": "apikipiki",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "troubled, agitated",
+      "meanings": [
+        "troubled, agitated",
+        "to fold, to pleat",
+        "fold, pleat"
+      ],
+      "defHint": "troubled, agitated",
+      "piece": {
+        "piece_word": "kipi",
+        "piece_def": "to plot or conspire against; to revolt, to rebel",
+        "tier": 2,
+        "rationale": "Rebellion/conspiring relates to being troubled and agitated."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

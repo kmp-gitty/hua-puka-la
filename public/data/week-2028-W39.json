@@ -1,0 +1,167 @@
+{
+  "weekId": "2028-W39",
+  "ordinal": 3065,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻopuka",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "p",
+        "u",
+        "k",
+        "a"
+      ],
+      "length": 8,
+      "bare": "hoopuka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to perforate, to puncture",
+      "meanings": [
+        "to perforate, to puncture"
+      ],
+      "defHint": "to perforate, to puncture",
+      "piece": {
+        "piece_word": "puka",
+        "piece_def": "hole",
+        "tier": 1,
+        "rationale": "hoʻo- causative of puka (hole); to make a hole = perforate/puncture."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pilikia",
+      "glyphs": [
+        "p",
+        "i",
+        "l",
+        "i",
+        "k",
+        "i",
+        "a"
+      ],
+      "length": 7,
+      "bare": "pilikia",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "trouble, difficulty, distress",
+      "meanings": [
+        "trouble, difficulty, distress",
+        "problem, nuisance, inconvenience",
+        "in trouble",
+        "troubled, bothered",
+        "cramped, crowded"
+      ],
+      "defHint": "trouble, difficulty, distress",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "una",
+      "glyphs": [
+        "u",
+        "n",
+        "a"
+      ],
+      "length": 3,
+      "bare": "una",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "shell or carapace of a turtle made of conjoined scutes",
+      "meanings": [
+        "shell or carapace of a turtle made of conjoined scutes"
+      ],
+      "defHint": "shell or carapace of a turtle made of conjoined scutes",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "aeʻo",
+      "glyphs": [
+        "a",
+        "e",
+        "ʻ",
+        "o"
+      ],
+      "length": 4,
+      "bare": "aeo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "A species of stilt (bird) native to Hawaii, Himantopus knudseni",
+      "meanings": [
+        "A species of stilt (bird) native to Hawaii, Himantopus knudseni",
+        "A stilt (walking pole)"
+      ],
+      "defHint": "A species of stilt (bird) native to Hawaii, Himantopus knudseni",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "makapiapia",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "p",
+        "i",
+        "a",
+        "p",
+        "i",
+        "a"
+      ],
+      "length": 10,
+      "bare": "makapiapia",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "eye discharge, eye mucus",
+      "meanings": [
+        "eye discharge, eye mucus",
+        "watery eyes"
+      ],
+      "defHint": "eye discharge, eye mucus",
+      "piece": {
+        "piece_word": "maka",
+        "piece_def": "eye (organ)",
+        "tier": 1,
+        "rationale": "'eye' literally appears in the meaning 'eye discharge/watery eyes'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

@@ -1,0 +1,167 @@
+{
+  "weekId": "2029-W18",
+  "ordinal": 3096,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "nānaku",
+      "glyphs": [
+        "n",
+        "ā",
+        "n",
+        "a",
+        "k",
+        "u"
+      ],
+      "length": 6,
+      "bare": "nanaku",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "great bulrush",
+      "meanings": [
+        "great bulrush"
+      ],
+      "defHint": "great bulrush",
+      "piece": {
+        "piece_word": "naku",
+        "piece_def": "bulrush",
+        "tier": 1,
+        "rationale": "naku itself means bulrush, literally the meaning of nānaku."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kūʻē",
+      "glyphs": [
+        "k",
+        "ū",
+        "ʻ",
+        "ē"
+      ],
+      "length": 4,
+      "bare": "kue",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to oppose; to resist",
+      "meanings": [
+        "to oppose; to resist"
+      ],
+      "defHint": "to oppose; to resist",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kila",
+      "glyphs": [
+        "k",
+        "i",
+        "l",
+        "a"
+      ],
+      "length": 4,
+      "bare": "kila",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "high place",
+      "meanings": [
+        "high place",
+        "strong, stout",
+        "bold",
+        "seal",
+        "brand",
+        "to seal",
+        "sealed"
+      ],
+      "defHint": "high place",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mahāha",
+      "glyphs": [
+        "m",
+        "a",
+        "h",
+        "ā",
+        "h",
+        "a"
+      ],
+      "length": 6,
+      "bare": "mahaha",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to be soft",
+      "meanings": [
+        "to be soft"
+      ],
+      "defHint": "to be soft",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻonaʻanaʻa",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "a",
+        "ʻ",
+        "a",
+        "n",
+        "a",
+        "ʻ",
+        "a"
+      ],
+      "length": 12,
+      "bare": "hoonaanaa",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to protrude",
+      "meanings": [
+        "to protrude"
+      ],
+      "defHint": "to protrude",
+      "piece": {
+        "piece_word": "naʻanaʻa",
+        "piece_def": "potbellied; protruding",
+        "tier": 1,
+        "rationale": "Piece means protruding, matching the word's definition directly."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

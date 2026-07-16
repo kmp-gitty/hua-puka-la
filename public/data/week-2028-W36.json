@@ -1,0 +1,166 @@
+{
+  "weekId": "2028-W36",
+  "ordinal": 3062,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "helekū",
+      "glyphs": [
+        "h",
+        "e",
+        "l",
+        "e",
+        "k",
+        "ū"
+      ],
+      "length": 6,
+      "bare": "heleku",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to walk upright",
+      "meanings": [
+        "to walk upright"
+      ],
+      "defHint": "to walk upright",
+      "piece": {
+        "piece_word": "kū",
+        "piece_def": "to stand, to rise",
+        "tier": 1,
+        "rationale": "kū (to stand/rise) reflects the upright/standing part of 'to walk upright'"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "maitai",
+      "glyphs": [
+        "m",
+        "a",
+        "i",
+        "t",
+        "a",
+        "i"
+      ],
+      "length": 6,
+      "bare": "maitai",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "Niʻihau form of maikaʻi (“goodness”)",
+      "meanings": [
+        "Niʻihau form of maikaʻi (“goodness”)"
+      ],
+      "defHint": "Niʻihau form of maikaʻi (“goodness”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "mile",
+      "glyphs": [
+        "m",
+        "i",
+        "l",
+        "e"
+      ],
+      "length": 4,
+      "bare": "mile",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "mile (unit of measure)",
+      "meanings": [
+        "mile (unit of measure)"
+      ],
+      "defHint": "— (unit of measure)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "heʻe",
+      "glyphs": [
+        "h",
+        "e",
+        "ʻ",
+        "e"
+      ],
+      "length": 4,
+      "bare": "hee",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "octopus",
+      "meanings": [
+        "octopus",
+        "to slide, to surf, to slip, to flee",
+        "to melt, to flow"
+      ],
+      "defHint": "octopus",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kālaimeaolahune",
+      "glyphs": [
+        "k",
+        "ā",
+        "l",
+        "a",
+        "i",
+        "m",
+        "e",
+        "a",
+        "o",
+        "l",
+        "a",
+        "h",
+        "u",
+        "n",
+        "e"
+      ],
+      "length": 15,
+      "bare": "kalaimeaolahune",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "microbiology",
+      "meanings": [
+        "microbiology"
+      ],
+      "defHint": "microbiology",
+      "piece": {
+        "piece_word": "kālaimeaola",
+        "piece_def": "biology",
+        "tier": 1,
+        "rationale": "Microbiology is a branch of biology (kālaimeaola)"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

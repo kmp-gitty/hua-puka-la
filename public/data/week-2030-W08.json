@@ -1,0 +1,170 @@
+{
+  "weekId": "2030-W08",
+  "ordinal": 3138,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "hoʻonui",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "n",
+        "u",
+        "i"
+      ],
+      "length": 7,
+      "bare": "hoonui",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to enlarge, to magnify",
+      "meanings": [
+        "to enlarge, to magnify",
+        "to increase, to add to",
+        "to multiply"
+      ],
+      "defHint": "to enlarge, to magnify",
+      "piece": {
+        "piece_word": "nui",
+        "piece_def": "big, great, large; size, number",
+        "tier": 1,
+        "rationale": "hoʻo- (causative) + nui = to make big/enlarge; nui directly underlies the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "inu",
+      "glyphs": [
+        "i",
+        "n",
+        "u"
+      ],
+      "length": 3,
+      "bare": "inu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "a drink",
+      "meanings": [
+        "a drink",
+        "to drink"
+      ],
+      "defHint": "a drink",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "piha",
+      "glyphs": [
+        "p",
+        "i",
+        "h",
+        "a"
+      ],
+      "length": 4,
+      "bare": "piha",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "fullness, completion",
+      "meanings": [
+        "fullness, completion",
+        "full, filled",
+        "complete",
+        "full-blooded (of ancestry)"
+      ],
+      "defHint": "fullness, completion",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "mānienie",
+      "glyphs": [
+        "m",
+        "ā",
+        "n",
+        "i",
+        "e",
+        "n",
+        "i",
+        "e"
+      ],
+      "length": 8,
+      "bare": "manienie",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Bermuda grass",
+      "meanings": [
+        "Bermuda grass",
+        "St. Augustine grass"
+      ],
+      "defHint": "Bermuda grass",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "pāʻoihana",
+      "glyphs": [
+        "p",
+        "ā",
+        "ʻ",
+        "o",
+        "i",
+        "h",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "paoihana",
+      "pos": [
+        "adj",
+        "noun"
+      ],
+      "featuredSense": "business, enterprise",
+      "meanings": [
+        "business, enterprise",
+        "commercial"
+      ],
+      "defHint": "business, enterprise",
+      "piece": {
+        "piece_word": "ʻoihana",
+        "piece_def": "industry, business; occupation",
+        "tier": 1,
+        "rationale": "Business appears literally in this piece's meaning and it is the core root."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

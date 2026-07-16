@@ -1,0 +1,164 @@
+{
+  "weekId": "2027-W48",
+  "ordinal": 3022,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kukuli",
+      "glyphs": [
+        "k",
+        "u",
+        "k",
+        "u",
+        "l",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kukuli",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to kneel",
+      "meanings": [
+        "to kneel"
+      ],
+      "defHint": "to kneel",
+      "piece": {
+        "piece_word": "kuli",
+        "piece_def": "knee",
+        "tier": 1,
+        "rationale": "To kneel involves the knee; kuli means knee, directly related."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kālani",
+      "glyphs": [
+        "k",
+        "ā",
+        "l",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 6,
+      "bare": "kalani",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "gallon (unit of measure)",
+      "meanings": [
+        "gallon (unit of measure)"
+      ],
+      "defHint": "gallon (unit of measure)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "akalau",
+      "glyphs": [
+        "a",
+        "k",
+        "a",
+        "l",
+        "a",
+        "u"
+      ],
+      "length": 6,
+      "bare": "akalau",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "The ghost of a living person.",
+      "meanings": [
+        "The ghost of a living person."
+      ],
+      "defHint": "The ghost of a living person.",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "huinahā",
+      "glyphs": [
+        "h",
+        "u",
+        "i",
+        "n",
+        "a",
+        "h",
+        "ā"
+      ],
+      "length": 7,
+      "bare": "huinaha",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "quadrangle",
+      "meanings": [
+        "quadrangle",
+        "quadrilateral"
+      ],
+      "defHint": "quadrangle",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomoana",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "o",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 9,
+      "bare": "hoomoana",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to camp",
+      "meanings": [
+        "to spread down (of mats)",
+        "to camp"
+      ],
+      "defHint": "to camp",
+      "piece": {
+        "piece_word": "moana",
+        "piece_def": "campground",
+        "tier": 2,
+        "rationale": "moana includes the sense 'campground', directly relating to hoʻomoana meaning to camp."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

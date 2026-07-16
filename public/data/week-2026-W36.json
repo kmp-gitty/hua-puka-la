@@ -1,0 +1,174 @@
+{
+  "weekId": "2026-W36",
+  "ordinal": 2957,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pākuʻina",
+      "glyphs": [
+        "p",
+        "ā",
+        "k",
+        "u",
+        "ʻ",
+        "i",
+        "n",
+        "a"
+      ],
+      "length": 8,
+      "bare": "pakuina",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "appendix",
+      "meanings": [
+        "appendix",
+        "affix",
+        "attachment",
+        "amendment"
+      ],
+      "defHint": "appendix",
+      "piece": {
+        "piece_word": "pākuʻi",
+        "piece_def": "to add on, to append, to annex; supplement",
+        "tier": 1,
+        "rationale": "Directly means append/appendix, matching the word's meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "ʻōhinu",
+      "glyphs": [
+        "ʻ",
+        "ō",
+        "h",
+        "i",
+        "n",
+        "u"
+      ],
+      "length": 6,
+      "bare": "ohinu",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "greasy, shiny",
+      "meanings": [
+        "greasy, shiny",
+        "to roast lightly",
+        "roast"
+      ],
+      "defHint": "greasy, shiny",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kalame",
+      "glyphs": [
+        "k",
+        "a",
+        "l",
+        "a",
+        "m",
+        "e"
+      ],
+      "length": 6,
+      "bare": "kalame",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "gram (unit of measure)",
+      "meanings": [
+        "gram (unit of measure)"
+      ],
+      "defHint": "gram (unit of measure)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "aʻo",
+      "glyphs": [
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 3,
+      "bare": "ao",
+      "pos": [
+        "noun",
+        "particle",
+        "prep",
+        "verb"
+      ],
+      "featuredSense": "instruction",
+      "meanings": [
+        "instruction",
+        "to teach, learn",
+        "subject marker (replacing ʻo in poetry)",
+        "of, belonging to (o-possessive, replacing of o in poetry)"
+      ],
+      "defHint": "instruction",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kaikuahine",
+      "glyphs": [
+        "k",
+        "a",
+        "i",
+        "k",
+        "u",
+        "a",
+        "h",
+        "i",
+        "n",
+        "e"
+      ],
+      "length": 10,
+      "bare": "kaikuahine",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "sister",
+      "meanings": [
+        "sister",
+        "female cousin"
+      ],
+      "defHint": "sister",
+      "piece": {
+        "piece_word": "kuahine",
+        "piece_def": "term of address for the sister or female cousin of a male",
+        "tier": 1,
+        "rationale": "Directly means sister/female cousin, matching the word's meaning"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

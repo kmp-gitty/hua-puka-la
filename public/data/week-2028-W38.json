@@ -1,0 +1,157 @@
+{
+  "weekId": "2028-W38",
+  "ordinal": 3064,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mamaʻo",
+      "glyphs": [
+        "m",
+        "a",
+        "m",
+        "a",
+        "ʻ",
+        "o"
+      ],
+      "length": 6,
+      "bare": "mamao",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "greenish",
+      "meanings": [
+        "greenish"
+      ],
+      "defHint": "greenish",
+      "piece": {
+        "piece_word": "maʻo",
+        "piece_def": "green",
+        "tier": 1,
+        "rationale": "maʻo means green; greenish literally derives from it."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "kili",
+      "glyphs": [
+        "k",
+        "i",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kili",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "to rain gently, to drizzle",
+      "meanings": [
+        "to rain gently, to drizzle",
+        "to move gently or sprightly",
+        "raindrops, drizzle"
+      ],
+      "defHint": "to rain gently, to drizzle",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kime",
+      "glyphs": [
+        "k",
+        "i",
+        "m",
+        "e"
+      ],
+      "length": 4,
+      "bare": "kime",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "team",
+      "meanings": [
+        "team"
+      ],
+      "defHint": "team",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "makahiti",
+      "glyphs": [
+        "m",
+        "a",
+        "k",
+        "a",
+        "h",
+        "i",
+        "t",
+        "i"
+      ],
+      "length": 8,
+      "bare": "makahiti",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "Niʻihau form of makahiki (“year”)",
+      "meanings": [
+        "Niʻihau form of makahiki (“year”)"
+      ],
+      "defHint": "Niʻihau form of makahiki (“year”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "kahahānai",
+      "glyphs": [
+        "k",
+        "a",
+        "h",
+        "a",
+        "h",
+        "ā",
+        "n",
+        "a",
+        "i"
+      ],
+      "length": 9,
+      "bare": "kahahanai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "radius",
+      "meanings": [
+        "radius"
+      ],
+      "defHint": "radius",
+      "piece": null,
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

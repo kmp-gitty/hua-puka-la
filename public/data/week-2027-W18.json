@@ -1,0 +1,174 @@
+{
+  "weekId": "2027-W18",
+  "ordinal": 2992,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "mahiʻai",
+      "glyphs": [
+        "m",
+        "a",
+        "h",
+        "i",
+        "ʻ",
+        "a",
+        "i"
+      ],
+      "length": 7,
+      "bare": "mahiai",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "farming, agriculture",
+      "meanings": [
+        "farmer",
+        "farming, agriculture"
+      ],
+      "defHint": "farming, agriculture",
+      "piece": {
+        "piece_word": "mahi",
+        "piece_def": "to cultivate, to farm; farm, plantation",
+        "tier": 1,
+        "rationale": "mahi (to farm) is the root; farming literally appears in the definition."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "keiki",
+      "glyphs": [
+        "k",
+        "e",
+        "i",
+        "k",
+        "i"
+      ],
+      "length": 5,
+      "bare": "keiki",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "child",
+      "meanings": [
+        "child",
+        "offspring",
+        "boy",
+        "son",
+        "nephew",
+        "calf, colt, kid, cub",
+        "worker",
+        "shoot, sucker"
+      ],
+      "defHint": "child",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻiʻiwi",
+      "glyphs": [
+        "ʻ",
+        "i",
+        "ʻ",
+        "i",
+        "w",
+        "i"
+      ],
+      "length": 6,
+      "bare": "iiwi",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "iiwi, scarlet honeycreeper",
+      "meanings": [
+        "iiwi, scarlet honeycreeper"
+      ],
+      "defHint": "—, scarlet honeycreeper",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "māʻalo",
+      "glyphs": [
+        "m",
+        "ā",
+        "ʻ",
+        "a",
+        "l",
+        "o"
+      ],
+      "length": 6,
+      "bare": "maalo",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to pass by",
+      "meanings": [
+        "to pass by",
+        "to pass through, to transit",
+        "to pass away"
+      ],
+      "defHint": "to pass by",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻokahua",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "k",
+        "a",
+        "h",
+        "u",
+        "a"
+      ],
+      "length": 9,
+      "bare": "hookahua",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to lay a foundation",
+      "meanings": [
+        "to lay a foundation",
+        "to found, to establish",
+        "to homestead, to settle",
+        "to camp (of soldiers, etc.)"
+      ],
+      "defHint": "to lay a foundation",
+      "piece": {
+        "piece_word": "kahua",
+        "piece_def": "foundation; base; site",
+        "tier": 1,
+        "rationale": "hoʻokahua is causative of kahua (foundation); to lay a foundation literally"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

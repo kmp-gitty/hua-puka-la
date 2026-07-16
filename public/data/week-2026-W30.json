@@ -1,33 +1,36 @@
 {
   "weekId": "2026-W30",
   "ordinal": 2951,
-  "sealedAt": "2026-07-02T20:40:11.426Z",
+  "sealedAt": "2026-07-16T13:48:50.183Z",
   "puzzles": [
     {
-      "word": "pāʻele",
+      "word": "hoʻohina",
       "glyphs": [
-        "p",
-        "ā",
+        "h",
+        "o",
         "ʻ",
-        "e",
-        "l",
-        "e"
+        "o",
+        "h",
+        "i",
+        "n",
+        "a"
       ],
-      "length": 6,
-      "bare": "paele",
+      "length": 8,
+      "bare": "hoohina",
       "pos": [
         "verb"
       ],
-      "featuredSense": "to blacken, to blot, to paint black",
+      "featuredSense": "to throw, to knock over",
       "meanings": [
-        "to blacken, to blot, to paint black"
+        "to throw, to knock over",
+        "to tackle"
       ],
-      "defHint": "to blacken, to blot, to paint black",
+      "defHint": "to throw, to knock over",
       "piece": {
-        "piece_word": "ʻele",
-        "piece_def": "dark, black",
+        "piece_word": "hina",
+        "piece_def": "to fall, to tumble",
         "tier": 1,
-        "rationale": "ʻele means black, which literally appears in the definition 'to blacken, paint black'."
+        "rationale": "hoʻo- (causative) + hina 'to fall'; to knock over literally means to cause to fall."
       },
       "dayMeta": {
         "slot": 0,
@@ -37,26 +40,24 @@
       }
     },
     {
-      "word": "kepa",
+      "word": "kōlea",
       "glyphs": [
         "k",
+        "ō",
+        "l",
         "e",
-        "p",
         "a"
       ],
-      "length": 4,
-      "bare": "kepa",
+      "length": 5,
+      "bare": "kolea",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "featuredSense": "to look sideways, to turn to the side",
+      "featuredSense": "Pacific golden plover",
       "meanings": [
-        "to look sideways, to turn to the side",
-        "to notch",
-        "to snap",
-        "to catch bonito"
+        "Pacific golden plover"
       ],
-      "defHint": "to look sideways, to turn to the side",
+      "defHint": "Pacific golden plover",
       "piece": null,
       "dayMeta": {
         "slot": 1,
@@ -66,24 +67,28 @@
       }
     },
     {
-      "word": "kūʻai",
+      "word": "heluhelu",
       "glyphs": [
-        "k",
-        "ū",
-        "ʻ",
-        "a",
-        "i"
+        "h",
+        "e",
+        "l",
+        "u",
+        "h",
+        "e",
+        "l",
+        "u"
       ],
-      "length": 5,
-      "bare": "kuai",
+      "length": 8,
+      "bare": "heluhelu",
       "pos": [
         "verb"
       ],
-      "featuredSense": "to barter",
+      "featuredSense": "to read",
       "meanings": [
-        "to barter"
+        "to read",
+        "to count"
       ],
-      "defHint": "to barter",
+      "defHint": "to read",
       "piece": null,
       "dayMeta": {
         "slot": 2,
@@ -93,32 +98,24 @@
       }
     },
     {
-      "word": "hoʻomaha",
+      "word": "keu",
       "glyphs": [
-        "h",
-        "o",
-        "ʻ",
-        "o",
-        "m",
-        "a",
-        "h",
-        "a"
+        "k",
+        "e",
+        "u"
       ],
-      "length": 8,
-      "bare": "hoomaha",
+      "length": 3,
+      "bare": "keu",
       "pos": [
-        "noun",
         "verb"
       ],
-      "featuredSense": "to pause, to rest",
+      "featuredSense": "remaining, spare, surplus, extra",
       "meanings": [
-        "to pause, to rest",
-        "to take a vacation",
-        "to retire",
-        "intermission, interval",
-        "rest"
+        "remaining, spare, surplus, extra",
+        "extended, enhanced",
+        "excessive (usually followed with ā)"
       ],
-      "defHint": "to pause, to rest",
+      "defHint": "remaining, spare, surplus, extra",
       "piece": null,
       "dayMeta": {
         "slot": 3,
@@ -128,34 +125,33 @@
       }
     },
     {
-      "word": "hoʻopōʻai",
+      "word": "wilipuaʻa",
       "glyphs": [
-        "h",
-        "o",
-        "ʻ",
-        "o",
+        "w",
+        "i",
+        "l",
+        "i",
         "p",
-        "ō",
-        "ʻ",
+        "u",
         "a",
-        "i"
+        "ʻ",
+        "a"
       ],
       "length": 9,
-      "bare": "hoopoai",
+      "bare": "wilipuaa",
       "pos": [
-        "verb"
+        "noun"
       ],
-      "featuredSense": "to encircle, to surround",
+      "featuredSense": "corkscrew, auger",
       "meanings": [
-        "to encircle, to surround",
-        "to besiege"
+        "corkscrew, auger"
       ],
-      "defHint": "to encircle, to surround",
+      "defHint": "corkscrew, auger",
       "piece": {
-        "piece_word": "pōʻai",
-        "piece_def": "to encircle",
+        "piece_word": "wili",
+        "piece_def": "to bore, to drill, to screw; to twist",
         "tier": 1,
-        "rationale": "pōʻai means to encircle, matching the word's definition directly."
+        "rationale": "A corkscrew/auger literally bores and twists; wili is the core morpheme."
       },
       "dayMeta": {
         "slot": 4,

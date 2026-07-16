@@ -1,0 +1,178 @@
+{
+  "weekId": "2027-W07",
+  "ordinal": 2981,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "pūhihio",
+      "glyphs": [
+        "p",
+        "ū",
+        "h",
+        "i",
+        "h",
+        "i",
+        "o"
+      ],
+      "length": 7,
+      "bare": "puhihio",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to whirl, to blow",
+      "meanings": [
+        "to whirl, to blow",
+        "to fart silently"
+      ],
+      "defHint": "to whirl, to blow",
+      "piece": {
+        "piece_word": "hio",
+        "piece_def": "to blow in gusts; to fart silently",
+        "tier": 1,
+        "rationale": "hio directly matches both meanings of pūhihio: blowing and farting silently"
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pono",
+      "glyphs": [
+        "p",
+        "o",
+        "n",
+        "o"
+      ],
+      "length": 4,
+      "bare": "pono",
+      "pos": [
+        "noun",
+        "particle",
+        "verb"
+      ],
+      "featuredSense": "righteousness",
+      "meanings": [
+        "righteousness",
+        "morality, goodness, excellence",
+        "correct procedure, true nature, rights, duty",
+        "prosperity, well-being",
+        "property, supplies",
+        "use, purpose",
+        "good, moral, proper",
+        "beneficial",
+        "should, must, necessary",
+        "careless, any old way"
+      ],
+      "defHint": "righteousness",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "kani",
+      "glyphs": [
+        "k",
+        "a",
+        "n",
+        "i"
+      ],
+      "length": 4,
+      "bare": "kani",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "cry, moan",
+      "meanings": [
+        "cry, moan",
+        "crow (of a rooster)",
+        "peal, jingle, tinkle (of bells, thunder)",
+        "sound",
+        "to sound",
+        "to cry out"
+      ],
+      "defHint": "cry, moan",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "ʻehu",
+      "glyphs": [
+        "ʻ",
+        "e",
+        "h",
+        "u"
+      ],
+      "length": 4,
+      "bare": "ehu",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "spray, foam, mist, seaspray",
+      "meanings": [
+        "spray, foam, mist, seaspray",
+        "dust, dusty",
+        "pollen",
+        "reddish tinge in hair (only of Polynesians)",
+        "reddish-brown complexion, ruddy"
+      ],
+      "defHint": "spray, foam, mist, seaspray",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻōkaoka",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "ō",
+        "k",
+        "a",
+        "o",
+        "k",
+        "a"
+      ],
+      "length": 9,
+      "bare": "hookaoka",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to pulverize",
+      "meanings": [
+        "to pulverize"
+      ],
+      "defHint": "to pulverize",
+      "piece": {
+        "piece_word": "oka",
+        "piece_def": "crumbs, small bits; dregs, sediment",
+        "tier": 2,
+        "rationale": "To pulverize produces crumbs/small bits, meaningfully relating to oka."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

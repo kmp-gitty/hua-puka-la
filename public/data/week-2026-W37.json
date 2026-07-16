@@ -1,0 +1,168 @@
+{
+  "weekId": "2026-W37",
+  "ordinal": 2958,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "liʻiliʻi",
+      "glyphs": [
+        "l",
+        "i",
+        "ʻ",
+        "i",
+        "l",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 8,
+      "bare": "liilii",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "little, few",
+      "meanings": [
+        "little, few"
+      ],
+      "defHint": "little, few",
+      "piece": {
+        "piece_word": "liʻi",
+        "piece_def": "small, tiny",
+        "tier": 1,
+        "rationale": "liʻiliʻi is a reduplication of liʻi; 'small' matches the meaning directly."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "paʻahao",
+      "glyphs": [
+        "p",
+        "a",
+        "ʻ",
+        "a",
+        "h",
+        "a",
+        "o"
+      ],
+      "length": 7,
+      "bare": "paahao",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "prisoner",
+      "meanings": [
+        "prisoner",
+        "imprisoned"
+      ],
+      "defHint": "prisoner",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "ʻūhōloʻa",
+      "glyphs": [
+        "ʻ",
+        "ū",
+        "h",
+        "ō",
+        "l",
+        "o",
+        "ʻ",
+        "a"
+      ],
+      "length": 8,
+      "bare": "uholoa",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "dispenser",
+      "meanings": [
+        "dispenser"
+      ],
+      "defHint": "dispenser",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "pūlale",
+      "glyphs": [
+        "p",
+        "ū",
+        "l",
+        "a",
+        "l",
+        "e"
+      ],
+      "length": 6,
+      "bare": "pulale",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to hurry, to rush, to hasten",
+      "meanings": [
+        "to hurry, to rush, to hasten"
+      ],
+      "defHint": "to hurry, to rush, to hasten",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "haukalima",
+      "glyphs": [
+        "h",
+        "a",
+        "u",
+        "k",
+        "a",
+        "l",
+        "i",
+        "m",
+        "a"
+      ],
+      "length": 9,
+      "bare": "haukalima",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "ice cream",
+      "meanings": [
+        "ice cream"
+      ],
+      "defHint": "ice cream",
+      "piece": {
+        "piece_word": "kalima",
+        "piece_def": "cream",
+        "tier": 1,
+        "rationale": "Ice cream literally contains cream; kalima means cream."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

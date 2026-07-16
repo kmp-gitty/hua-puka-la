@@ -1,0 +1,170 @@
+{
+  "weekId": "2028-W25",
+  "ordinal": 3051,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "kākoʻo",
+      "glyphs": [
+        "k",
+        "ā",
+        "k",
+        "o",
+        "ʻ",
+        "o"
+      ],
+      "length": 6,
+      "bare": "kakoo",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "support, aid",
+      "meanings": [
+        "to support, to uphold, to favor",
+        "support, aid"
+      ],
+      "defHint": "support, aid",
+      "piece": {
+        "piece_word": "koʻo",
+        "piece_def": "brace; support; prop",
+        "tier": 1,
+        "rationale": "koʻo literally means support/prop, directly appearing in the meaning of kākoʻo."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "hui",
+      "glyphs": [
+        "h",
+        "u",
+        "i"
+      ],
+      "length": 3,
+      "bare": "hui",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "club, organization",
+      "meanings": [
+        "club, organization",
+        "company, firm",
+        "combination",
+        "cluster, bunch (of fruit)",
+        "chorus (refrain)",
+        "plus sign",
+        "to meet",
+        "to unite, join",
+        "to combine"
+      ],
+      "defHint": "club, organization",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "hānana",
+      "glyphs": [
+        "h",
+        "ā",
+        "n",
+        "a",
+        "n",
+        "a"
+      ],
+      "length": 6,
+      "bare": "hanana",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "Lānaʻi form of hālana (“to overflow”)",
+      "meanings": [
+        "Lānaʻi form of hālana (“to overflow”)"
+      ],
+      "defHint": "Lānaʻi form of hālana (“to overflow”)",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hali",
+      "glyphs": [
+        "h",
+        "a",
+        "l",
+        "i"
+      ],
+      "length": 4,
+      "bare": "hali",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to carry",
+      "meanings": [
+        "to carry"
+      ],
+      "defHint": "to carry",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "hoʻomākaukau",
+      "glyphs": [
+        "h",
+        "o",
+        "ʻ",
+        "o",
+        "m",
+        "ā",
+        "k",
+        "a",
+        "u",
+        "k",
+        "a",
+        "u"
+      ],
+      "length": 12,
+      "bare": "hoomakaukau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to make ready, to prepare",
+      "meanings": [
+        "to make ready, to prepare"
+      ],
+      "defHint": "to make ready, to prepare",
+      "piece": {
+        "piece_word": "mākaukau",
+        "piece_def": "ready; preparation; competence",
+        "tier": 1,
+        "rationale": "Root of the word; hoʻo- causative + mākaukau (ready) gives 'to make ready'."
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}

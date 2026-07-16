@@ -1,0 +1,165 @@
+{
+  "weekId": "2027-W41",
+  "ordinal": 3015,
+  "sealedAt": "2026-07-16T13:48:50.183Z",
+  "puzzles": [
+    {
+      "word": "ʻaholo",
+      "glyphs": [
+        "ʻ",
+        "a",
+        "h",
+        "o",
+        "l",
+        "o"
+      ],
+      "length": 6,
+      "bare": "aholo",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "landslide, avalanche",
+      "meanings": [
+        "landslide, avalanche"
+      ],
+      "defHint": "landslide, avalanche",
+      "piece": {
+        "piece_word": "holo",
+        "piece_def": "to go, run, slide, progress",
+        "tier": 1,
+        "rationale": "A landslide/avalanche literally slides; 'slide' matches the meaning."
+      },
+      "dayMeta": {
+        "slot": 0,
+        "hawaiian": "Pōʻakahi",
+        "english": "Monday",
+        "difficulty": 1
+      }
+    },
+    {
+      "word": "pākiʻi",
+      "glyphs": [
+        "p",
+        "ā",
+        "k",
+        "i",
+        "ʻ",
+        "i"
+      ],
+      "length": 6,
+      "bare": "pakii",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "featuredSense": "flatfish",
+      "meanings": [
+        "flatfish",
+        "to be flat, flattened"
+      ],
+      "defHint": "flatfish",
+      "piece": null,
+      "dayMeta": {
+        "slot": 1,
+        "hawaiian": "Pōʻalua",
+        "english": "Tuesday",
+        "difficulty": 2
+      }
+    },
+    {
+      "word": "koaea",
+      "glyphs": [
+        "k",
+        "o",
+        "a",
+        "e",
+        "a"
+      ],
+      "length": 5,
+      "bare": "koaea",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "dry, lacking juice or succulence, lacking the fluids that characterize food",
+      "meanings": [
+        "dry, lacking juice or succulence, lacking the fluids that characterize food",
+        "dry, unfruitful, bearing no fruit",
+        "rude, nasty"
+      ],
+      "defHint": "dry, lacking juice or succulence, lacking the fluids that characterize food",
+      "piece": null,
+      "dayMeta": {
+        "slot": 2,
+        "hawaiian": "Pōʻakolu",
+        "english": "Wednesday",
+        "difficulty": 3
+      }
+    },
+    {
+      "word": "hahau",
+      "glyphs": [
+        "h",
+        "a",
+        "h",
+        "a",
+        "u"
+      ],
+      "length": 5,
+      "bare": "hahau",
+      "pos": [
+        "verb"
+      ],
+      "featuredSense": "to strike, to hit",
+      "meanings": [
+        "to strike, to hit",
+        "to thrown down, to play",
+        "to bat"
+      ],
+      "defHint": "to strike, to hit",
+      "piece": null,
+      "dayMeta": {
+        "slot": 3,
+        "hawaiian": "Pōʻahā",
+        "english": "Thursday",
+        "difficulty": 4
+      }
+    },
+    {
+      "word": "ʻoumuamua",
+      "glyphs": [
+        "ʻ",
+        "o",
+        "u",
+        "m",
+        "u",
+        "a",
+        "m",
+        "u",
+        "a"
+      ],
+      "length": 9,
+      "bare": "oumuamua",
+      "pos": [
+        "noun"
+      ],
+      "featuredSense": "scout; leader (as in battle or activity); messenger",
+      "meanings": [
+        "scout; leader (as in battle or activity); messenger"
+      ],
+      "defHint": "scout; leader (as in battle or activity); messenger",
+      "piece": {
+        "piece_word": "mua",
+        "piece_def": "before, in front of, first, ahead, forward",
+        "tier": 2,
+        "rationale": "A scout/leader goes ahead, in front, relating to mua (front, ahead)"
+      },
+      "dayMeta": {
+        "slot": 4,
+        "hawaiian": "Pōʻalima",
+        "english": "Friday",
+        "difficulty": 5
+      }
+    }
+  ],
+  "attribution": "Definitions from Wiktionary (via kaikki.org / wiktextract), used under CC BY-SA."
+}
